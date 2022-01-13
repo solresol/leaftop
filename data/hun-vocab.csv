@@ -1,0 +1,316 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1123_translation,version_1124_translation,version_1125_translation,version_1126_translation,version_1127_translation,version_1128_translation,english_translation
+θεός,122,unigram,masculine,accusative,singular,Istent,932.2221601908899,Istent,Istent,Istent,Istent,Istent,Istent,God
+θεός,25,unigram,masculine,nominative,plural,istenek,1.321071348012435,,,,istenek,istenek,istenek,God
+θεός,193,unigram,masculine,nominative,singular,Isten,197099.4485465031,Isten,Isten,Isten,Isten,Isten,Isten,God
+κύριος,123,unigram,masculine,nominative,singular,Úr,16.151192272655038,Úr,Úr,Úr,Úr,Úr,Úr,"Lord, lord, master"
+γραφή,118,unigram,feminine,accusative,plural,Írásokat,33.537557135485194,Írásokat,írásokat,írásokat,Írásokat,Írásokat,Írásokat,Scripture
+γραφή,47,unigram,feminine,accusative,singular,írást,3.9997947117184753,Írás,írást,írást,,,Írást,Scripture
+γραφή,242,unigram,feminine,nominative,plural,,,Írások,beteljesedjenek,írások,kell,kell,Írások,Scripture
+γραφή,302,unigram,feminine,nominative,singular,Írás,115.91088663778056,Írás,írás,írás,Írás,Írás,Írás,Scripture
+ἄγγελος,87,unigram,masculine,accusative,plural,angyalait,1.487126115304709,,angyalait,,,,,angel
+ἄγγελος,43,unigram,masculine,nominative,plural,angyalok,4092.6986844601156,angyalok,angyalok,angyalok,angyalok,angyalok,angyalok,angel
+ἄγγελος,98,unigram,masculine,nominative,singular,angyal,2.4436549881837792,angyal,angyal,angyal,angyal,angyal,angyal,angel
+ἀπόστολος,40,unigram,masculine,nominative,plural,apostolok,35.05783607484875,apostolok,apostolok,apostolok,apostolok,apostolok,apostolok,apostle
+ἀπόστολος,4,unigram,masculine,nominative,singular,uránál,1.155100448702044,uránál,elküldenek,Uránál,uránál,uránál,Uránál,apostle
+ἐξουσία,184,unigram,feminine,accusative,singular,hatalmat,14.994375807907602,felhatalmazást,felhatalmazást,hatalmat,hatalmat,hatalmat,hatalmat,authority
+βρέφος,13,unigram,neuter,accusative,plural,megérintse,1.255508950677359,megérintse,kisdedeket,,megérintse,,Kisgyermekeket,babies
+βρέφος,301,unigram,neuter,accusative,singular,jászolban,2.0571818337376726,,,jászolban,jászolban,jászolban,kisgyermeket,babies
+ἀποθήκη,64,unigram,feminine,accusative,singular,búzát,1.4675800420888785,búzát,,,,,,barn
+ἀρχή,168,unigram,feminine,accusative,singular,eleitől,1.2238654476742756,,,,eleitől,kezdettől,eleitől,beginning
+ζώνη,160,unigram,feminine,accusative,plural,Övetekben,1.0960524252565438,,Övetekben,,,,,belt
+βλασφημία,29,unigram,feminine,accusative,plural,káromlásokat,1.0960768946513286,,káromlásokat,,,,,blasphemy
+βλασφημία,86,unigram,feminine,accusative,singular,,,gyalázta,Káromolt,,,,,blasphemy
+βλασφημία,191,unigram,feminine,nominative,plural,káromlások,3.9997960867405626,,,káromlások,,,káromlások,blasphemy
+βλασφημία,76,unigram,feminine,nominative,singular,káromlás,3.9997960867405626,,,káromlás,,,káromlás,blasphemy
+πλοῖον,96,unigram,neuter,accusative,plural,hajót,11.971910999753298,halászok,mentek,hajót,hajót,hajót,hajót,boat
+πλοῖον,286,unigram,neuter,accusative,singular,hajóba,562.2088437293331,bárkába,hajóba,hajóba,hajóba,hajóba,hajóba,boat
+πλοῖον,221,unigram,neuter,nominative,plural,hajóban,1.201741803934157,,hajóban,,,hajóban,,boat
+πλοῖον,208,unigram,neuter,nominative,singular,hajó,49.13364547103967,bárka,hajó,hajó,hajó,hajó,hajó,boat
+σῶμα,55,unigram,neuter,nominative,singular,tested,9.029762990965589,,,tested,tested,tested,tested,body
+κλῆμα,137,unigram,neuter,nominative,singular,marad,1.1113635834596947,bennem,marad,szőlővessző,marad,marad,szőlővessző,branch
+ἄρτος,291,unigram,masculine,accusative,plural,kenyeret,48.47631400575748,kenyeret,kenyeret,kenyeret,kenyeret,kenyeret,kenyeret,bread
+ἄρτος,315,unigram,masculine,accusative,singular,kenyeret,5218.0778087400295,kenyeret,kenyeret,kenyeret,kenyeret,kenyeret,kenyeret,bread
+ἄρτος,145,unigram,masculine,nominative,plural,kenyér,1.80335407479698,kenyeret,kenyerünk,,kenyér,kenyér,,bread
+ἄρτος,35,unigram,masculine,nominative,singular,kenyér,1.927638162751059,kenyér,mennyből,kenyér,kenyér,kenyér,kenyér,bread
+ἀδελφός,276,unigram,masculine,accusative,plural,testvéreit,2.1697265320897143,testvéreit,testvéreket,gyermekeit,testvéreit,testvéreit,testvéreit,brother
+ἀδελφός,110,unigram,masculine,accusative,singular,testvérét,64.75017060673733,testvérét,testvérét,testvérét,testvérét,testvérét,testvérét,brother
+ἀδελφός,101,unigram,masculine,nominative,plural,testvérei,1.4310179653904818,testvérei,testvérei,anyám,,,,brother
+ἀδελφός,214,unigram,masculine,nominative,singular,testvére,28.22431809612767,testvére,testvére,testvére,testvére,testvére,testvére,brother
+στῆθος,261,unigram,neuter,accusative,singular,,,hajolt,keblére,,,megkérdezte,,"chest, breast"
+ἀρχιερεύς,225,unigram,masculine,accusative,plural,főpapokhoz,50.66052721044263,főpapokhoz,főpapokhoz,főpapokhoz,főpapokhoz,főpapokhoz,főpapokhoz,chief priest
+ἀρχιερεύς,56,unigram,masculine,accusative,singular,főpaphoz,9.000781200001974,,főpaphoz,főpaphoz,főpaphoz,főpaphoz,főpaphoz,chief priest
+ἀρχιερεύς,109,unigram,masculine,nominative,plural,főpapok,4895.517226982789,főpapok,főpapok,főpapok,főpapok,főpapok,főpapok,chief priest
+ἀρχιερεύς,229,unigram,masculine,nominative,singular,főpap,3874.395208422307,főpap,főpap,főpap,főpap,főpap,főpap,chief priest
+παῖς,218,unigram,masculine,accusative,plural,haragra,3.049096052807853,,fiúkat,látván,haragra,haragra,,child
+παῖς,45,unigram,masculine,accusative,singular,dobta,1.0595770845675438,dobta,,,,,,child
+τέκνον,309,unigram,neuter,accusative,plural,gyermekeit,6.09228619717166,gyermekeit,gyermekeket,gyermekeit,gyermekeit,gyermekeit,gyermekeit,child
+τέκνον,166,unigram,neuter,accusative,singular,szüleik,1.1339044135450578,,szüleikre,,szüleik,szüleik,megöletik,child
+τέκνον,14,unigram,neuter,nominative,plural,szüleik,1.141963006758445,,szüleikre,,szüleik,szüleik,megöletik,child
+τέκνον,177,unigram,neuter,nominative,singular,Fiam,27.787034625177785,Fiam,Gyermekem,Fiam,Fiam,Fiam,Fiam,child
+παιδίον,12,unigram,neuter,accusative,plural,ilyeneké,1.0973728622026753,,ilyeneké,ilyeneké,,,,child
+παιδίον,82,unigram,neuter,accusative,singular,gyermeket,52.56964333363765,gyermeket,gyermeket,gyermeket,gyermeket,gyermeket,gyermeket,child
+παιδίον,158,unigram,neuter,nominative,plural,kis,1.3879695851040144,,,kis,,,,child
+παιδίον,37,unigram,neuter,nominative,singular,,,gyermek,gyermek,gyermek,kisgyermek,kisgyermek,kisgyermek,child
+πόλις,169,unigram,feminine,accusative,plural,városokat,4.959263725021654,városokat,városokat,,városokat,városokat,tanított,city
+πόλις,60,unigram,feminine,accusative,singular,városba,635.4719293594211,városba,városba,városba,városba,városba,városba,city
+πύλη,190,unigram,feminine,nominative,singular,kapu,1.3352941895626949,,kapu,kapu,kapu,kapu,kapu,city gate
+χιτών,105,unigram,masculine,accusative,plural,botot,1.329491401798098,ruhát,két,,botot,botot,sarut,"clothing, undergarments"
+χιτών,26,unigram,masculine,accusative,singular,alsóruhádat,6.39496737861896,kabátodat,,,alsóruhádat,alsóruhádat,alsóruhádat,"clothing, undergarments"
+ἱμάτιον,120,unigram,neuter,accusative,plural,felsőruhájukat,2.6861393254958617,ruháit,köpenyét,felső,felsőruhájukat,felsőruhájukat,sorsot,coat
+ἱμάτιον,119,unigram,neuter,accusative,singular,,,,köpenyét,ruháját,felsőruháját,felsőruháját,ruháját,coat
+ἐντολή,74,unigram,feminine,accusative,plural,parancsolataimat,1.7924387478620036,,parancsolataimat,,,parancsolataimat,parancsolataimat,commandment
+ἐντολή,72,unigram,feminine,accusative,singular,,,parancsát,,parancsolatot,parancsolatát,parancsolatát,parancsolatot,commandment
+συνέδριον,296,unigram,neuter,accusative,plural,adnak,2.0883281883035685,bíróság,,adnak,,,adnak,council
+συνέδριον,48,unigram,neuter,accusative,singular,főpapok,1.5057275092703561,összegyűltek,összegyűjtötték,,főpapok,főpapok,,council
+χώρα,265,unigram,feminine,accusative,singular,gadaraiak,2.082669484695019,Gadara,vidékre,vidékre,gadaraiak,gadaraiak,gadaraiak,"country, countryside"
+ὄχλος,52,unigram,masculine,accusative,plural,sokaságot,139.52090453586888,embereket,sokaságot,sokaságot,sokaságot,sokaságot,sokaságot,crowd
+ὄχλος,7,unigram,masculine,accusative,singular,sokaságot,11.05023641293055,embereket,tömeget,sokaságot,sokaságot,sokaságot,sokaságot,crowd
+ὄχλος,89,unigram,masculine,nominative,plural,sokaság,1289.8268830631753,tömeg,tömeg,sokaság,sokaság,sokaság,sokaság,crowd
+ὄχλος,256,unigram,masculine,nominative,singular,sokaság,429.4875439937885,tömeg,tömeg,sokaság,sokaság,sokaság,sokaság,crowd
+θυγάτηρ,290,unigram,feminine,nominative,singular,leánya,27.5571627033578,leánya,leánya,leánya,leánya,leánya,leánya,daughter
+ἡμέρα,68,unigram,feminine,accusative,plural,nap,11.390776710905572,nap,nap,nap,nap,nap,nap,day
+ἡμέρα,77,unigram,feminine,accusative,singular,,,nap,szenthelyen,templomban,naponként,naponként,templomban,day
+ἡμέρα,2,unigram,feminine,nominative,plural,napok,18.10562113154281,idő,napok,napok,napok,napok,napok,day
+ἡμέρα,62,unigram,feminine,nominative,singular,nap,16.694676227814824,este,nappal,nap,nap,nap,nap,day
+ὀφειλέτης,112,unigram,masculine,nominative,singular,talentummal,1.0960524252565438,talentummal,,,,,,debtor
+δαιμόνιον,27,unigram,neuter,accusative,plural,ördögöket,29.01957313854216,gonosz,ördögi,ördögöket,ördögöket,ördögöket,ördögöket,demon
+δαιμόνιον,305,unigram,neuter,accusative,singular,Ördög,1.140541765683466,szellem,ördögi,Ördög,ördög,Ördög,Ördög,demon
+δαιμόνιον,179,unigram,neuter,nominative,plural,ördögök,6.060815459243488,gonosz,ördögi,ördögök,ördögök,ördögök,ördögök,demon
+δαιμόνιον,157,unigram,neuter,nominative,singular,ördög,19.301528970535916,gonosz,ördögi,ördög,ördög,ördög,ördög,demon
+δηνάριον,281,unigram,neuter,accusative,plural,,,ezüstpénzzel,,adós,,,dénárral,denarius (about a day's wages)
+δηνάριον,147,unigram,neuter,accusative,singular,dénárt,17.507110833078503,ezüstpénzt,dénárt,pénzt,dénárt,dénárt,,denarius (about a day's wages)
+μαθητής,163,unigram,masculine,accusative,plural,tanítványait,14.344439791891924,tanítványait,tanítványaihoz,tanítványait,tanítványait,tanítványait,tanítványait,disciple
+μαθητής,310,unigram,masculine,accusative,singular,szeretett,2.462779701495976,szeretett,akit,szeret,szeretett,szeretett,szeretett,disciple
+μαθητής,250,unigram,masculine,nominative,plural,tanítványai,15.016860340590307,tanítványai,tanítványai,tanítványai,tanítványai,tanítványai,tanítványai,disciple
+μαθητής,308,unigram,masculine,nominative,singular,tanítvány,1584.9977776946496,tanítvány,tanítvány,tanítvány,tanítvány,tanítvány,tanítvány,disciple
+νόσος,67,unigram,feminine,accusative,singular,betegséget,1.5323167238096254,,,betegséget,,,,disease
+περιστερά,88,unigram,feminine,accusative,plural,templomban,1.403477664584068,pénzváltók,,templomban,templomban,templomban,templomban,dove
+περιστερά,50,unigram,feminine,accusative,singular,galamb,5.769616689468802,galamb,galamb,galambot,galamb,galamb,galambot,dove
+οὖς,136,unigram,neuter,accusative,plural,füle,1.6206751544292444,füle,füle,,füle,füle,hallásra,ear
+οὖς,255,unigram,neuter,accusative,singular,,,háztetőkről,fülbe,,,,,ear
+σεισμός,185,unigram,masculine,nominative,plural,,,helyeken,éhínségek,,,,lesznek,"earthquakes, storm"
+σεισμός,58,unigram,masculine,nominative,singular,támadt,2.678210038887012,támadt,Egyszerre,lőn,íme,támadt,támadt,"earthquakes, storm"
+τέλος,247,unigram,neuter,accusative,singular,mindvégig,6.582919877732232,,állhatatos,mindvégig,mindvégig,mindvégig,mindvégig,end
+αἰών,277,unigram,masculine,accusative,singular,soha,15.672547672458014,soha,soha,örökké,soha,soha,soha,eternity
+ὀφθαλμός,19,unigram,masculine,accusative,plural,szemét,8.937726887100487,szemét,szemét,szemeit,szemét,szemét,szemeit,eye
+ὀφθαλμός,59,unigram,masculine,nominative,plural,,,,szemükre,szemeik,szemük,szemük,szemeik,eye
+ὀφθαλμός,274,unigram,masculine,nominative,singular,szemed,52.265397156831675,szemed,szemed,szemed,szemed,szemed,szemed,eye
+πρόσωπον,111,unigram,neuter,accusative,plural,arcukat,3.9997947117184753,,arcukat,ők,,,arcukat,face
+λιμός,5,unigram,feminine,nominative,plural,,,,éhínségek,,,,nemzet,famine
+λιμός,124,unigram,masculine,nominative,singular,,,Mondhatom,,éhség,,,,famine
+γεωργός,230,unigram,masculine,nominative,plural,munkások,8.846601237824146,bérlők,örökös,munkások,munkások,munkások,munkások,"farmer, tenant"
+γεωργός,46,unigram,masculine,nominative,singular,,,szőlősgazda,szőlőműves,szőlőműves,szőlősgazda,szőlősgazda,szőlőműves,"farmer, tenant"
+πατήρ,280,unigram,masculine,accusative,singular,,,Atyát,Atyát,atyját,apját,apját,atyját,father
+πατήρ,289,unigram,masculine,nominative,plural,,,ettek,atyáitok,,,,,father
+πατήρ,170,unigram,masculine,nominative,singular,Atya,71.19857060479987,Atya,Atya,Atya,Atya,Atya,Atya,father
+σύνδουλος,130,unigram,masculine,accusative,plural,részegesekkel,1.0960670999999007,részegesekkel,,,,,,"fellow-servant, colleague"
+σύνδουλος,293,unigram,masculine,nominative,plural,szolgatársai,1.0960670999999007,,,szolgatársai,,,,"fellow-servant, colleague"
+σύνδουλος,102,unigram,masculine,nominative,singular,Szolgatársa,1.3167745555846684,,,szolgatársa,Szolgatársa,Szolgatársa,Szolgatársa,"fellow-servant, colleague"
+ἀγρός,304,unigram,masculine,accusative,plural,falvakba,2.388500075931142,falvakban,,falvakba,településekre,tanyákra,falvakba,field
+ἀγρός,36,unigram,masculine,accusative,singular,fazekas,1.0766521848584762,,fazekas,,,,,field
+δάκτυλος,162,unigram,masculine,accusative,singular,kezemet,1.8078099263355247,,kezemet,,,,,finger
+ἰχθύς,140,unigram,masculine,accusative,plural,két,1.103891063227907,tört,két,két,tanítványoknak,tanítványoknak,két,fish
+ἰχθύς,174,unigram,masculine,accusative,singular,halat,10.558903474852473,halat,halat,halat,halat,halat,halat,fish
+δίκτυον,97,unigram,neuter,accusative,plural,hálóikat,36.25831298632419,hálóikat,hálóikat,hálóikat,hálóikat,hálóikat,hálóikat,fishing net
+δίκτυον,182,unigram,neuter,accusative,singular,hálót,21.176267652316877,hálót,hálót,hálót,hálót,hálót,hálót,fishing net
+τροφή,223,unigram,feminine,accusative,plural,ennivalót,1.3037583807793505,,,,ennivalót,ennivalót,ennivalót,food
+τροφή,300,unigram,feminine,accusative,singular,házanépén,1.096071996175396,,,házanépén,,,,food
+πούς,215,unigram,masculine,accusative,plural,lábát,1.5125217447652732,lábamat,lábát,lábait,lábát,lábát,lábait,foot
+πούς,100,unigram,masculine,accusative,singular,üsd,1.6484144998907733,,,,,,üsd,foot
+καρπός,167,unigram,masculine,accusative,plural,gyümölcsöt,1.2587709147366593,,,gyümölcsöt,,,,"fruit, crop, harvest"
+καρπός,211,unigram,masculine,accusative,singular,gyümölcsöt,166.59572697453004,gyümölcsöt,gyümölcsöt,gyümölcsöt,gyümölcsöt,gyümölcsöt,gyümölcsöt,"fruit, crop, harvest"
+πλήρωμα,245,unigram,neuter,accusative,plural,tele,8.001756890381749,maradékot,,tele,tele,tele,tele,fullness
+γενεά,212,unigram,feminine,accusative,singular,nemzedéket,1.9576793561013976,nemzedéket,,,,,,generation
+γενεά,287,unigram,feminine,nominative,plural,nemzedék,7.999383623732979,,nemzedék,,nemzedék,nemzedék,,generation
+γενεά,135,unigram,feminine,nominative,singular,nemzedék,49.258595692929866,nemzedék,nemzedék,nemzetség,nemzedék,nemzedék,,generation
+δῶρον,279,unigram,neuter,accusative,plural,áldozati,2.9623737463941477,gazdagok,adományaikat,,áldozati,áldozati,ajándékot,gift
+δῶρον,148,unigram,neuter,accusative,singular,,,ajándékot,adományt,,,,,gift
+ἡγεμών,156,unigram,masculine,accusative,plural,helytartók,1.5381467519185426,királyok,,helytartók,helytartók,helytartók,helytartók,"governor, ruler"
+ἡγεμών,9,unigram,masculine,accusative,singular,helytartó,1.3488059605658769,vádra,,,helytartó,helytartó,szóra,"governor, ruler"
+ἀσπασμός,292,unigram,masculine,accusative,plural,tereken,2.6373317672448753,tisztelettel,piacokon,köszöntéseket,tereken,tereken,köszöntik,greeting
+ὁδηγός,3,unigram,masculine,nominative,singular,vezetők,14.251074971381742,vagytok,vezetők,vezérek,vezetők,vezetők,vezetők,guide
+θρίξ,83,unigram,feminine,nominative,plural,számolva,1.5768795760029908,,számolva,,,,,hair
+χείρ,283,unigram,feminine,accusative,plural,kezét,18.352423631492428,kezét,kezét,kezeit,kezét,kezét,kezeit,hand
+χείρ,201,unigram,feminine,accusative,singular,kezét,11.485450841270035,kinyújtotta,kezét,kezét,kezét,kezét,kezét,hand
+κεφαλή,128,unigram,feminine,accusative,plural,szidalmazták,1.2316248891652963,szidalmazták,,,,,,head
+κεφαλή,188,unigram,feminine,accusative,singular,fejét,457.41732357806404,fejét,fejét,fejét,fejét,fejét,fejét,head
+στάχυς,189,unigram,masculine,accusative,plural,kalászokat,2.165915487462627,keresztül,kalászokat,,,,kalászokat,head of grain
+καρδία,30,unigram,feminine,accusative,plural,előtt,1.1607075903082948,,,,,,előtt,heart
+καρδία,258,unigram,feminine,accusative,singular,szívébe,13.737337230631246,,,szívébe,szívébe,szívébe,szívébe,heart
+καρδία,175,unigram,feminine,nominative,singular,szívetek,20.54799586651783,,szívetek,szívetek,szívetek,szívetek,szívetek,heart
+οὐρανός,241,unigram,masculine,accusative,singular,égre,8.656897021960733,égre,égre,mennybe,égre,égre,égre,"heaven, sky"
+οὐρανός,180,unigram,masculine,nominative,singular,ég,49.157431920030824,ég,ég,ég,ég,ég,ég,"heaven, sky"
+ὥρα,22,unigram,feminine,nominative,singular,óra,174.844119002159,idő,óra,óra,óra,óra,óra,hour
+οἰκία,142,unigram,feminine,accusative,plural,házát,3.116606324072927,kapni,,,házát,házát,házát,house
+οἰκία,297,unigram,feminine,accusative,singular,házba,5.323307292249183,házba,házba,házba,házba,házba,házba,house
+οἶκος,18,unigram,masculine,accusative,singular,haza,3.476333436237071,haza,házába,haza,haza,haza,házába,"house, home"
+κριτής,278,unigram,masculine,nominative,plural,űzik,1.106276804395426,űzik,,,,,,judge
+κριτής,150,unigram,masculine,nominative,singular,bíró,74.82360668640946,bíró,bíró,bíró,bíró,bíró,bíró,judge
+βασιλεύς,95,unigram,masculine,accusative,plural,,,királyok,,helytartók,,,,king
+βασιλεύς,53,unigram,masculine,accusative,singular,Pilátus,1.6457760823815488,Pilátus,,Pilátus,zsidók,Pilátus,Pilátus,king
+βασιλεία,70,unigram,feminine,accusative,plural,országát,1.3561471279585473,királyságát,megmutatta,magas,országát,országát,országát,kingdom
+βασιλεία,146,unigram,feminine,accusative,singular,országát,1.3636782399557346,Királyságába,,országát,országát,,Isten,kingdom
+κόπος,183,unigram,masculine,accusative,plural,velem,1.5923841687587257,jót,velem,velem,velem,velem,bántjátok,"labour, work, trouble, difficulty"
+λύχνος,209,unigram,masculine,nominative,singular,világos,1.7773313826738908,,világos,világos,világos,világos,világos,lamp
+κλῆρος,1,unigram,masculine,accusative,singular,sorsot,2.81093139453302,kisorsolták,sorsot,sorsot,,,sorsot,"lots (casting of lots), inheritance"
+ἄνθρωπος,267,unigram,masculine,accusative,plural,embereket,628.8182093337213,,embereket,embereket,embereket,embereket,embereket,man
+ἄνθρωπος,232,unigram,masculine,accusative,singular,embert,2173.5257431437276,tisztátalanná,embert,embert,embert,embert,embert,man
+ἄνθρωπος,106,unigram,masculine,nominative,plural,emberek,1657.4445661639006,mondanak,emberek,emberek,emberek,emberek,emberek,man
+ἄνθρωπος,161,unigram,masculine,nominative,singular,ember,154623.26236432404,ember,ember,ember,ember,ember,ember,man
+ἀνήρ,227,unigram,masculine,accusative,singular,férjét,6.509898736787066,igaz,férjét,férjét,,,férjét,"man, husband"
+ἀνήρ,133,unigram,masculine,nominative,plural,férfiak,11.323400123173895,ötezer,férfiak,férfiak,férfiak,férfiak,férfiak,"man, husband"
+ἀνήρ,216,unigram,masculine,nominative,singular,ember,19.425430070729195,ember,férfi,ember,ember,ember,ember,"man, husband"
+μνᾶ,270,unigram,feminine,accusative,plural,minát,2.1376907610182045,zacskó,minát,gírát,minát,minát,minát,mina (about 100 days' wages)
+μνᾶ,10,unigram,feminine,accusative,singular,zacskó,1.0595416318177246,zacskó,,,,,,mina (about 100 days' wages)
+πρωτοκαθεδρία,93,unigram,feminine,accusative,plural,lakomákon,1.6103589477770495,vacsorákon,lakomákon,lakomákon,,,lakomákon,"most important seat, seat of honour"
+πρωτοκαθεδρία,32,unigram,feminine,accusative,singular,,,,,előlülést,,,köszöntéseket,"most important seat, seat of honour"
+μήτηρ,251,unigram,feminine,accusative,singular,anyját,10.281564690829052,anyját,anyját,anyját,anyját,anyját,anyját,mother
+ὄρος,198,unigram,neuter,accusative,plural,hegyekre,1.3699839963258689,,,hegyekre,,,,mountain
+ὄρος,239,unigram,neuter,accusative,singular,hegyre,18.61469567501098,hegyre,hegyre,hegyre,hegyre,hegyre,hegyre,mountain
+μύρον,78,unigram,neuter,accusative,plural,készítének,1.0960965115985384,,,készítének,,,,myrrh
+ὄνομα,31,unigram,neuter,accusative,singular,nevemért,1.8864669041322442,,nevemért,nevében,nevemért,nevemért,nevemért,name
+ὄνομα,91,unigram,neuter,nominative,plural,nevetek,1.2388312291556534,nevetek,,,,,,name
+ὄνομα,228,unigram,neuter,nominative,singular,neve,179.99932800078352,nevű,neve,neve,neve,neve,neve,name
+ἔθνος,207,unigram,neuter,accusative,plural,,,minden,összes,pogányok,nép,nép,minden,nation
+ἔθνος,176,unigram,neuter,accusative,singular,nemzet,1.6992373433377068,,nemzet,nemzet,nemzet,nemzet,nemzet,nation
+ἔθνος,273,unigram,neuter,nominative,plural,,,ismerik,mindezekre,pogányok,kérdezgetik,törik,,nation
+ἔθνος,23,unigram,neuter,nominative,singular,nemzet,2.2459754922816293,ország,nemzet,nemzet,nemzet,nemzet,nemzet,nation
+νύξ,172,unigram,feminine,accusative,plural,éjjel,9.10883117550279,éjjel,,éjjel,éjjel,éjjel,éjjel,night
+νύξ,222,unigram,feminine,accusative,singular,éjjel,1.3600692232541294,éjjel-nappal,,éjjel,éjjel,éjjel,éjjel,night
+ὅρκος,54,unigram,masculine,accusative,plural,,,,esküje,vendégek,,,,oath
+βοῦς,138,unigram,masculine,accusative,plural,pénzváltók,1.4362037637353489,pénzváltók,,,,,,ox
+παραβολή,235,unigram,feminine,accusative,plural,jelképes,1.0512072351295805,jelképes,,,,,,parable
+παραβολή,202,unigram,feminine,accusative,singular,példázatot,942.2060420637298,történetet,példázatot,példázatot,példázatot,példázatot,példázatot,parable
+μέρος,314,unigram,neuter,accusative,plural,vidékére,6.383372112284299,vidékére,vidékére,vidékeire,területére,vidékére,,part
+μαργαρίτης,33,unigram,masculine,accusative,singular,gyöngyöt,1.096057314542422,gyöngyöt,,,,,,pearls
+τόπος,246,unigram,masculine,accusative,plural,,,helyeken,éhínségek,,,,lesznek,place
+τόπος,266,unigram,masculine,accusative,singular,helyre,106.88820248295909,helyre,helyre,helyre,helyre,helyre,helyre,place
+πρωτοκλισία,249,unigram,feminine,accusative,plural,,,helyeket,lakomákon,,,,főhelyeket,place of honor
+ὄφις,92,unigram,masculine,accusative,singular,kígyót,12.308101917832762,kígyót,kígyót,kígyót,kígyót,kígyót,kígyót,poison
+σκεῦος,231,unigram,neuter,accusative,singular,átvigyen,1.0960670999999007,átvigyen,,,,,,"possession, object, thing, jar, vessel"
+σκεῦος,116,unigram,neuter,nominative,plural,háztetőn,1.0595416318177246,háztetőn,,,,,,"possession, object, thing, jar, vessel"
+δύναμις,94,unigram,feminine,accusative,plural,csodát,3.1216149099724686,csodát,,sok,csodát,csodát,sok,"power, ability, miracle"
+δύναμις,42,unigram,feminine,accusative,singular,hatalmát,1.5938032481778694,,hatalmát,,,,,"power, ability, miracle"
+δύναμις,73,unigram,feminine,nominative,plural,csodák,2.7813643445591745,,hatalmas,lőnek,csodák,csodák,csodák,"power, ability, miracle"
+δύναμις,103,unigram,feminine,nominative,singular,ereje,6.616425428010077,ereje,hatalma,,ereje,ereje,,"power, ability, miracle"
+ἱερεύς,219,unigram,masculine,nominative,singular,pap,63.99020035239917,pap,pap,pap,pap,pap,pap,priest
+φυλακή,21,unigram,feminine,accusative,singular,börtönbe,11.957133871083188,börtönbe,,tömlöczbe,börtönbe,börtönbe,tömlöcbe,prison
+προφήτης,57,unigram,masculine,accusative,plural,prófétákat,568.3426344111228,prófétákat,prófétákat,prófétákat,prófétákat,prófétákat,prófétákat,prophet
+προφήτης,181,unigram,masculine,accusative,singular,prófétának,4.201351034666236,prófétának,próféta,,prófétának,prófétának,prófétának,prophet
+προφήτης,203,unigram,masculine,nominative,plural,próféták,52.04288001677612,próféták,próféták,próféták,próféták,próféták,próféták,prophet
+προφήτης,240,unigram,masculine,nominative,singular,próféta,2901.7773427878647,próféta,próféta,próféta,próféta,próféta,próféta,prophet
+βαλλάντιον,16,unigram,neuter,accusative,singular,,,,,táskát,tarisznyát,tarisznyát,táskát,purse
+ποταμός,153,unigram,masculine,nominative,singular,,,épített,,folyóvíz,,,,river
+λῃστής,313,unigram,masculine,accusative,singular,rabló,1.119431105225799,rabló,haramiára,Mint,rabló,rabló,,robber
+λῃστής,294,unigram,masculine,nominative,plural,együtt,1.1542973299426933,,haramiák,együtt,,,együtt,robber
+λῃστής,143,unigram,masculine,nominative,singular,,,,haramia,tolvaj,rabló,rabló,tolvaj,robber
+ἄρχων,61,unigram,masculine,nominative,plural,főemberek,5.531631265227486,vezetők,elöljárók,főemberek,főemberek,Krisztus,főemberek,ruler
+ἄρχων,288,unigram,masculine,nominative,singular,fejedelme,4.597968358923464,világnak,elöljáró,fejedelme,fejedelme,fejedelme,fejedelme,ruler
+ἀκοή,69,unigram,feminine,accusative,singular,,,fejedelme,,hírét,,,fejedelem,rumor
+ἀκοή,303,unigram,feminine,nominative,singular,híre,12.361010772511944,híre,egész,híre,híre,híre,híre,rumor
+βιβλίον,49,unigram,neuter,accusative,singular,,,válólevelet,tekercset,,Mózes,könyvtekercset,,"scroll, book"
+διάκονος,81,unigram,masculine,nominative,singular,szolgátok,1.3698807752459252,lenni,lenni,szolgátok,szolgátok,szolgátok,szolgátok,"servant, minister, deacon"
+δοῦλος,192,unigram,masculine,accusative,plural,szolgáit,100.1900775903427,szolgáit,rabszolgáit,szolgáit,szolgáit,szolgáit,szolgáit,"servant, slave"
+δοῦλος,24,unigram,masculine,accusative,singular,,,szolgáját,rabszolgát,szolgáját,szolgát,szolgát,,"servant, slave"
+δοῦλος,90,unigram,masculine,nominative,plural,szolgák,340.7539879659142,szolgák,rabszolgák,szolgák,szolgák,szolgák,szolgák,"servant, slave"
+δοῦλος,187,unigram,masculine,nominative,singular,szolga,821.8279829597695,szolga,rabszolga,szolga,szolga,szolga,szolga,"servant, slave"
+πρόβατον,298,unigram,neuter,accusative,plural,juhokat,15.862125960156565,juhokat,juhokat,juhokat,juhokat,juhokat,juhokat,sheep
+ποιμήν,226,unigram,masculine,nominative,plural,pásztorok,27.07857947453923,pásztorok,pásztorok,pásztorok,pásztorok,pásztorok,pásztorok,"shepherd, pastor"
+ποιμήν,259,unigram,masculine,nominative,singular,pásztor,445.21818891262626,pásztor,pásztor,pásztor,pásztor,pásztor,pásztor,"shepherd, pastor"
+σημεῖον,127,unigram,neuter,accusative,plural,jeleket,58.85417938171767,csodákat,jeleket,jeleket,jeleket,jeleket,jeleket,sign
+σημεῖον,115,unigram,neuter,accusative,singular,jelt,304.2280588177138,bizonyítékul,jelt,jelt,jelt,jelt,jelt,sign
+σημεῖον,39,unigram,neuter,nominative,plural,jelek,97.00106434091327,jelek,jelek,jelek,jelek,jelek,jelek,sign
+σημεῖον,80,unigram,neuter,nominative,singular,jele,1.4229291374935988,bizonyítékul,jelt,,jele,jele,,sign
+δραχμή,155,unigram,feminine,accusative,singular,drahmát,15.998372144331183,megtalálja,drahmát,drakhmát,drahmát,drahmát,drahmát,"silver coin, drachma"
+ἀργύριον,197,unigram,neuter,accusative,plural,harminc,1.354198896463376,harminc,,ezüst,ezüstöt,harminc,ezüstpénzt,"silver, money"
+ἀργύριον,306,unigram,neuter,accusative,singular,pénzt,41.02948644636242,pénzt,pénzt,pénzt,pénzt,pénzt,pénzt,"silver, money"
+ἁμαρτία,254,unigram,feminine,accusative,plural,bűnöket,22.178683652527283,bűnöket,vétkeket,bűnöket,bűnöket,bűnöket,bűnöket,sin
+ἁμαρτία,199,unigram,feminine,accusative,singular,volna,2.2656208388488657,bűnösek,volna,volna,bűnük,volna,volna,sin
+ἁμαρτία,263,unigram,feminine,nominative,plural,bűneid,5.486666792581975,,,bűneid,bűneid,bűneid,bűneid,sin
+ἁμαρτία,260,unigram,feminine,nominative,singular,ezért,1.4405610193501084,,,,,,ezért,sin
+ἀδελφή,285,unigram,feminine,accusative,plural,testvéreit,1.351655005424381,testvéreit,szántóföldeket,,testvéreit,testvéreit,gyermekeit,sister
+ἀδελφή,121,unigram,feminine,accusative,singular,nővérét,1.2635274362094724,nővérét,,,,,,sister
+ἀδελφή,17,unigram,feminine,nominative,plural,,,élnek,húgai,nőtestvérei,,,közöttünk,sister
+ἀδελφή,284,unigram,feminine,nominative,singular,testvérem,1.831622271903947,nővére,testvérem,,,testvérem,,sister
+ῥάπισμα,139,unigram,neuter,accusative,plural,,,,,,járultak,odajárultak,csapdosták,"slap, strike, hit"
+ῥάπισμα,248,unigram,neuter,accusative,singular,ütötte,1.316739288237296,,ütötte,főpapnak,ütötte,,ütötte,"slap, strike, hit"
+πλοιάριον,213,unigram,neuter,nominative,plural,,,,Tibériászból,,,Tibériásból,,small boat
+πλοιάριον,126,unigram,neuter,nominative,singular,tömeg,1.026654444243081,,tömeg,,,,,small boat
+ὀψάριον,234,unigram,neuter,accusative,singular,halat,1.4750162014994408,,kenyeret,parázs,halat,halat,,small fish
+υἱός,44,unigram,masculine,accusative,plural,Zebedeus,6.096329614868593,Zebedeus,Zebedeus,,Zebedeus,Zebedeus,,son
+υἱός,114,unigram,masculine,accusative,singular,Emberfiát,5.2054668364887435,Emberfiát,Fiát,Fiát,Emberfiát,Emberfiát,Emberfiát,son
+υἱός,117,unigram,masculine,nominative,plural,fiai,7130.659255334789,fiai,fiai,fiai,fiai,fiai,fiai,son
+υἱός,194,unigram,masculine,nominative,singular,Emberfia,5.906277032885737,Emberfia,Fia,Fia,Emberfia,Emberfia,Emberfia,son
+ψυχή,257,unigram,feminine,accusative,singular,életét,18.732542564951395,életét,lelkét,életét,életét,életét,életét,"soul, life"
+ἀστήρ,268,unigram,masculine,nominative,plural,lehullanak,1.0595352057902494,,,lehullanak,,,,star
+λίθος,272,unigram,masculine,accusative,plural,ragadának,1.9999483947157184,,,ragadának,,,,stone
+λίθος,34,unigram,masculine,accusative,singular,követ,45.39908230660334,kő,követ,követ,követ,követ,követ,stone
+λίθος,125,unigram,masculine,nominative,plural,kövek,186.26925066781004,kövek,kövek,kövek,kövek,kövek,kövek,stone
+λίθος,38,unigram,masculine,nominative,singular,kő,15.15147708521327,kő,kő,kő,kő,kő,kő,stone
+συναγωγή,224,unigram,feminine,accusative,plural,elé,1.2394050029741988,zsinagógákban,zsinagógák,elé,elé,elé,elé,synagogue
+συναγωγή,307,unigram,feminine,accusative,singular,zsinagógába,286.76655302077097,zsinagógába,zsinagógába,zsinagógába,zsinagógába,zsinagógába,zsinagógába,synagogue
+τράπεζα,178,unigram,feminine,accusative,plural,pénzváltók,3.4458419033465435,kizavarta,pénzváltók,pénzváltók,,,pénzváltók,table
+τάλαντον,65,unigram,neuter,accusative,plural,talentumot,35.03122186595474,talentumot,talentumot,tálentomot,talentumot,talentumot,talentumot,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,206,unigram,neuter,accusative,singular,talentumot,44.065511695248404,talentumot,talentumot,tálentomot,talentumot,talentumot,talentumot,talent (weight and monetary unit: around 20 years' wages)
+φόρος,264,unigram,masculine,accusative,singular,fizetnünk,1.8187860421660018,,,fizetnünk,fizetnünk,fizetnünk,fizetnünk,tax
+τελώνης,173,unigram,masculine,nominative,plural,vámszedők,654.874040669792,vámszedők,vámszedők,vámszedők,vámszedők,vámszedők,vámszedők,tax collector
+τελώνης,66,unigram,masculine,nominative,singular,vámszedő,413.785723312531,vámszedő,vámszedő,vámszedő,vámszedő,vámszedő,vámszedő,tax collector
+γραμματεύς,311,unigram,masculine,nominative,plural,írástudók,342.6072358409939,törvénytanítók,írástudók,írástudók,írástudók,írástudók,írástudók,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,195,unigram,masculine,nominative,singular,írástudó,128.54573752604884,törvénytanító,írástudó,írástudó,írástudó,írástudó,írástudó,"teacher, expert in the law, scholar, scribe"
+καθηγητής,299,unigram,masculine,nominative,plural,-nek,1.0960475382633137,-nek,,,,,,"teacher, guide"
+καθηγητής,205,unigram,masculine,nominative,singular,-nek,1.0960475382633137,-nek,,,,,,"teacher, guide"
+κλέπτης,75,unigram,masculine,nominative,plural,tolvajok,5.513052992025398,tolvajok,tolvajok,tolvajok,,,tolvajok,thief
+κλέπτης,204,unigram,masculine,nominative,singular,tolvaj,983.3097924683995,tolvaj,tolvaj,tolvaj,tolvaj,tolvaj,tolvaj,thief
+διαλογισμός,269,unigram,masculine,accusative,plural,gondolataikat,3.412311480002347,állj,,,gondolataikat,,gondolataikat,"thought, argument"
+διαλογισμός,132,unigram,masculine,accusative,singular,gondolatát,1.2729399331066993,,fontolgatását,,gondolatát,gondolatát,kézen,"thought, argument"
+διαλογισμός,107,unigram,masculine,nominative,plural,gondolatok,1.7955834839797271,gondolatok,fontolgatások,,,gondolatok,,"thought, argument"
+διαλογισμός,262,unigram,masculine,nominative,singular,vita,1.2729399331066993,vitatkoztak,,,vita,vita,gondolat,"thought, argument"
+θρόνος,217,unigram,masculine,accusative,singular,,,,trónját,,,,székét,throne
+χρόνος,244,unigram,masculine,accusative,plural,időre,1.0961210847775034,időre,,,,,,time
+χρόνος,210,unigram,masculine,accusative,singular,ideig,6.267351036884498,ideig,ideig,ideig,ideig,ideig,ideig,time
+καιρός,129,unigram,masculine,nominative,singular,idő,1.624198479236949,idő,idő,időm,idő,idő,időm,"time, right time"
+τάφος,159,unigram,masculine,accusative,singular,sírt,291.92237677511,sírt,sírt,sírt,sírt,sírt,sírt,"tomb, grave"
+μνημεῖον,11,unigram,neuter,accusative,plural,,,prófétáknak,Jaj,sírjait,,,síremlékeit,"tomb, grave"
+μνημεῖον,15,unigram,neuter,accusative,singular,sírhoz,1543.7713351395291,sírhoz,sírhoz,sírhoz,sírhoz,sírhoz,sírhoz,"tomb, grave"
+μνημεῖον,71,unigram,neuter,nominative,plural,sírok,55.851660667752896,sírok,sírok,sírok,sírok,sírok,sírok,"tomb, grave"
+μνημεῖον,238,unigram,neuter,nominative,singular,sír,17.00106503456292,,sír,sír,sír,sír,sír,"tomb, grave"
+θησαυρός,200,unigram,masculine,accusative,singular,mennyben,1.278391164680115,szegények,,,mennyben,mennyben,,treasure
+δένδρον,79,unigram,neuter,accusative,plural,fákat,7.999386727302836,,,fákat,fákat,fákat,,tree	
+κώμη,243,unigram,feminine,accusative,plural,falvakba,4.768295391955506,környező,falvakba,falvakba,falvakba,falvakba,falvakat,village
+κώμη,51,unigram,feminine,accusative,singular,faluba,2332.46089927362,faluba,faluba,faluba,faluba,faluba,faluba,village
+παρθένος,253,unigram,feminine,nominative,plural,szűzek,1.999949063699646,,,szűzek,,,,virgin
+παρθένος,186,unigram,feminine,nominative,singular,Immánuel,1.0960670999999007,Immánuel,,,,,,virgin
+φωνή,295,unigram,feminine,nominative,singular,,,,hang,szerelmes,,,Fiam,voice or sound
+πόλεμος,236,unigram,masculine,accusative,plural,háborúkról,1.7296059547218419,,vég,háborúkról,vég,háborúkról,háborúkról,war
+ὕδωρ,312,unigram,neuter,accusative,plural,vízen,5.7184923167771995,vízen,habokon,vizeken,vízen,vízen,Péter,water
+ὕδωρ,84,unigram,neuter,accusative,singular,vizet,5904.260910527477,vizet,vizet,vizet,vizet,vizet,vizet,water
+ὕδωρ,99,unigram,neuter,nominative,singular,víz,203.83664580902172,víz,víz,víz,víz,víz,víz,water
+ὑδρία,104,unigram,feminine,accusative,singular,vedrét,1.3167216672078015,,vedrét,vedrét,korsóját,korsóját,vedrét,water jar
+ὁδός,237,unigram,feminine,accusative,plural,utakra,3.813933926385931,ki,utakra,,utakra,utakra,utakra,way
+ὁδός,131,unigram,feminine,accusative,singular,útját,9.483664269940125,utat,útját,útját,útját,útját,útját,way
+γάμος,149,unigram,masculine,accusative,plural,menyegzőre,23.773358374395983,lakodalomba,lakodalomba,,menyegzőre,menyegzőre,menyegzőre,wedding
+γάμος,220,unigram,masculine,accusative,singular,Meghívták,1.410966275854595,Meghívták,,,,,,wedding
+γυνή,164,unigram,feminine,accusative,singular,feleségét,95.4006506937815,feleségül,feleségét,feleségét,feleségét,feleségét,feleségét,"wife, woman"
+γυνή,108,unigram,feminine,nominative,plural,asszonyok,4.193690401796812,Galileától,asszonyok,asszonyok,asszonyok,asszonyok,asszonyok,"wife, woman"
+γυνή,113,unigram,feminine,nominative,singular,asszony,31673.935612593315,asszony,asszony,asszony,asszony,asszony,asszony,"wife, woman"
+ἄνεμος,6,unigram,masculine,nominative,plural,szelek,8.448220707430059,szél,szelek,szelek,szelek,szelek,szelek,wind
+ἄνεμος,63,unigram,masculine,nominative,singular,szél,41.744054331762975,szél,szél,szél,szél,szél,szél,wind
+πνεῦμα,282,unigram,neuter,accusative,plural,szellemet,1.3676165660171875,,szellemet,,,,,"wind, breath, spirit"
+πνεῦμα,154,unigram,neuter,accusative,singular,Szentlelket,1.7261379969561927,Szent,Szellem,,Szentlelket,Szentlelket,Lelket,"wind, breath, spirit"
+πνεῦμα,8,unigram,neuter,nominative,plural,lelkek,6.3053819881330675,szellemek,szellemek,lelkek,lelkek,lelkek,lelkek,"wind, breath, spirit"
+πνεῦμα,20,unigram,neuter,nominative,singular,lélek,15.775653459759976,Szent,szellem,lélek,lélek,lélek,lélek,"wind, breath, spirit"
+ῥῆμα,171,unigram,neuter,accusative,plural,beszédeket,1.710352637453523,őrizte,beszédeket,beszédeit,,beszédeket,beszédeket,word
+ῥῆμα,151,unigram,neuter,accusative,singular,értették,3.8135901588172723,miről,értették,,értették,értették,értették,word
+ῥῆμα,28,unigram,neuter,nominative,plural,beszédek,1.7964509278396048,,beszédek,,,,,word
+λόγος,152,unigram,masculine,accusative,plural,beszédeket,6.126148558778887,szavaimat,beszédeimet,beszédeket,beszédeket,beszédeket,beszédeket,word
+λόγος,144,unigram,masculine,accusative,singular,igét,28.035611064493363,üzenetét,igét,ígét,igét,igét,igét,word
+λόγος,141,unigram,masculine,nominative,plural,múlnak,1.1031783383757379,elmúlik,beszédeim,,múlnak,múlnak,,word
+λόγος,271,unigram,masculine,nominative,singular,,,terjedt,Ige,beszéd,ige,ige,beszéd,word
+ἔργον,41,unigram,neuter,accusative,plural,,,tettem,melyeket,dolgait,cselekedeteit,cselekedeteit,dolgait,work
+ἔργον,85,unigram,neuter,accusative,singular,dolgot,2.5377301796614433,feladatot,zaklatjátok,dolgot,,bántjátok,dolgot,work
+ἔργον,275,unigram,neuter,nominative,plural,cselekedetei,2.9301371171554016,világosságra,teszek,cselekedetei,cselekedetei,cselekedetei,bizonyságot,work
+ἔργον,252,unigram,neuter,nominative,singular,,,,munkája,higyjetek,,dolog,küldött.,work
+ἐργάτης,134,unigram,masculine,nominative,plural,,,,aratnivaló,,,,munkás,worker
+ἐργάτης,196,unigram,masculine,nominative,singular,munkás,4.415305714235327,megérdemli,munkás,munkás,munkás,munkás,munkás,worker
+ἔτος,233,unigram,neuter,accusative,plural,éve,36.57493137430423,éve,éve,asszony,éve,éve,,year
+ἔτος,165,unigram,neuter,accusative,singular,évre,1.999948763622849,,évre,,,,,year

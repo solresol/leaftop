@@ -1,0 +1,329 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1819_translation,english_translation
+θεός,128,unigram,masculine,accusative,singular,Dios,1.5275121583816362,Dios,God
+θεός,31,unigram,masculine,nominative,plural,dios,1.297225727579602,dios,God
+θεός,205,unigram,masculine,nominative,singular,Dios,5.496052055190019,Dios,God
+κύριος,129,unigram,masculine,nominative,singular,Xránadxu,1.8366820696697697,Xránadxu,"Lord, lord, master"
+γραφή,124,unigram,feminine,accusative,plural,naxúaj,1.010909517919856,naxúaj,Scripture
+γραφή,52,unigram,feminine,accusative,singular,naxúaj,1.0115018108396696,naxúaj,Scripture
+γραφή,257,unigram,feminine,nominative,plural,naxúaj,1.0112959328968978,naxúaj,Scripture
+γραφή,315,unigram,feminine,nominative,singular,naxúaj,1.1925888606998782,naxúaj,Scripture
+ἄγγελος,94,unigram,masculine,accusative,plural,gubáz,2.1147517539281293,gubáz,angel
+ἄγγελος,81,unigram,masculine,accusative,singular,gubáz,1.2815333626893135,gubáz,angel
+ἄγγελος,49,unigram,masculine,nominative,plural,gubáz,1.517959665791896,gubáz,angel
+ἄγγελος,103,unigram,masculine,nominative,singular,gubáz,1.3782729288155726,gubáz,angel
+ἀπόστολος,46,unigram,masculine,nominative,plural,belexezrín,1.1143713989424446,belexezrín,apostle
+ἀπόστολος,7,unigram,masculine,nominative,singular,nácadxe̱,1.0317002366318713,nácadxe̱,apostle
+ἐξουσία,69,unigram,feminine,accusative,plural,xeché̱bele,1.2934825535976242,xeché̱bele,authority
+ἐξουσία,195,unigram,feminine,accusative,singular,dxenná,1.2599783264453528,dxenná,authority
+βρέφος,18,unigram,neuter,accusative,plural,Belezrín,1.0595416318177246,Belezrín,babies
+βρέφος,313,unigram,neuter,accusative,singular,de̱be,1.0354234526482031,de̱be,babies
+ἀποθήκη,68,unigram,feminine,accusative,singular,zrua,1.1054499834137432,zrua,barn
+φραγμός,231,unigram,masculine,accusative,plural,lásedu,1.096057314542422,lásedu,"barrier, wall"
+φραγμός,107,unigram,masculine,accusative,singular,Be̱ne̱,1.1923251643526398,Be̱ne̱,"barrier, wall"
+ἀρχή,72,unigram,feminine,accusative,plural,xeché̱bele,1.1133763843410922,xeché̱bele,beginning
+ἀρχή,175,unigram,feminine,accusative,singular,―Nácaqueza,1.1188889224190788,―Nácaqueza,beginning
+βλασφημία,35,unigram,feminine,accusative,plural,séquene̱,1.220610272480471,séquene̱,blasphemy
+βλασφημία,203,unigram,feminine,nominative,plural,dxelún,1.1765557182782824,dxelún,blasphemy
+βλασφημία,82,unigram,feminine,nominative,singular,cale̱la,1.0915306650825036,cale̱la,blasphemy
+πλοῖον,101,unigram,neuter,accusative,plural,dxedá,1.1782473135322555,dxedá,boat
+πλοῖον,300,unigram,neuter,accusative,singular,dxedá,1.1282262666846676,dxedá,boat
+πλοῖον,223,unigram,neuter,nominative,singular,dxedá,1.1782473135322555,dxedá,boat
+σῶμα,60,unigram,neuter,nominative,singular,be̱l-la,1.1417589648601092,be̱l-la,body
+κλῆμα,143,unigram,neuter,nominative,singular,zruze,1.5033526154070178,zruze,branch
+ἄρτος,304,unigram,masculine,accusative,plural,xeta,1.1578218731199437,xeta,bread
+ἄρτος,328,unigram,masculine,accusative,singular,xeta,1.5875374250311496,xeta,bread
+ἄρτος,153,unigram,masculine,nominative,plural,xeta,1.3890446726694583,xeta,bread
+ἄρτος,40,unigram,masculine,nominative,singular,xtila,1.4361310041713855,xtila,bread
+ἀδελφός,292,unigram,masculine,accusative,plural,biche̱,1.4602314750160248,biche̱,brother
+ἀδελφός,115,unigram,masculine,accusative,singular,biche,1.4706475308722675,biche,brother
+ἀδελφός,106,unigram,masculine,nominative,plural,biche̱,1.2648160137162008,biche̱,brother
+ἀδελφός,229,unigram,masculine,nominative,singular,bi,1.1204449434799746,bi,brother
+στῆθος,149,unigram,neuter,accusative,plural,lachu,1.255494041147772,lachu,"chest, breast"
+στῆθος,278,unigram,neuter,accusative,singular,¿nuzra,1.3170328631893158,¿nuzra,"chest, breast"
+ἀρχιερεύς,237,unigram,masculine,accusative,plural,bxruze,1.1704433310866873,bxruze,chief priest
+ἀρχιερεύς,61,unigram,masculine,accusative,singular,bxruze,1.2448097560592222,bxruze,chief priest
+ἀρχιερεύς,114,unigram,masculine,nominative,plural,bxruze,1.1562016214923971,bxruze,chief priest
+ἀρχιερεύς,242,unigram,masculine,nominative,singular,bxruze,1.0982615429230758,bxruze,chief priest
+τέκνον,321,unigram,neuter,accusative,plural,zrí'ine̱,1.0252235815315982,zrí'ine̱,child
+τέκνον,173,unigram,neuter,accusative,singular,xelátie̱,1.3680170932765894,xelátie̱,child
+τέκνον,19,unigram,neuter,nominative,plural,xelátie̱,1.4208864695095111,xelátie̱,child
+τέκνον,187,unigram,neuter,nominative,singular,dxe̱,1.0541866377640114,dxe̱,child
+παιδίον,17,unigram,neuter,accusative,plural,bidu,1.006202540102601,bidu,child
+παιδίον,89,unigram,neuter,accusative,singular,bidu,1.392944955298122,bidu,child
+παιδίον,166,unigram,neuter,nominative,plural,bidu,1.0522791576159125,bidu,child
+παιδίον,42,unigram,neuter,nominative,singular,bidu,1.4804173431553642,bidu,child
+πόλις,176,unigram,feminine,accusative,plural,xe̱zre,1.732690006555902,xe̱zre,city
+πόλις,64,unigram,feminine,accusative,singular,xe̱zre,6.427108464288512,xe̱zre,city
+πύλη,202,unigram,feminine,nominative,singular,Dxa,1.0595352057902494,Dxa,city gate
+χιτών,111,unigram,masculine,accusative,plural,gúale,1.0814687643785568,gúale,"clothing, undergarments"
+χιτών,32,unigram,masculine,accusative,singular,xicha,1.329732168079635,xicha,"clothing, undergarments"
+ἱμάτιον,126,unigram,neuter,accusative,plural,béguaj,1.052670329802074,béguaj,coat
+ἱμάτιον,125,unigram,neuter,accusative,singular,xicha,1.0861158421482664,xicha,coat
+ἐντολή,78,unigram,feminine,accusative,singular,zéajle̱le,1.3431992537584756,zéajle̱le,commandment
+συνέδριον,309,unigram,neuter,accusative,plural,xuludée̱,1.01604563332286,xuludée̱,council
+συνέδριον,54,unigram,neuter,accusative,singular,dxúnle̱,1.033975244994219,dxúnle̱,council
+χώρα,282,unigram,feminine,accusative,singular,Gadara,1.6494953559145824,Gadara,"country, countryside"
+ὄχλος,58,unigram,masculine,accusative,plural,zan,1.120233574223659,zan,crowd
+ὄχλος,11,unigram,masculine,accusative,singular,zan,1.4748858240746243,zan,crowd
+ὄχλος,96,unigram,masculine,nominative,plural,zjácale̱ne̱,1.0435863875101776,zjácale̱ne̱,crowd
+ὄχλος,273,unigram,masculine,nominative,singular,zan,3.128726628175839,zan,crowd
+θυγάτηρ,109,unigram,feminine,nominative,plural,cheé̱quezle,1.0961506491767987,cheé̱quezle,daughter
+θυγάτηρ,303,unigram,feminine,nominative,singular,nu'ula,1.5205889342972578,nu'ula,daughter
+ἡμέρα,76,unigram,feminine,accusative,plural,zra,3.3333618009392616,zra,day
+ἡμέρα,83,unigram,feminine,accusative,singular,zra,3.270246051086596,zra,day
+ἡμέρα,2,unigram,feminine,nominative,plural,zra,2.9974392385247555,zra,day
+ἡμέρα,66,unigram,feminine,nominative,singular,dxezré,1.2055451259541443,dxezré,day
+ὀφειλέτης,245,unigram,masculine,nominative,plural,¿Dxéquele,1.0960524252565438,¿Dxéquele,debtor
+ὀφειλέτης,117,unigram,masculine,nominative,singular,dxebague̱,1.1099746787208182,dxebague̱,debtor
+δαιμόνιον,33,unigram,neuter,accusative,plural,xriwe̱,1.3254828281007145,xriwe̱,demon
+δαιμόνιον,317,unigram,neuter,accusative,singular,xriwe̱,1.217367111534127,xriwe̱,demon
+δαιμόνιον,189,unigram,neuter,nominative,plural,belexedxúaj,1.0458916901393842,belexedxúaj,demon
+δαιμόνιον,165,unigram,neuter,nominative,singular,xriwe̱,1.1553373705983596,xriwe̱,demon
+δηνάριον,295,unigram,neuter,accusative,plural,dxebague̱,1.6350871689786357,dxebague̱,denarius (about a day's wages)
+δηνάριον,155,unigram,neuter,accusative,singular,dxízrujle,1.3083373772928235,dxízrujle,denarius (about a day's wages)
+μαθητής,170,unigram,masculine,accusative,plural,dxusé̱dene̱,5.363071170047877,dxusé̱dene̱,disciple
+μαθητής,322,unigram,masculine,accusative,singular,bse̱de,1.2338634323520303,bse̱de,disciple
+μαθητής,266,unigram,masculine,nominative,plural,dxuse̱de,2.1770481797511367,dxuse̱de,disciple
+μαθητής,320,unigram,masculine,nominative,singular,bénnea,1.1172315680552818,bénnea,disciple
+νόσος,3,unigram,feminine,accusative,plural,xízrawe̱,1.3757996230250478,xízrawe̱,disease
+νόσος,74,unigram,feminine,accusative,singular,xízrawe̱,1.1769394276529943,xízrawe̱,disease
+περιστερά,95,unigram,feminine,accusative,plural,bgúgudu,2.0640095586268825,bgúgudu,dove
+οὖς,142,unigram,neuter,accusative,plural,nágale,1.9107254597892325,nágale,ear
+οὖς,272,unigram,neuter,accusative,singular,bagácheze,1.332128184355331,bagácheze,ear
+σεισμός,196,unigram,masculine,nominative,plural,gubina,1.5091307216103276,gubina,"earthquakes, storm"
+τέλος,264,unigram,neuter,accusative,singular,xelezré̱,1.1971793874026733,xelezré̱,end
+ὀφθαλμός,25,unigram,masculine,accusative,plural,xiaj,1.7795444757925187,xiaj,eye
+ὀφθαλμός,12,unigram,masculine,accusative,singular,lazxu,1.2131231854102649,lazxu,eye
+ὀφθαλμός,63,unigram,masculine,nominative,plural,xiaj,1.6798680406514974,xiaj,eye
+ὀφθαλμός,290,unigram,masculine,nominative,singular,xiaj,1.2156036025965322,xiaj,eye
+πρόσωπον,116,unigram,neuter,accusative,plural,belezúe̱,1.1063446289765493,belezúe̱,face
+πρόσωπον,184,unigram,neuter,accusative,singular,nézentu,1.0853788395951178,nézentu,face
+λιμός,8,unigram,feminine,nominative,plural,gubina,1.0595416318177244,gubina,famine
+γεωργός,244,unigram,masculine,nominative,plural,we̱n,1.0714444643941934,we̱n,"farmer, tenant"
+γεωργός,51,unigram,masculine,nominative,singular,dxá'ane̱,1.1133832240298571,dxá'ane̱,"farmer, tenant"
+πατήρ,190,unigram,masculine,accusative,plural,xrtáudxu,1.1633227631441674,xrtáudxu,father
+πατήρ,294,unigram,masculine,accusative,singular,Xra,1.9316693740175055,Xra,father
+πατήρ,302,unigram,masculine,nominative,plural,xrtáule,1.2817452313141486,xrtáule,father
+πατήρ,178,unigram,masculine,nominative,singular,Xra,2.8398913557413734,Xra,father
+σύνδουλος,86,unigram,masculine,accusative,singular,xexache,1.2377461667782308,xexache,"fellow-servant, colleague"
+σύνδουλος,306,unigram,masculine,nominative,plural,belewí'ine,1.2125536087908515,belewí'ine,"fellow-servant, colleague"
+ἀγρός,316,unigram,masculine,accusative,plural,zane̱,1.0276986827093573,zane̱,field
+ἀγρός,41,unigram,masculine,accusative,singular,xe̱zr,1.0389325459015053,xe̱zr,field
+δάκτυλος,169,unigram,masculine,accusative,singular,zrube,1.1133286000509015,zrube,finger
+ἰχθύς,146,unigram,masculine,accusative,plural,xtila,1.0037775165167953,xtila,fish
+ἰχθύς,183,unigram,masculine,accusative,singular,bela,1.5770017422464433,bela,fish
+δίκτυον,102,unigram,neuter,accusative,plural,xixruj,2.3088116285819233,xixruj,fishing net
+δίκτυον,193,unigram,neuter,accusative,singular,nazrate̱,1.1158822787716156,nazrate̱,fishing net
+πούς,230,unigram,masculine,accusative,plural,ni,4.412593376702527,ni,foot
+πούς,105,unigram,masculine,accusative,singular,ni,1.26716661789938,ni,foot
+καρπός,174,unigram,masculine,accusative,plural,dxelebía,1.1968845078051928,dxelebía,"fruit, crop, harvest"
+καρπός,226,unigram,masculine,accusative,singular,zixre,1.772773565584968,zixre,"fruit, crop, harvest"
+πλήρωμα,260,unigram,neuter,accusative,plural,xcuite,1.1188996830498492,xcuite,fullness
+γενεά,261,unigram,feminine,accusative,plural,lázrqueze̱,1.1063971986870706,lázrqueze̱,generation
+γενεά,227,unigram,feminine,accusative,singular,zre̱,1.4321090387112256,zre̱,generation
+γενεά,141,unigram,feminine,nominative,singular,xelate,1.0314915906314541,xelate,generation
+δῶρον,293,unigram,neuter,accusative,plural,dxelegú,1.6887162255651555,dxelegú,gift
+δῶρον,157,unigram,neuter,accusative,singular,gunézruju,1.3728967004872417,gunézruju,gift
+ἡγεμών,164,unigram,masculine,accusative,plural,nácale,1.1625219950279615,nácale,"governor, ruler"
+ἡγεμών,15,unigram,masculine,accusative,singular,bebanne,1.0960965115985384,bebanne,"governor, ruler"
+σταφυλή,177,unigram,feminine,accusative,plural,xuchíbedxu,1.1613026128296644,xuchíbedxu,grapes
+σταφυλή,324,unigram,feminine,accusative,singular,guchíbedxu,1.0960524252565438,guchíbedxu,grapes
+ἀσπασμός,305,unigram,masculine,accusative,plural,xelapa,1.0450843138621944,xelapa,greeting
+ὁδηγός,6,unigram,masculine,nominative,plural,dxulusi,1.096057314542422,dxulusi,guide
+ὁδηγός,4,unigram,masculine,nominative,singular,cu'ule,1.498158760952221,cu'ule,guide
+θρίξ,38,unigram,feminine,accusative,singular,gasaj,1.096091603901298,gasaj,hair
+θρίξ,90,unigram,feminine,nominative,plural,xíchajle,1.1924118670742236,xíchajle,hair
+θρίξ,211,unigram,feminine,nominative,singular,xíchajle,1.2101726629193006,xíchajle,hair
+χείρ,297,unigram,feminine,accusative,plural,ne̱,2.032291308637735,ne̱,hand
+χείρ,214,unigram,feminine,accusative,singular,ne̱,1.946888473401228,ne̱,hand
+κεφαλή,135,unigram,feminine,accusative,plural,dxeledée̱,1.5895018893751092,dxeledée̱,head
+κεφαλή,200,unigram,feminine,accusative,singular,xíchaja,1.4775193588725597,xíchaja,head
+στάχυς,201,unigram,masculine,accusative,plural,dau,1.2821251232612234,dau,head of grain
+στάχυς,75,unigram,masculine,accusative,singular,xrlegue,1.0595384180401852,xrlegue,head of grain
+καρδία,275,unigram,feminine,accusative,singular,zide,1.2418552857835308,zide,heart
+καρδία,185,unigram,feminine,nominative,singular,lázrdaule,1.6734349850607062,lázrdaule,heart
+οὐρανός,256,unigram,masculine,accusative,singular,xabáa,2.067641309441003,xabáa,"heaven, sky"
+οὐρανός,191,unigram,masculine,nominative,singular,Xabáa,1.4818152199325438,Xabáa,"heaven, sky"
+ὥρα,28,unigram,feminine,nominative,singular,zra,2.4967978312903925,zra,hour
+οἰκία,148,unigram,feminine,accusative,plural,nu'ula,1.0608276958866774,nu'ula,house
+οἰκία,310,unigram,feminine,accusative,singular,u,1.059151776561219,u,house
+οἶκος,270,unigram,masculine,accusative,plural,xelezúa,1.1435467418360783,xelezúa,"house, home"
+οἶκος,24,unigram,masculine,accusative,singular,lizre̱,2.598238872004793,lizre̱,"house, home"
+κριτής,159,unigram,masculine,nominative,singular,dxuchi,1.8541058556655057,dxuchi,judge
+κλείς,152,unigram,feminine,accusative,singular,dxu'ule,1.0960524252565438,dxu'ule,key
+βασιλεύς,100,unigram,masculine,accusative,plural,nácale,1.1680433516616182,nácale,king
+βασιλεύς,59,unigram,masculine,accusative,singular,wenná,2.2260721024065444,wenná,king
+βασιλεία,154,unigram,feminine,accusative,singular,bea,1.0534042911856918,bea,kingdom
+κόπος,194,unigram,masculine,accusative,plural,ze̱de,2.4695856841481048,ze̱de,"labour, work, trouble, difficulty"
+λύχνος,243,unigram,masculine,nominative,plural,gugala,1.0960768946513286,gugala,lamp
+λύχνος,224,unigram,masculine,nominative,singular,xi,1.2536597070553197,xi,lamp
+κλῆρος,1,unigram,masculine,accusative,singular,lana,1.2249410777607144,lana,"lots (casting of lots), inheritance"
+ἄνθρωπος,247,unigram,masculine,accusative,singular,dxedxuaj,1.146104494776596,dxedxuaj,man
+ἄνθρωπος,168,unigram,masculine,nominative,singular,tu,1.1044117214213995,tu,man
+ἀνήρ,139,unigram,masculine,nominative,plural,gaxúa,1.0361557594585595,gaxúa,"man, husband"
+ἀνήρ,232,unigram,masculine,nominative,singular,bzu,1.0533854484268552,bzu,"man, husband"
+μνᾶ,286,unigram,feminine,accusative,plural,dumí,1.3979793077645235,dumí,mina (about 100 days' wages)
+πρωτοκαθεδρία,99,unigram,feminine,accusative,plural,dxelawe̱,1.0880481440363627,dxelawe̱,"most important seat, seat of honour"
+πρωτοκαθεδρία,37,unigram,feminine,accusative,singular,dxezrágale,1.0595384180401852,dxezrágale,"most important seat, seat of honour"
+μήτηρ,267,unigram,feminine,accusative,singular,xrne̱,1.3035526971146632,xrne̱,mother
+ὄρος,210,unigram,neuter,accusative,plural,xuluzrúnnuje̱,1.25782682281491,xuluzrúnnuje̱,mountain
+ὄρος,254,unigram,neuter,accusative,singular,xi,1.0967350147768198,xi,mountain
+ὄνομα,84,unigram,neuter,accusative,plural,Boanerges,1.1619938676668684,Boanerges,name
+ὄνομα,36,unigram,neuter,accusative,singular,labe,1.8809539872396923,labe,name
+ὄνομα,239,unigram,neuter,nominative,singular,le̱,1.0540165425086476,le̱,name
+ἔθνος,222,unigram,neuter,accusative,plural,xe̱zr,1.2088711688652471,xe̱zr,nation
+ἔθνος,186,unigram,neuter,accusative,singular,xeledíl-lale̱,1.03999673090064,xeledíl-lale̱,nation
+ἔθνος,289,unigram,neuter,nominative,plural,Xrale,1.113724895300861,Xrale,nation
+ἔθνος,29,unigram,neuter,nominative,singular,xe̱zr,1.171075492124371,xe̱zr,nation
+νύξ,180,unigram,feminine,accusative,plural,xe̱la,1.6350279940525625,xe̱la,night
+νύξ,235,unigram,feminine,accusative,singular,chizrela,1.2795300618231185,chizrela,night
+ὅρκος,253,unigram,masculine,accusative,singular,xrtáudxu,1.0354255198080204,xrtáudxu,oath
+βοῦς,144,unigram,masculine,accusative,plural,dxuluxuché̱,1.1682581154670333,dxuluxuché̱,ox
+παραβολή,250,unigram,feminine,accusative,plural,dxulé,1.6758002536425505,dxulé,parable
+παραβολή,215,unigram,feminine,accusative,singular,dxulé,3.092912520359038,dxulé,parable
+μέρος,327,unigram,neuter,accusative,plural,nababa,1.3355088283129035,nababa,part
+μέρος,53,unigram,neuter,accusative,singular,zí'le̱,1.2384158313864646,zí'le̱,part
+μαργαρίτης,217,unigram,masculine,accusative,plural,zaca,1.4068476116631408,zaca,pearls
+τόπος,263,unigram,masculine,accusative,plural,gubina,1.5091530970660672,gubina,place
+τόπος,283,unigram,masculine,accusative,singular,lataj,1.6352407677946987,lataj,place
+πρωτοκλισία,265,unigram,feminine,accusative,plural,dxelebé,1.2249591298630755,dxelebé,place of honor
+ὄφις,98,unigram,masculine,accusative,singular,be̱la,1.9886709213137934,be̱la,poison
+σκεῦος,130,unigram,neuter,accusative,plural,guchéaje̱,1.2870833410549662,guchéaje̱,"possession, object, thing, jar, vessel"
+σκεῦος,246,unigram,neuter,accusative,singular,xudée̱,1.255508950677359,xudée̱,"possession, object, thing, jar, vessel"
+σκεῦος,122,unigram,neuter,nominative,plural,cuéaje̱,1.0354255198080204,cuéaje̱,"possession, object, thing, jar, vessel"
+δύναμις,48,unigram,feminine,accusative,singular,waca,1.3672351483712801,waca,"power, ability, miracle"
+δύναμις,79,unigram,feminine,nominative,plural,waca,1.6995722083208618,waca,"power, ability, miracle"
+δύναμις,108,unigram,feminine,nominative,singular,waca,1.5795465060981482,waca,"power, ability, miracle"
+ἱερεύς,22,unigram,masculine,nominative,plural,gulábale,1.2556964704694948,gulábale,priest
+φυλακή,27,unigram,feminine,accusative,singular,xia,1.0446460501194668,xia,prison
+προφήτης,62,unigram,masculine,accusative,plural,waláz,2.0776894577525713,waláz,prophet
+προφήτης,192,unigram,masculine,accusative,singular,waláz,1.6728795740689253,waláz,prophet
+προφήτης,216,unigram,masculine,nominative,plural,buluchálaje̱,1.242780167564811,buluchálaje̱,prophet
+προφήτης,255,unigram,masculine,nominative,singular,waláz,2.7179327518722785,waláz,prophet
+βαλλάντιον,21,unigram,neuter,accusative,singular,xixruj,1.2935936507968304,xixruj,purse
+ποταμός,118,unigram,masculine,nominative,plural,guba,1.064742544130528,guba,river
+λῃστής,44,unigram,masculine,accusative,plural,gubán,1.48095649762893,gubán,robber
+λῃστής,326,unigram,masculine,accusative,singular,gubán,1.1855990880612841,gubán,robber
+λῃστής,307,unigram,masculine,nominative,plural,gubán,2.060257011085385,gubán,robber
+λῃστής,150,unigram,masculine,nominative,singular,gubán,1.48095649762893,gubán,robber
+ἄρχων,198,unigram,masculine,accusative,plural,bchague̱,1.4685684903153118,bchague̱,ruler
+ἄρχων,65,unigram,masculine,nominative,plural,xíchaje̱,1.38669893201433,xíchaje̱,ruler
+ἄρχων,301,unigram,masculine,nominative,singular,bzrin,1.110984381701981,bzrin,ruler
+ἀκοή,9,unigram,feminine,accusative,plural,zrébele,1.2203498789997294,zrébele,rumor
+ἀκοή,77,unigram,feminine,accusative,singular,benne̱,1.1855818956699251,benne̱,rumor
+ἀκοή,156,unigram,feminine,nominative,plural,luzre̱,1.0960817954296525,luzre̱,rumor
+βιβλίον,57,unigram,neuter,accusative,plural,guzúajdxu,1.096071996175396,guzúajdxu,"scroll, book"
+βιβλίον,55,unigram,neuter,accusative,singular,xiche,2.2613515824814296,xiche,"scroll, book"
+διάκονος,88,unigram,masculine,nominative,singular,zrin,1.0470378303528434,zrin,"servant, minister, deacon"
+δοῦλος,204,unigram,masculine,accusative,plural,we̱n,1.1198719670059785,we̱n,"servant, slave"
+δοῦλος,30,unigram,masculine,accusative,singular,we̱n,1.1261072375609482,we̱n,"servant, slave"
+δοῦλος,97,unigram,masculine,nominative,plural,we̱n,1.1224889326211454,we̱n,"servant, slave"
+δοῦλος,199,unigram,masculine,nominative,singular,xrane̱,1.0165747901313966,xrane̱,"servant, slave"
+πρόβατον,311,unigram,neuter,accusative,plural,zrila,4.095150726927917,zrila,sheep
+πρόβατον,137,unigram,neuter,accusative,singular,zrila,1.58257270803714,zrila,sheep
+ποιμήν,238,unigram,masculine,nominative,plural,zrila,1.2338767103786912,zrila,"shepherd, pastor"
+ποιμήν,276,unigram,masculine,nominative,singular,zrila,1.6697945597053738,zrila,"shepherd, pastor"
+σημεῖον,133,unigram,neuter,accusative,plural,waca,1.621997008818185,waca,sign
+σημεῖον,121,unigram,neuter,accusative,singular,waca,1.6452633625143145,waca,sign
+σημεῖον,45,unigram,neuter,nominative,plural,xululé,1.6881581350792492,xululé,sign
+σημεῖον,87,unigram,neuter,nominative,singular,Jonás,1.0570224657807838,Jonás,sign
+δραχμή,163,unigram,feminine,accusative,singular,xezrelne̱,1.5251500824165145,xezrelne̱,"silver coin, drachma"
+ἀργύριον,209,unigram,neuter,accusative,plural,dumí,1.9980646991169253,dumí,"silver, money"
+ἀργύριον,318,unigram,neuter,accusative,singular,dumí,2.005518760366729,dumí,"silver, money"
+ἁμαρτία,271,unigram,feminine,accusative,plural,dul-la,1.5987317711718192,dul-la,sin
+ἁμαρτία,212,unigram,feminine,accusative,singular,dul-la,2.5999119384684493,dul-la,sin
+ἁμαρτία,280,unigram,feminine,nominative,plural,lawa,1.091428040005187,lawa,sin
+ἁμαρτία,277,unigram,feminine,nominative,singular,dul-la,1.2566837828559554,dul-la,sin
+ἀδελφή,299,unigram,feminine,accusative,plural,zane̱,1.2053247236132298,zane̱,sister
+ἀδελφή,127,unigram,feminine,accusative,singular,bile̱,1.2872909275746798,bile̱,sister
+ἀδελφή,23,unigram,feminine,nominative,plural,zane̱,1.4966574952901763,zane̱,sister
+ἀδελφή,298,unigram,feminine,nominative,singular,zana,1.0413380350806227,zana,sister
+ῥάπισμα,145,unigram,neuter,accusative,plural,guléchaje̱,1.1062648286089038,guléchaje̱,"slap, strike, hit"
+πλοιάριον,228,unigram,neuter,nominative,plural,Tiberias,1.0595416318177246,Tiberias,small boat
+πλοιάριον,132,unigram,neuter,nominative,singular,dxedá,1.0572396017416257,dxedá,small boat
+ὀψάριον,249,unigram,neuter,accusative,singular,bela,1.285288510345773,bela,small fish
+υἱός,50,unigram,masculine,accusative,plural,Zebedeo,1.3809707604416874,Zebedeo,son
+υἱός,120,unigram,masculine,accusative,singular,Gulje̱,1.0882101708710998,Gulje̱,son
+υἱός,123,unigram,masculine,nominative,plural,nen,1.0032999024270306,nen,son
+υἱός,206,unigram,masculine,nominative,singular,Gulje̱,1.0474499893677196,Gulje̱,son
+ψυχή,218,unigram,feminine,accusative,plural,cháchale,1.293464681032924,cháchale,"soul, life"
+ψυχή,274,unigram,feminine,accusative,singular,nabán,1.8627355411608597,nabán,"soul, life"
+ἀστήρ,284,unigram,masculine,nominative,plural,xelexruj,1.9999490850064168,xelexruj,star
+ἀστήρ,182,unigram,masculine,nominative,singular,belaj,1.1420962508140535,belaj,star
+λίθος,288,unigram,masculine,accusative,plural,gulequé̱,1.7269820130480733,gulequé̱,stone
+λίθος,39,unigram,masculine,accusative,singular,xiaj,5.280675063409771,xiaj,stone
+λίθος,131,unigram,masculine,nominative,plural,xiaj,1.6171351259093503,xiaj,stone
+λίθος,43,unigram,masculine,nominative,singular,xiaj,1.4516800994293406,xiaj,stone
+συναγωγή,236,unigram,feminine,accusative,plural,xeleché̱,1.0056302651473668,xeleché̱,synagogue
+συναγωγή,319,unigram,feminine,accusative,singular,guxú,1.5162058594980208,guxú,synagogue
+τράπεζα,188,unigram,feminine,accusative,plural,bdxixre̱,1.717464111727269,bdxixre̱,table
+τράπεζα,134,unigram,feminine,accusative,singular,xezrina,1.0960768946513286,xezrina,table
+τάλαντον,70,unigram,neuter,accusative,plural,cue,1.064965265151994,cue,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,221,unigram,neuter,accusative,singular,dumí,1.6091461647441143,dumí,talent (weight and monetary unit: around 20 years' wages)
+φόρος,262,unigram,masculine,accusative,plural,―Ble'entu,1.0960524252565438,―Ble'entu,tax
+φόρος,281,unigram,masculine,accusative,singular,Guzre,1.0960524252565438,Guzre,tax
+τελώνης,181,unigram,masculine,nominative,plural,wechizruj,2.8206665800653297,wechizruj,tax collector
+τελώνης,73,unigram,masculine,nominative,singular,wechizruj,2.9042208814505885,wechizruj,tax collector
+γραμματεύς,323,unigram,masculine,nominative,plural,dxuluxuzájle̱,1.0357860850850389,dxuluxuzájle̱,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,207,unigram,masculine,nominative,singular,dxuxuzájle̱,1.6171310862852368,dxuxuzájle̱,"teacher, expert in the law, scholar, scribe"
+καθηγητής,312,unigram,masculine,nominative,plural,Xránale,1.1132945682493978,Xránale,"teacher, guide"
+καθηγητής,220,unigram,masculine,nominative,singular,Xránale,1.1132945682493978,Xránale,"teacher, guide"
+κλέπτης,80,unigram,masculine,nominative,plural,gubán,1.2159000493598997,gubán,thief
+κλέπτης,219,unigram,masculine,nominative,singular,gubán,2.7006560611567973,gubán,thief
+διαλογισμός,285,unigram,masculine,accusative,plural,dxéquebe'ene̱,1.066260895130536,dxéquebe'ene̱,"thought, argument"
+διαλογισμός,112,unigram,masculine,nominative,plural,we̱te,1.0243980722651278,we̱te,"thought, argument"
+διαλογισμός,279,unigram,masculine,nominative,singular,núzraqueze,1.0960817954296525,núzraqueze,"thought, argument"
+θρόνος,233,unigram,masculine,accusative,singular,xelennáqueze̱,1.0960768946513286,xelennáqueze̱,throne
+χρόνος,259,unigram,masculine,accusative,plural,bde̱,1.0441362819534346,bde̱,time
+χρόνος,225,unigram,masculine,accusative,singular,iza,1.0620433597501804,iza,time
+καιρός,136,unigram,masculine,nominative,singular,zra,1.2239386743090883,zra,"time, right time"
+τάφος,167,unigram,masculine,accusative,singular,xjaque̱,1.0503996760939425,xjaque̱,"tomb, grave"
+μνημεῖον,16,unigram,neuter,accusative,plural,buluchálaje̱,1.2391013472526669,buluchálaje̱,"tomb, grave"
+μνημεῖον,20,unigram,neuter,accusative,singular,dxu,1.23660211652065,dxu,"tomb, grave"
+ὀδούς,71,unigram,masculine,accusative,singular,lazxu,1.2126015810458406,lazxu,tooth
+θησαυρός,93,unigram,masculine,accusative,plural,guteba,1.1564733311243922,guteba,treasure
+θησαυρός,213,unigram,masculine,accusative,singular,xache,1.1390994619836703,xache,treasure
+λίτρα,240,unigram,feminine,accusative,plural,nedxe,1.1613026128296644,nedxe,unit of measure around 300 grams
+κώμη,258,unigram,feminine,accusative,plural,xé̱zredu,2.704396319511841,xé̱zredu,village
+κώμη,56,unigram,feminine,accusative,singular,xé̱zredau,1.9173718424088533,xé̱zredau,village
+φωνή,197,unigram,feminine,nominative,plural,xá'atie̱,1.2129035140529936,xá'atie̱,voice or sound
+φωνή,308,unigram,feminine,nominative,singular,chi,1.1741302564183531,chi,voice or sound
+πόλεμος,251,unigram,masculine,accusative,plural,zrébele,1.1851092653454796,zrébele,war
+ὕδωρ,325,unigram,neuter,accusative,plural,nisa,1.708659920631961,nisa,water
+ὕδωρ,91,unigram,neuter,accusative,singular,nisa,4.276942082510471,nisa,water
+ὕδωρ,104,unigram,neuter,nominative,singular,nisa,1.6576050481519695,nisa,water
+ὑδρία,110,unigram,feminine,accusative,singular,xeaje̱zre̱,1.044101405315964,xeaje̱zre̱,water jar
+ὁδός,252,unigram,feminine,accusative,plural,neza,1.5719412836209588,neza,way
+ὁδός,138,unigram,feminine,accusative,singular,neza,4.928296229930455,neza,way
+γάμος,158,unigram,masculine,accusative,plural,wechaga,1.4318445993527429,wechaga,wedding
+γάμος,234,unigram,masculine,accusative,singular,laní,1.5621699245453582,laní,wedding
+γυνή,171,unigram,feminine,accusative,singular,zru'ule̱,1.4423353707275188,zru'ule̱,"wife, woman"
+γυνή,113,unigram,feminine,nominative,plural,nu'ula,1.2745004214333608,nu'ula,"wife, woman"
+γυνή,119,unigram,feminine,nominative,singular,nu'ula,7.110916972550705,nu'ula,"wife, woman"
+ἄνεμος,10,unigram,masculine,nominative,plural,guba,1.0647881951057057,guba,wind
+ἄνεμος,67,unigram,masculine,nominative,singular,nísadau,1.304998063262344,nísadau,wind
+πνεῦμα,296,unigram,neuter,accusative,plural,xegazre,1.3227887498456865,xegazre,"wind, breath, spirit"
+πνεῦμα,162,unigram,neuter,accusative,singular,Be,1.0175905002825851,Be,"wind, breath, spirit"
+πνεῦμα,14,unigram,neuter,nominative,plural,xriwe̱,1.2096277376358535,xriwe̱,"wind, breath, spirit"
+πνεῦμα,26,unigram,neuter,nominative,singular,Be,1.0163945457797114,Be,"wind, breath, spirit"
+λύκος,13,unigram,masculine,nominative,plural,becu,1.1062648286089038,becu,wolf
+λύκος,5,unigram,masculine,nominative,singular,dxuxúe̱'-ba,1.096057314542422,dxuxúe̱'-ba,wolf
+κοιλία,85,unigram,feminine,nominative,plural,bulugazre̱,1.1613897942730969,bulugazre̱,"womb, stomach, source of feelings and emotions"
+κοιλία,269,unigram,feminine,nominative,singular,bsegule̱,1.0961014216060068,bsegule̱,"womb, stomach, source of feelings and emotions"
+ῥῆμα,179,unigram,neuter,accusative,plural,Dizra,1.2248555528880285,Dizra,word
+ῥῆμα,160,unigram,neuter,accusative,singular,guléajni'ine̱,1.9132328639616785,guléajni'ine̱,word
+ῥῆμα,34,unigram,neuter,nominative,plural,xálaze,1.1237112027345455,xálaze,word
+ῥῆμα,314,unigram,neuter,nominative,singular,xeléajni'iquezne̱,1.1190151350620798,xeléajni'iquezne̱,word
+λόγος,161,unigram,masculine,accusative,plural,dxennía,1.0706907647472672,dxennía,word
+λόγος,151,unigram,masculine,accusative,singular,dizra,1.005263372073506,dizra,word
+λόγος,147,unigram,masculine,nominative,plural,Xabáa,1.4945470930442235,Xabáa,word
+λόγος,287,unigram,masculine,nominative,singular,Xrtizra,1.3113992748623866,Xrtizra,word
+ἔργον,47,unigram,neuter,accusative,plural,Xra,1.0008085349265083,Xra,work
+ἔργον,92,unigram,neuter,accusative,singular,ze̱de,1.1761804949515573,ze̱de,work
+ἔργον,291,unigram,neuter,nominative,plural,naxaní,1.1926768127663216,naxaní,work
+ἔργον,268,unigram,neuter,nominative,singular,chéajle̱le,1.049202397893949,chéajle̱le,work
+ἐργάτης,140,unigram,masculine,nominative,plural,bábaze,1.6843379063194803,bábaze,worker
+ἐργάτης,208,unigram,masculine,nominative,singular,xetú,1.052464957671082,xetú,worker
+ἔτος,248,unigram,neuter,accusative,plural,iza,3.164119935898605,iza,year
+ἔτος,172,unigram,neuter,accusative,singular,iza,1.4602153104267936,iza,year
+ζεῦγος,241,unigram,neuter,accusative,singular,Chupa,1.0960524252565438,Chupa,"yoke, pair"

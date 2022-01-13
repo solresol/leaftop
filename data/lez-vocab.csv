@@ -1,0 +1,278 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1060_translation,english_translation
+θεός,109,unigram,masculine,accusative,singular,Аллагьдиз,1.2532257252812593,Аллагьдиз,God
+θεός,21,unigram,masculine,nominative,plural,аллагьар,1.097258004808277,аллагьар,God
+θεός,173,unigram,masculine,nominative,singular,Аллагь,1.227398997020098,Аллагь,God
+κύριος,110,unigram,masculine,nominative,singular,Реббиди,1.2944750565800496,Реббиди,"Lord, lord, master"
+γραφή,105,unigram,feminine,accusative,plural,Калам,1.5447352767805558,Калам,Scripture
+γραφή,214,unigram,feminine,nominative,plural,жезвай,1.0122290368013285,жезвай,Scripture
+γραφή,265,unigram,feminine,nominative,singular,Каламда,1.7488711188326915,Каламда,Scripture
+ἄγγελος,78,unigram,masculine,accusative,plural,малаикар,1.597812305426972,малаикар,angel
+ἄγγελος,70,unigram,masculine,accusative,singular,чархачи,1.0925456145049528,чархачи,angel
+ἄγγελος,38,unigram,masculine,nominative,plural,малаикар,1.104884339193669,малаикар,angel
+ἄγγελος,88,unigram,masculine,nominative,singular,малаикди,1.090591163084617,малаикди,angel
+ἀπόστολος,35,unigram,masculine,nominative,plural,крарикай,1.2117234665490584,крарикай,apostle
+ἐξουσία,165,unigram,feminine,accusative,singular,ихтияр,2.1940475057294493,ихтияр,authority
+βρέφος,11,unigram,neuter,accusative,plural,алтадун,1.0595416318177246,алтадун,babies
+βρέφος,264,unigram,neuter,accusative,singular,Аял,1.527444243640461,Аял,babies
+ἀποθήκη,59,unigram,feminine,accusative,singular,къуьл,1.4675800420888785,къуьл,barn
+ἀρχή,151,unigram,feminine,accusative,singular,сифтедилай,1.1796099268067013,сифтедилай,beginning
+βλασφημία,25,unigram,feminine,accusative,plural,Тек,1.0595480639608463,Тек,blasphemy
+βλασφημία,171,unigram,feminine,nominative,plural,чӀуру,1.1307959219797137,чӀуру,blasphemy
+πλοῖον,86,unigram,neuter,accusative,plural,луьтквени,1.9576445096253965,луьтквени,boat
+πλοῖον,252,unigram,neuter,accusative,singular,луьткведа,2.685097857371297,луьткведа,boat
+πλοῖον,198,unigram,neuter,nominative,plural,луьтквеярни,1.096239847813496,луьтквеярни,boat
+πλοῖον,188,unigram,neuter,nominative,singular,луьткве,2.77440322901558,луьткве,boat
+σῶμα,51,unigram,neuter,nominative,singular,беден,1.1298362633726136,беден,body
+κλῆμα,47,unigram,neuter,nominative,plural,не,1.0960622061228922,не,branch
+ἄρτος,256,unigram,masculine,accusative,plural,фу,1.3422243556272837,фу,bread
+ἄρτος,277,unigram,masculine,accusative,singular,фу,7.760659367885929,фу,bread
+ἄρτος,129,unigram,masculine,nominative,plural,фу,1.0936021222404315,фу,bread
+ἄρτος,30,unigram,masculine,nominative,singular,фу,1.7182574036975768,фу,bread
+ἀδελφός,97,unigram,masculine,accusative,singular,стха,4.0744080770530005,стха,brother
+ἀδελφός,90,unigram,masculine,nominative,plural,стхаяр,1.2978301887471164,стхаяр,brother
+ἀδελφός,193,unigram,masculine,nominative,singular,стха,1.6405051910747002,стха,brother
+στῆθος,233,unigram,neuter,accusative,singular,вуж,1.0330425624662,вуж,"chest, breast"
+ἀρχιερεύς,201,unigram,masculine,accusative,plural,чӀехи,2.740507294228896,чӀехи,chief priest
+ἀρχιερεύς,52,unigram,masculine,accusative,singular,кьилин,1.2842236928298745,кьилин,chief priest
+ἀρχιερεύς,96,unigram,masculine,nominative,plural,чӀехи,1.9192298744525051,чӀехи,chief priest
+ἀρχιερεύς,204,unigram,masculine,nominative,singular,кьилин,1.2225939123619831,кьилин,chief priest
+παῖς,196,unigram,masculine,accusative,plural,хъел,1.3126854720290069,хъел,child
+παῖς,40,unigram,masculine,accusative,singular,агатзавайла,1.0961210847775034,агатзавайла,child
+τέκνον,271,unigram,neuter,accusative,plural,аялар,1.6262199902320045,аялар,child
+τέκνον,159,unigram,neuter,nominative,singular,хва,1.7336116902317054,хва,child
+παιδίον,10,unigram,neuter,accusative,plural,гьахьтинбурунди,1.0876729259408686,гьахьтинбурунди,child
+παιδίον,75,unigram,neuter,accusative,singular,аял,1.1141852203573903,аял,child
+παιδίον,143,unigram,neuter,nominative,plural,аялар,1.1889294161903496,аялар,child
+παιδίον,32,unigram,neuter,nominative,singular,аялди,1.1498621188521183,аялди,child
+πόλις,152,unigram,feminine,accusative,plural,хуьрера,1.1294467354659496,хуьрера,city
+πόλις,55,unigram,feminine,accusative,singular,шегьердиз,4.8339293128343614,шегьердиз,city
+χιτών,93,unigram,masculine,accusative,plural,аса,1.0715725811976675,аса,"clothing, undergarments"
+χιτών,22,unigram,masculine,accusative,singular,перем,1.8386713115451208,перем,"clothing, undergarments"
+ἱμάτιον,107,unigram,neuter,accusative,plural,пекер,1.5850215558188658,пекер,coat
+ἱμάτιον,106,unigram,neuter,accusative,singular,аба,1.156637005410364,аба,coat
+ἐντολή,69,unigram,feminine,accusative,plural,тагькимар,2.4984411625475884,тагькимар,commandment
+ἐντολή,67,unigram,feminine,accusative,singular,тагьким,1.8098963451453656,тагьким,commandment
+συνέδριον,261,unigram,neuter,accusative,plural,мукъаят,1.5967910836801111,мукъаят,council
+συνέδριον,43,unigram,neuter,accusative,singular,Меслягьатдиз,1.6009270422099824,Меслягьатдиз,council
+ὄχλος,48,unigram,masculine,accusative,plural,халкь,1.3568913983130713,халкь,crowd
+ὄχλος,7,unigram,masculine,accusative,singular,халкь,2.100811573007439,халкь,crowd
+ὄχλος,80,unigram,masculine,nominative,plural,халкь,1.247705615696869,халкь,crowd
+ὄχλος,228,unigram,masculine,nominative,singular,инсанар,1.1656487084036558,инсанар,crowd
+θυγάτηρ,255,unigram,feminine,nominative,singular,руш,4.935033950847644,руш,daughter
+ἡμέρα,63,unigram,feminine,accusative,plural,юкъуз,1.6432841032294738,юкъуз,day
+ἡμέρα,71,unigram,feminine,accusative,singular,юкъуз,1.0154214015121288,юкъуз,day
+ἡμέρα,2,unigram,feminine,nominative,plural,йикъар,1.7546335991840636,йикъар,day
+ἡμέρα,57,unigram,feminine,nominative,singular,югъ,1.0765169101195309,югъ,day
+ὀφειλέτης,98,unigram,masculine,nominative,singular,Эвелни-эвел,1.255464243734474,Эвелни-эвел,debtor
+δαιμόνιον,23,unigram,neuter,accusative,plural,жинерар,1.4088650556579612,жинерар,demon
+δαιμόνιον,267,unigram,neuter,accusative,singular,жин,2.9323987995490075,жин,demon
+δαιμόνιον,141,unigram,neuter,nominative,singular,жин,1.3000924684604775,жин,demon
+δηνάριον,249,unigram,neuter,accusative,plural,динар,1.9345788267406527,динар,denarius (about a day's wages)
+δηνάριον,131,unigram,neuter,accusative,singular,динар,2.782515977121917,динар,denarius (about a day's wages)
+μαθητής,147,unigram,masculine,accusative,plural,тилмизриз,1.2848321416726531,тилмизриз,disciple
+μαθητής,272,unigram,masculine,accusative,singular,рикӀ,1.2598106725641929,рикӀ,disciple
+μαθητής,223,unigram,masculine,nominative,plural,тилмизри,1.0852324223876957,тилмизри,disciple
+μαθητής,270,unigram,masculine,nominative,singular,тилмиз,2.1888116611617603,тилмиз,disciple
+νόσος,3,unigram,feminine,accusative,plural,азарар,1.6526322861949914,азарар,disease
+νόσος,62,unigram,feminine,accusative,singular,сагъар,1.2396148700840623,сагъар,disease
+περιστερά,79,unigram,feminine,accusative,plural,лифер,1.3578562718999496,лифер,dove
+περιστερά,45,unigram,feminine,accusative,singular,шикилда,1.3665427847343397,шикилда,dove
+οὖς,122,unigram,neuter,accusative,plural,япар,1.0240800961948733,япар,ear
+σεισμός,166,unigram,masculine,nominative,plural,залзалаяр,1.2147585393228764,залзалаяр,"earthquakes, storm"
+τέλος,220,unigram,neuter,accusative,singular,эхайди,1.3903576755010398,эхайди,end
+αἰών,247,unigram,masculine,accusative,singular,чӀавузни,1.2255462822395593,чӀавузни,eternity
+ὀφθαλμός,15,unigram,masculine,accusative,plural,вилериз,1.0732768573338989,вилериз,eye
+ὀφθαλμός,54,unigram,masculine,nominative,plural,вилер,3.3015905516784816,вилер,eye
+ὀφθαλμός,245,unigram,masculine,nominative,singular,вили,1.1031192424869556,вили,eye
+πρόσωπον,157,unigram,neuter,accusative,singular,чин,1.1284932793891482,чин,face
+γεωργός,205,unigram,masculine,nominative,plural,варис,1.049969525702324,варис,"farmer, tenant"
+γεωργός,41,unigram,masculine,nominative,singular,ЦипицӀдин,1.0961112485594913,ЦипицӀдин,"farmer, tenant"
+πατήρ,248,unigram,masculine,accusative,singular,Бубадин,1.0524695998991065,Бубадин,father
+πατήρ,254,unigram,masculine,nominative,plural,бубайри,2.4983976674515778,бубайри,father
+πατήρ,153,unigram,masculine,nominative,singular,Бубади,1.5555343142695437,Бубади,father
+σύνδουλος,72,unigram,masculine,accusative,singular,юлдашдизни,1.4800185671823145,юлдашдизни,"fellow-servant, colleague"
+σύνδουλος,258,unigram,masculine,nominative,plural,юлдашар,1.161328723715616,юлдашар,"fellow-servant, colleague"
+σύνδουλος,91,unigram,masculine,nominative,singular,квайда,1.0960670999999007,квайда,"fellow-servant, colleague"
+ἀγρός,31,unigram,masculine,accusative,singular,ГетӀехъандин,1.3149968092490307,ГетӀехъандин,field
+δάκτυλος,146,unigram,masculine,accusative,singular,къвалаз,1.1454757276999707,къвалаз,finger
+ἰχθύς,125,unigram,masculine,accusative,plural,гъед,1.0679612884568048,гъед,fish
+δίκτυον,87,unigram,neuter,accusative,plural,чилер,1.4062846114387844,чилер,fishing net
+δίκτυον,163,unigram,neuter,accusative,singular,гъетер,1.8144154009812208,гъетер,fishing net
+δίκτυον,142,unigram,neuter,nominative,plural,гъетер,1.022917009259019,гъетер,fishing net
+τροφή,199,unigram,feminine,accusative,plural,фенвай,1.0440069086914847,фенвай,food
+πούς,194,unigram,masculine,accusative,plural,кӀвачер,3.393641516507192,кӀвачер,foot
+καρπός,150,unigram,masculine,accusative,plural,майваяр,2.9773469571696114,майваяр,"fruit, crop, harvest"
+καρπός,191,unigram,masculine,accusative,singular,майваяр,2.697705525388015,майваяр,"fruit, crop, harvest"
+πλήρωμα,217,unigram,neuter,accusative,plural,кӀусарай,1.0662810310693749,кӀусарай,fullness
+γενεά,192,unigram,feminine,accusative,singular,крарай,1.838522643268853,крарай,generation
+γενεά,121,unigram,feminine,nominative,singular,несил,2.0643180104348224,несил,generation
+δῶρον,132,unigram,neuter,accusative,singular,къурбанган,1.1187975784973625,къурбанган,gift
+ἡγεμών,140,unigram,masculine,accusative,plural,себеб,1.5829364355739717,себеб,"governor, ruler"
+ἀσπασμός,257,unigram,masculine,accusative,plural,ала,1.2460630352411597,ала,greeting
+ὁδηγός,4,unigram,masculine,nominative,singular,регьберар,1.2633066601546783,регьберар,guide
+θρίξ,28,unigram,feminine,accusative,singular,чӀарни,1.161372324758298,чӀарни,hair
+θρίξ,178,unigram,feminine,nominative,singular,чӀарни,1.2126135885362554,чӀарни,hair
+χείρ,251,unigram,feminine,accusative,plural,гъилер,2.1833584615681065,гъилер,hand
+χείρ,181,unigram,feminine,accusative,singular,гъил,2.0197412887835133,гъил,hand
+κεφαλή,114,unigram,feminine,accusative,plural,кьилер,1.341461928330732,кьилер,head
+κεφαλή,169,unigram,feminine,accusative,singular,кьил,2.0347418507011708,кьил,head
+στάχυς,170,unigram,masculine,accusative,plural,къуьлер,1.1133013679752972,къуьлер,head of grain
+καρδία,230,unigram,feminine,accusative,singular,рикӀер,1.4698129447598842,рикӀер,heart
+καρδία,158,unigram,feminine,nominative,singular,рикӀер,1.276623517056123,рикӀер,heart
+οὐρανός,213,unigram,masculine,accusative,singular,цавуз,1.2020760301218425,цавуз,"heaven, sky"
+οὐρανός,161,unigram,masculine,nominative,singular,цав,1.924859501006428,цав,"heaven, sky"
+ὥρα,18,unigram,feminine,nominative,singular,вахт,1.9470820963102364,вахт,hour
+οἰκία,262,unigram,feminine,accusative,singular,кӀвализ,1.3628249747913972,кӀвализ,house
+οἶκος,14,unigram,masculine,accusative,singular,кӀвализ,3.309269316508884,кӀвализ,"house, home"
+κριτής,134,unigram,masculine,nominative,singular,дуванбегдини,1.0685029661907977,дуванбегдини,judge
+βασιλεύς,85,unigram,masculine,accusative,plural,себеб,1.5822709611948893,себеб,king
+βασιλεύς,49,unigram,masculine,accusative,singular,Пачагь,1.4624848147177467,Пачагь,king
+βασιλεία,66,unigram,feminine,accusative,plural,пачагьлугъар,1.081577125571866,пачагьлугъар,kingdom
+βασιλεία,130,unigram,feminine,accusative,singular,Пачагьлугъдиз,1.5915649401233778,Пачагьлугъдиз,kingdom
+κόπος,164,unigram,masculine,accusative,plural,хъсанвал,1.5900341775669318,хъсанвал,"labour, work, trouble, difficulty"
+λύχνος,189,unigram,masculine,nominative,singular,чирагъ,1.4945878736442564,чирагъ,lamp
+κλῆρος,1,unigram,masculine,accusative,singular,чип,1.5323061560754436,чип,"lots (casting of lots), inheritance"
+ἄνθρωπος,238,unigram,masculine,accusative,plural,инсанар,1.1804244988460373,инсанар,man
+ἄνθρωπος,206,unigram,masculine,accusative,singular,инсан,1.250643184112888,инсан,man
+ἄνθρωπος,94,unigram,masculine,nominative,plural,инсанри,1.5351038960434211,инсанри,man
+ἄνθρωπος,145,unigram,masculine,nominative,singular,инсан,1.3329317048102924,инсан,man
+ἀνήρ,202,unigram,masculine,accusative,singular,гъуьл,1.9163518754331368,гъуьл,"man, husband"
+ἀνήρ,119,unigram,masculine,nominative,plural,агъзур,1.3437535654912205,агъзур,"man, husband"
+ἀνήρ,195,unigram,masculine,nominative,singular,минетна,1.2451563701379018,минетна,"man, husband"
+μνᾶ,241,unigram,feminine,accusative,plural,манат,1.0564177152819219,манат,mina (about 100 days' wages)
+πρωτοκαθεδρία,84,unigram,feminine,accusative,plural,алахъда,1.1277788911398037,алахъда,"most important seat, seat of honour"
+μήτηρ,224,unigram,feminine,accusative,singular,диде,1.6311998042889155,диде,mother
+ὄρος,177,unigram,neuter,accusative,plural,дагълара,1.1830865586824322,дагълара,mountain
+ὄρος,211,unigram,neuter,accusative,singular,пелел,1.595319117562992,пелел,mountain
+μύρον,19,unigram,neuter,accusative,singular,илична,1.0960965115985384,илична,myrrh
+ὄνομα,82,unigram,neuter,nominative,plural,тӀварар,1.8871277759222849,тӀварар,name
+ὄνομα,203,unigram,neuter,nominative,singular,лугьудай,1.0037265440913774,лугьудай,name
+ἔθνος,187,unigram,neuter,accusative,plural,халкьарин,1.5074175545190385,халкьарин,nation
+ἔθνος,244,unigram,neuter,nominative,plural,галтугзавайбур,1.3124733830143975,галтугзавайбур,nation
+νύξ,155,unigram,feminine,accusative,plural,йифиз,1.971747451157282,йифиз,night
+ὅρκος,50,unigram,masculine,accusative,plural,кьин,1.437463675059115,кьин,oath
+βοῦς,123,unigram,masculine,accusative,plural,пулар,1.2699084018418936,пулар,ox
+παραβολή,209,unigram,feminine,accusative,plural,гъавурда,1.060698923990096,гъавурда,parable
+παραβολή,182,unigram,feminine,accusative,singular,кьиса,1.3375429844643074,кьиса,parable
+μέρος,276,unigram,neuter,accusative,plural,Иса,1.178481099165747,Иса,part
+μέρος,42,unigram,neuter,accusative,singular,гьич,1.2791433501477731,гьич,part
+μαργαρίτης,27,unigram,masculine,accusative,singular,гевгьер,1.161311312321613,гевгьер,pearls
+τόπος,219,unigram,masculine,accusative,plural,залзалаяр,1.1929005110315976,залзалаяр,place
+τόπος,237,unigram,masculine,accusative,singular,чкадиз,1.2849521739474226,чкадиз,place
+πρωτοκλισία,222,unigram,feminine,accusative,plural,чкаяр,1.2204032480314726,чкаяр,place of honor
+πρωτοκλισία,26,unigram,feminine,accusative,singular,кьаз,1.2998931645138734,кьаз,place of honor
+ὄφις,83,unigram,masculine,accusative,singular,гъуьлягъ,1.834488970229193,гъуьлягъ,poison
+σκεῦος,103,unigram,neuter,nominative,plural,чӀередал,1.0960670999999007,чӀередал,"possession, object, thing, jar, vessel"
+δύναμις,37,unigram,feminine,accusative,singular,къуват,2.4938707177694144,къуват,"power, ability, miracle"
+δύναμις,68,unigram,feminine,nominative,plural,аламатар,1.7945241779809962,аламатар,"power, ability, miracle"
+δύναμις,92,unigram,feminine,nominative,singular,сагъар,1.1254094142941369,сагъар,"power, ability, miracle"
+ἱερεύς,197,unigram,masculine,nominative,singular,хахам,1.695369102538379,хахам,priest
+φυλακή,17,unigram,feminine,accusative,singular,къазаматда,1.8366131512749897,къазаматда,prison
+προφήτης,53,unigram,masculine,accusative,plural,пайгъамбарар,1.282731337837942,пайгъамбарар,prophet
+προφήτης,162,unigram,masculine,accusative,singular,пайгъамбар,1.1804441609140428,пайгъамбар,prophet
+προφήτης,183,unigram,masculine,nominative,plural,пайгъамбарарни,1.4722076526388908,пайгъамбарарни,prophet
+προφήτης,212,unigram,masculine,nominative,singular,пайгъамбар,2.206643194211181,пайгъамбар,prophet
+ποταμός,99,unigram,masculine,nominative,plural,вацӀар,1.532311436188919,вацӀар,river
+ποταμός,137,unigram,masculine,nominative,singular,эцигнавай,1.176210798364662,эцигнавай,river
+λῃστής,275,unigram,masculine,accusative,singular,къачагъ,1.0811206535908369,къачагъ,robber
+λῃστής,259,unigram,masculine,nominative,plural,санал,1.2676590350081691,санал,robber
+λῃστής,127,unigram,masculine,nominative,singular,ваъ,1.1019642997139347,ваъ,robber
+ἄρχων,167,unigram,masculine,accusative,plural,гьакимар,1.3570374812615185,гьакимар,ruler
+ἄρχων,56,unigram,masculine,nominative,plural,Месигь,1.1300964650519951,Месигь,ruler
+ἄρχων,253,unigram,masculine,nominative,singular,агъавалзавай,1.2716968497794117,агъавалзавай,ruler
+ἀκοή,5,unigram,feminine,accusative,plural,Мукьваривай,1.0647463382385278,Мукьваривай,rumor
+ἀκοή,64,unigram,feminine,accusative,singular,Гьирудал,1.2555537226329223,Гьирудал,rumor
+ἀκοή,266,unigram,feminine,nominative,singular,ван-сес,1.235814963170497,ван-сес,rumor
+βιβλίον,44,unigram,neuter,accusative,singular,тӀалакьар,1.0685029661907977,тӀалакьар,"scroll, book"
+διάκονος,74,unigram,masculine,nominative,singular,кьилел-кӀвачел,1.2882404432695531,кьилел-кӀвачел,"servant, minister, deacon"
+δοῦλος,172,unigram,masculine,accusative,plural,лукӀар,1.3333253046707507,лукӀар,"servant, slave"
+δοῦλος,20,unigram,masculine,accusative,singular,галудна,1.093947924331595,галудна,"servant, slave"
+δοῦλος,81,unigram,masculine,nominative,plural,лукӀар,1.1389128172670149,лукӀар,"servant, slave"
+δοῦλος,168,unigram,masculine,nominative,singular,вичин,1.1313599069929026,вичин,"servant, slave"
+πρόβατον,263,unigram,neuter,accusative,plural,хипер,3.3460547431672545,хипер,sheep
+πρόβατον,116,unigram,neuter,accusative,singular,хеб,1.9999485689432897,хеб,sheep
+ποιμήν,231,unigram,masculine,nominative,singular,чубан,1.2355749487339442,чубан,"shepherd, pastor"
+σημεῖον,113,unigram,neuter,accusative,plural,керемат-ишараяр,4.026123585751208,керемат-ишараяр,sign
+σημεῖον,102,unigram,neuter,accusative,singular,керемат-ишара,2.694057702596944,керемат-ишара,sign
+σημεῖον,34,unigram,neuter,nominative,plural,ишараяр,1.9576421775424664,ишараяр,sign
+σημεῖον,73,unigram,neuter,nominative,singular,ишара,1.511478836117065,ишара,sign
+δραχμή,139,unigram,feminine,accusative,singular,пул,1.2315883661497764,пул,"silver coin, drachma"
+ἀργύριον,176,unigram,neuter,accusative,plural,пул,1.2955644275762168,пул,"silver, money"
+ἀργύριον,268,unigram,neuter,accusative,singular,пул,2.341712412837184,пул,"silver, money"
+ἁμαρτία,227,unigram,feminine,accusative,plural,гунагьрилай,1.4637966808929348,гунагьрилай,sin
+ἁμαρτία,179,unigram,feminine,accusative,singular,жедачир,1.0732646034204876,жедачир,sin
+ἁμαρτία,235,unigram,feminine,nominative,plural,гунагьрилай,1.1307473111415174,гунагьрилай,sin
+ἁμαρτία,232,unigram,feminine,nominative,singular,язни,1.106429265321974,язни,sin
+ἀδελφή,108,unigram,feminine,accusative,singular,Марта,1.7458380109063063,Марта,sister
+ἀδελφή,13,unigram,feminine,nominative,plural,вахарни,1.2103026682522118,вахарни,sister
+ῥάπισμα,124,unigram,neuter,accusative,plural,Сагъ,1.1454502626623055,Сагъ,"slap, strike, hit"
+ῥάπισμα,221,unigram,neuter,accusative,singular,гудани,1.096057314542422,гудани,"slap, strike, hit"
+πλοιάριον,112,unigram,neuter,nominative,singular,басрухра,1.237689762255867,басрухра,small boat
+ὀψάριον,149,unigram,neuter,accusative,plural,гададив,1.0960622061228922,гададив,small fish
+ὀψάριον,208,unigram,neuter,accusative,singular,фу,1.1645361402969547,фу,small fish
+υἱός,39,unigram,masculine,accusative,plural,Зебедеян,1.571328943120479,Зебедеян,son
+υἱός,101,unigram,masculine,accusative,singular,Хва,1.3944614086279177,Хва,son
+υἱός,104,unigram,masculine,nominative,plural,веледар,2.494643956206506,веледар,son
+υἱός,174,unigram,masculine,nominative,singular,Хва,1.5667620402372542,Хва,son
+ψυχή,184,unigram,feminine,accusative,plural,КӀевиз,1.3310477493098438,КӀевиз,"soul, life"
+ψυχή,229,unigram,feminine,accusative,singular,чан,1.4638007720942208,чан,"soul, life"
+ἀστήρ,239,unigram,masculine,nominative,plural,юзада,1.1062648286089038,юзада,star
+λίθος,243,unigram,masculine,accusative,plural,къванер,1.88738697223512,къванер,stone
+λίθος,29,unigram,masculine,accusative,singular,къван,3.0932962071125965,къван,stone
+λίθος,111,unigram,masculine,nominative,plural,къванер,1.8384257999188525,къванер,stone
+λίθος,33,unigram,masculine,nominative,singular,къван,1.7460169758738993,къван,stone
+συναγωγή,200,unigram,feminine,accusative,plural,синагугра,1.494578515125317,синагугра,synagogue
+συναγωγή,269,unigram,feminine,accusative,singular,синагугдиз,2.1239812953703527,синагугдиз,synagogue
+τράπεζα,160,unigram,feminine,accusative,plural,КӀвалин,1.147818364233424,КӀвалин,table
+τάλαντον,60,unigram,neuter,accusative,plural,тӀалантӀ,1.7712962511038897,тӀалантӀ,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,186,unigram,neuter,accusative,singular,тӀалантӀ,2.8731015875292907,тӀалантӀ,talent (weight and monetary unit: around 20 years' wages)
+φόρος,218,unigram,masculine,accusative,plural,Месигь-Пачагь,1.0960524252565438,Месигь-Пачагь,tax
+φόρος,236,unigram,masculine,accusative,singular,жезвани,1.059531995066612,жезвани,tax
+τελώνης,156,unigram,masculine,nominative,plural,харж,1.249392866323947,харж,tax collector
+τελώνης,61,unigram,masculine,nominative,singular,харж,1.7745431468003867,харж,tax collector
+γραμματεύς,273,unigram,masculine,nominative,plural,тавратдарри,1.0266639293172093,тавратдарри,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,175,unigram,masculine,nominative,singular,тавратдарди,1.6997769953538573,тавратдарди,"teacher, expert in the law, scholar, scribe"
+κλέπτης,185,unigram,masculine,nominative,singular,угъри,2.533564156344102,угъри,thief
+διαλογισμός,240,unigram,masculine,accusative,plural,абурун,1.0223986651218455,абурун,"thought, argument"
+διαλογισμός,118,unigram,masculine,accusative,singular,фикир,1.0564420663892231,фикир,"thought, argument"
+διαλογισμός,234,unigram,masculine,nominative,singular,гьуьжет,1.0441163236891542,гьуьжет,"thought, argument"
+χρόνος,216,unigram,masculine,accusative,plural,вахтаралди,1.1614247833415607,вахтаралди,time
+χρόνος,190,unigram,masculine,accusative,singular,чирна,1.0318661074476414,чирна,time
+καιρός,115,unigram,masculine,nominative,singular,вахт,2.5880709347079063,вахт,"time, right time"
+τάφος,144,unigram,masculine,accusative,singular,кьветӀен,1.5283782713708594,кьветӀен,"tomb, grave"
+μνημεῖον,9,unigram,neuter,accusative,plural,гуьмбетар,1.0441814710301165,гуьмбетар,"tomb, grave"
+μνημεῖον,12,unigram,neuter,accusative,singular,кьветӀин,1.3197696735030042,кьветӀин,"tomb, grave"
+θησαυρός,180,unigram,masculine,accusative,singular,хазинаяр,1.4349487647661852,хазинаяр,treasure
+δένδρον,65,unigram,neuter,accusative,singular,тар,1.5828937953675741,тар,tree	
+κώμη,215,unigram,feminine,accusative,plural,патарив,1.1078819679644252,патарив,village
+κώμη,46,unigram,feminine,accusative,singular,хуьруьз,4.1731789163208814,хуьруьз,village
+φωνή,260,unigram,feminine,nominative,singular,ван,1.3434510021260644,ван,voice or sound
+πόλεμος,210,unigram,masculine,accusative,plural,ванер,1.2450208161773224,ванер,war
+ὕδωρ,274,unigram,neuter,accusative,plural,целай,1.9576584784772035,целай,water
+ὕδωρ,76,unigram,neuter,accusative,singular,яд,4.594044840328123,яд,water
+ὕδωρ,89,unigram,neuter,nominative,singular,яд,1.4845978992104332,яд,water
+ὁδός,117,unigram,feminine,accusative,singular,рехъ,1.7414710499358743,рехъ,way
+γάμος,133,unigram,masculine,accusative,plural,межлисдиз,1.0355653901626058,межлисдиз,wedding
+γυνή,148,unigram,feminine,accusative,singular,паб,3.2167452051508962,паб,"wife, woman"
+γυνή,95,unigram,feminine,nominative,plural,папарни,1.178207984959866,папарни,"wife, woman"
+γυνή,100,unigram,feminine,nominative,singular,паб,1.7004053932298318,паб,"wife, woman"
+ἄνεμος,6,unigram,masculine,nominative,plural,гарар,1.0647881951057057,гарар,wind
+ἄνεμος,58,unigram,masculine,nominative,singular,гар,1.5225183914432725,гар,wind
+πνεῦμα,250,unigram,neuter,accusative,plural,жинерар,1.0356339734709794,жинерар,"wind, breath, spirit"
+πνεῦμα,138,unigram,neuter,accusative,singular,Руьгь,1.9228921889342023,Руьгь,"wind, breath, spirit"
+πνεῦμα,8,unigram,neuter,nominative,plural,ЧӀуру,1.529636258622496,ЧӀуру,"wind, breath, spirit"
+πνεῦμα,16,unigram,neuter,nominative,singular,Руьгь,1.8681417133207063,Руьгь,"wind, breath, spirit"
+κοιλία,226,unigram,feminine,nominative,singular,нек,1.2126376208639589,нек,"womb, stomach, source of feelings and emotions"
+ῥῆμα,154,unigram,neuter,accusative,plural,гафар,2.0609815505084463,гафар,word
+ῥῆμα,135,unigram,neuter,accusative,singular,гафарин,1.0993231365972234,гафарин,word
+ῥῆμα,24,unigram,neuter,nominative,plural,гафар,1.1479800511783027,гафар,word
+λόγος,136,unigram,masculine,accusative,plural,гафар,1.0150924701792414,гафар,word
+λόγος,128,unigram,masculine,accusative,singular,гаф,2.7034124021586057,гаф,word
+λόγος,126,unigram,masculine,nominative,plural,Гафар,1.4945470930442235,Гафар,word
+λόγος,242,unigram,masculine,nominative,singular,гафар,1.183166366976,гафар,word
+ἔργον,36,unigram,neuter,accusative,plural,крар,2.853966376343051,крар,work
+ἔργον,77,unigram,neuter,accusative,singular,авуна,1.2501168104177416,авуна,work
+ἔργον,246,unigram,neuter,nominative,plural,крар,1.4883974933511688,крар,work
+ἔργον,225,unigram,neuter,nominative,singular,Ракъурнавайдахъ,1.385473133972835,Ракъурнавайдахъ,work
+ἐργάτης,120,unigram,masculine,nominative,plural,гуьдайбур,1.1160145436691074,гуьдайбур,worker
+ἔτος,207,unigram,neuter,accusative,plural,йисан,1.1980099404332336,йисан,year

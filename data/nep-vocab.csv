@@ -1,0 +1,319 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_2246_translation,version_2247_translation,english_translation
+θεός,126,unigram,masculine,accusative,singular,,,परमेश्‍वरको,परमेश्वरको,God
+θεός,27,unigram,masculine,nominative,plural,देवहरू,1.4649498548892605,देवहरू,देवहरू,God
+θεός,196,unigram,masculine,nominative,singular,,,परमेश्‍वरले,परमेश्वर,God
+κύριος,127,unigram,masculine,nominative,singular,,,मालिकले,प्रभु,"Lord, lord, master"
+γραφή,121,unigram,feminine,accusative,plural,,,धर्मशास्‍त्र,धर्मशास्त्रहरूमा,Scripture
+γραφή,48,unigram,feminine,accusative,singular,धर्मशास्‍त्रको,1.9999486772711133,धर्मशास्‍त्रको,,Scripture
+γραφή,245,unigram,feminine,nominative,plural,पूरा,3.6388746687773827,पूरा,पूरा,Scripture
+γραφή,305,unigram,feminine,nominative,singular,,,धर्मशास्‍त्र,धर्मशास्त्रमा,Scripture
+ἄγγελος,93,unigram,masculine,accusative,plural,स्वर्गदूतहरूलाई,1.4656409650092095,,स्वर्गदूतहरूलाई,angel
+ἄγγελος,79,unigram,masculine,accusative,singular,,,दूतलाई,सुन,angel
+ἄγγελος,45,unigram,masculine,nominative,plural,,,स्‍वर्गदूतहरूले,स्वर्गदूतहरू,angel
+ἄγγελος,103,unigram,masculine,nominative,singular,,,परमप्रभुका,दूत,angel
+ἀπόστολος,42,unigram,masculine,nominative,plural,प्रेरितहरू,2.050343421469005,प्रेरितहरू,प्रेरितहरू,apostle
+ἀπόστολος,5,unigram,masculine,nominative,singular,पठाउनेभन्‍दा,1.0960817954296525,पठाउनेभन्‍दा,,apostle
+ἐξουσία,187,unigram,feminine,accusative,singular,अधिकार,14.26194324370611,अधिकार,अधिकार,authority
+βρέφος,14,unigram,neuter,accusative,plural,,,शिशुहरूलाई,ल्याँउदै,babies
+βρέφος,303,unigram,neuter,accusative,singular,,,डूँड़मा,सुतिरहेको,babies
+ἀποθήκη,251,unigram,feminine,accusative,plural,भकारीहरूमा,1.999949042375989,,भकारीहरूमा,barn
+ἀποθήκη,65,unigram,feminine,accusative,singular,ननिभ्ने,1.064738751859238,,ननिभ्ने,barn
+ἀρχή,67,unigram,feminine,accusative,plural,ल्‍याउँछन्,1.0961063339256685,ल्‍याउँछन्,,beginning
+βλασφημία,31,unigram,feminine,accusative,plural,सक्‍नुहुन्‍छ।,1.0595480639608463,सक्‍नुहुन्‍छ।,,blasphemy
+βλασφημία,90,unigram,feminine,accusative,singular,,,च्‍याते,च्यात्दै,blasphemy
+βλασφημία,194,unigram,feminine,nominative,plural,गरिनेछन्,1.1062485993005018,गरिनेछन्,,blasphemy
+βλασφημία,80,unigram,feminine,nominative,singular,निन्‍दा,1.8078099263355247,निन्‍दा,,blasphemy
+πλοῖον,101,unigram,neuter,accusative,plural,डुङ्गाहरू,1.2865836531042867,डुङ्गाहरू,डुङ्गाहरू,boat
+πλοῖον,290,unigram,neuter,accusative,singular,डुङ्गामा,11.295358652676603,डुङ्गामा,डुङ्गामा,boat
+πλοῖον,214,unigram,neuter,nominative,singular,डुङ्गा,7.074064000107676,डुङ्गा,डुङ्गा,boat
+σῶμα,202,unigram,neuter,nominative,plural,मृत,1.0807246529322392,मृत,,body
+σῶμα,57,unigram,neuter,nominative,singular,शरीर,13.912609616361024,शरीर,शरीर,body
+κλῆμα,53,unigram,neuter,nominative,plural,दिनेछ।,1.0960622061228922,,दिनेछ।,branch
+κλῆμα,141,unigram,neuter,nominative,singular,,,रहेन,ममा,branch
+ἄρτος,294,unigram,masculine,accusative,plural,रोटी,7.49510706681332,रोटी,रोटी,bread
+ἄρτος,318,unigram,masculine,accusative,singular,रोटी,18.48930161176453,रोटी,रोटी,bread
+ἄρτος,149,unigram,masculine,nominative,plural,रोटी,3.805560066759377,रोटी,रोटी,bread
+ἄρτος,38,unigram,masculine,nominative,singular,रोटी,5.032301061576168,रोटी,रोटी,bread
+ἀδελφός,280,unigram,masculine,accusative,plural,दाजुभाइ,1.6412438534718918,दाजुभाइ,,brother
+ἀδελφός,114,unigram,masculine,accusative,singular,भाइ,2.623900810984221,भाइ,भाइ,brother
+ἀδελφός,107,unigram,masculine,nominative,plural,भाइहरू,1.6016652433934415,भाइहरू,भाइहरू,brother
+ἀδελφός,218,unigram,masculine,nominative,singular,भाइ,4.784718550612348,भाइ,भाइ,brother
+στῆθος,265,unigram,neuter,accusative,singular,छातीमा,2.0488720361170953,छातीमा,छातीमा,"chest, breast"
+ἀρχιερεύς,227,unigram,masculine,accusative,plural,,,मुख्‍य,पूजाहारीहरू,chief priest
+ἀρχιερεύς,58,unigram,masculine,accusative,singular,प्रधान,2.4227579065527145,प्रधान,प्रधान,chief priest
+ἀρχιερεύς,113,unigram,masculine,nominative,plural,,,मुख्‍य,मुख्य,chief priest
+ἀρχιερεύς,231,unigram,masculine,nominative,singular,प्रधान,3.753325059310801,प्रधान,प्रधान,chief priest
+τέκνον,312,unigram,neuter,accusative,plural,,,दाजुभाइ,सन्तान,child
+τέκνον,168,unigram,neuter,accusative,singular,,,भाइले,बाबुहरूले,child
+τέκνον,15,unigram,neuter,nominative,plural,,,छोरा-छोरीहरू,बाबुहरूले,child
+τέκνον,179,unigram,neuter,nominative,singular,,,छोरा,छोरालाई,child
+παιδίον,13,unigram,neuter,accusative,plural,,,यस्‍तैहरूको,बालकहरूलाई,child
+παιδίον,86,unigram,neuter,accusative,singular,बालकलाई,2.3379483974391375,बालकलाई,बालकलाई,child
+παιδίον,39,unigram,neuter,nominative,singular,बालक,2.790926691074618,बालक,बालक,child
+πόλις,170,unigram,feminine,accusative,plural,,,सहरहरू,गाउँहरू,city
+πόλις,61,unigram,feminine,accusative,singular,,,सहरमा,शहरमा,city
+πύλη,193,unigram,feminine,nominative,singular,,,पुर्‍याउने,साँघुरो,city gate
+χιτών,109,unigram,masculine,accusative,plural,,,दौरा,लौरो,"clothing, undergarments"
+χιτών,28,unigram,masculine,accusative,singular,दौरा,1.1592939752424762,दौरा,,"clothing, undergarments"
+ἱμάτιον,124,unigram,neuter,accusative,plural,,,वस्‍त्र,चिट्ठा,coat
+ἱμάτιον,123,unigram,neuter,accusative,singular,,,खास्‍टो,वस्त्र,coat
+ἐντολή,77,unigram,feminine,accusative,plural,आज्ञाहरू,2.9758199871108677,आज्ञाहरू,आज्ञाहरू,commandment
+ἐντολή,75,unigram,feminine,accusative,singular,आज्ञा,3.3808645490671667,आज्ञा,आज्ञा,commandment
+συνέδριον,298,unigram,neuter,accusative,plural,सभाघरहरूमा,1.583000320677812,,सभाघरहरूमा,council
+συνέδριον,50,unigram,neuter,accusative,singular,पूजाहारीहरू,1.2514952474943808,पूजाहारीहरू,पूजाहारीहरू,council
+χώρα,269,unigram,feminine,accusative,singular,देशमा,1.915757403642965,देशमा,देशमा,"country, countryside"
+ὄχλος,54,unigram,masculine,accusative,plural,,,भीड़लाई,मानिसहरूलाई,crowd
+ὄχλος,9,unigram,masculine,accusative,singular,,,भीड़लाई,भीड,crowd
+ὄχλος,95,unigram,masculine,nominative,plural,,,भीड,मानिसहरू,crowd
+ὄχλος,260,unigram,masculine,nominative,singular,,,भीड,धेरै,crowd
+θυγάτηρ,293,unigram,feminine,nominative,singular,छोरी,15.481656723582667,छोरी,छोरी,daughter
+ἡμέρα,70,unigram,feminine,accusative,plural,दिनपछि,2.377891283790728,दिनपछि,दिनपछि,day
+ἡμέρα,81,unigram,feminine,accusative,singular,,,दिनहुँ,दिन,day
+ἡμέρα,2,unigram,feminine,nominative,plural,,,दिन,समय,day
+ἡμέρα,63,unigram,feminine,nominative,singular,दिन,3.768533513496284,दिन,दिन,day
+ὀφειλέτης,115,unigram,masculine,nominative,singular,सिक्काको,1.0960524252565438,,सिक्काको,debtor
+δαιμόνιον,29,unigram,neuter,accusative,plural,भूतहरू,8.687268069137167,भूतहरू,भूतहरू,demon
+δαιμόνιον,308,unigram,neuter,accusative,singular,,,भूत,भूतात्मा,demon
+δαιμόνιον,181,unigram,neuter,nominative,plural,भूतहरू,8.137725004237256,भूतहरू,भूतहरू,demon
+δαιμόνιον,161,unigram,neuter,nominative,singular,भूतात्माले,1.1782065724958988,,भूतात्माले,demon
+δηνάριον,285,unigram,neuter,accusative,plural,,,चाँदीका,चाँदीको,denarius (about a day's wages)
+δηνάριον,151,unigram,neuter,accusative,singular,,,देखाओ।,सिक्का,denarius (about a day's wages)
+μαθητής,165,unigram,masculine,accusative,plural,चेलाहरूलाई,5.048068308055568,चेलाहरूलाई,चेलाहरूलाई,disciple
+μαθητής,313,unigram,masculine,accusative,singular,,,गर्नुहुने,प्रभुको,disciple
+μαθητής,254,unigram,masculine,nominative,plural,,,चेलाहरूले,चेलाहरू,disciple
+μαθητής,311,unigram,masculine,nominative,singular,चेला,23.47899720259712,चेला,चेला,disciple
+νόσος,3,unigram,feminine,accusative,plural,रोगहरू,1.9999489569121105,रोगहरू,,disease
+νόσος,69,unigram,feminine,accusative,singular,रोग,2.259881624886578,रोग,रोग,disease
+περιστερά,94,unigram,feminine,accusative,plural,,,किनबेच,बेच्नेहरूको,dove
+περιστερά,51,unigram,feminine,accusative,singular,आत्मा,1.359916206549593,,आत्मा,dove
+οὖς,140,unigram,neuter,accusative,plural,,,कान,सुन।,ear
+οὖς,259,unigram,neuter,accusative,singular,उज्‍यालोमा,1.6247972588654556,उज्‍यालोमा,,ear
+σεισμός,188,unigram,masculine,nominative,plural,भूकम्प,1.115993175286519,,भूकम्प,"earthquakes, storm"
+τέλος,252,unigram,neuter,accusative,singular,,,स्‍थिर,रहन्छ,end
+αἰών,221,unigram,masculine,accusative,plural,घरानामाथि,1.0961852471116367,,घरानामाथि,eternity
+αἰών,281,unigram,masculine,accusative,singular,,,कहिल्‍यै,कहिल्यै,eternity
+ὀφθαλμός,21,unigram,masculine,accusative,plural,आँखा,10.893819454943694,आँखा,आँखा,eye
+ὀφθαλμός,60,unigram,masculine,nominative,plural,,,आँखा,आँखाहरू,eye
+ὀφθαλμός,278,unigram,masculine,nominative,singular,आँखा,1.841708129020987,आँखा,आँखा,eye
+πρόσωπον,176,unigram,neuter,accusative,singular,,,मुख,ठीकसित,face
+λιμός,6,unigram,feminine,nominative,plural,राज्य,1.1190433852723451,,राज्य,famine
+γεωργός,233,unigram,masculine,nominative,plural,,,मोहीहरूले,मालिकको,"farmer, tenant"
+γεωργός,47,unigram,masculine,nominative,singular,,,किसान,माली,"farmer, tenant"
+πατήρ,182,unigram,masculine,accusative,plural,सन्तानलाई,1.0971869945960706,,सन्तानलाई,father
+πατήρ,284,unigram,masculine,accusative,singular,,,बुबा,पितालाई,father
+πατήρ,292,unigram,masculine,nominative,plural,पुर्खाहरूले,3.9230923049684185,पुर्खाहरूले,पुर्खाहरूले,father
+πατήρ,171,unigram,masculine,nominative,singular,पिताले,3.1611185474513337,पिताले,पिताले,father
+σύνδουλος,296,unigram,masculine,nominative,plural,सङ्गी-नोकरहरूले,1.2929325700400602,सङ्गी-नोकरहरूले,,"fellow-servant, colleague"
+ἀγρός,307,unigram,masculine,accusative,plural,बस्ती,1.9591360914829223,,बस्ती,field
+δάκτυλος,164,unigram,masculine,accusative,singular,औँला,1.0595448471241755,औँला,,finger
+ἰχθύς,144,unigram,masculine,accusative,plural,,,माछा,पाँचवटा,fish
+ἰχθύς,175,unigram,masculine,accusative,singular,माछा,1.4742579755943048,माछा,माछा,fish
+δίκτυον,102,unigram,neuter,accusative,plural,जाल,2.1249988399193844,जाल,जाल,fishing net
+δίκτυον,185,unigram,neuter,accusative,singular,जाल,2.8721976920290087,जाल,जाल,fishing net
+τροφή,225,unigram,feminine,accusative,plural,गएका,1.142113775239872,,गएका,food
+πούς,219,unigram,masculine,accusative,plural,,,पाउ,खुट्टा,foot
+πούς,106,unigram,masculine,accusative,singular,बजारिने,1.059651818607856,,बजारिने,foot
+καρπός,169,unigram,masculine,accusative,plural,,,फल,उत्पन्न,"fruit, crop, harvest"
+καρπός,217,unigram,masculine,accusative,singular,फल,20.328619175032255,फल,फल,"fruit, crop, harvest"
+πλήρωμα,248,unigram,neuter,accusative,plural,डालाभरि,1.7930659931860515,डालाभरि,,fullness
+πλήρωμα,302,unigram,neuter,accusative,singular,,,कपड़ाको,टालो,fullness
+γενεά,249,unigram,feminine,accusative,plural,पुस्तौं,1.0961654628313675,,पुस्तौं,generation
+γενεά,139,unigram,feminine,nominative,singular,,,पुस्‍ता,चमत्कार,generation
+δῶρον,283,unigram,neuter,accusative,plural,,,भेटी,उपहारहरू,gift
+δῶρον,152,unigram,neuter,accusative,singular,भेटी,7.077799375938158,भेटी,भेटी,gift
+ἡγεμών,160,unigram,masculine,accusative,plural,,,खातिर,राजाहरू,"governor, ruler"
+ἡγεμών,11,unigram,masculine,accusative,singular,पिलातसलाई,1.0298182943835539,,पिलातसलाई,"governor, ruler"
+ἀσπασμός,295,unigram,masculine,accusative,plural,,,अभिवादन,गरून्,greeting
+ὁδηγός,4,unigram,masculine,nominative,singular,,,अगुवा,अरूलाई,guide
+θρίξ,36,unigram,feminine,accusative,singular,केशलाई,1.096091603901298,,केशलाई,hair
+θρίξ,87,unigram,feminine,nominative,plural,,,शिरका,छन्,hair
+θρίξ,201,unigram,feminine,nominative,singular,केश,1.096091603901298,,केश,hair
+χείρ,287,unigram,feminine,accusative,plural,हात,23.96856901210294,हात,हात,hand
+χείρ,205,unigram,feminine,accusative,singular,हात,10.628258513281859,हात,हात,hand
+κεφαλή,132,unigram,feminine,accusative,plural,मुन्‍टो,1.3185290509790828,मुन्‍टो,,head
+κεφαλή,191,unigram,feminine,accusative,singular,शिर,3.297765055816329,शिर,शिर,head
+στάχυς,192,unigram,masculine,accusative,plural,अन्नका,1.5323061560754436,,अन्नका,head of grain
+καρδία,262,unigram,feminine,accusative,singular,,,हृदय,बुझ्न,heart
+καρδία,177,unigram,feminine,nominative,singular,हृदय,9.777248155799887,हृदय,हृदय,heart
+οὐρανός,244,unigram,masculine,accusative,singular,,,स्‍वर्गतिर,स्वर्गतिर,"heaven, sky"
+οὐρανός,183,unigram,masculine,nominative,singular,,,पृथ्‍वी,आकाश,"heaven, sky"
+ὥρα,24,unigram,feminine,nominative,singular,समय,7.687925428790307,समय,समय,hour
+οἰκία,146,unigram,feminine,accusative,plural,,,घर,लुट्छन्।,house
+οἰκία,299,unigram,feminine,accusative,singular,घरमा,3.2568639649996296,घरमा,घरमा,house
+οἶκος,20,unigram,masculine,accusative,singular,,,घरमा,घर,"house, home"
+κριτής,282,unigram,masculine,nominative,plural,,,कसद्वारा,शक्तिको,judge
+κριτής,154,unigram,masculine,nominative,singular,,,न्‍यायाधीशले,न्यायलय,judge
+βασιλεύς,100,unigram,masculine,accusative,plural,,,खातिर,राजाहरू,king
+βασιλεύς,55,unigram,masculine,accusative,singular,राजा,3.9586972627673607,राजा,राजा,king
+βασιλεία,73,unigram,feminine,accusative,plural,,,लगेर,राज्यहरू,kingdom
+βασιλεία,150,unigram,feminine,accusative,singular,,,राज्‍यको,राज्यमा,kingdom
+κόπος,186,unigram,masculine,accusative,plural,,,गरेकी,दिक्दारी,"labour, work, trouble, difficulty"
+λύχνος,232,unigram,masculine,nominative,plural,बत्ती,1.0595480639608463,,बत्ती,lamp
+λύχνος,215,unigram,masculine,nominative,singular,,,बत्ती,उज्यालोले,lamp
+κλῆρος,91,unigram,masculine,accusative,plural,जान्‍दैनन्‌।,1.0960622061228922,जान्‍दैनन्‌।,,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,चिट्ठा,2.7987692013145358,चिट्ठा,चिट्ठा,"lots (casting of lots), inheritance"
+ἄνθρωπος,271,unigram,masculine,accusative,plural,,,मानिसहरूलाई,मानिसहरू,man
+ἄνθρωπος,235,unigram,masculine,accusative,singular,,,मानिसलाई,अशुद्ध,man
+ἄνθρωπος,110,unigram,masculine,nominative,plural,मानिसहरूले,2.444686598827171,मानिसहरूले,,man
+ἄνθρωπος,163,unigram,masculine,nominative,singular,मानिस,1.4221907315214766,मानिस,मानिस,man
+ἀνήρ,229,unigram,masculine,accusative,singular,,,स्‍त्रीले,स्त्रीले,"man, husband"
+ἀνήρ,137,unigram,masculine,nominative,plural,,,पुरुषहरू,मानिसहरू,"man, husband"
+ἀνήρ,220,unigram,masculine,nominative,singular,,,जना,मानिस,"man, husband"
+μνᾶ,274,unigram,feminine,accusative,plural,,,सिक्‍का,थैलो,mina (about 100 days' wages)
+πρωτοκαθεδρία,99,unigram,feminine,accusative,plural,,,प्रमुख,ओगट्न,"most important seat, seat of honour"
+πρωτοκαθεδρία,33,unigram,feminine,accusative,singular,मुख्‍यमुख्‍य,1.0960622061228922,मुख्‍यमुख्‍य,,"most important seat, seat of honour"
+μήτηρ,255,unigram,feminine,accusative,singular,,,बुबा,आमालाई,mother
+ὄρος,200,unigram,neuter,accusative,plural,,,पहाड़हरूतिर,भाग्नु,mountain
+ὄρος,242,unigram,neuter,accusative,singular,,,डाँड़ामा,डाँडामा,mountain
+μύρον,82,unigram,neuter,accusative,plural,मसाला,1.1613810574337247,,मसाला,myrrh
+ὄνομα,32,unigram,neuter,accusative,singular,नाउँ,2.8835542442312976,नाउँ,नाउँ,name
+ὄνομα,97,unigram,neuter,nominative,plural,नाउँ,1.581441686853346,नाउँ,,name
+ὄνομα,230,unigram,neuter,nominative,singular,नाउँ,35.41285596965753,नाउँ,नाउँ,name
+ἔθνος,213,unigram,neuter,accusative,plural,,,जातिहरूलाई,सबै,nation
+ἔθνος,178,unigram,neuter,accusative,singular,,,जाति,चल्नेछ।,nation
+ἔθνος,277,unigram,neuter,nominative,plural,,,खाँचो,सबै,nation
+ἔθνος,25,unigram,neuter,nominative,singular,,,जाति,चल्नेछ।,nation
+νύξ,173,unigram,feminine,accusative,plural,रात,2.850863721730226,रात,रात,night
+νύξ,224,unigram,feminine,accusative,singular,,,रातदिन,रात,night
+ὅρκος,56,unigram,masculine,accusative,plural,शपथ,2.542756907009081,शपथ,शपथ,oath
+ὅρκος,241,unigram,masculine,accusative,singular,पुर्खा,1.0441088591276242,,पुर्खा,oath
+βοῦς,142,unigram,masculine,accusative,plural,,,पैसा,लेनदेन,ox
+παραβολή,238,unigram,feminine,accusative,plural,दृष्‍टान्‍तको,1.9376839457005643,दृष्‍टान्‍तको,,parable
+παραβολή,206,unigram,feminine,accusative,singular,,,दृष्‍टान्‍त,दृष्टान्त,parable
+μέρος,317,unigram,neuter,accusative,plural,इलाकामा,1.526050752534284,,इलाकामा,part
+μέρος,49,unigram,neuter,accusative,singular,अंश,1.4249279871222649,,अंश,part
+μαργαρίτης,208,unigram,masculine,accusative,plural,मोतीहरू,3.999796427775453,मोतीहरू,मोतीहरू,pearls
+μαργαρίτης,35,unigram,masculine,accusative,singular,मोती,1.096057314542422,मोती,,pearls
+τόπος,250,unigram,masculine,accusative,plural,भूकम्प,1.116309764591065,,भूकम्प,place
+τόπος,270,unigram,masculine,accusative,singular,ठाउँमा,5.59996816833273,ठाउँमा,ठाउँमा,place
+πρωτοκλισία,253,unigram,feminine,accusative,plural,आदरको,1.2147444643551368,आदरको,,place of honor
+πρωτοκλισία,34,unigram,feminine,accusative,singular,मुख्य,1.0393514677376432,,मुख्य,place of honor
+ὄφις,98,unigram,masculine,accusative,singular,,,माग्‍दा,सर्प,poison
+σκεῦος,128,unigram,neuter,accusative,plural,लुट्न,1.059538418040185,,लुट्न,"possession, object, thing, jar, vessel"
+σκεῦος,234,unigram,neuter,accusative,singular,,,लैजान,प्राङ्गणमा,"possession, object, thing, jar, vessel"
+δύναμις,44,unigram,feminine,accusative,singular,शक्ति,6.677708389339954,शक्ति,शक्ति,"power, ability, miracle"
+δύναμις,76,unigram,feminine,nominative,plural,,,शक्तिहरू,त्यहाँका,"power, ability, miracle"
+δύναμις,108,unigram,feminine,nominative,singular,शक्ति,1.9500543654333131,शक्ति,शक्ति,"power, ability, miracle"
+ἱερεύς,222,unigram,masculine,nominative,singular,पूजाहारी,2.4595166880006056,पूजाहारी,पूजाहारी,priest
+φυλακή,23,unigram,feminine,accusative,singular,,,झ्‍यालखानमा,जेलमा,prison
+προφήτης,59,unigram,masculine,accusative,plural,अगमवक्ताहरूलाई,2.8147363864218864,अगमवक्ताहरूलाई,,prophet
+προφήτης,184,unigram,masculine,accusative,singular,अगमवक्ता,3.7201071121006155,अगमवक्ता,अगमवक्ता,prophet
+προφήτης,207,unigram,masculine,nominative,plural,अगमवक्ताहरू,3.2812353497109332,अगमवक्ताहरू,अगमवक्ताहरू,prophet
+προφήτης,243,unigram,masculine,nominative,singular,अगमवक्ता,11.831541961871123,अगमवक्ता,अगमवक्ता,prophet
+βαλλάντιον,17,unigram,neuter,accusative,singular,पैसा,1.1988658841349091,,पैसा,purse
+ποταμός,116,unigram,masculine,nominative,plural,बाढी,1.0481409808825635,,बाढी,river
+ποταμός,157,unigram,masculine,nominative,singular,बनाउने,1.0298093209783648,,बनाउने,river
+λῃστής,316,unigram,masculine,accusative,singular,,,तरवार,अपराधी,robber
+λῃστής,147,unigram,masculine,nominative,singular,डाँकू,1.9999489140783424,डाँकू,,robber
+ἄρχων,189,unigram,masculine,accusative,plural,जनतालाई,1.0961309302758326,जनतालाई,,ruler
+ἄρχων,62,unigram,masculine,nominative,plural,,,शासकहरूले,ख्रीष्ट,ruler
+ἄρχων,291,unigram,masculine,nominative,singular,,,शासक,संसारको,ruler
+ἀκοή,7,unigram,feminine,accusative,plural,,,हल्‍ला,सुन्नेछौ।,rumor
+ἀκοή,71,unigram,feminine,accusative,singular,,,प्रदेशका,शासकबाट,rumor
+ἀκοή,306,unigram,feminine,nominative,singular,कीर्ति,1.88754910485292,कीर्ति,,rumor
+διάκονος,85,unigram,masculine,nominative,singular,,,सेवक,सेवा,"servant, minister, deacon"
+δοῦλος,195,unigram,masculine,accusative,plural,नोकरहरूलाई,3.266831955122855,नोकरहरूलाई,नोकरहरूलाई,"servant, slave"
+δοῦλος,26,unigram,masculine,accusative,singular,नोकरलाई,6.920008484800625,नोकरलाई,नोकरलाई,"servant, slave"
+δοῦλος,96,unigram,masculine,nominative,plural,,,कमाराहरूले,नोकरहरू,"servant, slave"
+δοῦλος,190,unigram,masculine,nominative,singular,,,कमारो,मालिक,"servant, slave"
+πρόβατον,300,unigram,neuter,accusative,plural,भेंडा़,1.3107205710976542,,भेंडा़,sheep
+πρόβατον,134,unigram,neuter,accusative,singular,,,भेड़ा,भेंडा़,sheep
+ποιμήν,228,unigram,masculine,nominative,plural,,,गोठालाहरू,गोठालाहरूले,"shepherd, pastor"
+ποιμήν,263,unigram,masculine,nominative,singular,गोठालो,3.3406102117415646,गोठालो,गोठालो,"shepherd, pastor"
+σημεῖον,131,unigram,neuter,accusative,plural,,,चिन्‍हहरू,चमत्कारहरू,sign
+σημεῖον,119,unigram,neuter,accusative,singular,,,चिन्‍ह,चमत्कार,sign
+σημεῖον,41,unigram,neuter,nominative,plural,,,चिन्‍हहरू,घट्नाहरू,sign
+σημεῖον,84,unigram,neuter,nominative,singular,,,चिन्‍ह,चिन्ह,sign
+δραχμή,159,unigram,feminine,accusative,singular,,,उसले,सिक्का,"silver coin, drachma"
+ἀργύριον,199,unigram,neuter,accusative,plural,चाँदीका,2.454418093118658,चाँदीका,चाँदीका,"silver, money"
+ἀργύριον,309,unigram,neuter,accusative,singular,पैसा,2.200752067851956,पैसा,पैसा,"silver, money"
+ἁμαρτία,258,unigram,feminine,accusative,plural,,,पाप,क्षमा,sin
+ἁμαρτία,203,unigram,feminine,accusative,singular,,,पापको,हुने,sin
+ἁμαρτία,267,unigram,feminine,nominative,plural,क्षमा,1.4012835488978064,क्षमा,क्षमा,sin
+ἁμαρτία,264,unigram,feminine,nominative,singular,पाप,1.4405610193501084,पाप,,sin
+ἀδελφή,289,unigram,feminine,accusative,plural,,,दाजुभाइ,दाज्यू-भाइ,sister
+ἀδελφή,125,unigram,feminine,accusative,singular,बहिनी,1.9999488282063584,बहिनी,,sister
+ἀδελφή,19,unigram,feminine,nominative,plural,बहिनीहरू,1.2807771614920516,,बहिनीहरू,sister
+ἀδελφή,288,unigram,feminine,nominative,singular,बहिनी,3.9022373620455784,बहिनी,बहिनी,sister
+ῥάπισμα,143,unigram,neuter,accusative,plural,प्रणाम,1.096057314542422,प्रणाम,,"slap, strike, hit"
+πλοιάριον,130,unigram,neuter,nominative,singular,डुङ्गा,1.7034320075909766,डुङ्गा,डुङ्गा,small boat
+ὀψάριον,237,unigram,neuter,accusative,singular,माछा,1.7370748040024675,माछा,माछा,small fish
+υἱός,46,unigram,masculine,accusative,plural,,,जब्‍दियाका,पुत्रहरू,son
+υἱός,118,unigram,masculine,accusative,singular,पुत्रलाई,2.02039590713535,पुत्रलाई,पुत्रलाई,son
+υἱός,120,unigram,masculine,nominative,plural,,,सन्‍तान,सन्तानहरू,son
+υἱός,197,unigram,masculine,nominative,singular,पुत्र,5.141081085222801,पुत्र,पुत्र,son
+ψυχή,209,unigram,feminine,accusative,plural,,,धैर्यद्वारा,विपदहरूबाट,"soul, life"
+ψυχή,261,unigram,feminine,accusative,singular,,,प्राण,जीवन,"soul, life"
+ἀστήρ,272,unigram,masculine,nominative,plural,झर्नेछन्,1.0595352057902494,,झर्नेछन्,star
+λίθος,276,unigram,masculine,accusative,plural,ढुङ्गा,1.8075233720145545,ढुङ्गा,,stone
+λίθος,37,unigram,masculine,accusative,singular,ढुङ्गा,5.435102319357654,ढुङ्गा,ढुङ्गा,stone
+λίθος,129,unigram,masculine,nominative,plural,ढुङ्गाहरू,2.9947227682051896,ढुङ्गाहरू,ढुङ्गाहरू,stone
+λίθος,40,unigram,masculine,nominative,singular,ढुङ्गा,2.4888719091764377,ढुङ्गा,ढुङ्गा,stone
+συναγωγή,226,unigram,feminine,accusative,plural,सभाघरहरूमा,3.2508010631345763,सभाघरहरूमा,,synagogue
+συναγωγή,310,unigram,feminine,accusative,singular,सभाघरमा,4.975301635966311,सभाघरमा,सभाघरमा,synagogue
+τράπεζα,180,unigram,feminine,accusative,plural,,,पैसा,बेच्नेहरूको,table
+τάλαντον,66,unigram,neuter,accusative,plural,,,सिक्‍का,तोडा,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,212,unigram,neuter,accusative,singular,,,सिक्‍का,तपाईंले,talent (weight and monetary unit: around 20 years' wages)
+φόρος,268,unigram,masculine,accusative,singular,कैसरलाई,1.1454417825320882,,कैसरलाई,tax
+τελώνης,174,unigram,masculine,nominative,plural,,,कर,उठाउनेहरू,tax collector
+τελώνης,68,unigram,masculine,nominative,singular,,,कर,उठाउने,tax collector
+γραμματεύς,314,unigram,masculine,nominative,plural,,,शास्‍त्रीहरू,शास्त्रीहरू,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,198,unigram,masculine,nominative,singular,,,शास्‍त्री,शास्त्री,"teacher, expert in the law, scholar, scribe"
+καθηγητής,301,unigram,masculine,nominative,plural,,,नभनोस्,एकमात्र,"teacher, guide"
+καθηγητής,211,unigram,masculine,nominative,singular,,,नभनोस्,एकमात्र,"teacher, guide"
+κλέπτης,78,unigram,masculine,nominative,plural,खियाले,1.2911956600517114,खियाले,,thief
+κλέπτης,210,unigram,masculine,nominative,singular,चोर,11.852881374057217,चोर,चोर,thief
+διαλογισμός,273,unigram,masculine,accusative,plural,तिनीहरूको,1.1067495526727589,तिनीहरूको,,"thought, argument"
+διαλογισμός,136,unigram,masculine,accusative,singular,मनको,1.1796431938591756,मनको,,"thought, argument"
+διαλογισμός,111,unigram,masculine,nominative,plural,चोरी,1.8135683651369567,,चोरी,"thought, argument"
+διαλογισμός,266,unigram,masculine,nominative,singular,,,बहस,सबभन्दा,"thought, argument"
+χρόνος,247,unigram,masculine,accusative,plural,दिनका,1.2556734336432307,दिनका,,time
+χρόνος,216,unigram,masculine,accusative,singular,,,समयसम्‍म,पत्ता,time
+καιρός,133,unigram,masculine,nominative,singular,समय,3.1478296275522966,समय,समय,"time, right time"
+τάφος,122,unigram,masculine,accusative,plural,बनाउँछौ।,1.0595416318177246,,बनाउँछौ।,"tomb, grave"
+τάφος,162,unigram,masculine,accusative,singular,चिहान,1.5101669878962236,चिहान,,"tomb, grave"
+μνημεῖον,12,unigram,neuter,accusative,plural,,,धिक्‍कार,बनाउँछौ।,"tomb, grave"
+μνημεῖον,16,unigram,neuter,accusative,singular,चिहानमा,5.314179176062136,चिहानमा,चिहानमा,"tomb, grave"
+μνημεῖον,74,unigram,neuter,nominative,plural,चिहानहरू,3.2946130406672625,चिहानहरू,चिहानहरू,"tomb, grave"
+μνημεῖον,240,unigram,neuter,nominative,singular,,,चिहान,नयाँ,"tomb, grave"
+θησαυρός,92,unigram,masculine,accusative,plural,खियाले,1.2912784224107547,खियाले,,treasure
+θησαυρός,204,unigram,masculine,accusative,singular,,,स्‍वर्गमा,स्वर्गमा,treasure
+δένδρον,72,unigram,neuter,accusative,singular,,,रूख,त्यसको,tree	
+κώμη,246,unigram,feminine,accusative,plural,,,गाउँहरूमा,यात्रा,village
+κώμη,52,unigram,feminine,accusative,singular,,,गाउँमा,शहरमा,village
+παρθένος,257,unigram,feminine,nominative,plural,,,कन्‍याहरू,कन्याहरू,virgin
+φωνή,297,unigram,feminine,nominative,singular,आवाज,6.5073215632652275,आवाज,आवाज,voice or sound
+πόλεμος,239,unigram,masculine,accusative,plural,सुन्नेछौ।,1.2910924436564226,,सुन्नेछौ।,war
+ὕδωρ,315,unigram,neuter,accusative,plural,,,पानीमाथि,पत्रुसले,water
+ὕδωρ,88,unigram,neuter,accusative,singular,पानी,13.330851889124933,पानी,पानी,water
+ὕδωρ,105,unigram,neuter,nominative,singular,पानी,5.506281983796814,पानी,पानी,water
+ὁδός,135,unigram,feminine,accusative,singular,,,मार्ग,बाटो,way
+γάμος,153,unigram,masculine,accusative,plural,भोजमा,1.9912156223848503,भोजमा,भोजमा,wedding
+γάμος,223,unigram,masculine,accusative,singular,निम्त्याईएको,2.1785424817841874,,निम्त्याईएको,wedding
+γυνή,104,unigram,feminine,accusative,plural,त्‍याग,1.0965530363990983,त्‍याग,,"wife, woman"
+γυνή,166,unigram,feminine,accusative,singular,विवाह,2.7640323572174776,विवाह,विवाह,"wife, woman"
+γυνή,112,unigram,feminine,nominative,plural,,,स्‍त्रीहरू,स्त्रीहरू,"wife, woman"
+γυνή,117,unigram,feminine,nominative,singular,,,स्‍त्री,एउटी,"wife, woman"
+ἄνεμος,8,unigram,masculine,nominative,plural,बाढी,1.03881424178052,,बाढी,wind
+ἄνεμος,64,unigram,masculine,nominative,singular,,,बतास,आँधी,wind
+πνεῦμα,286,unigram,neuter,accusative,plural,,,दशा,आत्माहरू,"wind, breath, spirit"
+πνεῦμα,158,unigram,neuter,accusative,singular,,,आत्‍मा,आत्मा,"wind, breath, spirit"
+πνεῦμα,10,unigram,neuter,nominative,plural,अशुद्ध,1.4548035600701164,अशुद्ध,,"wind, breath, spirit"
+πνεῦμα,22,unigram,neuter,nominative,singular,,,आत्‍मा,आत्मा,"wind, breath, spirit"
+κοιλία,83,unigram,feminine,nominative,plural,चुसाएन।,1.0961014216060068,,चुसाएन।,"womb, stomach, source of feelings and emotions"
+ῥῆμα,172,unigram,neuter,accusative,plural,,,वाणी,कुराहरू,word
+ῥῆμα,155,unigram,neuter,accusative,singular,,,कुरा,विदा,word
+ῥῆμα,30,unigram,neuter,nominative,plural,हुँदैन।,1.3699914693318531,हुँदैन।,,word
+ῥῆμα,304,unigram,neuter,nominative,singular,कुरा,1.3925900326414333,कुरा,कुरा,word
+λόγος,156,unigram,masculine,accusative,plural,,,यी,सुन्छ,word
+λόγος,148,unigram,masculine,accusative,singular,वचन,4.3594871410429565,वचन,वचन,word
+λόγος,145,unigram,masculine,nominative,plural,,,पृथ्‍वी,पृथ्वी,word
+λόγος,275,unigram,masculine,nominative,singular,वचन,20.445009241151897,वचन,वचन,word
+ἔργον,43,unigram,neuter,accusative,plural,,,काम,कामहरू,work
+ἔργον,89,unigram,neuter,accusative,singular,काम,2.730540203307823,काम,काम,work
+ἔργον,279,unigram,neuter,nominative,plural,,,काम,कामहरू,work
+ἔργον,256,unigram,neuter,nominative,singular,,,उसमाथि,एकमाथि,work
+ἐργάτης,138,unigram,masculine,nominative,plural,खेतालाहरू,1.048146891780885,,खेतालाहरू,worker
+ἔτος,236,unigram,neuter,accusative,plural,,,वर्ष,वर्षसम्म,year
+ἔτος,167,unigram,neuter,accusative,singular,वर्ष,1.8076918284717827,,वर्ष,year
+ζεῦγος,18,unigram,neuter,accusative,plural,,,हल,जोर,"yoke, pair"

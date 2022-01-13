@@ -1,0 +1,411 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_2117_translation,version_2118_translation,version_2119_translation,version_2120_translation,version_2121_translation,version_2122_translation,english_translation
+θεός,397,unigram,masculine,accusative,plural,thần,1.7217182447555028,bãi,thần—câu,thần,thần,,thần,God
+θεός,163,unigram,masculine,accusative,singular,Trời,23.441089649479864,Trời,Đức,Trời,Trời,Trời,Thượng,God
+θεός,35,unigram,masculine,nominative,plural,thần,2.1342660600055328,thần,thần,thần,thần,thần,Lệ,God
+θεός,253,unigram,masculine,nominative,singular,Trời,21.41672543950255,Trời,Đức,Trời,Trời,Trời,,God
+κύριος,399,unigram,masculine,nominative,plural,,,tháo,dây,Đang,Đang,cột,tháo,"Lord, lord, master"
+κύριος,164,unigram,masculine,nominative,singular,chủ,7.4785770096413415,Chúa,Chủ,chủ,chủ,chủ,chủ,"Lord, lord, master"
+γραφή,158,unigram,feminine,accusative,plural,Kinh,4.327934057322929,Kinh,Kinh,Kinh-thánh,Kinh,Kinh,Kinh,Scripture
+γραφή,62,unigram,feminine,accusative,singular,Kinh,3.3820772230159646,chưa,Kinh,Kinh-thánh,Kinh,Kinh,Kinh,Scripture
+γραφή,319,unigram,feminine,nominative,plural,,,ứng,ứng,ứng-nghiệm,Kinh,Kinh,xảy,Scripture
+γραφή,391,unigram,feminine,nominative,singular,Kinh,3.756129027196759,Kinh,Kinh,Kinh-thánh,Kinh,Kinh,Kinh,Scripture
+ἄγγελος,123,unigram,masculine,accusative,plural,sứ,2.955793555890655,sứ,thiên,thiên-sứ,sứ,sứ,sứ,angel
+ἄγγελος,102,unigram,masculine,accusative,singular,sứ,5.840006331576713,sứ,sứ,sứ,sứ,sứ,sứ,angel
+ἄγγελος,58,unigram,masculine,nominative,plural,sứ,1.4863194268950273,sứ,thiên,thiên-sứ,sứ,sứ,sứ,angel
+ἄγγελος,134,unigram,masculine,nominative,singular,sứ,8.850361083127108,sứ,sứ,thiên-sứ,sứ,sứ,sứ,angel
+ἀπόστολος,55,unigram,masculine,nominative,plural,,,sứ,đồ,sứ-đồ,sứ,tường,đồ,apostle
+ἀπόστολος,8,unigram,masculine,nominative,singular,phái,1.340166697986802,Tớ,Hay,sứ-giả,phái,phái,Sứ,apostle
+ἐξουσία,83,unigram,feminine,accusative,plural,bênh,1.3393884031167467,bạch,cầm,binh-vực,bênh,cai,bênh,authority
+ἐξουσία,241,unigram,feminine,accusative,singular,quyền,228.4979481274744,quyền,quyền,quyền,quyền,quyền,quyền,authority
+βρέφος,20,unigram,neuter,accusative,plural,trách,1.2668068384381805,phước,mắng,trách,Thấy,trách,rầy,babies
+βρέφος,389,unigram,neuter,accusative,singular,máng,2.951510367087866,máng,máng,máng,máng,máng,máng,babies
+ἀποθήκη,327,unigram,feminine,accusative,plural,,,trữ,kho,kho-tàng,trữ,,kho,barn
+ἀποθήκη,82,unigram,feminine,accusative,singular,đốt,1.5889224635824655,đốt,kho,đốt,đốt,đốt,đốt,barn
+φραγμός,283,unigram,masculine,accusative,plural,rào,1.8251173700836696,rào,Vào,rào,rào,lộ,Đi,"barrier, wall"
+φραγμός,139,unigram,masculine,accusative,singular,,,,,rào,,,máy,"barrier, wall"
+ἀρχή,86,unigram,feminine,accusative,plural,bênh,1.3388871927666688,bạch,cầm,binh-vực,bênh,,bênh,beginning
+ἀρχή,220,unigram,feminine,accusative,singular,,,thắc,biểu,tỏ-bày,Ca-na,Là,đầu,beginning
+ζώνη,211,unigram,feminine,accusative,plural,thắt,1.0809731985793893,vàng,thắt,vàng,thắt,thắt,,belt
+ζώνη,272,unigram,feminine,accusative,singular,nịt,1.0960524252565438,,,,,nịt,,belt
+βλασφημία,39,unigram,feminine,accusative,plural,Ngoài,1.334330304336369,Ngoài,Ngoài,,thắc,Ngoại,ngang,blasphemy
+βλασφημία,120,unigram,feminine,accusative,singular,Quý,1.2929678013388017,Quý,Quý,phạm-thượng,xé,,thượng,blasphemy
+βλασφημία,251,unigram,feminine,nominative,plural,,,tư,,,,khống,bêu,blasphemy
+βλασφημία,103,unigram,feminine,nominative,singular,ganh-đố,1.1062485993005018,,,ganh-đố,,,,blasphemy
+πλοῖον,132,unigram,neuter,accusative,plural,thuyền,24.051565747180295,thuyền,thuyền,thuyền,thuyền,thuyền,thuyền,boat
+πλοῖον,373,unigram,neuter,accusative,singular,thuyền,2625.3925033556366,thuyền,thuyền,thuyền,thuyền,thuyền,thuyền,boat
+πλοῖον,290,unigram,neuter,nominative,plural,,,tách,,tan,thuyền,khơi,chiếc,boat
+πλοῖον,274,unigram,neuter,nominative,singular,thuyền,14.514493643506905,thuyền,thuyền,thuyền,thuyền,thuyền,thuyền,boat
+σῶμα,261,unigram,neuter,nominative,plural,thây,3.6151920342229427,xác,trùng,thây,ống,thây,,body
+σῶμα,73,unigram,neuter,nominative,singular,thân,12.314718219600628,thân,thân,thân-thể,thân,thân,thân,body
+κλῆμα,69,unigram,neuter,nominative,plural,nhánh,1.790012655457557,nhánh,,,cành,nhánh,nhánh,branch
+κλῆμα,182,unigram,neuter,nominative,singular,nhánh,2.6375429767533447,nhánh,nho,nhánh,cành,nhánh,,branch
+ἄρτος,378,unigram,masculine,accusative,plural,bánh,249.7905820307133,bánh,bánh,bánh,bánh,bánh,bánh,bread
+ἄρτος,410,unigram,masculine,accusative,singular,bánh,306.3447378037024,bánh,bánh,bánh,bánh,bánh,bánh,bread
+ἄρτος,192,unigram,masculine,nominative,plural,bánh,204.628241610616,bánh,bánh,bánh,bánh,bánh,bánh,bread
+ἄρτος,48,unigram,masculine,nominative,singular,bánh,371.4258772855172,bánh,Bánh,bánh,bánh,bánh,bánh,bread
+ἀδελφός,362,unigram,masculine,accusative,plural,em,2.6558248228351875,em,anh,anh,em,em,em,brother
+ἀδελφός,149,unigram,masculine,accusative,singular,em,45.17093400629656,em,em,em,em,em,em,brother
+ἀδελφός,138,unigram,masculine,nominative,plural,em,148.21002482774716,em,em,em,em,em,em,brother
+ἀδελφός,281,unigram,masculine,nominative,singular,em,19.827185016223225,em,em,em,em,em,em,brother
+στῆθος,188,unigram,neuter,accusative,plural,ngực,1.604183142733696,ngực,ngực,nông-nỗi,ngực,ngực,ngực,"chest, breast"
+στῆθος,345,unigram,neuter,accusative,singular,ngực,6.666332144757855,ngực,ngực,ngực,ngực,ngực,nghiêng,"chest, breast"
+ἀρχιερεύς,296,unigram,masculine,accusative,plural,,,thượng,trưởng,tế-lễ,tế,tế,trưởng,chief priest
+ἀρχιερεύς,74,unigram,masculine,accusative,singular,,,trưởng,dinh,thượng-phẩm,phẩm,Cai-a-pha,tế,chief priest
+ἀρχιερεύς,148,unigram,masculine,nominative,plural,,,thượng,trưởng,tế-lễ,tế,tế,trưởng,chief priest
+ἀρχιερεύς,302,unigram,masculine,nominative,singular,thượng,1.148657835171142,trưởng,thượng,thượng-phẩm,phẩm,thượng,tế,chief priest
+παῖς,286,unigram,masculine,accusative,plural,đánh,1.0743394317587378,đánh,,trai,đánh,trẻ,giận,child
+παῖς,60,unigram,masculine,accusative,singular,nhào,1.1580190413689828,,nhào,nhào,quật,,,child
+τέκνον,401,unigram,neuter,accusative,plural,con,7.226849027342143,con,con,con-cái,con,con,con,child
+τέκνον,217,unigram,neuter,accusative,singular,em,1.3600597808305066,em,nghịch,em,nghịch,em,em,child
+τέκνον,21,unigram,neuter,nominative,plural,nghịch,1.3950000588237743,chống,nghịch,con,nghịch,cha,nghịch,child
+τέκνον,233,unigram,neuter,nominative,singular,ơi,5.198213116413555,ơi,ơi,con,ơi,con,ơi,child
+παιδίον,19,unigram,neuter,accusative,plural,trẻ,2.3209696134983293,trẻ,cản,trẻ,trẻ,trẻ,,child
+παιδίον,113,unigram,neuter,accusative,singular,trẻ,10.023099581379311,trẻ,Trẻ,trẻ,trẻ,Nhi,em,child
+παιδίον,209,unigram,neuter,nominative,plural,,,con,con,trẻ,trẻ,rầy,thơ,child
+παιδίον,50,unigram,neuter,nominative,singular,trẻ,36.65965924078223,trẻ,bé,trẻ,trẻ,trẻ,bé,child
+πόλις,221,unigram,feminine,accusative,plural,thành,2.741422981238176,thành,phố,thành,thành,thành,thị,city
+πόλις,78,unigram,feminine,accusative,singular,thành,6802.061071134556,thành,thành,thành,thành,thành,thành,city
+πύλη,323,unigram,feminine,nominative,plural,thắng,1.9591338004163354,,Giờ,,thắng,thắng,thắng,city gate
+πύλη,250,unigram,feminine,nominative,singular,hẹp,4.093549096526009,hẹp,hẹp,hẹp,hẹp,hẹp,hẹp,city gate
+χιτών,144,unigram,masculine,accusative,plural,áo,19.590883949216742,áo,áo,áo,áo,áo,áo,"clothing, undergarments"
+χιτών,36,unigram,masculine,accusative,singular,áo,2.89673634470925,áo,dài,áo,áo,áo,áo,"clothing, undergarments"
+ἱμάτιον,161,unigram,neuter,accusative,plural,áo,140.3285298109085,áo,áo,áo,áo,áo,áo,coat
+ἱμάτιον,160,unigram,neuter,accusative,singular,áo,669.2659092285754,áo,áo,áo,áo,áo,áo,coat
+ἐντολή,99,unigram,feminine,accusative,plural,răn,9.712204403134942,răn,răn,điều-răn,răn,răn,mệnh,commandment
+ἐντολή,97,unigram,feminine,accusative,singular,răn,8.67315191791908,răn,lệ,điều-răn,răn,răn,mệnh,commandment
+συνέδριον,383,unigram,neuter,accusative,plural,,,coi,tòa,tòa-án,đánh,đập,đòn,council
+συνέδριον,64,unigram,neuter,accusative,singular,,,họp,triệu,công-luận,Công,Hội,trưởng,council
+χώρα,92,unigram,feminine,accusative,plural,,,,,,tháng,,gặt.,"country, countryside"
+χώρα,350,unigram,feminine,accusative,singular,miền,1.9763188713791557,Giê-ra-sê,Ga-đa-ren,miền,xứ,miền,qua,"country, countryside"
+ὄχλος,70,unigram,masculine,accusative,plural,,,đông,dân,dân-chúng,dân,đông,chúng,crowd
+ὄχλος,13,unigram,masculine,accusative,singular,dân,2.5442705686694844,đông,dân,đoàn,dân,đông,dân,crowd
+ὄχλος,125,unigram,masculine,nominative,plural,,,đông,Dân,đoàn,Dân,đông,chúng,crowd
+ὄχλος,340,unigram,masculine,nominative,singular,đông,9.06986619718664,đông,dân,dân,đông,đông,đông,crowd
+θυγάτηρ,142,unigram,feminine,nominative,plural,,,bản,bản,gái,quay,quay,nữ,daughter
+θυγάτηρ,377,unigram,feminine,nominative,singular,gái,3916.3183592291293,gái,gái,gái,gái,gái,gái,daughter
+ἡμέρα,90,unigram,feminine,accusative,plural,ngày,5309.65949034384,ngày,ngày,ngày,ngày,ngày,ngày,day
+ἡμέρα,104,unigram,feminine,accusative,singular,ngày,1550.1897869686134,ngày,ngày,ngày,ngày,ngày,ngày,day
+ἡμέρα,2,unigram,feminine,nominative,plural,ngày,1018.049952813827,ngày,ngày,ngày,ngày,ngày,ngày,day
+ἡμέρα,80,unigram,feminine,nominative,singular,ngày,12.674059136848664,ngày,ngày,ngày,Đến,ngày,ngày,day
+ὀφειλέτης,305,unigram,masculine,nominative,plural,đè,1.3167216672078015,,đè,đè,đè,,,debtor
+ὀφειλέτης,151,unigram,masculine,nominative,singular,soát,1.4080999615602197,soát,,,soát,sổ,lượng,debtor
+δαιμόνιον,37,unigram,neuter,accusative,plural,quỷ,2.6622505547052104,quỷ,quỷ,quỉ,quỷ,quỷ,đuổi,demon
+δαιμόνιον,394,unigram,neuter,accusative,singular,quỷ,4.327083927591964,quỷ,quỷ,quỉ,quỷ,quỷ,quỉ,demon
+δαιμόνιον,235,unigram,neuter,nominative,plural,quỷ,52.59724629305745,quỷ,quỷ,quỉ,quỷ,quỷ,quỉ,demon
+δαιμόνιον,207,unigram,neuter,nominative,singular,quỷ,1.6844883071122458,quỷ,Quỷ,quở,quỷ,quỷ,quỉ,demon
+δηνάριον,367,unigram,neuter,accusative,plural,,,đê-na-ri,nợ,đơ-ni-ê,đơ-ni-ê,đơ-na-ri,nợ,denarius (about a day's wages)
+δηνάριον,194,unigram,neuter,accusative,singular,đơ-ni-ê,11.027118902787642,đồng,bạc,đơ-ni-ê,đơ-ni-ê,đơ-na-ri,tiền,denarius (about a day's wages)
+μαθητής,214,unigram,masculine,accusative,plural,môn,1.1567523179815524,môn,môn,môn-đồ,môn,môn,đệ,disciple
+μαθητής,402,unigram,masculine,accusative,singular,yêu,1.5382274158304843,quý,môn,yêu,yêu,môn,yêu,disciple
+μαθητής,332,unigram,masculine,nominative,plural,,,môn,đệ,môn-đồ,đồ,môn,đệ,disciple
+μαθητής,400,unigram,masculine,nominative,singular,đệ,3.05700807202478,đệ,đệ,môn-đồ,đồ,đồ,đệ,disciple
+νόσος,3,unigram,feminine,accusative,plural,bệnh,2.217246009932631,bệnh,bệnh,,bệnh,tật,bệnh,disease
+νόσος,88,unigram,feminine,accusative,singular,tật,3.0473442007461298,tật,chữa,tật-bịnh,tật,đau,tật,disease
+περιστερά,124,unigram,feminine,accusative,plural,bồ,2.720671862009372,bồ,bồ,bồ-câu,bồ,bồ,bồ,dove
+περιστερά,66,unigram,feminine,accusative,singular,bồ,3.189276648515507,bồ,bồ,bồ-câu,bồ,bồ,bồ,dove
+οὖς,181,unigram,neuter,accusative,plural,tai,14.647002700616842,tai,tai,tai,tai,tai,tai,ear
+οὖς,339,unigram,neuter,accusative,singular,tai,1.5855080344289023,tai,,tai,mái,thượng,nóc,ear
+σεισμός,242,unigram,masculine,nominative,plural,,,đói,đói,đói-kém,kém,,kém,"earthquakes, storm"
+σεισμός,76,unigram,masculine,nominative,singular,,,động,trận,Thình-lình,Thình,dội,cơn,"earthquakes, storm"
+τέλος,40,unigram,neuter,accusative,plural,,,cống,nhà.Nhưng,Thâu,,,,end
+τέλος,329,unigram,neuter,accusative,singular,,,kiên,cuối,bền,bền,cuối,vững,end
+αἰών,287,unigram,masculine,accusative,plural,trường,1.376665027323936,chấm,tồn,,trường,trường,cốp,eternity
+αἰών,363,unigram,masculine,accusative,singular,,,đời,bao,đời,đời,bao,bao,eternity
+ὀφθαλμός,28,unigram,masculine,accusative,plural,mắt,4114.443375815185,mắt,mắt,mắt,mắt,mắt,mắt,eye
+ὀφθαλμός,14,unigram,masculine,accusative,singular,Mắt,3.775584383114026,Mắt,móc,Mắt,Mắt,Mắt,Mắt,eye
+ὀφθαλμός,77,unigram,masculine,nominative,plural,mắt,1847.3269598599172,mắt,mắt,mắt,mắt,mắt,mắt,eye
+ὀφθαλμός,360,unigram,masculine,nominative,singular,mắt,19.801558314827552,mắt,mắt,mắt,mắt,mắt,mắt,eye
+πρόσωπον,150,unigram,neuter,accusative,plural,,,mặt,,,,,nhịn,face
+πρόσωπον,230,unigram,neuter,accusative,singular,mặt,4.845448498547552,mặt,sấp,mặt,mặt,mặt,lối,face
+λιμός,9,unigram,feminine,nominative,plural,,,kém,nọ,đói-kém,nọ,đói,kém,famine
+λιμός,372,unigram,masculine,nominative,plural,,,trận,dịch,,,,hạch,famine
+λιμός,115,unigram,feminine,nominative,singular,quẫn,1.2013738207999172,,quẫn,xài,lâm,túng,quẫn,famine
+λιμός,165,unigram,masculine,nominative,singular,,,rưỡi,,đói-kém,tháng,hán,,famine
+γεωργός,304,unigram,masculine,nominative,plural,tá,1.1086055411452385,tá,tớ,trồng,kế,tá,,"farmer, tenant"
+γεωργός,61,unigram,masculine,nominative,singular,trồng,1.7441928190954268,trồng,trồng,gốc,trồng,trồng,gốc,"farmer, tenant"
+πατήρ,236,unigram,masculine,accusative,plural,Với,1.5271774538804719,Cùng,muôn,tổ-phụ,Với,Với,,father
+πατήρ,366,unigram,masculine,accusative,singular,Cha,9.781119101341865,Cha,Cha,Cha,Cha,Cha,Cha,father
+πατήρ,376,unigram,masculine,nominative,plural,phụ,1.6856885277875877,phụ,ma-na,tổ-phụ,phụ,tiên,Tổ,father
+πατήρ,223,unigram,masculine,nominative,singular,Cha,218703.38558879922,Cha,Cha,Cha,Cha,Cha,Cha,father
+σύνδουλος,174,unigram,masculine,accusative,plural,say,1.195992488157319,hiếp,sưa,say,say,,,"fellow-servant, colleague"
+σύνδουλος,109,unigram,masculine,accusative,singular,xót,1.2283416508858471,xót,xót,bạn,xót,xót,Ngươi,"fellow-servant, colleague"
+σύνδουλος,380,unigram,masculine,nominative,plural,buồn,1.4290819177147946,buồn,Bạn,buồn,thuật,buồn,kiến,"fellow-servant, colleague"
+σύνδουλος,140,unigram,masculine,nominative,singular,,,hoãn,sòng,giãn,nỉ,nỉ,hoãn,"fellow-servant, colleague"
+ἀγρός,393,unigram,masculine,accusative,plural,,,thôn,,chị,quê,thôn,quê,field
+ἀγρός,49,unigram,masculine,accusative,singular,ruộng,4.233353871853471,ruộng,mua,ruộng,ruộng,đồng,ruộng,field
+δάκτυλος,279,unigram,masculine,accusative,plural,ngón,2.0015660700100857,ngón,ngón,ngón,ngón,ngón,ngón,finger
+δάκτυλος,213,unigram,masculine,accusative,singular,ngón,1.6337093029908658,ngón,Thô-ma,ngón,ngón,ngón,ngón,finger
+ἰχθύς,185,unigram,masculine,accusative,plural,cá,3.33245463617015,cá,ổ,cá,cá,cá,ổ,fish
+ἰχθύς,229,unigram,masculine,accusative,singular,cá,10.173407280942042,cá,cá,cá,cá,cá,cá,fish
+δίκτυον,133,unigram,neuter,accusative,plural,lưới,966.54739742685,lưới,lưới,lưới,lưới,lưới,lưới,fishing net
+δίκτυον,239,unigram,neuter,accusative,singular,lưới,2.2606504429321466,lưới,lưới,lưới,lưới,lưới,lưới,fishing net
+δίκτυον,208,unigram,neuter,nominative,plural,,,rách,rách,thả,đứt,đứt,mẻ,fishing net
+δίκτυον,291,unigram,neuter,nominative,singular,rách,1.1586133771150746,đếm,,đứt,rách,rách,mẻ,fishing net
+τροφή,293,unigram,feminine,accusative,plural,mua,1.344283749856308,mua,mua,môn,phố,mua,Chuyện,food
+τροφή,388,unigram,feminine,accusative,singular,cấp,1.3354513359584732,phó,,đúng,cấp,cấp,giấc,food
+πούς,282,unigram,masculine,accusative,plural,chân,10123.632299037685,chân,chân,chân,chân,chân,chân,foot
+πούς,137,unigram,masculine,accusative,singular,nâng,1.1457583095089356,,vấp,Kẻo,nâng,nâng,đá.,foot
+καρπός,219,unigram,masculine,accusative,plural,hoa,1.980832779837951,hoa,hoa,trái,hoa,hoa,hoa,"fruit, crop, harvest"
+καρπός,277,unigram,masculine,accusative,singular,quả,6.108158218370664,quả,quả,trái,quả,kết,trái,"fruit, crop, harvest"
+πλήρωμα,322,unigram,neuter,accusative,plural,giỏ,1.8854797073739693,giỏ,giỏ,giỏ,giỏ,giỏ,giỏ,fullness
+πλήρωμα,387,unigram,neuter,accusative,singular,chằng,1.2238218710170874,,toạc,,chằng,chằng,rách,fullness
+γενεά,324,unigram,feminine,accusative,plural,,,hệ,sang,kính-sợ,hệ,sang,Ngàicho,generation
+γενεά,278,unigram,feminine,accusative,singular,hệ,4.822094525320515,hệ,hệ,dòng-dõi,hệ,hệ,,generation
+γενεά,374,unigram,feminine,nominative,plural,đời,1.1955406935868653,Ba-by-lôn,hệ,đời,,đời,,generation
+γενεά,180,unigram,feminine,nominative,singular,hệ,27.090370187332503,hệ,hệ,dòng-dõi,hệ,hệ,Mang,generation
+δῶρον,365,unigram,neuter,accusative,plural,dâng,27.13580864295123,dâng,dâng,dâng,dâng,dâng,dâng,gift
+δῶρον,196,unigram,neuter,accusative,singular,vật,2.3279207218349955,vật,vật,bàn-thờ,vật,lễ,lễ,gift
+ἡγεμών,205,unigram,masculine,accusative,plural,tổng,1.6981351712443191,đốc,tổng,tổng-đốc,,điệu,tổng,"governor, ruler"
+ἡγεμών,16,unigram,masculine,accusative,singular,tổng,1.145518251799969,đốc,tổng,tổng-đốc,đỗi,tổng,ngạc,"governor, ruler"
+σταφυλή,222,unigram,feminine,accusative,plural,,,chôm,,tật-lê,lê,lùm,Trái,grapes
+σταφυλή,404,unigram,feminine,accusative,singular,lùm,1.5014246752944074,hái,Bụi,,lê,lùm,lùm,grapes
+ἀσπασμός,379,unigram,masculine,accusative,plural,,,chào,chào,chợ,chợ,cẩn,cẩn,greeting
+ἀσπασμός,206,unigram,masculine,accusative,singular,bào,1.1825875540442061,bào,bụng,nhảy-nhót,nhót,nhi,bào,greeting
+ὁδηγός,7,unigram,masculine,nominative,plural,,,đui,tiếc,dẫn-đưa,,hố,Mù,guide
+ὁδηγός,4,unigram,masculine,nominative,singular,,,lòa,quáng,dẫn,quáng,mù,dẫn,guide
+θρίξ,46,unigram,feminine,accusative,singular,sợi,1.096091603901298,sợi,,,,,,hair
+θρίξ,114,unigram,feminine,nominative,plural,đếm,3.5557363947883505,,tóc,đếm,,đếm,,hair
+θρίξ,259,unigram,feminine,nominative,singular,,,sợi,,,,,hại,hair
+χείρ,369,unigram,feminine,accusative,plural,tay,14327.991751988804,tay,tay,tay,tay,tay,tay,hand
+χείρ,264,unigram,feminine,accusative,singular,tay,581.9364200258451,tay,tay,tay,tay,tay,tay,hand
+κεφαλή,171,unigram,feminine,accusative,plural,lắc,1.2375938610585466,,,lắc,lắc,,lắc,head
+κεφαλή,247,unigram,feminine,accusative,singular,đầu,897.8395378140268,đầu,đầu,đầu,đầu,đầu,đầu,head
+στάχυς,248,unigram,masculine,accusative,plural,,,bông,mì,bứt,ngắt,ngắt,bông,head of grain
+στάχυς,89,unigram,masculine,accusative,singular,trổ,1.1613200159490846,trổ,trổ,bông,,,non,head of grain
+καρδία,41,unigram,feminine,accusative,plural,lòng,1.2992350193601945,lòng,,công-bình,lòng,lòng,,heart
+καρδία,342,unigram,feminine,accusative,singular,lòng,6.7303668141295745,lòng,chai,lòng,Lòng,lòng,,heart
+καρδία,395,unigram,feminine,nominative,plural,chụp,1.0963047455737722,,,,,chụp,,heart
+καρδία,231,unigram,feminine,nominative,singular,lòng,87.12116134967218,lòng,lòng,lòng,lòng,lòng,lòng,heart
+οὐρανός,10,unigram,masculine,accusative,plural,tầng,1.876178268553389,tầng,tầng,bồ-câu,tầng,bồ,dạng,"heaven, sky"
+οὐρανός,318,unigram,masculine,accusative,singular,trời,117.40428319027713,trời,trời,trời,trời,trời,trời,"heaven, sky"
+οὐρανός,408,unigram,masculine,nominative,plural,tầng,1.3514865025185099,bầu,tầng,bỗng,tầng,đậu,dạng,"heaven, sky"
+οὐρανός,237,unigram,masculine,nominative,singular,trời,1.8192860097360328,đất,tan,trời,trời,trời,hủy,"heaven, sky"
+ὥρα,349,unigram,feminine,nominative,plural,vấp,1.9578983833768095,vấp,vấp,vấp,giới,Ban,vấp,hour
+ὥρα,31,unigram,feminine,nominative,singular,giờ,364.68500863745726,giờ,giờ,giờ,giờ,giờ,giờ,hour
+οἰκία,187,unigram,feminine,accusative,plural,,,nhà,cửa,hơn,hơn,nhận,cửa,house
+οἰκία,384,unigram,feminine,accusative,singular,nhà,2042.0052363511195,nhà,nhà,nhà,nhà,nhà,nhà,house
+οἶκος,337,unigram,masculine,accusative,plural,,,đón,Được,chức,rước,Thôi,mất,"house, home"
+οἶκος,27,unigram,masculine,accusative,singular,nhà,483.4245165217432,nhà,nhà,nhà,nhà,nhà,nhà,"house, home"
+κριτής,364,unigram,masculine,nominative,plural,Bê-ên-xê-bun,1.82010854927766,Bê-ên-xê-bun,,Bê-ên-xê-bun,Bê-ên-xê-bun,đệ,Bê-ên-xê-bun,judge
+κριτής,198,unigram,masculine,nominative,singular,tòa,2.5640620185363368,tòa,tống,án,tòa,tòa,tòa,judge
+κλείς,101,unigram,feminine,accusative,plural,chìa,1.3951087350041174,chìa,chìa,,,chìa,chìa,key
+κλείς,191,unigram,feminine,accusative,singular,chìa,1.1613026128296644,,,,,chìa,chìa,key
+βασιλεύς,131,unigram,masculine,accusative,plural,tổng,1.3008298473698043,chúa,tổng,tổng-đốc,,điệu,tổng,king
+βασιλεύς,71,unigram,masculine,accusative,singular,Vua,2.3571631983122456,Sê-sa,Vua,Vua,vua,Vua,vua,king
+βασιλεία,95,unigram,feminine,accusative,plural,quốc,1.0514091515175255,quốc,giới,Ma-quỉ,,quốc,cao,kingdom
+βασιλεία,193,unigram,feminine,accusative,singular,Nước,8.862143074236451,Nước,Nước,nước,vương,vương,Nước,kingdom
+κόπος,240,unigram,masculine,accusative,plural,phiền,1.6916441140011278,phiền,can,tốt,phiền,Nàng,rầy,"labour, work, trouble, difficulty"
+κόπος,106,unigram,masculine,accusative,singular,công,1.4809378346010404,,nhức,,bực,công,công,"labour, work, trouble, difficulty"
+λύχνος,303,unigram,masculine,nominative,plural,thắp,1.6116105193425292,thắp,thắp,,,,thắp,lamp
+λύχνος,275,unigram,masculine,nominative,singular,đèn,18.854998788160707,đèn,đèn,đèn,đèn,đèn,đèn,lamp
+κλῆρος,121,unigram,masculine,accusative,plural,gì.,1.6652110076031041,xống,,áo-xống,gì.,,gì.,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,thăm,1.3594689926213916,thăm,sắc,áo-xống,y,thăm,thăm,"lots (casting of lots), inheritance"
+ἄνθρωπος,353,unigram,masculine,accusative,plural,người,2.767285454894619,người,cỏ,người,người,người,tuân,man
+ἄνθρωπος,307,unigram,masculine,accusative,singular,người,2.406979705192524,người,dơ,người,người,người,,man
+ἄνθρωπος,145,unigram,masculine,nominative,plural,ta,2.258903414779453,ta,ta,người,Sê-sa-rê,ta,Xê-xa-rê,man
+ἄνθρωπος,212,unigram,masculine,nominative,singular,người,3.166673688453752,người,Người,người,người,người,Người,man
+ἀνήρ,294,unigram,masculine,accusative,plural,,,Chị,mê,đồng-bạn,chợt,thiếp,đang,"man, husband"
+ἀνήρ,298,unigram,masculine,accusative,singular,chồng,434.5056857245079,chồng,chồng,chồng,chồng,chồng,chồng,"man, husband"
+ἀνήρ,178,unigram,masculine,nominative,plural,ngàn,6.73550770009322,ngàn,5.000,ngàn,nghìn,ngàn,ngàn,"man, husband"
+ἀνήρ,284,unigram,masculine,nominative,singular,,,xin,một,sấp,xin,một,người,"man, husband"
+μνᾶ,356,unigram,feminine,accusative,plural,nén,21.834828490662982,nén,nén,nén,nén,nén,ngài,mina (about 100 days' wages)
+μνᾶ,17,unigram,feminine,accusative,singular,nén,8.103131094201832,hầu,nén,nén,nén,nén,thằng,mina (about 100 days' wages)
+πρωτοκαθεδρία,129,unigram,feminine,accusative,plural,tiệc,1.2045472948802352,tiệc,ưa,ngôi,ghế,thích,tiệc,"most important seat, seat of honour"
+πρωτοκαθεδρία,43,unigram,feminine,accusative,singular,ưa,1.467142647895117,ưa,ưa,thích,chợ,ghế,chiếm,"most important seat, seat of honour"
+μήτηρ,119,unigram,feminine,accusative,plural,gấp,1.574893297977263,gấp,gấp,,gấp,gấp,,mother
+μήτηρ,333,unigram,feminine,accusative,singular,mẹ,43.25986727144074,mẹ,mẹ,mẹ,mẹ,mẹ,mẹ,mother
+ὄρος,258,unigram,neuter,accusative,plural,núi,5.85756426171109,núi,đồi,núi,núi,núi,núi,mountain
+ὄρος,316,unigram,neuter,accusative,singular,núi,62.05060644491412,núi,núi,núi,núi,núi,núi,mountain
+μύρον,107,unigram,neuter,accusative,plural,ngơi,1.224329162576176,ngơi,ướp,luật-lệ,ngơi,,thơm.Đến,myrrh
+μύρον,33,unigram,neuter,accusative,singular,dầu,1.3731121729920517,tẩm,tẩm,thơm,dầu,dầu,dầu,myrrh
+ὄνομα,105,unigram,neuter,accusative,plural,Bô-a-nẹt,1.0964408317486285,Bô-a-nẹt,,,,,,name
+ὄνομα,42,unigram,neuter,accusative,singular,danh,42.11328180700397,danh,ghét,danh,danh,danh,ghét,name
+ὄνομα,127,unigram,neuter,nominative,plural,tên,5.225931489167596,Tên,tên,Sứ-đồ,tên,tên,tên,name
+ὄνομα,299,unigram,neuter,nominative,singular,tên,145.62717190525197,tên,tên,tên,tên,tên,tên,name
+ἔθνος,273,unigram,neuter,accusative,plural,dân,1.544903809537223,dân,tộc,nhân,rao,dân,mọi,nation
+ἔθνος,232,unigram,neuter,accusative,singular,,,chống,tộc,dân,nổi,nước,nọ,nation
+ἔθνος,359,unigram,neuter,nominative,plural,nhu,1.2057359367928044,cần,nhu,ngoại,nhu,dân,tìm,nation
+ἔθνος,32,unigram,neuter,nominative,singular,nọ,1.787999052946828,Dân,tộc,nọ,nọ,nghịch,nọ,nation
+νύξ,225,unigram,feminine,accusative,plural,đêm,65.29186988035579,đêm,đêm,đêm,đêm,đêm,đêm,night
+νύξ,292,unigram,feminine,accusative,singular,đêm,6.8929458134696,đêm,góa,đêm,đêm,cứ,đêm,night
+ὅρκος,72,unigram,masculine,accusative,plural,thề,4.3436419704888785,thề,thề,thề,thề,thề,hứa,oath
+ὅρκος,315,unigram,masculine,accusative,singular,Tức,1.3971852153989277,Tức,ước,Theo,Là,Tức,hứa,oath
+βοῦς,183,unigram,masculine,accusative,plural,bò,1.5723856460504722,bò,bò,bò,bò,bò,cừu,ox
+βοῦς,328,unigram,masculine,accusative,singular,bò,1.113321787050426,chuồng,bò,,bò,máng,,ox
+παραβολή,311,unigram,feminine,accusative,plural,,,ngôn,dụ,thí-dụ,dụ,ngụ,ngôn,parable
+παραβολή,265,unigram,feminine,accusative,singular,,,ngôn,dụ,thí-dụ,dụ,ngụ,ngôn,parable
+μέρος,407,unigram,neuter,accusative,plural,,,vùng,,vào,,miền,khu,part
+μέρος,63,unigram,neuter,accusative,singular,phần,6.690043159618296,phần,phần,phần,phần,con.,phần,part
+μαργαρίτης,267,unigram,masculine,accusative,plural,ngọc,14.798980182356926,ngọc,ngọc,,ngọc,ngọc,ngọc,pearls
+μαργαρίτης,45,unigram,masculine,accusative,singular,ngọc,1.8040325323675823,ngọc,ngọc,châu,hiếm,ngọc,ngọc,pearls
+τόπος,326,unigram,masculine,accusative,plural,,,đói,đói,đói-kém,kém,nạn,kém,place
+τόπος,351,unigram,masculine,accusative,singular,chỗ,3.1906337432296543,nơi,Sọ,chỗ,chỗ,chỗ,chỗ,place
+πρωτοκλισία,331,unigram,feminine,accusative,plural,dự,1.2484733745531624,ghế,dự,ngôi,dự,dự,nhất,place of honor
+πρωτοκλισία,44,unigram,feminine,accusative,singular,tiệc,1.3825031946716102,tiệc,dự,tiệc,dự,trọng,tiệc,place of honor
+ὄφις,409,unigram,masculine,accusative,plural,rắn,1.1924939512867547,bịnh,thuốc,độc,rắn,rắn,dược,poison
+ὄφις,128,unigram,masculine,accusative,singular,rắn,104.80556876506394,rắn,rắn,rắn,rắn,rắn,rắn,poison
+σκεῦος,166,unigram,neuter,accusative,plural,trói,1.4625146349113636,trói,cường,trói,trói,trói,lưỡng,"possession, object, thing, jar, vessel"
+σκεῦος,306,unigram,neuter,accusative,singular,cấm,1.4910978360382323,cấm,cấm,cấm,ngang,buôn,sân,"possession, object, thing, jar, vessel"
+σκεῦος,156,unigram,neuter,nominative,plural,,,sân,,chuyên,mái,Tương,đạc,"possession, object, thing, jar, vessel"
+σκεῦος,228,unigram,neuter,nominative,singular,,,gắn,kề,,,xốp,giấm,"possession, object, thing, jar, vessel"
+δύναμις,130,unigram,feminine,accusative,plural,lạ,1.1693915637456413,nhiều,phép,lạ,nhiều,lạ,lạ,"power, ability, miracle"
+δύναμις,57,unigram,feminine,accusative,singular,năng,5.920035534655533,năng,quyền,quyền-phép,năng,năng,quyền,"power, ability, miracle"
+δύναμις,98,unigram,feminine,nominative,plural,lạ,1.1943931272854487,năng,phép,lạ,thực,lạ,lạ,"power, ability, miracle"
+δύναμις,141,unigram,feminine,nominative,singular,năng,19.766091329259716,năng,năng,quyền-phép,năng,năng,quyền,"power, ability, miracle"
+ἱερεύς,24,unigram,masculine,nominative,plural,vi,1.1523154605443735,vi,đọc,,vi,tư,tuy,priest
+ἱερεύς,288,unigram,masculine,nominative,singular,lễ,1.215938738485517,lễ,lễ,tế-lễ,,tư,,priest
+φυλακή,308,unigram,feminine,accusative,plural,,,bách,,trú,,,giam,prison
+φυλακή,30,unigram,feminine,accusative,singular,tù,140.70010666893089,tù,tù,tù,tù,tù,tù,prison
+προφήτης,75,unigram,masculine,accusative,plural,tri,1.4882130763429442,tri,tri,tiên-tri,tri,tri,tri,prophet
+προφήτης,238,unigram,masculine,accusative,singular,tri,1.3924786607661683,tri,tri,đấng,tri,tri,tri,prophet
+προφήτης,266,unigram,masculine,nominative,plural,tri,1.376940445595214,tri,tri,tiên-tri,tri,,tri,prophet
+προφήτης,317,unigram,masculine,nominative,singular,tri,1.719054489557373,tri,tri,tiên-tri,tri,tri,tri,prophet
+βαλλάντιον,23,unigram,neuter,accusative,singular,túi,6.111605645659522,túi,túi,túi,túi,túi,ví,purse
+ποταμός,152,unigram,masculine,nominative,plural,,,,sụp,chảy,,,tràn,river
+ποταμός,201,unigram,masculine,nominative,singular,nền,1.4185293612715217,móng,nền,nền,,nền,nền,river
+λῃστής,52,unigram,masculine,accusative,plural,cướp,32.42258439460762,cướp,cướp,cướp,cướp,cướp,cướp,robber
+λῃστής,406,unigram,masculine,accusative,singular,gậy,1.253191018065435,gậy,,gậy,gậy,gộc,gộc,robber
+λῃστής,381,unigram,masculine,nominative,plural,cướp,9.760968225199669,cướp,cướp,trộm-cướp,cướp,cướp,cướp,robber
+λῃστής,189,unigram,masculine,nominative,singular,cướp,2.8006606313566103,cướp,leo,trộm-cướp,cướp,cướp,,robber
+ἄρχων,245,unigram,masculine,accusative,plural,triệu,2.033251866401918,triệu,họp,đề-hình,triệu,triệu,triệu,ruler
+ἄρχων,117,unigram,masculine,accusative,singular,,,,,giải-hòa,gắng,lôi,giàn,ruler
+ἄρχων,79,unigram,masculine,nominative,plural,lãnh,2.1919727588340026,lãnh,lãnh,quan,lãnh,chế,lãnh,ruler
+ἄρχων,375,unigram,masculine,nominative,singular,,,lãnh,lý,vua-chúa,trị,cai,cầm,ruler
+ἀκοή,11,unigram,feminine,accusative,plural,chiến,1.308117907522197,chiến,,giặc,chiến,chiến,giặc,rumor
+ἀκοή,91,unigram,feminine,accusative,singular,chư,1.1925179517599633,chư,An-ti-ba,chư-hầu,chư,Chư,cai,rumor
+ἀκοή,195,unigram,feminine,nominative,plural,thong,1.4082468155531351,,thong,thong-thả,thong,ràng,thong,rumor
+ἀκοή,392,unigram,feminine,nominative,singular,đồn,1.7716655573688664,đồn,đồn,đồn,Danh,Danh,loan,rumor
+βιβλίον,68,unigram,neuter,accusative,plural,,,,chứa,ví,,thiết,sách,"scroll, book"
+βιβλίον,65,unigram,neuter,accusative,singular,giấy,1.7035968117606055,giấy,trao,tờ,giấy,trao,giấy,"scroll, book"
+διάκονος,260,unigram,masculine,nominative,plural,,,chú,nếm,,nếm,múc,múc,"servant, minister, deacon"
+διάκονος,112,unigram,masculine,nominative,singular,tớ,1.598757502438635,vòng,,đầy-tớ,tớ,tớ,Ai,"servant, minister, deacon"
+δοῦλος,252,unigram,masculine,accusative,plural,tớ,2.6658365451439616,tớ,tớ,đầy-tớ,tớ,tớ,tớ,"servant, slave"
+δοῦλος,34,unigram,masculine,accusative,singular,tớ,2.4463948754866993,tớ,tớ,đầy-tớ,tớ,tớ,tớ,"servant, slave"
+δοῦλος,126,unigram,masculine,nominative,plural,tớ,7.178681220784038,tớ,tớ,đầy-tớ,tớ,tớ,tớ,"servant, slave"
+δοῦλος,246,unigram,masculine,nominative,singular,tớ,7.8432893312863605,tớ,tớ,đầy-tớ,tớ,tớ,tớ,"servant, slave"
+πρόβατον,385,unigram,neuter,accusative,plural,chiên,1392.9118382003933,chiên,chiên,chiên,chiên,chiên,chiên,sheep
+πρόβατον,173,unigram,neuter,accusative,singular,chiên,29.580339310882394,chiên,chiên,chiên,chiên,chiên,chiên,sheep
+ποιμήν,297,unigram,masculine,nominative,plural,chăn,2.4863425409523416,chăn,chăn,chăn,chăn,chăn,chăn,"shepherd, pastor"
+ποιμήν,343,unigram,masculine,nominative,singular,chăn,2.248463165664856,chăn,chăn,chăn,chăn,chăn,chăn,"shepherd, pastor"
+σημεῖον,169,unigram,neuter,accusative,plural,lạ,1.667446915766769,dấu,lạ,lạ,dấu,lạ,lạ,sign
+σημεῖον,155,unigram,neuter,accusative,singular,lạ,6.411275521783626,dấu,lạ,lạ,dấu,lạ,lạ,sign
+σημεῖον,54,unigram,neuter,nominative,plural,lạ,3.151527795229795,dấu,lạ,điềm,lạ,lạ,lạ,sign
+σημεῖον,111,unigram,neuter,nominative,singular,dấu,51.61539096192024,dấu,dấu,dấu,dấu,dấu,dấu,sign
+δραχμή,352,unigram,feminine,accusative,plural,quét,1.122608048569835,quét,,,quét,,,"silver coin, drachma"
+δραχμή,203,unigram,feminine,accusative,singular,bạc,1.5262851221422378,quan,mất,bạc,bạc,bạc,bạc,"silver coin, drachma"
+ἀργύριον,257,unigram,neuter,accusative,plural,bạc,13.727223485018131,bạc,bạc,bạc,bạc,bạc,bạc,"silver, money"
+ἀργύριον,396,unigram,neuter,accusative,singular,bạc,10.558541021395616,bạc,bạc,bạc,bạc,tiền,tiền,"silver, money"
+ἁμαρτία,338,unigram,feminine,accusative,plural,tội,1.6307728359581688,tha,tội,tội,tội,tội,tha,sin
+ἁμαρτία,262,unigram,feminine,accusative,singular,tội,48.76881881837335,tội,tội,tội-lỗi,tội,tội,tội,sin
+ἁμαρτία,347,unigram,feminine,nominative,plural,tha,3.999670064609992,tha,tha,tha,tha,tha,tha,sin
+ἁμαρτία,344,unigram,feminine,nominative,singular,tội,5.656278715707413,tội,tội,tội-lỗi,tội,tội,tội,sin
+ἀδελφή,371,unigram,feminine,accusative,plural,chị,4.087598664693522,chị,vợ,chị,chị,chị,cha,sister
+ἀδελφή,162,unigram,feminine,accusative,singular,Ma-thê,6.131719223341659,Ma-thê,Ma-thê,em,Ma-thê,Ma-thê,Ma-thê,sister
+ἀδελφή,26,unigram,feminine,nominative,plural,em,9.662288127370802,em,em,em,em,em,em,sister
+ἀδελφή,370,unigram,feminine,nominative,singular,em,2.642985749832303,em,em,chị,em,em,em,sister
+ῥάπισμα,184,unigram,neuter,accusative,plural,,,,,vả,tát,Kính,tuế,"slap, strike, hit"
+ῥάπισμα,330,unigram,neuter,accusative,singular,tát,1.4953611870984178,cạnh,quát,đối-đáp,tát,tát,kiểu,"slap, strike, hit"
+πλοιάριον,280,unigram,neuter,nominative,plural,Ti-bê-ri-át,1.4716402095357983,,,Ti-bê-ri-át,Ti-bê-ri-át,,Ti-bê-ri-át,small boat
+πλοιάριον,168,unigram,neuter,nominative,singular,chiếc,6.146229378496962,chiếc,chiếc,chiếc,chiếc,chiếc,chiếc,small boat
+ὀψάριον,218,unigram,neuter,accusative,plural,,,mạch,thấm,ngần,ngần,,mạch,small fish
+ὀψάριον,310,unigram,neuter,accusative,singular,cá,3.1890617626182167,cá,cá,cá,cá,cá,,small fish
+υἱός,59,unigram,masculine,accusative,plural,,,,trai,,trai,Xê-bê-đê,Xê-bê-đê,son
+υἱός,154,unigram,masculine,accusative,singular,Con,26.589613463163946,Con,Con,Con,Con,Con,Con,son
+υἱός,157,unigram,masculine,nominative,plural,con,6.4165142392537255,cái,cái,con,con,con,con,son
+υἱός,254,unigram,masculine,nominative,singular,Con,1837.4902356958366,Con,Con,Con,Con,Con,Con,son
+ψυχή,268,unigram,feminine,accusative,plural,,,Nhờ,nhẫn,,,kiên,mạng,"soul, life"
+ψυχή,341,unigram,feminine,accusative,singular,mạng,15.875531864482783,mạng,mạng,sống,mạng,mạng,mạng,"soul, life"
+ἀστήρ,354,unigram,masculine,nominative,plural,rúng,1.7464553217593242,rúng,rụng,thế-lực,rúng,rúng,xuống.Các,star
+ἀστήρ,227,unigram,masculine,nominative,singular,dừng,2.25155589374652,dừng,Đông,Mấy,dừng,dừng,Ngôi,star
+λίθος,358,unigram,masculine,accusative,plural,lượm,2.6956208015492473,lượm,lượm,đá,nhặt,lượm,lượm,stone
+λίθος,47,unigram,masculine,accusative,singular,đá,21.81049257789356,đá,đá,đá,đá,đá,đá,stone
+λίθος,167,unigram,masculine,nominative,plural,đá,162.2685061723063,đá,đá,đá,đá,đá,đá,stone
+λίθος,51,unigram,masculine,nominative,singular,đá,8.599818771130943,đá,tảng,đá,đá,đá,đá,stone
+συναγωγή,295,unigram,feminine,accusative,plural,hội,12.324570011161194,hội,hội,hội,hội,hội,hội,synagogue
+συναγωγή,398,unigram,feminine,accusative,singular,hội,11.855231998663527,hội,hội,hội,hội,hội,hội,synagogue
+τράπεζα,234,unigram,feminine,accusative,plural,lật,2.2576217387611046,lật,lật,đổi,lật,lật,lật,table
+τράπεζα,170,unigram,feminine,accusative,singular,ngân,1.1721661474204113,gửi,,hàng,buôn,ngân,ngân,table
+τάλαντον,84,unigram,neuter,accusative,plural,ta-lâng,10.321739248180826,nén,túi,ta-lâng,ta-lâng,ta-lâng,túi,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,271,unigram,neuter,accusative,singular,ta-lâng,18.376830229238834,nén,chủ,ta-lâng,ta-lâng,ta-lâng,túi,talent (weight and monetary unit: around 20 years' wages)
+φόρος,325,unigram,masculine,accusative,plural,xúi,1.1490805049874822,,xúi,loạn,xúi,,mê,tax
+φόρος,348,unigram,masculine,accusative,singular,Sê-sa,4.224960419835166,Sê-sa,Sê-sa,Sê-sa,Sê-sa,Sê-sa,Xê-xa,tax
+τελώνης,226,unigram,masculine,nominative,plural,thuế,1.3033558428569505,thu,thu,thuế,thuế,thuế,thuế,tax collector
+τελώνης,87,unigram,masculine,nominative,singular,thuế,1.66540580186174,thuế,thuế,thuế,thuế,thuế,thuế,tax collector
+γραμματεύς,403,unigram,masculine,nominative,plural,,,chuyên,luật,thông-giáo,giáo,,sư,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,255,unigram,masculine,nominative,singular,,,luật,luật,thông-giáo,giáo,giáo,sư,"teacher, expert in the law, scholar, scribe"
+καθηγητής,386,unigram,masculine,nominative,plural,,,Cũng,Cứu,Cũng,Chủ,Tụ,Chủ,"teacher, guide"
+καθηγητής,270,unigram,masculine,nominative,singular,,,Cũng,Cứu,Cũng,Chủ,Tụ,Chủ,"teacher, guide"
+κλέπτης,100,unigram,masculine,nominative,plural,trộm,2.9628025084213627,trộm,trộm,,trộm,trộm,trộm,thief
+κλέπτης,269,unigram,masculine,nominative,singular,trộm,327.8629692996431,trộm,trộm,trộm,trộm,trộm,trộm,thief
+διαλογισμός,355,unigram,masculine,accusative,plural,tưởng,1.5161860929779452,nên,tưởng,ý-tưởng,tưởng,,nghĩ,"thought, argument"
+διαλογισμός,176,unigram,masculine,accusative,singular,cạnh,2.155828965106408,cạnh,cạnh,ý-tưởng,cạnh,cạnh,cạnh,"thought, argument"
+διαλογισμός,146,unigram,masculine,nominative,plural,,,tưởng,tư,lòng,tà,lòng,tưởng,"thought, argument"
+διαλογισμός,346,unigram,masculine,nominative,singular,tranh,1.4716612801909115,tranh,tranh,biện-luận,tranh,cãi,tranh,"thought, argument"
+θρόνος,6,unigram,masculine,accusative,plural,ngai,2.609208897546415,ngai,ngai,chi-phái,ngai,ngai,chi,throne
+θρόνος,285,unigram,masculine,accusative,singular,,,,Trai,Rất-Cao,,ngai,Em,throne
+χρόνος,321,unigram,masculine,accusative,plural,dài,1.1646241105901287,dài,khá,,dài,tác,,time
+χρόνος,276,unigram,masculine,accusative,singular,lâu,53.43004896053357,lâu,bác,lâu,lâu,lâu,lâu,time
+καιρός,93,unigram,masculine,nominative,plural,,,,,phu-tù,Thành,đạp,,"time, right time"
+καιρός,172,unigram,masculine,nominative,singular,,,Giờ,mùa,thì-giờ,gần,điểm,,"time, right time"
+τάφος,159,unigram,masculine,accusative,plural,,,bia,đài,,trang,chỉnh,tô,"tomb, grave"
+τάφος,210,unigram,masculine,accusative,singular,mộ,3.447101941370044,mộ,mộ,mả,mộ,mộ,mộ,"tomb, grave"
+μνημεῖον,18,unigram,neuter,accusative,plural,mộ,1.394800205382283,Khốn,mộ,mồ-mả,mộ,mộ,mộ,"tomb, grave"
+μνημεῖον,22,unigram,neuter,accusative,singular,mộ,6466.592027529337,mộ,mộ,mộ,mộ,mộ,mộ,"tomb, grave"
+μνημεῖον,96,unigram,neuter,nominative,plural,,,Mồ,nấm,thây,mồ,giấc,mả,"tomb, grave"
+μνημεῖον,314,unigram,neuter,nominative,singular,mộ,2.1854611475284846,mộ,ngôi,chôn,mộ,mộ,mộ,"tomb, grave"
+ὀδούς,85,unigram,masculine,accusative,singular,răng,3.480847192640202,răng,răng,răng,răng,răng,răng,tooth
+θησαυρός,122,unigram,masculine,accusative,plural,báu,1.5323220189567672,,,,,,báu,treasure
+θησαυρός,263,unigram,masculine,accusative,singular,kho,1.1748954857958616,kho,,,báu,kho,nghèo,treasure
+δένδρον,110,unigram,neuter,accusative,plural,cây,2.8315223157953215,cối,cây,cây,cây,cối,cây,tree	
+δένδρον,94,unigram,neuter,accusative,singular,cây,4.612124047471479,cây,cây,cây-cối,cây,cây,cây,tree	
+λίτρα,300,unigram,feminine,accusative,plural,,,,"32,7",,,cân,,unit of measure around 300 grams
+κώμη,320,unigram,feminine,accusative,plural,làng,393.64409256267896,làng,làng,làng,làng,làng,làng,village
+κώμη,67,unigram,feminine,accusative,singular,làng,1556.383135062055,làng,làng,làng,làng,làng,thị,village
+παρθένος,336,unigram,feminine,nominative,plural,trinh,4.142578515102999,trinh,mở,,trinh,trinh,cô,virgin
+παρθένος,243,unigram,feminine,nominative,singular,Em-ma-nu-ên,1.5292081140583405,Em-ma-nu-ên,Em-ma-nu-ên,Em-ma-nu-ên,,,Em-ma-nu-ên,virgin
+φωνή,244,unigram,feminine,nominative,plural,,,,khăng,nài,,thét,,voice or sound
+φωνή,382,unigram,feminine,nominative,singular,tiếng,375.5004146582846,tiếng,tiếng,tiếng,tiếng,tiếng,tiếng,voice or sound
+πόλεμος,312,unigram,masculine,accusative,plural,chiến,1.6913601425805784,chiến,chiến,giặc,chiến,chiến,giặc,war
+πόλεμος,53,unigram,masculine,accusative,singular,chiến,1.2013523596909814,chiến,,,địch,chiến,,war
+ὕδωρ,405,unigram,neuter,accusative,plural,nước,23.46523703448996,nước,nước,nước,nước,nước,nước,water
+ὕδωρ,116,unigram,neuter,accusative,singular,nước,167.83339517331947,nước,nước,nước,nước,nước,nước,water
+ὕδωρ,136,unigram,neuter,nominative,singular,nước,18.014078388698636,nước,nước,nước,nước,nước,tuôn,water
+ὑδρία,249,unigram,feminine,accusative,plural,,,vại,,ché,,chum,,water jar
+ὑδρία,143,unigram,feminine,accusative,singular,vò,3.24278028947717,vò,hăng,vò,vò,vò,bầu,water jar
+ὁδός,313,unigram,feminine,accusative,plural,đường,3.6043644727131787,đường,đường,đường,đường,đường,đường,way
+ὁδός,175,unigram,feminine,accusative,singular,đường,1480.4809252977575,đường,đường,đường,đường,đường,đường,way
+γάμος,197,unigram,masculine,accusative,plural,tiệc,3.287843871751578,tiệc,,tiệc,cưới,tiệc,tiệc,wedding
+γάμος,289,unigram,masculine,accusative,singular,,,môn-đệ,mời,dự,mời,cưới,cưới,wedding
+γυνή,135,unigram,feminine,accusative,plural,dị,1.2036488813026787,dị,dạ,cứng-cỏi,dị,,dị,"wife, woman"
+γυνή,215,unigram,feminine,accusative,singular,vợ,932.2282726109107,vợ,vợ,vợ,vợ,vợ,vợ,"wife, woman"
+γυνή,147,unigram,feminine,nominative,plural,nữ,1.4699331373431392,nữ,nữ,đàn-bà,nữ,bà,đàn,"wife, woman"
+γυνή,153,unigram,feminine,nominative,singular,đàn,1.107562134180615,đàn,phụ,đàn-bà,nữ,bà,đàn,"wife, woman"
+ἄνεμος,12,unigram,masculine,nominative,plural,gió,5.259031213446928,,gió,gió,gió,bão,gió,wind
+ἄνεμος,81,unigram,masculine,nominative,singular,gió,142.07412724606124,gió,gió,gió,gió,gió,gió,wind
+πνεῦμα,368,unigram,neuter,accusative,plural,trạng,1.436096555917304,trạng,,số-phận,trạng,thảm,đốn,"wind, breath, spirit"
+πνεῦμα,202,unigram,neuter,accusative,singular,Linh,8.602807941268365,Linh,Linh,Thánh-Linh,Linh,Linh,Linh,"wind, breath, spirit"
+πνεῦμα,15,unigram,neuter,nominative,plural,,,tà,quỷ,tà-ma,uế,ô,,"wind, breath, spirit"
+πνεῦμα,29,unigram,neuter,nominative,singular,Linh,8.529664593408475,Linh,Linh,Thánh-Linh,Linh,Linh,Linh,"wind, breath, spirit"
+λύκος,5,unigram,masculine,nominative,singular,muông-sói,1.161311312321613,,,muông-sói,,,,wolf
+κοιλία,108,unigram,feminine,nominative,plural,vú,1.3291738201219112,,,vú,,vú,bú,"womb, stomach, source of feelings and emotions"
+κοιλία,335,unigram,feminine,nominative,singular,,,,Thầy—người,vú,,sữa,dưỡng,"womb, stomach, source of feelings and emotions"
+ῥῆμα,224,unigram,neuter,accusative,plural,lời,103.9902000548621,lời,lời,lời,lời,lời,lời,word
+ῥῆμα,199,unigram,neuter,accusative,singular,lời,14.877687006899883,lời,hiểu,lời,lời,lời,hiểu,word
+ῥῆμα,38,unigram,neuter,nominative,plural,lời,3.6255725987106424,lời,Hàng,lời,lời,lời,,word
+ῥῆμα,390,unigram,neuter,nominative,singular,lời,1.3472051105653853,lời,Bấy,lời,dựa,nhận,gì,word
+λόγος,200,unigram,masculine,accusative,plural,lời,10.21386140082481,dạy,lời,lời,lời,lời,dạy,word
+λόγος,190,unigram,masculine,accusative,singular,lời,1.865467620813821,nghe,Đạo,đạo,lời,lời,lời,word
+λόγος,186,unigram,masculine,nominative,plural,,,lời,tan,qua,bao,đất,hủy,word
+λόγος,357,unigram,masculine,nominative,singular,Lời,7.645843794194455,Lời,Lời,lời,Lời,Lời,lời,word
+ἔργον,56,unigram,neuter,accusative,plural,việc,4.356820370326656,việc,việc,việc,việc,việc,làm,work
+ἔργον,118,unigram,neuter,accusative,singular,việc,15.753243852645944,việc,việc,việc,việc,việc,việc,work
+ἔργον,361,unigram,neuter,nominative,plural,việc,3.82864791732421,ánh,ánh,việc,việc,việc,bày,work
+ἔργον,334,unigram,neuter,nominative,singular,,,Làm,Tin,công-việc,Công,Ðây,Điều,work
+ἐργάτης,179,unigram,masculine,nominative,plural,Mùa,1.7386113811276316,Mùa,Mùa,Mùa,Mùa,Mùa,thợ,worker
+ἐργάτης,256,unigram,masculine,nominative,singular,đáng,2.294581045804613,Đừng,đãi,đáng,đáng,lương,công,worker
+μέριμνα,204,unigram,feminine,nominative,plural,quyến,1.096057314542422,quyến,,,,,,"worry, concern, desire"
+μέριμνα,177,unigram,feminine,nominative,singular,,,nghẹt,,mê-đắm,,ngòi,nẩy,"worry, concern, desire"
+ἔτος,309,unigram,neuter,accusative,plural,năm,1586.541765994007,năm,năm,năm,năm,năm,năm,year
+ἔτος,216,unigram,neuter,accusative,singular,năm,6.216524263497142,năm,năm,năm,năm,năm,năm,year
+ζεῦγος,25,unigram,neuter,accusative,plural,cặp,1.2013309189107515,cặp,,,đôi,kiếu,cặp,"yoke, pair"
+ζεῦγος,301,unigram,neuter,accusative,singular,cặp,1.6602321803006135,cặp,,cu,cặp,cặp,cu,"yoke, pair"

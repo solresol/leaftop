@@ -1,0 +1,309 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1796_translation,version_1797_translation,version_1798_translation,version_1799_translation,version_1800_translation,english_translation
+θεός,124,unigram,masculine,accusative,singular,Jumalaa,33.72106303533118,Jumalaa,,Jumalaa,Jumalaa,Jumalaa,God
+θεός,189,unigram,masculine,nominative,singular,Jumala,8422.512355807896,Jumala,,Jumala,Jumala,Jumala,God
+κύριος,125,unigram,masculine,nominative,singular,Herra,98.28565343626762,Herra,,Herra,Herra,Herra,"Lord, lord, master"
+γραφή,119,unigram,feminine,accusative,plural,kirjoituksia,2.127395659788561,,,kirjoituksia,kirjoituksia,Kirjoituksia,Scripture
+γραφή,236,unigram,feminine,nominative,plural,,,Raamattu,,,kirjoitukset,Mutta,Scripture
+γραφή,295,unigram,feminine,nominative,singular,,,Raamattu,,kirjoitus,toteen,Raamatun,Scripture
+ἄγγελος,89,unigram,masculine,accusative,plural,enkelinsä,1.6002870090024492,,,enkelinsä,enkelinsä,enkelinsä,angel
+ἄγγελος,74,unigram,masculine,accusative,singular,valmistava,1.0500981916898025,,,valmistava,,,angel
+ἄγγελος,40,unigram,masculine,nominative,plural,enkelit,223.086477854717,enkelit,,enkelit,enkelit,enkelit,angel
+ἄγγελος,99,unigram,masculine,nominative,singular,enkeli,83.22707129638111,enkeli,,enkeli,enkeli,enkeli,angel
+ἀπόστολος,37,unigram,masculine,nominative,plural,,,apostolit,,apostolit,Apostolit,Apostolit,apostle
+ἀπόστολος,4,unigram,masculine,nominative,singular,sanansaattaja,1.0960817954296525,sanansaattaja,,,,,apostle
+ἐξουσία,61,unigram,feminine,accusative,plural,valtamiesten,1.0962199599997684,valtamiesten,,,,,authority
+ἐξουσία,180,unigram,feminine,accusative,singular,,,vallan,,vallan,valta,valta,authority
+βρέφος,13,unigram,neuter,accusative,plural,pieniä,1.3167922046544251,,,pieniä,pieniä,pieniä,babies
+βρέφος,293,unigram,neuter,accusative,singular,seimessä,4.727568685083618,seimessä,,seimessä,seimessä,seimessä,babies
+ἀρχή,63,unigram,feminine,accusative,plural,valtamiesten,1.0961063339256685,valtamiesten,,,,,beginning
+ἀρχή,164,unigram,feminine,accusative,singular,tunnustekonsa,1.106290521332697,,,,,tunnustekonsa,beginning
+βλασφημία,29,unigram,feminine,accusative,plural,ajattelemaan,1.2238815261158769,,,ajattelemaan,,ajattelemaan,blasphemy
+βλασφημία,87,unigram,feminine,accusative,singular,herjasi,1.0960866985123228,,,,herjasi,,blasphemy
+βλασφημία,187,unigram,feminine,nominative,plural,herjaukset,1.9999489783035076,,,,herjaukset,,blasphemy
+βλασφημία,75,unigram,feminine,nominative,singular,,,pilkka,,,herjaus,,blasphemy
+πλοῖον,97,unigram,neuter,accusative,plural,,,venheet,,venheet,veneet,veneet,boat
+πλοῖον,278,unigram,neuter,accusative,singular,veneeseen,12.42428688777433,haahteen,,venheeseen,veneeseen,veneeseen,boat
+πλοῖον,216,unigram,neuter,nominative,plural,,,,,venheessä,Muitakin,matkassaan,boat
+πλοῖον,204,unigram,neuter,nominative,singular,vene,5.100364507490183,haaksi,,venhe,vene,vene,boat
+σῶμα,195,unigram,neuter,nominative,plural,ruumiit,3.999794495275929,,,,ruumiit,ruumiit,body
+σῶμα,52,unigram,neuter,nominative,singular,ruumiisi,3.4974535023765285,ruumis,,ruumiisi,ruumiisi,ruumiisi,body
+κλῆμα,48,unigram,neuter,nominative,plural,oksat,1.2013577236846118,viinapuu,,oksat,,oksat,branch
+κλῆμα,136,unigram,neuter,nominative,singular,pysy,1.0441038887271343,pysy,,,,,branch
+ἄρτος,282,unigram,masculine,accusative,plural,leipää,127.37757685209479,leipää,,leipää,leipää,leipää,bread
+ἄρτος,308,unigram,masculine,accusative,singular,leipää,35.017772094890056,leipää,,leipää,leipää,leipää,bread
+ἄρτος,143,unigram,masculine,nominative,plural,leipää,10.34051168831423,leipää,,leipää,leipää,leipää,bread
+ἄρτος,32,unigram,masculine,nominative,singular,leipä,17.34905735377459,leipä,,leipä,leipä,leipä,bread
+ἀδελφός,270,unigram,masculine,accusative,plural,,,veljensä,,,,luopunut,brother
+ἀδελφός,111,unigram,masculine,accusative,singular,veljensä,17.0206025269627,veljensä,,veljensä,veljensä,veljensä,brother
+ἀδελφός,102,unigram,masculine,nominative,plural,,,veljensä,,veljensä,äitini,äitini,brother
+ἀδελφός,210,unigram,masculine,nominative,singular,,,veli,,,veljensä,,brother
+στῆθος,140,unigram,neuter,accusative,plural,rintoihinsa,1.1613200159490844,,,rintoihinsa,,,"chest, breast"
+στῆθος,254,unigram,neuter,accusative,singular,rintaansa,1.1592654150032362,kuka,,rintaansa,rintaansa,,"chest, breast"
+ἀρχιερεύς,220,unigram,masculine,accusative,plural,ylipappien,3.254206809562588,pappein,,ylipappien,ylipappien,ylipappien,chief priest
+ἀρχιερεύς,53,unigram,masculine,accusative,singular,papin,1.0442936166858794,papin,,,,,chief priest
+ἀρχιερεύς,110,unigram,masculine,nominative,plural,ylipapit,10.05882503560341,papit,,ylipapit,ylipapit,ylipapit,chief priest
+ἀρχιερεύς,224,unigram,masculine,nominative,singular,ylipappi,4.119005837657446,pappi,,ylimmäinen,ylipappi,ylipappi,chief priest
+τέκνον,302,unigram,neuter,accusative,plural,lapset,1.5080582397074098,lapset,,,,,child
+τέκνον,162,unigram,neuter,accusative,singular,veli,1.581384150334799,veli,,veli,veljensä,vanhempiaan,child
+τέκνον,14,unigram,neuter,nominative,plural,,,lapset,,,,vanhempiaan,child
+τέκνον,174,unigram,neuter,nominative,singular,Poikani,4.133636392761949,poikani,,'Poikani,Poikani,Poikani,child
+παιδίον,12,unigram,neuter,accusative,plural,kaltaistensa,1.0973820487273438,senkaltaisten,,,kaltaistensa,kaltaistensa,child
+παιδίον,82,unigram,neuter,accusative,singular,lapsen,53.202420440252595,lapsen,,lapsen,lapsen,lapsen,child
+παιδίον,155,unigram,neuter,nominative,plural,,,lapset,,,lasten,,child
+παιδίον,34,unigram,neuter,nominative,singular,lapsi,53.33853576204749,lapsi,,lapsi,lapsi,lapsi,child
+πόλις,165,unigram,feminine,accusative,plural,kaupungeissa,1.1489217940495735,kaupungeita,,kaupunkeja,kaupungeissa,kaupungeissa,city
+πόλις,57,unigram,feminine,accusative,singular,kaupunkiin,2147.1014464072787,kaupunkiin,,kaupunkiin,kaupunkiin,kaupunkiin,city
+πύλη,186,unigram,feminine,nominative,singular,portti,1.4316129990810817,portti,,portti,vie,portti,city gate
+χιτών,106,unigram,masculine,accusative,plural,paitaa,3.0164521170512164,hametta,,ihokasta,paitaa,paitaa,"clothing, undergarments"
+χιτών,26,unigram,masculine,accusative,singular,joku,1.1106801240378288,,,joku,paidan,joku,"clothing, undergarments"
+ἱμάτιον,122,unigram,neuter,accusative,plural,,,vaatteensa,,vaatteensa,vaatteitaan,vaatteitaan,coat
+ἱμάτιον,121,unigram,neuter,accusative,singular,viittaan,1.4700918972768942,,,,viittaan,,coat
+ἐντολή,72,unigram,feminine,accusative,plural,käskyni,3.088368032670594,käskyni,,käskyni,,käskyni,commandment
+ἐντολή,70,unigram,feminine,accusative,singular,käskyn,200.0247839987075,käskyn,,käskyn,käskyn,käskyn,commandment
+συνέδριον,287,unigram,neuter,accusative,plural,,,kavahtakaat,,oikeuksiin,varanne,oikeuden,council
+συνέδριον,44,unigram,neuter,accusative,singular,neuvoston,2.4033485551368425,ylimmäiset,,ylipapit,neuvoston,neuvoston,council
+χώρα,259,unigram,feminine,accusative,singular,alueelle,1.3450689337930808,maakuntaan,,alueelle,Gerasan,alueelle,"country, countryside"
+ὄχλος,49,unigram,masculine,accusative,plural,kansan,1.9211014140599203,kansan,,kansanjoukot,väkijoukon,kansan,crowd
+ὄχλος,7,unigram,masculine,accusative,singular,kansaa,1.5776418130211753,kansaa,,kansaa,väkijoukon,kansaa,crowd
+ὄχλος,91,unigram,masculine,nominative,plural,kansa,7.148503980763631,kansa,,kansa,joukko,ihmisiä,crowd
+ὄχλος,249,unigram,masculine,nominative,singular,kansa,3.046703371061873,kansa,,kansa,suuri,väkijoukko,crowd
+θυγάτηρ,281,unigram,feminine,nominative,singular,tytär,8.762106768356295,tytär,,tytär,tytär,tytär,daughter
+ἡμέρα,65,unigram,feminine,accusative,plural,päivän,1.4797018916152536,päivän,,päivän,päivän,päivän,day
+ἡμέρα,76,unigram,feminine,accusative,singular,päivä,12.971185097973661,päivä,,päivä,päivä,päivä,day
+ἡμέρα,2,unigram,feminine,nominative,plural,päivät,2.962720500520627,päivät,,päivät,aika,päivät,day
+ἡμέρα,59,unigram,feminine,nominative,singular,päivä,50.107766549670316,päivä,,päivä,päivä,päivä,day
+ὀφειλέτης,112,unigram,masculine,nominative,singular,kymmenentuhatta,1.2013309189107515,kymmenentuhatta,,kymmenentuhatta,,,debtor
+δαιμόνιον,27,unigram,neuter,accusative,plural,riivaajia,1.5022302285950304,perkeleitä,,riivaajia,henkiä,riivaajia,demon
+δαιμόνιον,298,unigram,neuter,accusative,singular,riivaaja,6.432937793933676,perkele,,riivaaja,henki,riivaaja,demon
+δαιμόνιον,176,unigram,neuter,nominative,plural,riivaajat,2.4432058727825923,perkeleet,,riivaajat,henget,riivaajat,demon
+δαιμόνιον,154,unigram,neuter,nominative,singular,riivaaja,2.903029802982868,perkele,,riivaaja,henki,riivaaja,demon
+δηνάριον,274,unigram,neuter,accusative,plural,denaaria,3.0381706112620606,penninkiä,,denaria,denaaria,denaaria,denarius (about a day's wages)
+δηνάριον,145,unigram,neuter,accusative,singular,denaarin,2.018259333914437,,,denarin,denaarin,denaarin,denarius (about a day's wages)
+μαθητής,159,unigram,masculine,accusative,plural,,,opetuslapsensa,,,opetuslasten,opetuslapsilleen,disciple
+μαθητής,303,unigram,masculine,accusative,singular,opetuslapsen,2.0841257588643547,opetuslapsen,,opetuslapsen,rakkain,rakasti,disciple
+μαθητής,243,unigram,masculine,nominative,plural,,,opetuslapsensa,,opetuslapsensa,opetuslapset,opetuslapset,disciple
+μαθητής,301,unigram,masculine,nominative,singular,opetuslapsi,174.76146644339929,opetuslapsi,,opetuslapsi,opetuslapsi,opetuslapsi,disciple
+περιστερά,90,unigram,feminine,accusative,plural,,,templissä,,kyyhkysten,,,dove
+περιστερά,46,unigram,feminine,accusative,singular,kyyhkysen,1.6201288681978954,kyyhkyisen,,kyyhkysen,kyyhkysen,kyyhkynen,dove
+οὖς,135,unigram,neuter,accusative,plural,korvat,1.7417052531482926,korvat,,korvat,korvat,korvat,ear
+οὖς,248,unigram,neuter,accusative,singular,katoilta,1.06478056812557,,,katoilta,,,ear
+σεισμός,181,unigram,masculine,nominative,plural,,,nälkä,,,maanjäristyksiä,,"earthquakes, storm"
+σεισμός,55,unigram,masculine,nominative,singular,,,suuri,,katso,,,"earthquakes, storm"
+τέλος,241,unigram,neuter,accusative,singular,loppuun,1.5959185612574112,loppuun,,loppuun,loppuun,loppuun,end
+αἰών,271,unigram,masculine,accusative,singular,ikinä,4.175081486510972,ijankaikkisesti,,ikinä,ikuisesti,ikinä,eternity
+ὀφθαλμός,19,unigram,masculine,accusative,plural,silmänsä,3.9907102768650735,silmänsä,,silmänsä,silmät,katseensa,eye
+ὀφθαλμός,56,unigram,masculine,nominative,plural,silmänsä,15.145556067140918,silmänsä,,silmänsä,silmänsä,silmänsä,eye
+ὀφθαλμός,268,unigram,masculine,nominative,singular,silmäsi,5.3432326649785615,silmäs,,silmäsi,silmäsi,silmäsi,eye
+πρόσωπον,171,unigram,neuter,accusative,singular,kasvoilleen,1.736383927348608,kasvoillensa,,kasvoilleen,,kasvoilleen,face
+λιμός,5,unigram,feminine,nominative,plural,,,nälkä,,,maanjäristyksiä,,famine
+λιμός,84,unigram,feminine,nominative,singular,puutetta,1.096071996175396,,,puutetta,,,famine
+γεωργός,225,unigram,masculine,nominative,plural,,,peltomiehet,,viinitarhurit,,viljelijät,"farmer, tenant"
+γεωργός,42,unigram,masculine,nominative,singular,viinitarhuri,1.316951402735642,,,viinitarhuri,viinitarhuri,viinitarhuri,"farmer, tenant"
+πατήρ,273,unigram,masculine,accusative,singular,Isän,2.9031544854381717,Isän,,Isän,Isän,Isän,father
+πατήρ,280,unigram,masculine,nominative,plural,,,,,söivät,isänne,,father
+πατήρ,166,unigram,masculine,nominative,singular,Isä,72.61368547299696,Isä,,Isä,Isä,Isä,father
+σύνδουλος,284,unigram,masculine,nominative,plural,pahakseen,1.161346151680032,,,,pahakseen,,"fellow-servant, colleague"
+σύνδουλος,103,unigram,masculine,nominative,singular,,,kanssapalveliansa,,kanssapalvelijansa,kärsivällinen,Palvelustoveri,"fellow-servant, colleague"
+ἀγρός,297,unigram,masculine,accusative,plural,,,majoihin,,maataloihin,,satakertaisesti,field
+ἀγρός,33,unigram,masculine,accusative,singular,pellon,6.440415898685839,pellon,,pellon,pellon,pellon,field
+δάκτυλος,158,unigram,masculine,accusative,singular,pistä,5.079739031885907,pistä,,pistä,pistä,,finger
+ἰχθύς,138,unigram,masculine,accusative,plural,kalaa,1.3729947251463994,kalaa,,kalaa,kalaa,kalaa,fish
+ἰχθύς,170,unigram,masculine,accusative,singular,kalaa,3.200852117136,kalaa,,,,kalaa,fish
+δίκτυον,98,unigram,neuter,accusative,plural,,,,,,verkkojaan,verkot,fishing net
+τροφή,217,unigram,feminine,accusative,plural,menneet,1.0662991004653142,ostamaan,,ruokaa,menneet,menneet,food
+τροφή,292,unigram,feminine,accusative,singular,,,toimellinen,,asettanut,,,food
+πούς,211,unigram,masculine,accusative,plural,jalat,1.6519821936620431,jalkansa,,,jalat,jalat,foot
+καρπός,163,unigram,masculine,accusative,plural,hedelmiä,5.803144299336484,hedelmät,,hedelmiä,hedelmiä,hedelmiä,"fruit, crop, harvest"
+καρπός,207,unigram,masculine,accusative,singular,hedelmää,59.87032817830763,hedelmää,,hedelmää,hedelmää,hedelmää,"fruit, crop, harvest"
+πλήρωμα,239,unigram,neuter,accusative,plural,,,täysinäistä,,täyttä,,korillista,fullness
+πλήρωμα,291,unigram,neuter,accusative,singular,läpi,1.1454502626623055,läpi,,,,,fullness
+γενεά,208,unigram,feminine,accusative,singular,lapset,2.2585732180887823,tämän,,sukupolven,lapset,lapset,generation
+γενεά,134,unigram,feminine,nominative,singular,sukupolvi,10.085698903154437,sukukunta,,sukupolvi,sukupolvi,sukupolvi,generation
+δῶρον,272,unigram,neuter,accusative,plural,lahjoja,2.329638768188307,tavaransa,,lahjoja,lahjoja,lahjoja,gift
+δῶρον,146,unigram,neuter,accusative,singular,uhrilahja,2.468513437200012,lahjas,,,uhrilahja,uhrilahja,gift
+ἡγεμών,153,unigram,masculine,accusative,plural,,,kuningasten,,maaherrain,eteen,maaherrojen,"governor, ruler"
+ἡγεμών,9,unigram,masculine,accusative,singular,maaherra,1.1455182517999687,maaherra,,,,,"governor, ruler"
+ἀσπασμός,283,unigram,masculine,accusative,plural,toreilla,4.114359434122608,turulla,,tervehdyksiä,toreilla,toreilla,greeting
+ὁδηγός,3,unigram,masculine,nominative,singular,taluttajat,1.6837117053754427,taluttajat,,taluttajat,oppaat,taluttajat,guide
+θρίξ,83,unigram,feminine,nominative,plural,hiuksetkin,1.0595577236652918,,,,,hiuksetkin,hair
+χείρ,276,unigram,feminine,accusative,plural,kätensä,71.74266819536972,kätensä,,kätensä,kätensä,kätensä,hand
+χείρ,198,unigram,feminine,accusative,singular,kätensä,3.6559755009945345,kätensä,,kätensä,kätensä,kätensä,hand
+κεφαλή,129,unigram,feminine,accusative,plural,nyökyttivät,1.1161578070400302,,,nyökyttivät,,,head
+κεφαλή,184,unigram,feminine,accusative,singular,päänsä,2.1596808918551598,päänsä,,päänsä,,,head
+στάχυς,185,unigram,masculine,accusative,plural,tähkäpäitä,1.255557782279607,tähkäpäitä,,,,,head of grain
+καρδία,251,unigram,feminine,accusative,singular,sydämenne,6.318644129928034,,,sydämenne,sydämenne,sydämenne,heart
+καρδία,172,unigram,feminine,nominative,singular,sydämenne,5.452716036381525,sydämenne,,sydämenne,,sydämenne,heart
+οὐρανός,235,unigram,masculine,accusative,singular,taivaaseen,3.5318047209486934,taivaasen,,taivaaseen,taivaaseen,taivaaseen,"heaven, sky"
+οὐρανός,177,unigram,masculine,nominative,singular,taivas,1.1111823363634494,taivas,,,,,"heaven, sky"
+ὥρα,258,unigram,feminine,nominative,plural,hetkeä,1.1617873204569231,hetkeä,,,,,hour
+ὥρα,22,unigram,feminine,nominative,singular,hetki,2.4822088822062893,hetki,,hetki,jolloin,hetki,hour
+οἰκία,288,unigram,feminine,accusative,singular,taloon,26.55368893539174,huoneeseen,,taloon,taloon,taloon,house
+οἶκος,18,unigram,masculine,accusative,singular,kotiinsa,2.21861032456875,kotiansa,,kotiinsa,kotiinsa,kotiinsa,"house, home"
+κριτής,148,unigram,masculine,nominative,singular,tuomari,16.927777027491427,tuomari,,tuomari,tuomari,tuomari,judge
+βασιλεύς,96,unigram,masculine,accusative,plural,,,kuningasten,,maaherrain,eteen,maaherrojen,king
+βασιλεύς,50,unigram,masculine,accusative,singular,kuninkaan,2.131381127098998,kuninkaan,,kuninkaaksi,kuninkaan,kuninkaan,king
+βασιλεία,68,unigram,feminine,accusative,plural,,,valtakunnat,,,näytti,,kingdom
+βασιλεία,144,unigram,feminine,accusative,singular,Jumalan,1.2295714104210438,,,Jumalan,Jumalan,Jumalan,kingdom
+κόπος,179,unigram,masculine,accusative,plural,pahoitatte,1.4225724215235336,vaivaatte,,pahoitatte,pahoitatte,pahoitatte,"labour, work, trouble, difficulty"
+κόπος,77,unigram,masculine,accusative,singular,vaivaa,5.351460607669654,,,vaivaa,vaivaa,vaivaa,"labour, work, trouble, difficulty"
+λύχνος,205,unigram,masculine,nominative,singular,lamppu,2.059532967735428,valaistu,,lamppu,lamppu,lamppu,lamp
+κλῆρος,88,unigram,masculine,accusative,plural,arpaa,1.2013523596909814,arpaa,,arpaa,,,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,arpaa,2.479590693495601,arpaa,,arpaa,arpaa,arpaa,"lots (casting of lots), inheritance"
+ἄνθρωπος,261,unigram,masculine,accusative,plural,ihmiset,1.9017253979784785,ihmiset,,ihmiset,ihmisten,ihmisiä,man
+ἄνθρωπος,227,unigram,masculine,accusative,singular,ihmisen,3.7794944766204877,ihmisen,,ihmisen,ihmisen,ihmisen,man
+ἄνθρωπος,107,unigram,masculine,nominative,plural,ihmiset,132.1884290575317,ihmiset,,ihmiset,ihmiset,ihmiset,man
+ἄνθρωπος,157,unigram,masculine,nominative,singular,mies,6.766449368710481,ihminen,,mies,mies,mies,man
+ἀνήρ,218,unigram,masculine,accusative,plural,miestä,6.406360032075787,miestä,,miestä,miestä,miestä,"man, husband"
+ἀνήρ,222,unigram,masculine,accusative,singular,Maria,1.0926626169476488,,,,Maria,,"man, husband"
+ἀνήρ,133,unigram,masculine,nominative,plural,miestä,3.449054320284202,miestä,,miestä,miestä,miestä,"man, husband"
+ἀνήρ,212,unigram,masculine,nominative,singular,mies,26.785024611013675,mies,,mies,mies,mies,"man, husband"
+μνᾶ,264,unigram,feminine,accusative,plural,leiviskää,1.7170648013702199,leiviskää,,leiviskää,kymmenen,minaa,mina (about 100 days' wages)
+μνᾶ,10,unigram,feminine,accusative,singular,seisoville,1.0960670999999007,seisoville,,,,,mina (about 100 days' wages)
+πρωτοκαθεδρία,94,unigram,feminine,accusative,plural,pidoissa,1.8270471984786147,,,,pidoissa,pidoissa,"most important seat, seat of honour"
+μήτηρ,244,unigram,feminine,accusative,singular,äitinsä,1.7150094339835111,,,,äitinsä,,mother
+ὄρος,194,unigram,neuter,accusative,plural,vuorille,2.6935535761650824,vuorille,,vuorille,vuorille,vuorille,mountain
+ὄρος,233,unigram,neuter,accusative,singular,vuorelle,44.06822402088857,vuorelle,,vuorelle,vuorelle,vuorelle,mountain
+μύρον,78,unigram,neuter,accusative,plural,lepäsivät,1.0960965115985384,lepäsivät,,,,,myrrh
+μύρον,24,unigram,neuter,accusative,singular,voiteli,1.0961063339256685,,,,voiteli,,myrrh
+ὄνομα,30,unigram,neuter,accusative,singular,nimeni,1.3348250351031017,nimensä,,nimeni,nimeni,,name
+ὄνομα,223,unigram,neuter,nominative,singular,nimi,1.7056261339744074,nimi,,nimi,nimensä,nimesi,name
+ἔθνος,203,unigram,neuter,accusative,plural,kansoille,1.7190916908557043,saarnattaman,,kansoille,kansat,kansoille,nation
+ἔθνος,173,unigram,neuter,accusative,singular,Kansa,1.4866510353817344,kansaa,,nousee,Kansa,Kansa,nation
+ἔθνος,267,unigram,neuter,nominative,plural,pakanat,1.2811540221283941,pakanat,,,,,nation
+ἔθνος,23,unigram,neuter,nominative,singular,Kansa,1.4599287412713315,valtakuntaa,,nousee,Kansa,Kansa,nation
+νύξ,168,unigram,feminine,accusative,plural,yötä,4.975139773076833,yötä,,yötä,yötä,yötä,night
+ὅρκος,51,unigram,masculine,accusative,plural,,,valan,,,vannonut,valansa,oath
+παραβολή,230,unigram,feminine,accusative,plural,vertaukset,10.039535255592313,,,vertaukset,vertaukset,vertaukset,parable
+παραβολή,199,unigram,feminine,accusative,singular,vertauksen,7.443326778080189,vertauksen,,vertauksen,esitti,vertauksen,parable
+μέρος,307,unigram,neuter,accusative,plural,,,ääriin,,tienoille,seudulle,alueelle,part
+μέρος,43,unigram,neuter,accusative,singular,,,osan,,,kuoliaaksi,,part
+τόπος,240,unigram,masculine,accusative,plural,,,nälkä,,,maanjäristyksiä,,place
+τόπος,260,unigram,masculine,accusative,singular,paikkaan,13.52170506313807,paikkaan,,paikkaan,paikkaan,paikkaan,place
+πρωτοκλισία,242,unigram,feminine,accusative,plural,pidoissa,1.6670528812429355,ehtoollisissa,,,pidoissa,pidoissa,place of honor
+ὄφις,93,unigram,masculine,accusative,singular,käärmeen,3.05876761783428,kärmeen,,käärmeen,käärmeen,käärmeen,poison
+σκεῦος,226,unigram,neuter,accusative,singular,astiaa,1.623288414307577,astiaa,,astiaa,,,"possession, object, thing, jar, vessel"
+σκεῦος,117,unigram,neuter,nominative,plural,tavaransa,1.230494596656296,kalunsa,,tavaransa,tavaransa,tavaroita,"possession, object, thing, jar, vessel"
+δύναμις,95,unigram,feminine,accusative,plural,,,väkevää,,voimallista,,,"power, ability, miracle"
+δύναμις,39,unigram,feminine,accusative,singular,voimaa,17.873089053000495,voimaa,,voimaa,voimaa,voimaa,"power, ability, miracle"
+δύναμις,71,unigram,feminine,nominative,plural,,,väkevät,,voimalliset,voimat,,"power, ability, miracle"
+δύναμις,104,unigram,feminine,nominative,singular,voima,19.07621192774055,voima,,voima,voima,voima,"power, ability, miracle"
+ἱερεύς,16,unigram,masculine,nominative,plural,nuhteettomat,1.096091603901298,nuhteettomat,,,,,priest
+ἱερεύς,214,unigram,masculine,nominative,singular,pappi,5.703979319548329,pappi,,pappi,pappi,pappi,priest
+φυλακή,21,unigram,feminine,accusative,singular,vankilaan,4.944159828522734,torniin,,vankeuteen,vankilaan,vankilaan,prison
+προφήτης,54,unigram,masculine,accusative,plural,profeetat,2.6832836799849216,prophetat,,profeetat,profeetat,profeetat,prophet
+προφήτης,178,unigram,masculine,accusative,singular,profeetta,2.868957886672438,propheta,,profeetta,profeetta,profeetta,prophet
+προφήτης,200,unigram,masculine,nominative,plural,profeetat,29.252020759764623,prophetat,,profeetat,profeetat,profeetat,prophet
+προφήτης,234,unigram,masculine,nominative,singular,profeetta,98.39601223428753,propheta,,profeetta,profeetta,profeetta,prophet
+ποταμός,113,unigram,masculine,nominative,plural,virrat,3.5978381948828537,virrat,,virrat,,virrat,river
+ποταμός,151,unigram,masculine,nominative,singular,virta,1.1062887916934805,,,,,virta,river
+λῃστής,306,unigram,masculine,accusative,singular,,,ryövärin,,ryöväriä,,,robber
+λῃστής,285,unigram,masculine,nominative,plural,,,ryövärit,,kanssansa,,,robber
+λῃστής,141,unigram,masculine,nominative,singular,,,ryöväri,,ryöväri,rosvo,rosvo,robber
+ἄρχων,182,unigram,masculine,accusative,plural,hallitusmiehet,2.2036852167738625,valtamiehet,,hallitusmiehet,hallitusmiehet,hallitusmiehet,ruler
+ἄρχων,58,unigram,masculine,nominative,plural,,,päämiehet,,Kristus,Messias,nyt,ruler
+ἄρχων,279,unigram,masculine,nominative,singular,ruhtinas,3.967614562751584,päämies,,ruhtinas,ruhtinas,ruhtinas,ruler
+ἀκοή,66,unigram,feminine,accusative,singular,,,,,maineen,,maineesta,rumor
+ἀκοή,296,unigram,feminine,nominative,singular,maineensa,1.2530335925089913,kuului,,levisi,maineensa,maineensa,rumor
+βιβλίον,45,unigram,neuter,accusative,singular,,,,,kirjan,Mooses,erokirjan,"scroll, book"
+διάκονος,81,unigram,masculine,nominative,singular,palvelijanne,1.9377028037822104,palvelianne,,palvelijanne,tahtoo,palvelijanne,"servant, minister, deacon"
+δοῦλος,188,unigram,masculine,accusative,plural,palvelijansa,2.43978501239714,palveliansa,,palvelijansa,palvelijat,palvelijansa,"servant, slave"
+δοῦλος,25,unigram,masculine,accusative,singular,palvelijan,2.3770762334037854,palvelian,,palvelijan,palvelijan,palvelijan,"servant, slave"
+δοῦλος,92,unigram,masculine,nominative,plural,palvelijat,6.479757245207599,palveliat,,palvelijat,palvelijat,palvelijat,"servant, slave"
+δοῦλος,183,unigram,masculine,nominative,singular,palvelija,32.40363433303911,palvelia,,palvelija,palvelija,palvelija,"servant, slave"
+πρόβατον,289,unigram,neuter,accusative,plural,lampaat,10.591848794955833,lampaat,,lampaat,lampaat,lampaat,sheep
+ποιμήν,221,unigram,masculine,nominative,plural,,,paimenet,,minkä,,,"shepherd, pastor"
+ποιμήν,252,unigram,masculine,nominative,singular,paimen,227.17953455664446,paimen,,paimen,paimen,paimen,"shepherd, pastor"
+σημεῖον,128,unigram,neuter,accusative,plural,tunnustekoja,19.498979482420044,ihmeitä,,tunnustekoja,tunnustekoja,tunnustekoja,sign
+σημεῖον,116,unigram,neuter,accusative,singular,merkkiä,6.087272641515626,merkkiä,,merkkiä,merkkiä,merkkiä,sign
+σημεῖον,36,unigram,neuter,nominative,plural,merkit,3.5803231770748845,merkit,,merkit,näkyy,,sign
+σημεῖον,80,unigram,neuter,nominative,singular,merkki,3.9717863098804997,merkki,,merkki,,merkki,sign
+ἀργύριον,193,unigram,neuter,accusative,plural,hopearahaa,1.2156681354057421,hopiapenninkiä,,hopearahaa,rahat,hopearahaa,"silver, money"
+ἀργύριον,299,unigram,neuter,accusative,singular,rahaa,4.388644607093575,rahaa,,rahaa,rahaa,rahaa,"silver, money"
+ἁμαρτία,247,unigram,feminine,accusative,plural,anteeksi,2.6750788985176106,anteeksi,,anteeksi,anteeksi,anteeksi,sin
+ἁμαρτία,196,unigram,feminine,accusative,singular,syntiä,1.9299820353867876,syntiä,,syntiä,syyllisiä,syntiä,sin
+ἁμαρτία,256,unigram,feminine,nominative,plural,syntisi,1.1109460322264244,anteeksi,,syntisi,syntisi,syntisi,sin
+ἁμαρτία,253,unigram,feminine,nominative,singular,,,,,,synti,tähden,sin
+ἀδελφή,277,unigram,feminine,accusative,plural,satakertaisesti,1.433276946357481,satakertaisesti,,,,satakertaisesti,sister
+ἀδελφή,123,unigram,feminine,accusative,singular,sisartaan,3.999795186348806,,,,sisartaan,sisartaan,sister
+ἀδελφή,17,unigram,feminine,nominative,plural,sisarensa,2.621295718319225,sisarensa,,,,sisarensa,sister
+ῥάπισμα,137,unigram,neuter,accusative,plural,korvapuusteja,1.458002126313531,korvapuusteja,,korvapuusteja,,,"slap, strike, hit"
+πλοιάριον,209,unigram,neuter,nominative,plural,Tiberiaasta,1.0960670999999007,Tiberiaasta,,,,,small boat
+πλοιάριον,127,unigram,neuter,nominative,singular,,,ettei,,,,opetuslastensa,small boat
+ὀψάριον,229,unigram,neuter,accusative,singular,,,kalan,,kalan,kalaa,kalaa,small fish
+υἱός,41,unigram,masculine,accusative,plural,poikaa,1.4736985149002857,poikaa,,poikaa,pojat,poikaa,son
+υἱός,115,unigram,masculine,accusative,singular,Ihmisen,2.4986276712690865,Pojan,,Ihmisen,Ihmisen,Ihmisen,son
+υἱός,118,unigram,masculine,nominative,plural,lapset,1.9601856643308833,lapset,,lapset,Jaakob,lapset,son
+υἱός,190,unigram,masculine,nominative,singular,Poika,5.276209264470404,Poika,,Poika,Poika,Poika,son
+ψυχή,250,unigram,feminine,accusative,singular,,,henkensä,,kadottaa,,pelastaa,"soul, life"
+ἀστήρ,262,unigram,masculine,nominative,plural,taivaalta,1.1226250644238682,liikutettaman,,,taivaalta,taivaalta,star
+λίθος,266,unigram,masculine,accusative,plural,kiviä,2.6621178048845495,,,kiviä,kiviä,,stone
+λίθος,31,unigram,masculine,accusative,singular,kiven,54.06319232603334,kiven,,kiven,kiven,kiven,stone
+λίθος,126,unigram,masculine,nominative,plural,kivet,13.470479021238447,kivet,,kivet,kivet,kivet,stone
+λίθος,35,unigram,masculine,nominative,singular,kiven,1.7297336453742314,kiven,,kiven,,,stone
+συναγωγή,219,unigram,feminine,accusative,plural,synagogissa,1.5399384213495542,synagogiin,,eteen,synagogissa,synagogissa,synagogue
+συναγωγή,300,unigram,feminine,accusative,singular,synagogaan,6.308900294683856,synagogaan,,synagoogaan,synagogaan,synagogaan,synagogue
+τράπεζα,175,unigram,feminine,accusative,plural,kumoon,1.5999037563127485,,,kumoon,kaatoi,kumoon,table
+τάλαντον,62,unigram,neuter,accusative,plural,,,leiviskää,,leiviskää,talenttia,talenttia,talent (weight and monetary unit: around 20 years' wages)
+φόρος,257,unigram,masculine,accusative,singular,maksamme,1.2013469982144998,,,keisarille,maksamme,maksamme,tax
+τελώνης,169,unigram,masculine,nominative,plural,,,Publikanit,,publikaanit,publikaaneja,,tax collector
+τελώνης,64,unigram,masculine,nominative,singular,publikaani,37.35564520494749,Publikani,,publikaani,publikaani,publikaani,tax collector
+γραμματεύς,304,unigram,masculine,nominative,plural,kirjanoppineet,25.796235065352285,kirjanoppineet,,kirjanoppineet,lainopettajat,kirjanoppineet,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,191,unigram,masculine,nominative,singular,kirjanoppinut,15.296289467795576,kirjanoppinut,,kirjanoppinut,lainopettaja,kirjanoppinut,"teacher, expert in the law, scholar, scribe"
+καθηγητής,290,unigram,masculine,nominative,plural,mestariksi,1.161293917469705,mestariksi,,,,,"teacher, guide"
+καθηγητής,202,unigram,masculine,nominative,singular,mestariksi,1.161293917469705,mestariksi,,,,,"teacher, guide"
+κλέπτης,73,unigram,masculine,nominative,plural,varkaat,1.5323149604340691,varkaat,,,,,thief
+κλέπτης,201,unigram,masculine,nominative,singular,varas,50.90596200741991,varas,,varas,varas,varas,thief
+διαλογισμός,263,unigram,masculine,accusative,plural,ajatuksensa,3.3920953746846525,ajatuksensa,,ajatuksensa,,ajatuksensa,"thought, argument"
+διαλογισμός,132,unigram,masculine,accusative,singular,ajatuksen,1.964582073490529,ajatuksen,,ajatuksen,,ajatuksen,"thought, argument"
+διαλογισμός,108,unigram,masculine,nominative,plural,ajatukset,6.142654272043715,ajatukset,,ajatukset,ajatukset,ajatukset,"thought, argument"
+διαλογισμός,255,unigram,masculine,nominative,singular,,,kamppaus,,ajatus,Opetuslasten,,"thought, argument"
+θρόνος,213,unigram,masculine,accusative,singular,valtaistuimen,1.478330505592563,istuimen,,valtaistuimen,valtaistuimen,valtaistuimen,throne
+χρόνος,238,unigram,masculine,accusative,plural,pitkäksi,1.348938046648503,kauvaksi,,kauaksi,pitkäksi,pitkäksi,time
+χρόνος,206,unigram,masculine,accusative,singular,aikaa,2.0783522033563404,aikaa,,aikaa,,kauan,time
+καιρός,130,unigram,masculine,nominative,singular,aika,1.4414114429910756,aika,,aika,Aika,aika,"time, right time"
+τάφος,120,unigram,masculine,accusative,plural,kaunistatte,1.0960670999999007,kaunistatte,,,,,"tomb, grave"
+τάφος,156,unigram,masculine,accusative,singular,hautaa,12.169689878603855,hautaa,,hautaa,hautaa,hautaa,"tomb, grave"
+μνημεῖον,11,unigram,neuter,accusative,plural,,,hautoja,,,,hautamuistomerkkejä,"tomb, grave"
+μνημεῖον,15,unigram,neuter,accusative,singular,haudalle,123.02714849457736,haudalle,,haudalle,haudalle,haudalle,"tomb, grave"
+μνημεῖον,69,unigram,neuter,nominative,plural,haudat,7.124275403309752,haudat,,haudat,haudat,,"tomb, grave"
+μνημεῖον,232,unigram,neuter,nominative,singular,hauta,8.850749065666609,hauta,,hauta,hauta,hautakammio,"tomb, grave"
+θησαυρός,197,unigram,masculine,accusative,singular,aarre,2.052899828885754,,,aarre,aarre,aarre,treasure
+δένδρον,79,unigram,neuter,accusative,plural,puita,1.999948871176478,,,,,puita,tree	
+δένδρον,67,unigram,neuter,accusative,singular,puu,7.549649152873246,,,puu,puu,puu,tree	
+κώμη,237,unigram,feminine,accusative,plural,kyliin,2.9399198937547046,kyliin,,kyliin,kyliin,kyliin,village
+κώμη,47,unigram,feminine,accusative,singular,kylään,311.4965090465184,kylään,,kylään,kylään,kylään,village
+παρθένος,246,unigram,feminine,nominative,plural,,,neitseet,,neitsyet,,neidot,virgin
+φωνή,286,unigram,feminine,nominative,singular,ääni,26.645463258126412,ääni,,ääni,ääni,ääni,voice or sound
+πόλεμος,231,unigram,masculine,accusative,plural,,,sotia,,,sodista,,war
+ὕδωρ,305,unigram,neuter,accusative,plural,Pietari,1.103093174811263,vetten,,Pietari,pitkin,Pietari,water
+ὕδωρ,85,unigram,neuter,accusative,singular,vettä,109.6710666144385,vettä,,vettä,vettä,vettä,water
+ὕδωρ,101,unigram,neuter,nominative,singular,,,vesi,,vesi,vettä,vettä,water
+ὑδρία,105,unigram,feminine,accusative,singular,,,vesi-astiansa,,vesiastiansa,vesiruukkunsa,,water jar
+ὁδός,131,unigram,feminine,accusative,singular,tien,20.692643207064574,tien,,tien,tien,tien,way
+γάμος,147,unigram,masculine,accusative,plural,häihin,219.3992292181132,häihin,,häihin,häihin,häihin,wedding
+γάμος,215,unigram,masculine,accusative,singular,häihin,2.086118788307881,häihin,,häihin,häihin,häihin,wedding
+γυνή,100,unigram,feminine,accusative,plural,vaimonne,1.0965530363990983,,,vaimonne,,,"wife, woman"
+γυνή,160,unigram,feminine,accusative,singular,vaimonsa,4.151183406295627,emäntänsä,,vaimonsa,vaimonsa,vaimonsa,"wife, woman"
+γυνή,109,unigram,feminine,nominative,plural,naiset,1.5299764663228654,vaimot,,naiset,naisia,naiset,"wife, woman"
+γυνή,114,unigram,feminine,nominative,singular,nainen,14.370876252084345,vaimo,,nainen,nainen,nainen,"wife, woman"
+ἄνεμος,6,unigram,masculine,nominative,plural,tuulet,3.5979875219606963,tuulet,,tuulet,,tuulet,wind
+ἄνεμος,60,unigram,masculine,nominative,singular,tuuli,37.27878602572135,tuuli,,tuuli,tuuli,tuuli,wind
+πνεῦμα,275,unigram,neuter,accusative,plural,pahempaa,1.0650796819525759,pahempaa,,,,,"wind, breath, spirit"
+πνεῦμα,152,unigram,neuter,accusative,singular,Hengen,2.5624977959595308,Hengen,,Hengen,Henki,Hengen,"wind, breath, spirit"
+πνεῦμα,8,unigram,neuter,nominative,plural,henget,4.535382958227763,henget,,henget,henget,henget,"wind, breath, spirit"
+πνεῦμα,20,unigram,neuter,nominative,singular,Henki,5.583180259748376,Henki,,Henki,Henki,Henki,"wind, breath, spirit"
+ῥῆμα,167,unigram,neuter,accusative,plural,sanat,23.33545348699138,sanat,,sanat,kätki,sanat,word
+ῥῆμα,149,unigram,neuter,accusative,singular,,,sanaa,,käsittäneet,,ymmärtäneet,word
+ῥῆμα,28,unigram,neuter,nominative,plural,,,sanat,,,henki,,word
+ῥῆμα,294,unigram,neuter,nominative,singular,sana,1.1637007690923975,,,,,sana,word
+λόγος,150,unigram,masculine,accusative,plural,nämä,1.4022148434814259,puheet,,nämä,,nämä,word
+λόγος,142,unigram,masculine,accusative,singular,sanan,158.74337161486937,sanan,,sanan,sanan,sanan,word
+λόγος,139,unigram,masculine,nominative,plural,,,Taivas,,sanani,Taivas,sanani,word
+λόγος,265,unigram,masculine,nominative,singular,sana,8.911145452471164,puhe,,sana,sana,sana,word
+ἔργον,38,unigram,neuter,accusative,plural,tekoja,28.310866009014767,töitä,,tekoja,tekoja,tekoja,work
+ἔργον,86,unigram,neuter,accusative,singular,työn,3.5838119055776163,työn,,työn,teon,,work
+ἔργον,269,unigram,neuter,nominative,plural,teot,1.8133818137609534,työnsä,,teot,teot,,work
+ἔργον,245,unigram,neuter,nominative,singular,teko,1.27337960630093,työ,,,teko,teko,work
+ἐργάτης,192,unigram,masculine,nominative,singular,työmies,2.4477271555276943,työmies,,työmies,ansainnut,työmies,worker
+ἔτος,228,unigram,neuter,accusative,plural,vuotta,12.536542060909508,vuotta,,vuotta,vuotta,vuotta,year
+ἔτος,161,unigram,neuter,accusative,singular,vuosi,15.998359981345088,vuosi,,vuosi,vuosi,vuosi,year

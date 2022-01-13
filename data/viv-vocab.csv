@@ -1,0 +1,273 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_765_translation,english_translation
+θεός,106,unigram,masculine,accusative,singular,Yaubada,4.7835863207229625,Yaubada,God
+θεός,168,unigram,masculine,nominative,singular,Yaubada,4.484876655167434,Yaubada,God
+κύριος,107,unigram,masculine,nominative,singular,Kaiwabu,2.477699983238348,Kaiwabu,"Lord, lord, master"
+γραφή,102,unigram,feminine,accusative,plural,bonana,1.2676463102956113,bonana,Scripture
+γραφή,210,unigram,feminine,nominative,plural,Veyao,1.099490256239236,Veyao,Scripture
+γραφή,260,unigram,feminine,nominative,singular,eto'etoladina,1.6150515842138091,eto'etoladina,Scripture
+ἄγγελος,77,unigram,masculine,accusative,plural,tovenuwa'ata,1.3094132462799741,tovenuwa'ata,angel
+ἄγγελος,66,unigram,masculine,accusative,singular,ginanagona,1.119107525092581,ginanagona,angel
+ἄγγελος,34,unigram,masculine,nominative,plural,tovenuwa'ata,4.201844520480991,tovenuwa'ata,angel
+ἄγγελος,87,unigram,masculine,nominative,singular,tovenuwa'ata,4.807956135295459,tovenuwa'ata,angel
+ἀπόστολος,31,unigram,masculine,nominative,plural,afositolo,2.413673417799646,afositolo,apostle
+ἀπόστολος,4,unigram,masculine,nominative,singular,gi'iveninisena-ma,1.0595512823290478,gi'iveninisena-ma,apostle
+ἐξουσία,159,unigram,feminine,accusative,singular,abavehimeya,3.667199386147375,abavehimeya,authority
+βρέφος,259,unigram,neuter,accusative,singular,kwame,1.325919455909298,kwame,babies
+ἀποθήκη,53,unigram,feminine,accusative,singular,kweda,1.0564281412265628,kweda,barn
+ζώνη,136,unigram,feminine,accusative,plural,fefe,1.0298021580055383,fefe,belt
+βλασφημία,166,unigram,feminine,nominative,plural,gahe-kawowo,1.6954157610135707,gahe-kawowo,blasphemy
+βλασφημία,67,unigram,feminine,nominative,singular,hinahawatagona-ma,1.082266499700482,hinahawatagona-ma,blasphemy
+πλοῖον,85,unigram,neuter,accusative,plural,waka,1.4373206306094288,waka,boat
+πλοῖον,245,unigram,neuter,accusative,singular,wakeya,1.899580536730477,wakeya,boat
+σῶμα,45,unigram,neuter,nominative,singular,gikihinena,1.1478743353488996,gikihinena,body
+κλῆμα,119,unigram,neuter,nominative,singular,aiguwa,1.2377993660996982,aiguwa,branch
+ἄρτος,249,unigram,masculine,accusative,plural,a,1.6286594088771793,a,bread
+ἄρτος,272,unigram,masculine,accusative,singular,a,1.716119207289048,a,bread
+ἄρτος,124,unigram,masculine,nominative,plural,hida,1.1078343887650468,hida,bread
+ἄρτος,25,unigram,masculine,nominative,singular,Iya'eku,1.0328949189625989,Iya'eku,bread
+ἀδελφός,238,unigram,masculine,accusative,plural,natuneyao,1.4428536175383817,natuneyao,brother
+ἀδελφός,94,unigram,masculine,accusative,singular,Yemesa,1.39867073857377,Yemesa,brother
+ἀδελφός,88,unigram,masculine,nominative,plural,taineyao,1.0434869372950422,taineyao,brother
+ἀδελφός,189,unigram,masculine,nominative,singular,nouku,1.0449435553836213,nouku,brother
+στῆθος,225,unigram,neuter,accusative,singular,gagayo,1.4085026408910524,gagayo,"chest, breast"
+ἀρχιερεύς,196,unigram,masculine,accusative,plural,kikaiwabudiyao,1.2036365326106515,kikaiwabudiyao,chief priest
+ἀρχιερεύς,93,unigram,masculine,nominative,plural,kikaiwabudiyao,1.1111402558019072,kikaiwabudiyao,chief priest
+ἀρχιερεύς,199,unigram,masculine,nominative,singular,tokaiwabu,1.3881746562269002,tokaiwabu,chief priest
+παῖς,192,unigram,masculine,accusative,plural,we'owe,1.2675014297393548,we'owe,child
+τέκνον,267,unigram,neuter,accusative,plural,natuneyao,1.0293005373553852,natuneyao,child
+τέκνον,142,unigram,neuter,accusative,singular,tobohiyana,1.0938187157305077,tobohiyana,child
+τέκνον,153,unigram,neuter,nominative,singular,Natuku,1.7888387757223894,Natuku,child
+παιδίον,10,unigram,neuter,accusative,plural,we'owe,1.0917930386919976,we'owe,child
+παιδίον,72,unigram,neuter,accusative,singular,kwamana,2.4032621744519584,kwamana,child
+παιδίον,27,unigram,neuter,nominative,singular,kwamana,1.8738545709792456,kwamana,child
+πόλις,144,unigram,feminine,accusative,plural,melala,2.208768213875293,melala,city
+πόλις,49,unigram,feminine,accusative,singular,melala,2.9969942199873065,melala,city
+πύλη,165,unigram,feminine,nominative,singular,edai-nadi,1.1419721206805624,edai-nadi,city gate
+χιτών,91,unigram,masculine,accusative,plural,aikeva,1.5290114138937092,aikeva,"clothing, undergarments"
+χιτών,20,unigram,masculine,accusative,singular,aikeva,1.021793904131138,aikeva,"clothing, undergarments"
+ἱμάτιον,104,unigram,neuter,accusative,plural,aikeva,3.137729942462032,aikeva,coat
+ἱμάτιον,103,unigram,neuter,accusative,singular,aikeva,2.2696054945690283,aikeva,coat
+ἐντολή,64,unigram,feminine,accusative,plural,vehimeya,1.2867892858778691,vehimeya,commandment
+ἐντολή,62,unigram,feminine,accusative,singular,vehimeya,2.2063767479262166,vehimeya,commandment
+συνέδριον,254,unigram,neuter,accusative,plural,hinalaulaumi,1.1062887916934805,hinalaulaumi,council
+συνέδριον,38,unigram,neuter,accusative,singular,vaga'auta,1.8752568924509203,vaga'auta,council
+χώρα,228,unigram,feminine,accusative,singular,miGadala,1.1315248482020752,miGadala,"country, countryside"
+ὄχλος,42,unigram,masculine,accusative,plural,yo,1.0016221114378625,yo,crowd
+ὄχλος,7,unigram,masculine,accusative,singular,yo,1.0050109345836082,yo,crowd
+ὄχλος,79,unigram,masculine,nominative,plural,o,1.4477550356157307,o,crowd
+ὄχλος,221,unigram,masculine,nominative,singular,o,1.0762005654800215,o,crowd
+θυγάτηρ,248,unigram,feminine,nominative,singular,kwamayoku,1.6446062974375302,kwamayoku,daughter
+ἡμέρα,58,unigram,feminine,accusative,plural,aiyeta,3.7858945150889487,aiyeta,day
+ἡμέρα,68,unigram,feminine,accusative,singular,wadakive'aviku,1.2336436012772636,wadakive'aviku,day
+ἡμέρα,2,unigram,feminine,nominative,plural,aiyeta,1.0178714709183003,aiyeta,day
+ἡμέρα,51,unigram,feminine,nominative,singular,Mala,1.1941871186874764,Mala,day
+ὀφειλέτης,95,unigram,masculine,nominative,singular,"K100,000",1.0960524252565438,"K100,000",debtor
+δαιμόνιον,21,unigram,neuter,accusative,plural,yafune,2.6138883366020416,yafune,demon
+δαιμόνιον,263,unigram,neuter,accusative,singular,wayafune,1.2664159040384662,wayafune,demon
+δαιμόνιον,155,unigram,neuter,nominative,plural,yafune,2.852775920371704,yafune,demon
+δαιμόνιον,134,unigram,neuter,nominative,singular,ginuyabuyabuna,1.4862676336455518,ginuyabuyabuna,demon
+δηνάριον,242,unigram,neuter,accusative,plural,gibuki,1.9577047508315024,gibuki,denarius (about a day's wages)
+δηνάριον,126,unigram,neuter,accusative,singular,Mani,1.3235200847582227,Mani,denarius (about a day's wages)
+μαθητής,139,unigram,masculine,accusative,plural,tomuliya,4.019229115330749,tomuliya,disciple
+μαθητής,268,unigram,masculine,accusative,singular,iya'eku,1.0380333054542197,iya'eku,disciple
+μαθητής,217,unigram,masculine,nominative,plural,tomuliya,6.9865528701058075,tomuliya,disciple
+μαθητής,266,unigram,masculine,nominative,singular,iya'eku,1.60948776834455,iya'eku,disciple
+νόσος,56,unigram,feminine,accusative,singular,to'aulolo,1.0845521033089152,to'aulolo,disease
+περιστερά,78,unigram,feminine,accusative,plural,bunebune,1.2564968760972002,bunebune,dove
+περιστερά,40,unigram,feminine,accusative,singular,bunebune,1.1855699413822611,bunebune,dove
+οὖς,118,unigram,neuter,accusative,plural,watagami,1.2443059017947649,watagami,ear
+οὖς,220,unigram,neuter,accusative,singular,didigeya,1.0481705934231191,didigeya,ear
+σεισμός,160,unigram,masculine,nominative,plural,hinalakayemu,1.1701796166427687,hinalakayemu,"earthquakes, storm"
+σεισμός,47,unigram,masculine,nominative,singular,tabone,1.4697796166737822,tabone,"earthquakes, storm"
+τέλος,215,unigram,neuter,accusative,singular,hinanuwanuwakoyo,1.0786623341058583,hinanuwanuwakoyo,end
+αἰών,239,unigram,masculine,accusative,singular,keke-mo,1.8258911360395231,keke-mo,eternity
+ὀφθαλμός,15,unigram,masculine,accusative,plural,mata,1.6164756447699369,mata,eye
+ὀφθαλμός,48,unigram,masculine,nominative,plural,matadi,2.054661209875377,matadi,eye
+ὀφθαλμός,236,unigram,masculine,nominative,singular,unamwamwalina,1.1031192424869556,unamwamwalina,eye
+πρόσωπον,150,unigram,neuter,accusative,singular,uvehavehawala,1.3408830750067529,uvehavehawala,face
+λιμός,5,unigram,feminine,nominative,plural,hinave'amunumunuga,1.0810969581983796,hinave'amunumunuga,famine
+γεωργός,200,unigram,masculine,nominative,plural,to'itave'avina,1.2167051255125985,to'itave'avina,"farmer, tenant"
+γεωργός,36,unigram,masculine,nominative,singular,veguveguwaku,1.5893080770447383,veguveguwaku,"farmer, tenant"
+πατήρ,241,unigram,masculine,accusative,singular,Kamaku,2.9903756751113137,Kamaku,father
+πατήρ,247,unigram,masculine,nominative,plural,mana,1.4817087960923507,mana,father
+πατήρ,145,unigram,masculine,nominative,singular,Kamaku,3.8243298195342272,Kamaku,father
+σύνδουλος,251,unigram,masculine,nominative,plural,hivenuwa'atana,1.146555897853296,hivenuwa'atana,"fellow-servant, colleague"
+ἀγρός,262,unigram,masculine,accusative,plural,awa'awanine,1.1232251446169972,awa'awanine,field
+ἀγρός,26,unigram,masculine,accusative,singular,faheya,1.2158792405914485,faheya,field
+δάκτυλος,138,unigram,masculine,accusative,singular,nigo'awa'ivina,1.1454757276999707,nigo'awa'ivina,finger
+ἰχθύς,121,unigram,masculine,accusative,plural,igana,1.539992896589975,igana,fish
+ἰχθύς,149,unigram,masculine,accusative,singular,igana,1.1554486537965931,igana,fish
+δίκτυον,86,unigram,neuter,accusative,plural,alevatu,3.5104235169702114,alevatu,fishing net
+δίκτυον,158,unigram,neuter,accusative,singular,igana,1.0377976443871335,igana,fishing net
+πούς,190,unigram,masculine,accusative,plural,agene,1.005294885767042,agene,foot
+καρπός,143,unigram,masculine,accusative,plural,faha,1.2072340217323012,faha,"fruit, crop, harvest"
+καρπός,186,unigram,masculine,accusative,singular,guwana,1.119170635519429,guwana,"fruit, crop, harvest"
+πλήρωμα,213,unigram,neuter,accusative,plural,feyawa,1.091112502342544,feyawa,fullness
+πλήρωμα,258,unigram,neuter,accusative,singular,ginabwadini,1.0595352057902494,ginabwadini,fullness
+γενεά,187,unigram,feminine,accusative,singular,watubuyemu-ma,1.73692346750662,watubuyemu-ma,generation
+γενεά,117,unigram,feminine,nominative,singular,watubuyemu-ma,1.2805690977860342,watubuyemu-ma,generation
+δῶρον,240,unigram,neuter,accusative,plural,wakalivadiyao,1.5350124441753417,wakalivadiyao,gift
+ἡγεμών,8,unigram,masculine,accusative,singular,gidagaheye,1.1063128009036491,gidagaheye,"governor, ruler"
+ἀσπασμός,250,unigram,masculine,accusative,plural,abakimokimone,1.361921450759969,abakimokimone,greeting
+ὁδηγός,3,unigram,masculine,nominative,singular,tokivetuvetunu,1.2147303964010356,tokivetuvetunu,guide
+θρίξ,73,unigram,feminine,nominative,plural,wakaiwabuhegedi,1.0595545022300916,wakaiwabuhegedi,hair
+χείρ,243,unigram,feminine,accusative,plural,nimana,1.9257733180302516,nimana,hand
+χείρ,175,unigram,feminine,accusative,singular,gitunena,1.0859081399003634,gitunena,hand
+κεφαλή,163,unigram,feminine,accusative,singular,u'una,1.6241229053464186,u'una,head
+στάχυς,164,unigram,masculine,accusative,plural,hikikikolukolu,1.3258728381919374,hikikikolukolu,head of grain
+στάχυς,57,unigram,masculine,accusative,singular,gikivetabona,1.3263392362107662,gikivetabona,head of grain
+καρδία,223,unigram,feminine,accusative,singular,tagami,1.0551066482300653,tagami,heart
+καρδία,151,unigram,feminine,nominative,singular,u'aulolo,1.0382781560908865,u'aulolo,heart
+οὐρανός,209,unigram,masculine,accusative,singular,lobameya,2.6444905074867875,lobameya,"heaven, sky"
+οὐρανός,156,unigram,masculine,nominative,singular,ginaduva-vagata,1.0938972775881912,ginaduva-vagata,"heaven, sky"
+ὥρα,17,unigram,feminine,nominative,singular,tova,1.3056879610030452,tova,hour
+οἰκία,255,unigram,feminine,accusative,singular,manuweya,2.1398308081333286,manuweya,house
+οἶκος,14,unigram,masculine,accusative,singular,manuweya,4.354353855010913,manuweya,"house, home"
+κριτής,129,unigram,masculine,nominative,singular,tovedewayauga,1.2740081594998207,tovedewayauga,judge
+βασιλεύς,43,unigram,masculine,accusative,singular,tokaiwabu,1.4448577660725055,tokaiwabu,king
+βασιλεία,61,unigram,feminine,accusative,plural,givehawalena,1.1936192309148912,givehawalena,kingdom
+βασιλεία,125,unigram,feminine,accusative,singular,yo'ogaga,1.663764508183465,yo'ogaga,kingdom
+λύχνος,184,unigram,masculine,nominative,singular,lamufa,1.450822019609324,lamufa,lamp
+κλῆρος,1,unigram,masculine,accusative,singular,higaheyena,1.4675836544935406,higaheyena,"lots (casting of lots), inheritance"
+ἄνθρωπος,230,unigram,masculine,accusative,plural,kaliva,1.5551925464309997,kaliva,man
+ἄνθρωπος,201,unigram,masculine,accusative,singular,matane,1.2931333382140016,matane,man
+ἄνθρωπος,137,unigram,masculine,nominative,singular,kaliva,1.5017845295507342,kaliva,man
+ἀνήρ,115,unigram,masculine,nominative,plural,"5,000",1.6255463915429296,"5,000","man, husband"
+ἀνήρ,191,unigram,masculine,nominative,singular,gihawayafeyafena,1.4347621091685854,gihawayafeyafena,"man, husband"
+μνᾶ,232,unigram,feminine,accusative,plural,K100,1.2527447996008825,K100,mina (about 100 days' wages)
+πρωτοκαθεδρία,83,unigram,feminine,accusative,plural,Nuwanuwadi,1.0160401969164767,Nuwanuwadi,"most important seat, seat of honour"
+πρωτοκαθεδρία,23,unigram,feminine,accusative,singular,hinalusiuleyemi,1.0960622061228922,hinalusiuleyemi,"most important seat, seat of honour"
+μήτηρ,218,unigram,feminine,accusative,singular,hinana,1.918709060933428,hinana,mother
+ὄρος,172,unigram,neuter,accusative,plural,wanamiyami-ma,1.0475556606704368,wanamiyami-ma,mountain
+ὄρος,207,unigram,neuter,accusative,singular,oya,1.5833357622224733,oya,mountain
+μύρον,69,unigram,neuter,accusative,plural,hiveyawai,1.1613810574337249,hiveyawai,myrrh
+ὄνομα,81,unigram,neuter,nominative,plural,wavehimeyedi,1.1803455178299451,wavehimeyedi,name
+ὄνομα,198,unigram,neuter,nominative,singular,egana,3.902724805015525,egana,name
+ἔθνος,183,unigram,neuter,accusative,plural,hinanunauwena,1.1700082626723236,hinanunauwena,nation
+ἔθνος,152,unigram,neuter,accusative,singular,hinave'amunumunuga,1.0964062457118973,hinave'amunumunuga,nation
+ἔθνος,235,unigram,neuter,nominative,plural,hidahalamaneni-ma,1.0945984044713797,hidahalamaneni-ma,nation
+ἔθνος,18,unigram,neuter,nominative,singular,hinave'amunumunuga,1.092421421331229,hinave'amunumunuga,nation
+νύξ,147,unigram,feminine,accusative,plural,bogi,1.4850726281893627,bogi,night
+νύξ,194,unigram,feminine,accusative,singular,uyadayada,1.8077115578965928,uyadayada,night
+ὅρκος,44,unigram,masculine,accusative,plural,Kini,1.0327178564200818,Kini,oath
+βοῦς,120,unigram,masculine,accusative,plural,tosenisi,1.7321079546527716,tosenisi,ox
+παραβολή,204,unigram,feminine,accusative,plural,gahetalahobuhobu,3.110418791010113,gahetalahobuhobu,parable
+παραβολή,176,unigram,feminine,accusative,singular,gahetalahobuhobu,1.8201454554988377,gahetalahobuhobu,parable
+μέρος,271,unigram,neuter,accusative,plural,fafali,1.1105655153164729,fafali,part
+μέρος,37,unigram,neuter,accusative,singular,ginahegenauwena,1.0765462438766469,ginahegenauwena,part
+μαργαρίτης,178,unigram,masculine,accusative,plural,odo'odo,1.999949106296321,odo'odo,pearls
+τόπος,214,unigram,masculine,accusative,plural,hinalakayemu,1.2452711284237852,hinalakayemu,place
+τόπος,229,unigram,masculine,accusative,singular,abaga,1.087117550654637,abaga,place
+πρωτοκλισία,216,unigram,feminine,accusative,plural,abavetoga,1.1039957218527283,abavetoga,place of honor
+ὄφις,82,unigram,masculine,accusative,singular,oloto,1.3763487480727807,oloto,poison
+σκεῦος,100,unigram,neuter,nominative,plural,ginayewani,1.1421050108759827,ginayewani,"possession, object, thing, jar, vessel"
+δύναμις,84,unigram,feminine,accusative,plural,fifiwalana,1.0630229374955154,fifiwalana,"power, ability, miracle"
+δύναμις,33,unigram,feminine,accusative,singular,faiwala,2.8247982458422567,faiwala,"power, ability, miracle"
+δύναμις,63,unigram,feminine,nominative,plural,abaveyaulowoga,1.0780850984156485,abaveyaulowoga,"power, ability, miracle"
+δύναμις,89,unigram,feminine,nominative,singular,siveyawa,1.3442619261423492,siveyawa,"power, ability, miracle"
+ἱερεύς,12,unigram,masculine,nominative,plural,hiyaweyawelina,1.096091603901298,hiyaweyawelina,priest
+φυλακή,16,unigram,feminine,accusative,singular,deliya,2.605598220968292,deliya,prison
+προφήτης,46,unigram,masculine,accusative,plural,to'awatalatalaina,2.284039413087209,to'awatalatalaina,prophet
+προφήτης,157,unigram,masculine,accusative,singular,to'awatalatalaina,1.506789765770629,to'awatalatalaina,prophet
+προφήτης,177,unigram,masculine,nominative,plural,to'awatalatalaina,1.489761571460419,to'awatalatalaina,prophet
+προφήτης,208,unigram,masculine,nominative,singular,to'awatalatalaina,1.1729892490761882,to'awatalatalaina,prophet
+ποταμός,96,unigram,masculine,nominative,plural,gitafitafina,1.0532317130029942,gitafitafina,river
+ποταμός,132,unigram,masculine,nominative,singular,ogola,1.0298093209783648,ogola,river
+λῃστής,29,unigram,masculine,accusative,plural,tomunugakai'afu,1.9999489140783424,tomunugakai'afu,robber
+λῃστής,252,unigram,masculine,nominative,plural,tomunugakai'afu,1.6687889590569356,tomunugakai'afu,robber
+ἄρχων,161,unigram,masculine,accusative,plural,giveyewana,1.326621796305761,giveyewana,ruler
+ἄρχων,50,unigram,masculine,nominative,plural,tonagona,1.4765770596317822,tonagona,ruler
+ἄρχων,246,unigram,masculine,nominative,singular,tovehimeya,1.0882227858835098,tovehimeya,ruler
+ἀκοή,59,unigram,feminine,accusative,singular,ginogalina,1.0326917190813645,ginogalina,rumor
+ἀκοή,127,unigram,feminine,nominative,plural,gi'ayagilina,1.2555537226329223,gi'ayagilina,rumor
+ἀκοή,261,unigram,feminine,nominative,singular,valeyana,1.07447991459299,valeyana,rumor
+βιβλίον,39,unigram,neuter,accusative,singular,ginawavidi,1.0412390691557143,ginawavidi,"scroll, book"
+δοῦλος,167,unigram,masculine,accusative,plural,agetoga,1.508062434352144,agetoga,"servant, slave"
+δοῦλος,19,unigram,masculine,accusative,singular,agetoga,2.5400631155108027,agetoga,"servant, slave"
+δοῦλος,80,unigram,masculine,nominative,plural,agetoga,1.281461943070795,agetoga,"servant, slave"
+δοῦλος,162,unigram,masculine,nominative,singular,agetoga,1.2575317382482227,agetoga,"servant, slave"
+πρόβατον,256,unigram,neuter,accusative,plural,sifi,5.1119615789867305,sifi,sheep
+πρόβατον,111,unigram,neuter,accusative,singular,sifi,1.360989804216232,sifi,sheep
+ποιμήν,197,unigram,masculine,nominative,plural,sifi,1.0192625332694012,sifi,"shepherd, pastor"
+ποιμήν,224,unigram,masculine,nominative,singular,sifi,1.6110635228389432,sifi,"shepherd, pastor"
+σημεῖον,109,unigram,neuter,accusative,plural,iya'iyaya,2.0105108046037032,iya'iyaya,sign
+σημεῖον,99,unigram,neuter,accusative,singular,iya'iyaya,2.726633635832699,iya'iyaya,sign
+σημεῖον,30,unigram,neuter,nominative,plural,iya'iyaya,1.4038686616784872,iya'iyaya,sign
+σημεῖον,71,unigram,neuter,nominative,singular,iya'iyaya,1.230890951359552,iya'iyaya,sign
+δραχμή,133,unigram,feminine,accusative,singular,hidanuhagana,1.2870269240779717,hidanuhagana,"silver coin, drachma"
+ἀργύριον,171,unigram,neuter,accusative,plural,siliva,1.5640643154098413,siliva,"silver, money"
+ἀργύριον,264,unigram,neuter,accusative,singular,mani,2.3331241539898144,mani,"silver, money"
+ἁμαρτία,219,unigram,feminine,accusative,plural,koyona,2.0388359677327648,koyona,sin
+ἁμαρτία,173,unigram,feminine,accusative,singular,wavita,1.4134751909310372,wavita,sin
+ἁμαρτία,227,unigram,feminine,nominative,plural,gayawelidi,1.1798572444061337,gayawelidi,sin
+ἀδελφή,105,unigram,feminine,accusative,singular,Mata,1.1637957647897916,Mata,sister
+ἀδελφή,13,unigram,feminine,nominative,plural,nouneyao,1.9377904173451688,nouneyao,sister
+ἀδελφή,244,unigram,feminine,nominative,singular,hinaku.,1.1849917221431403,hinaku.,sister
+πλοιάριον,188,unigram,neuter,nominative,plural,givesiuleyeni-yo,1.0960670999999007,givesiuleyeni-yo,small boat
+ὀψάριον,203,unigram,neuter,accusative,singular,igana,1.26851912721081,igana,small fish
+υἱός,35,unigram,masculine,accusative,plural,natuneyao,1.2289612953975402,natuneyao,son
+υἱός,98,unigram,masculine,accusative,singular,Tohobu'ela,2.536087943037302,Tohobu'ela,son
+υἱός,101,unigram,masculine,nominative,plural,natuneyao,1.351195789352632,natuneyao,son
+υἱός,169,unigram,masculine,nominative,singular,Tohobu'ela,1.7641628101871232,Tohobu'ela,son
+ψυχή,179,unigram,feminine,accusative,plural,atuvefa'ila,1.1457238140946,atuvefa'ila,"soul, life"
+ψυχή,222,unigram,feminine,accusative,singular,ginanuhegena,1.4425057834162438,ginanuhegena,"soul, life"
+λίθος,234,unigram,masculine,accusative,plural,kuga,1.0477277568308454,kuga,stone
+λίθος,24,unigram,masculine,accusative,singular,kabala,2.7004376064922293,kabala,stone
+λίθος,108,unigram,masculine,nominative,plural,kabala,1.2667088886477995,kabala,stone
+λίθος,28,unigram,masculine,nominative,singular,kabala,1.253460002936336,kabala,stone
+συναγωγή,195,unigram,feminine,accusative,plural,manuwa-abavehawala,2.241422771778286,manuwa-abavehawala,synagogue
+συναγωγή,265,unigram,feminine,accusative,singular,manuwa-abavehawala,1.549207890741275,manuwa-abavehawala,synagogue
+τράπεζα,154,unigram,feminine,accusative,plural,givetala'afufuna,1.0441088591276242,givetala'afufuna,table
+τάλαντον,54,unigram,neuter,accusative,plural,"K5,000",1.1075825238490875,"K5,000",talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,182,unigram,neuter,accusative,singular,"K1,000",1.6352052657445966,"K1,000",talent (weight and monetary unit: around 20 years' wages)
+τελώνης,148,unigram,masculine,nominative,plural,toyaudi,1.0363520666843418,toyaudi,tax collector
+τελώνης,55,unigram,masculine,nominative,singular,toyaudi,1.0429398539228816,toyaudi,tax collector
+γραμματεύς,269,unigram,masculine,nominative,plural,tovehawala,1.4087981398441942,tovehawala,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,170,unigram,masculine,nominative,singular,tovehawala,1.2242602988181213,tovehawala,"teacher, expert in the law, scholar, scribe"
+καθηγητής,257,unigram,masculine,nominative,plural,hinavewagami,1.4350348453462798,hinavewagami,"teacher, guide"
+καθηγητής,181,unigram,masculine,nominative,singular,hinavewagami,1.4350348453462798,hinavewagami,"teacher, guide"
+κλέπτης,65,unigram,masculine,nominative,plural,tokai'afu,1.467574616950471,tokai'afu,thief
+κλέπτης,180,unigram,masculine,nominative,singular,tokai'afu,2.0355173550134764,tokai'afu,thief
+διαλογισμός,231,unigram,masculine,accusative,plural,we'ai.,1.1062545795375238,we'ai.,"thought, argument"
+διαλογισμός,113,unigram,masculine,accusative,singular,gisi'aliyena,1.0595512823290478,gisi'aliyena,"thought, argument"
+διαλογισμός,226,unigram,masculine,nominative,singular,hivekwageya,1.1189371936477286,hivekwageya,"thought, argument"
+χρόνος,212,unigram,masculine,accusative,plural,gifata-yo,1.3265813112200036,gifata-yo,time
+χρόνος,185,unigram,masculine,accusative,singular,ibadibadi,1.1993092676399697,ibadibadi,time
+καιρός,60,unigram,masculine,nominative,plural,hinavagatagona,1.096185247111637,hinavagatagona,"time, right time"
+καιρός,110,unigram,masculine,nominative,singular,tova,1.7044212683792503,tova,"time, right time"
+τάφος,135,unigram,masculine,accusative,singular,tomohuyahuya,1.1170123071860658,tomohuyahuya,"tomb, grave"
+μνημεῖον,9,unigram,neuter,accusative,plural,wakidewedewena,1.1637671366840152,wakidewedewena,"tomb, grave"
+μνημεῖον,11,unigram,neuter,accusative,singular,tomohuyehuyeya,4.115957669191326,tomohuyehuyeya,"tomb, grave"
+μνημεῖον,206,unigram,neuter,nominative,singular,medede,1.168344200018562,medede,"tomb, grave"
+θησαυρός,76,unigram,masculine,accusative,plural,tumotumo,1.2624948244773548,tumotumo,treasure
+θησαυρός,174,unigram,masculine,accusative,singular,koyokoyo,1.0877212682019868,koyokoyo,treasure
+δένδρον,70,unigram,neuter,accusative,plural,ai,1.1492299615296555,ai,tree	
+κώμη,211,unigram,feminine,accusative,plural,melala,1.5302575777641207,melala,village
+κώμη,41,unigram,feminine,accusative,singular,melala,2.167162024344341,melala,village
+φωνή,253,unigram,feminine,nominative,singular,agona,1.3756763884748917,agona,voice or sound
+ὕδωρ,270,unigram,neuter,accusative,plural,ni,1.025311350212425,ni,water
+ὕδωρ,74,unigram,neuter,accusative,singular,gufa,2.681612797452122,gufa,water
+ὑδρία,90,unigram,feminine,accusative,singular,hise-vagahini,1.2125176900525536,hise-vagahini,water jar
+ὁδός,205,unigram,feminine,accusative,plural,eda,2.8727531118116345,eda,way
+ὁδός,112,unigram,feminine,accusative,singular,eda,1.0234535945313241,eda,way
+γάμος,128,unigram,masculine,accusative,plural,avemwamwala,2.272875182829774,avemwamwala,wedding
+γάμος,193,unigram,masculine,accusative,singular,hiyowanina,1.2634933776829889,hiyowanina,wedding
+γυνή,140,unigram,feminine,accusative,singular,vavinena,1.3877258706412747,vavinena,"wife, woman"
+γυνή,92,unigram,feminine,nominative,plural,vevine,1.709100703284255,vevine,"wife, woman"
+γυνή,97,unigram,feminine,nominative,singular,kwamayoku,4.778854861471724,kwamayoku,"wife, woman"
+ἄνεμος,6,unigram,masculine,nominative,plural,bolimana,1.3762596126850597,bolimana,wind
+ἄνεμος,52,unigram,masculine,nominative,singular,bolimana,1.6505061383827229,bolimana,wind
+ῥῆμα,146,unigram,neuter,accusative,plural,ginunauyena,1.47702720662877,ginunauyena,word
+ῥῆμα,130,unigram,neuter,accusative,singular,himatauta,1.0367773512418077,himatauta,word
+ῥῆμα,22,unigram,neuter,nominative,plural,wananuhagana,1.1124631765559452,wananuhagana,word
+λόγος,131,unigram,masculine,accusative,plural,bonaku,2.054397569137881,bonaku,word
+λόγος,123,unigram,masculine,accusative,singular,bonana,1.0114429339942146,bonana,word
+λόγος,122,unigram,masculine,nominative,plural,ginayawowola,1.195172728636532,ginayawowola,word
+λόγος,233,unigram,masculine,nominative,singular,velemo'ena,1.0653102785433486,velemo'ena,word
+ἔργον,32,unigram,neuter,accusative,plural,gugai,1.4434646978527788,gugai,work
+ἔργον,75,unigram,neuter,accusative,singular,gugai,1.0765960447403915,gugai,work
+ἔργον,237,unigram,neuter,nominative,plural,mahalina,1.297928230148161,mahalina,work
+ἐργάτης,116,unigram,masculine,nominative,plural,giludigadigaga,1.0888039359623665,giludigadigaga,worker
+μέριμνα,114,unigram,feminine,nominative,singular,givevenuwanauna,1.096057314542422,givevenuwanauna,"worry, concern, desire"
+ἔτος,202,unigram,neuter,accusative,plural,malamala,3.495552415715525,malamala,year
+ἔτος,141,unigram,neuter,accusative,singular,malamala,1.5029717957537636,malamala,year

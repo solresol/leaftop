@@ -1,0 +1,212 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_741_translation,english_translation
+θεός,81,unigram,masculine,accusative,singular,Diosta,1.1594569071549776,Diosta,God
+θεός,125,unigram,masculine,nominative,singular,Tayta,1.4010789814733986,Tayta,God
+κύριος,82,unigram,masculine,nominative,singular,Señor,1.0636226718180433,Señor,"Lord, lord, master"
+γραφή,78,unigram,feminine,accusative,plural,palabranta,1.0364482239598531,palabranta,Scripture
+γραφή,29,unigram,feminine,accusative,singular,palabran,1.9999486772711133,palabran,Scripture
+γραφή,160,unigram,feminine,nominative,plural,palabran,1.6837191033543102,palabran,Scripture
+γραφή,200,unigram,feminine,nominative,singular,palabran,1.6994838632606637,palabran,Scripture
+ἄγγελος,61,unigram,masculine,accusative,plural,angilninkunata,1.1356550824671978,angilninkunata,angel
+ἄγγελος,27,unigram,masculine,nominative,plural,angilkuna,1.1855275171135642,angilkuna,angel
+ἄγγελος,66,unigram,masculine,nominative,singular,ángel,2.356883724169291,ángel,angel
+ἐξουσία,43,unigram,feminine,accusative,plural,juezkunaman,1.0962199599997684,juezkunaman,authority
+ἐξουσία,119,unigram,feminine,accusative,singular,munayninta,1.4885777087403944,munayninta,authority
+βρέφος,199,unigram,neuter,accusative,singular,punuraykaqta,1.1062708150644622,punuraykaqta,babies
+ἀποθήκη,42,unigram,feminine,accusative,singular,Trïguta,1.4173718379039892,Trïguta,barn
+ἀρχή,45,unigram,feminine,accusative,plural,juezkunaman,1.0961063339256685,juezkunaman,beginning
+βλασφημία,20,unigram,feminine,accusative,plural,tukunanpaqqa,1.0960768946513286,tukunanpaqqa,blasphemy
+βλασφημία,59,unigram,feminine,accusative,singular,Wiyayashkankinami,1.0960768946513286,Wiyayashkankinami,blasphemy
+πλοῖον,64,unigram,neuter,accusative,plural,büquikuna,1.8383904571048064,büquikuna,boat
+πλοῖον,189,unigram,neuter,accusative,singular,büquiman,1.2906583290126123,büquiman,boat
+πλοῖον,145,unigram,neuter,nominative,plural,büquinkunawanmi,1.1616361309642669,büquinkunawanmi,boat
+πλοῖον,138,unigram,neuter,nominative,singular,Sayyaqqa,1.116237206469073,Sayyaqqa,boat
+κλῆμα,89,unigram,neuter,nominative,singular,juklaylano,1.2025384651289357,juklaylano,branch
+ἄρτος,192,unigram,masculine,accusative,plural,tantata,1.699472973664364,tantata,bread
+ἄρτος,211,unigram,masculine,accusative,singular,tantata,2.343039488390598,tantata,bread
+ἀδελφός,182,unigram,masculine,accusative,plural,paninkunata,1.0496800899045695,paninkunata,brother
+ἀδελφός,73,unigram,masculine,accusative,singular,wawqin,2.6253346581402366,wawqin,brother
+ἀδελφός,67,unigram,masculine,nominative,plural,wawqinkuna,1.145586658046362,wawqinkuna,brother
+ἀδελφός,140,unigram,masculine,nominative,singular,wawqinmi,1.3138455950124208,wawqinmi,brother
+στῆθος,172,unigram,neuter,accusative,singular,kuyashqan,1.1099316514005817,kuyashqan,"chest, breast"
+ἀρχιερεύς,147,unigram,masculine,accusative,plural,mandaq,1.7473920466717996,mandaq,chief priest
+ἀρχιερεύς,35,unigram,masculine,accusative,singular,mandaq,1.0841577565867069,mandaq,chief priest
+ἀρχιερεύς,72,unigram,masculine,nominative,plural,cürakuna,1.0549352043559337,cürakuna,chief priest
+ἀρχιερεύς,151,unigram,masculine,nominative,singular,cüra,1.3095828639182816,cüra,chief priest
+τέκνον,206,unigram,neuter,accusative,plural,surinkunata,1.038469031134147,surinkunata,child
+παιδίον,56,unigram,neuter,accusative,singular,wamrata,1.2482851746346422,wamrata,child
+παιδίον,24,unigram,neuter,nominative,singular,wamrano,1.4378268326800845,wamrano,child
+πόλις,106,unigram,feminine,accusative,plural,markakunapa,3.4439288062633455,markakunapa,city
+πόλις,38,unigram,feminine,accusative,singular,markaman,1.9414025147356453,markaman,city
+πύλη,123,unigram,feminine,nominative,singular,Kichki,1.0595352057902494,Kichki,city gate
+χιτών,70,unigram,masculine,accusative,plural,apayankisu,1.3232958035431146,apayankisu,"clothing, undergarments"
+χιτών,18,unigram,masculine,accusative,singular,kachapariykuyanki,1.9577185461918991,kachapariykuyanki,"clothing, undergarments"
+ἱμάτιον,80,unigram,neuter,accusative,plural,punchunkunata,1.5661781825986951,punchunkunata,coat
+ἱμάτιον,79,unigram,neuter,accusative,singular,punchunta,1.4700961480891324,punchunta,coat
+ἐντολή,50,unigram,feminine,accusative,singular,cumpliykäyanki,1.4749091067203008,cumpliykäyanki,commandment
+χώρα,175,unigram,feminine,accusative,singular,partiman,1.1243238322318654,partiman,"country, countryside"
+ὄχλος,32,unigram,masculine,accusative,plural,wisarkur,1.370436244921323,wisarkur,crowd
+ὄχλος,4,unigram,masculine,accusative,singular,runakunata,1.1290573018898902,runakunata,crowd
+ὄχλος,62,unigram,masculine,nominative,plural,runakuna,3.3194341270988037,runakuna,crowd
+ὄχλος,170,unigram,masculine,nominative,singular,runakuna,1.1729053774606877,runakuna,crowd
+ἡμέρα,48,unigram,feminine,accusative,plural,junaq,1.5184765109415501,junaq,day
+ἡμέρα,53,unigram,feminine,accusative,singular,waran,1.1701401131514075,waran,day
+ἡμέρα,40,unigram,feminine,nominative,singular,Pasa,1.9862757415262708,Pasa,day
+δαιμόνιον,19,unigram,neuter,accusative,plural,supaykunata,2.58327109986434,supaykunata,demon
+δαιμόνιον,202,unigram,neuter,accusative,singular,supaypa,1.0825923794898935,supaypa,demon
+δαιμόνιον,114,unigram,neuter,nominative,plural,supaykuna,2.223978869680656,supaykuna,demon
+δαιμόνιον,100,unigram,neuter,nominative,singular,supayta,1.2516496606771694,supayta,demon
+δηνάριον,185,unigram,neuter,accusative,plural,jaqan,1.179477444060088,jaqan,denarius (about a day's wages)
+δηνάριον,94,unigram,neuter,accusative,singular,rikasiyämay,1.2485763658279636,rikasiyämay,denarius (about a day's wages)
+μαθητής,103,unigram,masculine,accusative,plural,discïpulunkunata,4.004518510817221,discïpulunkunata,disciple
+μαθητής,207,unigram,masculine,accusative,singular,kuyashqan,1.3397000005869208,kuyashqan,disciple
+μαθητής,166,unigram,masculine,nominative,plural,discïpulunkuna,7.357098757823144,discïpulunkuna,disciple
+μαθητής,205,unigram,masculine,nominative,singular,kuyashqan,1.314671460557945,kuyashqan,disciple
+νόσος,47,unigram,feminine,accusative,singular,tukuy,1.4675728068262772,tukuy,disease
+οὖς,88,unigram,neuter,accusative,plural,wiyakuyäsun,1.117061307058917,wiyakuyäsun,ear
+οὖς,169,unigram,neuter,accusative,singular,qayakuypa,1.054470124707999,qayakuypa,ear
+σεισμός,37,unigram,masculine,nominative,singular,fiyupa,1.014463462984276,fiyupa,"earthquakes, storm"
+τέλος,164,unigram,neuter,accusative,singular,salvashqami,1.478043164693012,salvashqami,end
+αἰών,183,unigram,masculine,accusative,singular,imaypis,1.4991386006753102,imaypis,eternity
+ὀφθαλμός,13,unigram,masculine,accusative,plural,nawïta,1.4541244902806292,nawïta,eye
+ὀφθαλμός,180,unigram,masculine,nominative,singular,nawikikuna,1.1452386057419994,nawikikuna,eye
+πρόσωπον,111,unigram,neuter,accusative,singular,pasaman,1.0734086415705877,pasaman,face
+γεωργός,152,unigram,masculine,nominative,plural,chakra,1.3503789587772976,chakra,"farmer, tenant"
+πατήρ,184,unigram,masculine,accusative,singular,Taytä,1.966949703185524,Taytä,father
+πατήρ,191,unigram,masculine,nominative,plural,unay,1.0582099992498797,unay,father
+πατήρ,107,unigram,masculine,nominative,singular,Taytä,3.6400025604109434,Taytä,father
+σύνδουλος,194,unigram,masculine,nominative,plural,rikaykurshi,1.0960670999999007,rikaykurshi,"fellow-servant, colleague"
+σύνδουλος,68,unigram,masculine,nominative,singular,ruraptinshi,1.0960670999999007,ruraptinshi,"fellow-servant, colleague"
+ἀγρός,201,unigram,masculine,accusative,plural,taq,1.0704805057825213,taq,field
+δίκτυον,65,unigram,neuter,accusative,plural,redninkunata,2.397131241620546,redninkunata,fishing net
+δίκτυον,117,unigram,neuter,accusative,singular,redta,1.2379454334245759,redta,fishing net
+τροφή,146,unigram,feminine,accusative,plural,jamapashqanyaqmi,1.096071996175396,jamapashqanyaqmi,food
+πούς,141,unigram,masculine,accusative,plural,chakinta,1.2364925916059304,chakinta,foot
+καρπός,105,unigram,masculine,accusative,plural,jachaqa,1.4263073711774084,jachaqa,"fruit, crop, harvest"
+καρπός,139,unigram,masculine,accusative,singular,wayuq,1.1606662474693603,wayuq,"fruit, crop, harvest"
+γενεά,163,unigram,feminine,accusative,plural,mansapakuqkunataqa,1.0961654628313675,mansapakuqkunataqa,generation
+γενεά,87,unigram,feminine,nominative,singular,runakuna,1.0425026614619344,runakuna,generation
+δῶρον,95,unigram,neuter,accusative,singular,ofrendaykikunata,1.1230909551257102,ofrendaykikunata,gift
+ἀσπασμός,193,unigram,masculine,accusative,plural,Pläzakunachöpis,1.3699079016826272,Pläzakunachöpis,greeting
+χείρ,187,unigram,feminine,accusative,plural,makinta,1.8089769850864617,makinta,hand
+χείρ,132,unigram,feminine,accusative,singular,makin,1.1173146134916978,makin,hand
+κεφαλή,122,unigram,feminine,accusative,singular,umanta,1.2546706581635156,umanta,head
+οὐρανός,159,unigram,masculine,accusative,singular,jana,2.130838231686205,jana,"heaven, sky"
+οὐρανός,115,unigram,masculine,nominative,singular,Jana,1.1417567863009417,Jana,"heaven, sky"
+ὥρα,16,unigram,feminine,nominative,singular,chämushnami,1.6464282781777388,chämushnami,hour
+οἰκία,197,unigram,feminine,accusative,singular,wayinman,1.1073688175742369,wayinman,house
+οἶκος,12,unigram,masculine,accusative,singular,wayinman,1.8546795575522512,wayinman,"house, home"
+βασιλεύς,33,unigram,masculine,accusative,singular,rey,1.2436548494987074,rey,king
+βασιλεία,93,unigram,feminine,accusative,singular,mandaykashqanman,1.228288884786489,mandaykashqanman,kingdom
+κόπος,118,unigram,masculine,accusative,plural,jamuraykäyanki,1.1592635203468185,jamuraykäyanki,"labour, work, trouble, difficulty"
+κλῆρος,1,unigram,masculine,accusative,singular,suertita,1.4675836544935406,suertita,"lots (casting of lots), inheritance"
+ἄνθρωπος,177,unigram,masculine,accusative,plural,jananman,1.210406552560945,jananman,man
+ἄνθρωπος,153,unigram,masculine,accusative,singular,runata,1.6365342291199327,runata,man
+ἄνθρωπος,102,unigram,masculine,nominative,singular,Juk,1.0921000370026543,Juk,man
+ἀνήρ,149,unigram,masculine,accusative,singular,Niptinmi,1.2177477220654926,Niptinmi,"man, husband"
+ἀνήρ,86,unigram,masculine,nominative,plural,"5,000",1.2084235396523648,"5,000","man, husband"
+ἀνήρ,142,unigram,masculine,nominative,singular,runa,1.308873663715456,runa,"man, husband"
+μνᾶ,179,unigram,feminine,accusative,plural,kuti,1.379042363003187,kuti,mina (about 100 days' wages)
+μνᾶ,7,unigram,feminine,accusative,singular,mirasiq,1.0960670999999007,mirasiq,mina (about 100 days' wages)
+μήτηρ,167,unigram,feminine,accusative,singular,mamanta,1.2466099137209696,mamanta,mother
+ὄρος,129,unigram,neuter,accusative,plural,aywakuyäsun,1.0475556606704368,aywakuyäsun,mountain
+ὄρος,157,unigram,neuter,accusative,singular,Olivos,1.1273588579589324,Olivos,mountain
+ὄνομα,21,unigram,neuter,accusative,singular,chikiyäshunki,1.310534472585625,chikiyäshunki,name
+ὄνομα,150,unigram,neuter,nominative,singular,jutiyuq,1.0079330882940971,jutiyuq,name
+ἔθνος,137,unigram,neuter,accusative,plural,maysay,1.7132477402641193,maysay,nation
+ἔθνος,112,unigram,neuter,accusative,singular,marka,1.0229587820508248,marka,nation
+νύξ,109,unigram,feminine,accusative,plural,paqas,1.6267974441751116,paqas,night
+ὅρκος,34,unigram,masculine,accusative,plural,jurash,1.0647349614230686,jurash,oath
+ὅρκος,156,unigram,masculine,accusative,singular,Jurashpanmi,1.2125536087908515,Jurashpanmi,oath
+βοῦς,90,unigram,masculine,accusative,plural,templu,1.3112077917383116,templu,ox
+παραβολή,155,unigram,feminine,accusative,plural,tinkusiypa,1.9376839457005643,tinkusiypa,parable
+παραβολή,133,unigram,feminine,accusative,singular,tinkusiypa,3.1905606528651465,tinkusiypa,parable
+μέρος,210,unigram,neuter,accusative,plural,aywakuyarqan,1.3605557820068972,aywakuyarqan,part
+μέρος,30,unigram,neuter,accusative,singular,ashmayta,1.057391771344789,ashmayta,part
+τόπος,176,unigram,masculine,accusative,singular,Calavëra,1.0568479140932172,Calavëra,place
+πρωτοκλισία,165,unigram,feminine,accusative,plural,punta,1.311629515101714,punta,place of honor
+πρωτοκλισία,22,unigram,feminine,accusative,singular,punta,1.6527209050639204,punta,place of honor
+δύναμις,26,unigram,feminine,accusative,singular,lutantami,1.0825307145264371,lutantami,"power, ability, miracle"
+δύναμις,51,unigram,feminine,nominative,plural,milagrukunata,2.453973653309467,milagrukunata,"power, ability, miracle"
+δύναμις,69,unigram,feminine,nominative,singular,munayninwan,2.20924408408221,munayninwan,"power, ability, miracle"
+ἱερεύς,10,unigram,masculine,nominative,plural,arurpis,1.096091603901298,arurpis,priest
+ἱερεύς,144,unigram,masculine,nominative,singular,cüra,1.4413361733995893,cüra,priest
+φυλακή,15,unigram,feminine,accusative,singular,carcilman,1.4062665395396456,carcilman,prison
+προφήτης,36,unigram,masculine,accusative,plural,profëtakunata,1.4042503463906273,profëtakunata,prophet
+προφήτης,116,unigram,masculine,accusative,singular,profëta,2.7861265326083737,profëta,prophet
+προφήτης,134,unigram,masculine,nominative,plural,profëtakunapis,1.8934932152086947,profëtakunapis,prophet
+προφήτης,158,unigram,masculine,nominative,singular,profëta,1.1635691845293967,profëta,prophet
+ποταμός,98,unigram,masculine,nominative,singular,cimientuta,1.1454757276999707,cimientuta,river
+λῃστής,195,unigram,masculine,nominative,plural,suwa,1.6351265720080694,suwa,robber
+ἄρχων,120,unigram,masculine,accusative,plural,kutiykasiptinnami,1.1614423029525645,kutiykasiptinnami,ruler
+ἄρχων,39,unigram,masculine,nominative,plural,Cristo,1.099097677338817,Cristo,ruler
+ἄρχων,190,unigram,masculine,nominative,singular,pasapa,1.2968123262541988,pasapa,ruler
+ἀκοή,2,unigram,feminine,accusative,plural,guërra,1.0647463382385278,guërra,rumor
+ἀκοή,49,unigram,feminine,accusative,singular,mayarqan,1.2125895793310684,mayarqan,rumor
+διάκονος,55,unigram,masculine,nominative,singular,ashmaynöla,1.3254953473183495,ashmaynöla,"servant, minister, deacon"
+δοῦλος,124,unigram,masculine,accusative,plural,ashmayninkunata,3.1743475207282543,ashmayninkunata,"servant, slave"
+δοῦλος,17,unigram,masculine,accusative,singular,ashmayninta,1.2528680910067045,ashmayninta,"servant, slave"
+δοῦλος,63,unigram,masculine,nominative,plural,ashmayninkuna,1.5957870867750354,ashmayninkuna,"servant, slave"
+δοῦλος,121,unigram,masculine,nominative,singular,ashmay,1.6420735595509297,ashmay,"servant, slave"
+πρόβατον,198,unigram,neuter,accusative,plural,uyshakunata,1.9372812430827329,uyshakunata,sheep
+ποιμήν,148,unigram,masculine,nominative,plural,täpaqkuna,1.1244530284741454,täpaqkuna,"shepherd, pastor"
+σημεῖον,83,unigram,neuter,accusative,plural,milagrukunata,1.7820732136045108,milagrukunata,sign
+σημεῖον,76,unigram,neuter,accusative,singular,milagrutapis,1.4440180917550829,milagrutapis,sign
+ἀργύριον,128,unigram,neuter,accusative,plural,qellayta,1.86450766068452,qellayta,"silver, money"
+ἀργύριον,203,unigram,neuter,accusative,singular,pägayänanpaq,1.2711915809642391,pägayänanpaq,"silver, money"
+ἁμαρτία,130,unigram,feminine,accusative,singular,jusayuq,1.1896306431975927,jusayuq,sin
+ἁμαρτία,174,unigram,feminine,nominative,plural,qeshyaqta,1.0426167677286735,qeshyaqta,sin
+ἀδελφή,188,unigram,feminine,accusative,plural,paninkunata,1.0382305842790631,paninkunata,sister
+ἀδελφή,11,unigram,feminine,nominative,plural,¿manaku,1.1647308781355452,¿manaku,sister
+υἱός,28,unigram,masculine,accusative,plural,Zebedeupa,1.0372590230518663,Zebedeupa,son
+υἱός,75,unigram,masculine,accusative,singular,Runapa,2.0475547313677263,Runapa,son
+υἱός,77,unigram,masculine,nominative,plural,surinkuna,1.1824340327724123,surinkuna,son
+υἱός,126,unigram,masculine,nominative,singular,Surin,1.0223540037641443,Surin,son
+ψυχή,171,unigram,feminine,accusative,singular,rayku,1.2521654205100277,rayku,"soul, life"
+λίθος,23,unigram,masculine,accusative,singular,rumi,1.3507405878709229,rumi,stone
+συναγωγή,204,unigram,feminine,accusative,singular,sinagögaman,3.407083294462636,sinagögaman,synagogue
+τράπεζα,113,unigram,feminine,accusative,plural,mësankunatapis,1.0810969581983794,mësankunatapis,table
+τράπεζα,84,unigram,feminine,accusative,singular,churarqaykisu,1.0960768946513286,churarqaykisu,table
+τάλαντον,44,unigram,neuter,accusative,plural,talentu,1.7130904336426462,talentu,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,136,unigram,neuter,accusative,singular,talentu,1.8386713115451208,talentu,talent (weight and monetary unit: around 20 years' wages)
+τελώνης,110,unigram,masculine,nominative,plural,impuestu,1.1950550570892846,impuestu,tax collector
+τελώνης,46,unigram,masculine,nominative,singular,cobraq,1.9055821756896376,cobraq,tax collector
+γραμματεύς,208,unigram,masculine,nominative,plural,ley,1.563457026030786,ley,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,127,unigram,masculine,nominative,singular,yachasiq,1.778001690499956,yachasiq,"teacher, expert in the law, scholar, scribe"
+κλέπτης,52,unigram,masculine,nominative,plural,riquëzata,1.9577162497128324,riquëzata,thief
+κλέπτης,135,unigram,masculine,nominative,singular,suwa,1.2706554768318652,suwa,thief
+διαλογισμός,178,unigram,masculine,accusative,plural,yarpaykäyashqanta,1.807800110327852,yarpaykäyashqanta,"thought, argument"
+διαλογισμός,85,unigram,masculine,accusative,singular,Shonqunkunacho,1.0960817954296525,Shonqunkunacho,"thought, argument"
+διαλογισμός,173,unigram,masculine,nominative,singular,rimanakuykäyarqan,1.4108312135332781,rimanakuykäyarqan,"thought, argument"
+θρόνος,143,unigram,masculine,accusative,singular,Seqaypa,1.0960768946513286,Seqaypa,throne
+χρόνος,162,unigram,masculine,accusative,plural,plantasinaq,1.1614247833415607,plantasinaq,time
+τάφος,101,unigram,masculine,accusative,singular,sepultüra,1.4854054241147805,sepultüra,"tomb, grave"
+μνημεῖον,8,unigram,neuter,accusative,plural,ruraykäyanki,1.1468586049001956,ruraykäyanki,"tomb, grave"
+μνημεῖον,9,unigram,neuter,accusative,singular,pamparashqanman,1.5391916230272709,pamparashqanman,"tomb, grave"
+θησαυρός,60,unigram,masculine,accusative,plural,riquëzata,1.9577070528090532,riquëzata,treasure
+θησαυρός,131,unigram,masculine,accusative,singular,rantikuykur,1.0229155604364455,rantikuykur,treasure
+κώμη,161,unigram,feminine,accusative,plural,markakunapa,1.5194401362796113,markakunapa,village
+κώμη,31,unigram,feminine,accusative,singular,markaman,2.158641755244882,markaman,village
+παρθένος,168,unigram,feminine,nominative,plural,jipashkuna,1.7199745809036675,jipashkuna,virgin
+φωνή,196,unigram,feminine,nominative,singular,nimurqan,1.360300972401053,nimurqan,voice or sound
+ὕδωρ,209,unigram,neuter,accusative,plural,jananpa,1.0622169607408307,jananpa,water
+ὕδωρ,57,unigram,neuter,accusative,singular,yakuta,2.7894626389459702,yakuta,water
+γάμος,96,unigram,masculine,accusative,plural,fiestaman,1.1552072418815047,fiestaman,wedding
+γυνή,104,unigram,feminine,accusative,singular,warmita,1.3854096013636994,warmita,"wife, woman"
+γυνή,71,unigram,feminine,nominative,plural,warmikuna,1.0547747013103432,warmikuna,"wife, woman"
+γυνή,74,unigram,feminine,nominative,singular,warmi,4.2116316406805785,warmi,"wife, woman"
+ἄνεμος,3,unigram,masculine,nominative,plural,wayiqa,1.0647881951057057,wayiqa,wind
+ἄνεμος,41,unigram,masculine,nominative,singular,wayrapis,2.61079211291662,wayrapis,wind
+πνεῦμα,186,unigram,neuter,accusative,plural,supaykunata,1.1150916654517589,supaykunata,"wind, breath, spirit"
+πνεῦμα,99,unigram,neuter,accusative,singular,Espíritu,2.2324907066598443,Espíritu,"wind, breath, spirit"
+πνεῦμα,6,unigram,neuter,nominative,plural,supaykuna,1.4828909621994348,supaykuna,"wind, breath, spirit"
+πνεῦμα,14,unigram,neuter,nominative,singular,Espíritu,1.9233806125787642,Espíritu,"wind, breath, spirit"
+λύκος,5,unigram,masculine,nominative,plural,löbunömi,1.096057314542422,löbunömi,wolf
+κοιλία,54,unigram,feminine,nominative,plural,chuchuq,1.0961014216060068,chuchuq,"womb, stomach, source of feelings and emotions"
+ῥῆμα,108,unigram,neuter,accusative,plural,qampita,1.7506472621710791,qampita,word
+ῥῆμα,97,unigram,neuter,accusative,singular,nikashqantapis,1.0872543838490305,nikashqantapis,word
+λόγος,92,unigram,masculine,accusative,singular,wilakuyninta,1.4165182308078519,wilakuyninta,word
+λόγος,91,unigram,masculine,nominative,plural,ushakaptinpis,1.0406108578828699,ushakaptinpis,word
+ἔργον,25,unigram,neuter,accusative,plural,kaykashqäta,1.0692439470658586,kaykashqäta,work
+ἔργον,58,unigram,neuter,accusative,singular,jamuraykäyanki,1.191668661284801,jamuraykäyanki,work
+ἔργον,181,unigram,neuter,nominative,plural,aksita,1.6097121223759652,aksita,work
+ἔτος,154,unigram,neuter,accusative,plural,watana,1.8039607441833627,watana,year

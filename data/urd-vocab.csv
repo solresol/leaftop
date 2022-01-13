@@ -1,0 +1,372 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_2211_translation,version_2212_translation,english_translation
+θεός,359,unigram,masculine,accusative,plural,,,باطِل,پہنچایا,God
+θεός,146,unigram,masculine,accusative,singular,,,خُدا,اللہ,God
+θεός,31,unigram,masculine,nominative,plural,,,خُدا,خدا,God
+θεός,229,unigram,masculine,nominative,singular,,,خُدا,اللہ,God
+κύριος,361,unigram,masculine,nominative,plural,مالکوں,1.2150588415383703,,مالکوں,"Lord, lord, master"
+κύριος,147,unigram,masculine,nominative,singular,,,خُداوند,مالک,"Lord, lord, master"
+γραφή,141,unigram,feminine,accusative,plural,کِتابِ,1.2386098054031267,کِتابِ,,Scripture
+γραφή,54,unigram,feminine,accusative,singular,,,نوِشتہ,کلامِ,Scripture
+γραφή,289,unigram,feminine,nominative,plural,,,نوِشتے,گوئیاں,Scripture
+γραφή,354,unigram,feminine,nominative,singular,,,نوِشتہ,کلامِ,Scripture
+ἄγγελος,108,unigram,masculine,accusative,plural,,,فرِشتوں,فرشتوں,angel
+ἄγγελος,92,unigram,masculine,accusative,singular,,,پَیغمبر,پیغمبر,angel
+ἄγγελος,50,unigram,masculine,nominative,plural,,,فرِشتے,فرشتے,angel
+ἄγγελος,118,unigram,masculine,nominative,singular,,,فرِشتہ,فرشتے,angel
+ἀπόστολος,47,unigram,masculine,nominative,plural,رسول,2.1680267011210126,,رسول,apostle
+ἀπόστολος,6,unigram,masculine,nominative,singular,,,بھیجنے,ہوتا،,apostle
+ἐξουσία,75,unigram,feminine,accusative,plural,,,اِختیار,حاکموں,authority
+ἐξουσία,219,unigram,feminine,accusative,singular,,,اِختیار,اختیار,authority
+βρέφος,17,unigram,neuter,accusative,plural,,,چُھوئے,چھوئے۔,babies
+βρέφος,352,unigram,neuter,accusative,singular,چرنی,1.7339810228698491,چرنی,چرنی,babies
+ἀποθήκη,295,unigram,feminine,accusative,plural,جمع,1.0763152840018462,,جمع,barn
+ἀποθήκη,74,unigram,feminine,accusative,singular,,,کھتّے,گودام,barn
+φραγμός,257,unigram,masculine,accusative,plural,باڑوں,1.212529657217808,,باڑوں,"barrier, wall"
+ἀρχή,78,unigram,feminine,accusative,plural,,,حاکِموں,حاکموں,beginning
+ἀρχή,200,unigram,feminine,accusative,singular,,,ہے؟یِسُوعؔ,قانا,beginning
+ζώνη,191,unigram,feminine,accusative,plural,,,چاندی,تانبے,belt
+ζώνη,246,unigram,feminine,accusative,singular,خوراک,1.0960524252565438,خوراک,,belt
+βλασφημία,35,unigram,feminine,accusative,plural,,,بَکتا,بکتا,blasphemy
+πλοῖον,116,unigram,neuter,accusative,plural,,,کشتِیاں,کشتیوں,boat
+πλοῖον,337,unigram,neuter,accusative,singular,کشتی,9.800069838410003,کشتی,کشتی,boat
+πλοῖον,264,unigram,neuter,nominative,plural,کشتِیاں,1.1799918920800818,کشتِیاں,,boat
+πλοῖον,248,unigram,neuter,nominative,singular,کشتی,2.670949055032347,کشتی,کشتی,boat
+σῶμα,65,unigram,neuter,nominative,singular,بدن,2.8083080644298826,بدن,بدن,body
+κλῆμα,61,unigram,neuter,nominative,plural,بیل,1.1795999899061549,,بیل,branch
+κλῆμα,164,unigram,neuter,nominative,singular,,,ڈالی,شاخ,branch
+ἄρτος,342,unigram,masculine,accusative,plural,,,روٹِیاں,روٹیاں,bread
+ἄρτος,371,unigram,masculine,accusative,singular,روٹی,21.19436990884499,روٹی,روٹی,bread
+ἄρτος,173,unigram,masculine,nominative,plural,,,روٹِیاں,کھانا,bread
+ἄρτος,41,unigram,masculine,nominative,singular,روٹی,12.4976299533903,روٹی,روٹی,bread
+ἀδελφός,327,unigram,masculine,accusative,plural,,,بھائِیوں,بھائیوں,brother
+ἀδελφός,132,unigram,masculine,accusative,singular,بھائی,8.110862994577369,بھائی,بھائی,brother
+ἀδελφός,122,unigram,masculine,nominative,plural,بھائی,4.620925646847164,بھائی,بھائی,brother
+ἀδελφός,255,unigram,masculine,nominative,singular,بھائی,52.46838988179792,بھائی,بھائی,brother
+στῆθος,170,unigram,neuter,accusative,plural,چھاتی,1.0960622061228922,,چھاتی,"chest, breast"
+στῆθος,311,unigram,neuter,accusative,singular,,,سہارا,جھکا,"chest, breast"
+ἀρχιερεύς,269,unigram,masculine,accusative,plural,,,کاہِنوں,راہنما,chief priest
+ἀρχιερεύς,66,unigram,masculine,accusative,singular,کاہِن,1.2191300109519456,کاہِن,,chief priest
+ἀρχιερεύς,131,unigram,masculine,nominative,plural,,,سردار,راہنما,chief priest
+ἀρχιερεύς,273,unigram,masculine,nominative,singular,کاہِن,1.1568885202116268,کاہِن,,chief priest
+παῖς,260,unigram,masculine,accusative,plural,,,لڑکوں,بچے,child
+παῖς,52,unigram,masculine,accusative,singular,پٹخ,1.2126857550468304,,پٹخ,child
+τέκνον,363,unigram,neuter,accusative,plural,,,بچّوں,بچوں,child
+τέκνον,197,unigram,neuter,accusative,singular,,,برخِلاف,کروائیں,child
+τέκνον,18,unigram,neuter,nominative,plural,,,برخِلاف,کروائیں,child
+τέκνον,212,unigram,neuter,nominative,singular,,,بیٹا,بیٹا،,child
+παιδίον,16,unigram,neuter,accusative,plural,,,بچّوں,روکو،,child
+παιδίον,102,unigram,neuter,accusative,singular,,,بچّے,بچے,child
+παιδίον,189,unigram,neuter,nominative,plural,,,بچّوں,چھوٹے,child
+παιδίον,43,unigram,neuter,nominative,singular,,,لڑکا,بچے,child
+πόλις,201,unigram,feminine,accusative,plural,شہروں,5.422327246248419,شہروں,شہروں,city
+πόλις,70,unigram,feminine,accusative,singular,شہر,110.20944973801552,شہر,شہر,city
+πύλη,293,unigram,feminine,nominative,plural,پاتال,1.0441063733306788,,پاتال,city gate
+πύλη,227,unigram,feminine,nominative,singular,,,پُہنچاتا,دروازہ,city gate
+χιτών,127,unigram,masculine,accusative,plural,,,کُرتے,زیادہ,"clothing, undergarments"
+χιτών,32,unigram,masculine,accusative,singular,,,کُرتہ,قمیص,"clothing, undergarments"
+ἱμάτιον,144,unigram,neuter,accusative,plural,کپڑے,9.589618027023347,کپڑے,کپڑے,coat
+ἱμάτιον,143,unigram,neuter,accusative,singular,,,پوشاک,چادر,coat
+ἐντολή,90,unigram,feminine,accusative,plural,,,حُکموں,احکام,commandment
+ἐντολή,88,unigram,feminine,accusative,singular,,,حُکم,حکم,commandment
+συνέδριον,347,unigram,neuter,accusative,plural,عدالتوں,1.4217345955919531,عدالتوں,,council
+συνέδριον,56,unigram,neuter,accusative,singular,جمع,1.09676472838009,جمع,,council
+χώρα,83,unigram,feminine,accusative,plural,,,پک,مہینے,"country, countryside"
+χώρα,315,unigram,feminine,accusative,singular,,,مُلک,ملک,"country, countryside"
+ὄχλος,62,unigram,masculine,accusative,plural,,,لوگوں,ہجوم,crowd
+ὄχλος,10,unigram,masculine,accusative,singular,,,بِھیڑ,ہجوم,crowd
+ὄχλος,110,unigram,masculine,nominative,plural,,,بِھیڑ,ہجوم,crowd
+ὄχλος,306,unigram,masculine,nominative,singular,,,بِھیڑ,ہجوم,crowd
+θυγάτηρ,125,unigram,feminine,nominative,plural,بیٹِیو,1.2127581307420916,بیٹِیو,,daughter
+θυγάτηρ,341,unigram,feminine,nominative,singular,بیٹی,20.17850526877608,بیٹی,بیٹی,daughter
+ἡμέρα,81,unigram,feminine,accusative,plural,,,دِن,دن,day
+ἡμέρα,93,unigram,feminine,accusative,singular,,,روز,روزانہ,day
+ἡμέρα,2,unigram,feminine,nominative,plural,,,دِن,دن,day
+ἡμέρα,72,unigram,feminine,nominative,singular,,,دِن,دن,day
+ὀφειλέτης,276,unigram,masculine,nominative,plural,گرا؟,1.0960524252565438,,گرا؟,debtor
+ὀφειλέτης,134,unigram,masculine,nominative,singular,,,حِساب,اربوں,debtor
+δαιμόνιον,33,unigram,neuter,accusative,plural,,,بدرُوحوں,بدروحوں,demon
+δαιμόνιον,357,unigram,neuter,accusative,singular,,,بدرُوح,بدروح,demon
+δαιμόνιον,214,unigram,neuter,nominative,plural,,,بدرُوحیں,بدروحیں,demon
+δαιμόνιον,188,unigram,neuter,nominative,singular,,,بدرُوح,بدروح,demon
+δηνάριον,332,unigram,neuter,accusative,plural,دِینار,1.8868857603995184,دِینار,,denarius (about a day's wages)
+δηνάριον,175,unigram,neuter,accusative,singular,,,دِینار,سِکہ,denarius (about a day's wages)
+μαθητής,194,unigram,masculine,accusative,plural,,,شاگِردوں,شاگردوں,disciple
+μαθητής,364,unigram,masculine,accusative,singular,,,شاگِرد,شاگرد,disciple
+μαθητής,299,unigram,masculine,nominative,plural,,,شاگِرد,شاگرد,disciple
+μαθητής,362,unigram,masculine,nominative,singular,,,شاگِرد,شاگرد,disciple
+νόσος,3,unigram,feminine,accusative,plural,کمزوریاں,1.106266548626385,,کمزوریاں,disease
+νόσος,80,unigram,feminine,accusative,singular,,,کمزوری,علالت,disease
+περιστερά,109,unigram,feminine,accusative,plural,,,کبُوتر,کبوتر,dove
+περιστερά,58,unigram,feminine,accusative,singular,,,کبُوتر,کبوتر,dove
+οὖς,163,unigram,neuter,accusative,plural,,,کان,سن,ear
+οὖς,305,unigram,neuter,accusative,singular,کان,1.6852655741422276,کان,کان,ear
+σεισμός,220,unigram,masculine,nominative,plural,,,بَھونچال,زلزلے,"earthquakes, storm"
+σεισμός,68,unigram,masculine,nominative,singular,,,بڑا,اچانک,"earthquakes, storm"
+τέλος,296,unigram,neuter,accusative,singular,,,آخِر,قائم,end
+αἰών,261,unigram,masculine,accusative,plural,,,ابد,سلطنت,eternity
+αἰών,328,unigram,masculine,accusative,singular,,,ابد,کبھی,eternity
+ὀφθαλμός,24,unigram,masculine,accusative,plural,,,آنکھیں,آنکھوں,eye
+ὀφθαλμός,11,unigram,masculine,accusative,singular,آنکھ,1.1801240793162635,آنکھ,,eye
+ὀφθαλμός,69,unigram,masculine,nominative,plural,آنکھیں,12.343373116478078,آنکھیں,آنکھیں,eye
+ὀφθαλμός,325,unigram,masculine,nominative,singular,آنکھ,2.2647220218931348,آنکھ,آنکھ,eye
+πρόσωπον,133,unigram,neuter,accusative,plural,منہ,1.3105734245970422,,منہ,face
+πρόσωπον,209,unigram,neuter,accusative,singular,,,مُنہ,منہ,face
+λιμός,104,unigram,feminine,nominative,singular,کال,1.470315317833187,کال,کال,famine
+γεωργός,275,unigram,masculine,nominative,plural,,,باغبانوں,وارث,"farmer, tenant"
+γεωργός,53,unigram,masculine,nominative,singular,بیل,1.0811396513413738,,بیل,"farmer, tenant"
+πατήρ,331,unigram,masculine,accusative,singular,باپ,105.2228920069433,باپ,باپ,father
+πατήρ,340,unigram,masculine,nominative,plural,دادا,1.2795940331160043,دادا,دادا,father
+πατήρ,203,unigram,masculine,nominative,singular,باپ,167.32986670836038,باپ,باپ,father
+σύνδουλος,156,unigram,masculine,accusative,plural,شرابیوں,1.2125536087908515,,شرابیوں,"fellow-servant, colleague"
+σύνδουλος,98,unigram,masculine,accusative,singular,,,لازِم,اُتنا,"fellow-servant, colleague"
+σύνδουλος,344,unigram,masculine,nominative,plural,,,غمگِین,شدید,"fellow-servant, colleague"
+σύνδουλος,123,unigram,masculine,nominative,singular,مُہلت,1.1796107829896338,مُہلت,,"fellow-servant, colleague"
+ἀγρός,356,unigram,masculine,accusative,plural,,,چرانے,کھیتوں,field
+ἀγρός,42,unigram,masculine,accusative,singular,کھیت,8.85118893196589,کھیت,کھیت,field
+δάκτυλος,253,unigram,masculine,accusative,plural,اُنگلیاں,1.161346151680032,,اُنگلیاں,finger
+δάκτυλος,193,unigram,masculine,accusative,singular,اُنگلی,1.1226352830673925,اُنگلی,اُنگلی,finger
+ἰχθύς,167,unigram,masculine,accusative,plural,پانچ,1.1603971126888901,پانچ,پانچ,fish
+ἰχθύς,208,unigram,masculine,accusative,singular,مچھلی,2.3355783715919634,مچھلی,مچھلی,fish
+δίκτυον,117,unigram,neuter,accusative,plural,,,جال,جالوں,fishing net
+δίκτυον,217,unigram,neuter,accusative,singular,جال,1.119365306681911,جال,جال,fishing net
+τροφή,266,unigram,feminine,accusative,plural,,,مول,خریدنے,food
+τροφή,351,unigram,feminine,accusative,singular,,,چاکروں,وفادار,food
+πούς,256,unigram,masculine,accusative,plural,,,پاؤں,پاؤں,foot
+πούς,121,unigram,masculine,accusative,singular,ٹھیس,1.2930711719644272,ٹھیس,ٹھیس,foot
+καρπός,199,unigram,masculine,accusative,plural,,,پَھل,پھل,"fruit, crop, harvest"
+καρπός,251,unigram,masculine,accusative,singular,,,پَھل,پھل,"fruit, crop, harvest"
+πλήρωμα,292,unigram,neuter,accusative,plural,,,ٹُکڑوں,ٹوکرے,fullness
+γενεά,252,unigram,feminine,accusative,singular,,,زمانہ,نسل,generation
+γενεά,338,unigram,feminine,nominative,plural,نسلیں,1.9999486339918595,,نسلیں,generation
+γενεά,162,unigram,feminine,nominative,singular,,,طلب,نسل,generation
+δῶρον,330,unigram,neuter,accusative,plural,نذر,1.2985728068606386,نذر,,gift
+δῶρον,177,unigram,neuter,accusative,singular,,,نذر,قربانی,gift
+ἡγεμών,186,unigram,masculine,accusative,plural,بادشاہوں,1.1063067942681275,,بادشاہوں,"governor, ruler"
+ἡγεμών,13,unigram,masculine,accusative,singular,,,تَعجُّب,گورنر,"governor, ruler"
+σταφυλή,202,unigram,feminine,accusative,plural,کٹاروں,1.0960524252565438,کٹاروں,,grapes
+σταφυλή,366,unigram,feminine,accusative,singular,جھڑبیری,1.0960524252565438,جھڑبیری,,grapes
+ἀσπασμός,343,unigram,masculine,accusative,plural,,,بازاروں,سلام,greeting
+ἀσπασμός,187,unigram,masculine,accusative,singular,اُچھل,1.2136955921265684,اُچھل,اُچھل,greeting
+ὁδηγός,5,unigram,masculine,nominative,plural,دکھانے,1.1062648286089038,,دکھانے,guide
+ὁδηγός,4,unigram,masculine,nominative,singular,اندھے,1.460656332309807,,اندھے,guide
+θρίξ,103,unigram,feminine,nominative,plural,گنے,1.0595545022300916,,گنے,hair
+θρίξ,235,unigram,feminine,nominative,singular,بیکا,1.096091603901298,,بیکا,hair
+χείρ,334,unigram,feminine,accusative,plural,ہاتھ,19.26960778113416,ہاتھ,ہاتھ,hand
+χείρ,239,unigram,feminine,accusative,singular,ہاتھ,10.666414974130603,ہاتھ,ہاتھ,hand
+κεφαλή,153,unigram,feminine,accusative,plural,سر,1.4284241317146358,سر,,head
+κεφαλή,225,unigram,feminine,accusative,singular,سر,10.556764544826287,سر,سر,head
+στάχυς,226,unigram,masculine,accusative,plural,بالیں,1.3071311571577275,بالیں,بالیں,head of grain
+καρδία,36,unigram,feminine,accusative,plural,راست,1.5483802688893606,راست,راست,heart
+καρδία,308,unigram,feminine,accusative,singular,,,دِل,دل,heart
+καρδία,210,unigram,feminine,nominative,singular,,,دِل,دل,heart
+οὐρανός,7,unigram,masculine,accusative,plural,,,آسمان,پھٹ,"heaven, sky"
+οὐρανός,288,unigram,masculine,accusative,singular,آسمان,27.34360191189379,آسمان,آسمان,"heaven, sky"
+οὐρανός,370,unigram,masculine,nominative,plural,,,آسمان,ٹھہر,"heaven, sky"
+οὐρανός,215,unigram,masculine,nominative,singular,آسمان,3.5983605916153234,آسمان,آسمان,"heaven, sky"
+ὥρα,27,unigram,feminine,nominative,singular,وقت,4.696971390715711,وقت,وقت,hour
+οἰκία,169,unigram,feminine,accusative,plural,گھروں,1.3851401408363944,گھروں,,house
+οἰκία,348,unigram,feminine,accusative,singular,گھر,33.90541792277138,گھر,گھر,house
+οἶκος,23,unigram,masculine,accusative,singular,گھر,38.972138512659185,گھر,گھر,"house, home"
+κριτής,329,unigram,masculine,nominative,plural,,,مُنصِف,منصف,judge
+κριτής,179,unigram,masculine,nominative,singular,جج,1.9356950382792093,,جج,judge
+βασιλεύς,115,unigram,masculine,accusative,plural,بادشاہوں,1.312801685725925,بادشاہوں,بادشاہوں,king
+βασιλεύς,63,unigram,masculine,accusative,singular,بادشاہ,11.780813246066355,بادشاہ,بادشاہ,king
+βασιλεία,86,unigram,feminine,accusative,plural,,,سلطنتیں,ممالک,kingdom
+βασιλεία,174,unigram,feminine,accusative,singular,بادشاہی,17.798929888199055,بادشاہی,بادشاہی,kingdom
+κόπος,218,unigram,masculine,accusative,plural,تنگ,1.7808042838590417,,تنگ,"labour, work, trouble, difficulty"
+κόπος,95,unigram,masculine,accusative,singular,محنت,1.091037944168168,,محنت,"labour, work, trouble, difficulty"
+λύχνος,274,unigram,masculine,nominative,plural,جلتے,1.0960768946513286,,جلتے,lamp
+λύχνος,249,unigram,masculine,nominative,singular,چراغ,3.578548073407858,چراغ,چراغ,lamp
+κλῆρος,107,unigram,masculine,accusative,plural,,,ہیں۔اور,کر،,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,قُرعہ,1.1419629916040772,قُرعہ,,"lots (casting of lots), inheritance"
+ἄνθρωπος,318,unigram,masculine,accusative,plural,,,آدمِیوں,لوگوں,man
+ἄνθρωπος,278,unigram,masculine,accusative,singular,آدمی,4.50105535833345,آدمی,آدمی,man
+ἄνθρωπος,128,unigram,masculine,nominative,plural,,,لوگ,لوگوں,man
+ἄνθρωπος,192,unigram,masculine,nominative,singular,آدمی,11.773448497125981,آدمی,آدمی,man
+ἀνήρ,267,unigram,masculine,accusative,plural,گہری,1.0664011282024441,,گہری,"man, husband"
+ἀνήρ,271,unigram,masculine,accusative,singular,,,شَوہر,خاوند,"man, husband"
+ἀνήρ,160,unigram,masculine,nominative,plural,,,مَرد,مرد,"man, husband"
+ἀνήρ,258,unigram,masculine,nominative,singular,,,مِنّت,آدمی,"man, husband"
+μνᾶ,321,unigram,feminine,accusative,plural,,,اشرفیاں,دس,mina (about 100 days' wages)
+μνᾶ,14,unigram,feminine,accusative,singular,,,اشرفی,حاضرین,mina (about 100 days' wages)
+μήτηρ,300,unigram,feminine,accusative,singular,ماں,15.611086209073305,ماں,ماں,mother
+ὄρος,234,unigram,neuter,accusative,plural,,,پہاڑوں,پہاڑی,mountain
+ὄρος,286,unigram,neuter,accusative,singular,پہاڑ,8.100027918398128,پہاڑ,پہاڑ,mountain
+μύρον,96,unigram,neuter,accusative,plural,,,عِطر,لگیں۔,myrrh
+μύρον,29,unigram,neuter,accusative,singular,,,لئے,اُنڈیلنے,myrrh
+ὄνομα,94,unigram,neuter,accusative,plural,گرج,1.0597871166597237,,گرج,name
+ὄνομα,37,unigram,neuter,accusative,singular,نام,16.029967296068303,نام,نام,name
+ὄνομα,112,unigram,neuter,nominative,plural,نام,1.8621762099320924,نام,نام,name
+ὄνομα,272,unigram,neuter,nominative,singular,نام,28.757406838327988,نام,نام,name
+ἔθνος,247,unigram,neuter,accusative,plural,,,قَوموں,تمام,nation
+ἔθνος,211,unigram,neuter,accusative,singular,,,قَوم,قوم,nation
+ἔθνος,324,unigram,neuter,nominative,plural,,,قَومیں,بھاگتے,nation
+ἔθνος,28,unigram,neuter,nominative,singular,,,قَوم,قوم,nation
+νύξ,205,unigram,feminine,accusative,plural,رات,7.545382784481862,رات,رات,night
+νύξ,265,unigram,feminine,accusative,singular,رات,2.609757243354152,رات,رات,night
+ὅρκος,64,unigram,masculine,accusative,plural,قَسموں,1.387861172149526,قَسموں,قَسموں,oath
+ὅρκος,285,unigram,masculine,accusative,singular,ابرہامؔسے,1.0960670999999007,ابرہامؔسے,,oath
+βοῦς,165,unigram,masculine,accusative,plural,,,صرّافوں,سِکے,ox
+παραβολή,281,unigram,feminine,accusative,plural,,,تمثِیلیں,تمثیلیں,parable
+παραβολή,240,unigram,feminine,accusative,singular,,,تمثِیل,تمثیل,parable
+μέρος,369,unigram,neuter,accusative,plural,,,عِلاقہ,علاقے,part
+μέρος,55,unigram,neuter,accusative,singular,,,حِصّہ,حصہ,part
+μαργαρίτης,39,unigram,masculine,accusative,singular,موتی,1.458002126313531,موتی,موتی,pearls
+τόπος,294,unigram,masculine,accusative,plural,زلزلے,1.0813026380505173,,زلزلے,place
+τόπος,316,unigram,masculine,accusative,singular,جگہ,11.902041283992967,جگہ,جگہ,place
+πρωτοκλισία,298,unigram,feminine,accusative,plural,,,صدر,عزت,place of honor
+πρωτοκλισία,38,unigram,feminine,accusative,singular,عزت,1.3112077917383116,,عزت,place of honor
+ὄφις,113,unigram,masculine,accusative,singular,سانپ,2.760450577365857,سانپ,سانپ,poison
+σκεῦος,148,unigram,neuter,accusative,plural,گُھس,1.1062708150644622,گُھس,,"possession, object, thing, jar, vessel"
+σκεῦος,277,unigram,neuter,accusative,singular,برتن,1.4834376348374496,برتن,,"possession, object, thing, jar, vessel"
+σκεῦος,139,unigram,neuter,nominative,plural,اُترے۔,1.255508950677359,,اُترے۔,"possession, object, thing, jar, vessel"
+δύναμις,114,unigram,feminine,accusative,plural,,,مُعجِزے,معجزے,"power, ability, miracle"
+δύναμις,49,unigram,feminine,accusative,singular,,,قُدرت,توانائی,"power, ability, miracle"
+δύναμις,89,unigram,feminine,nominative,plural,,,مُعجِزے,معجزے,"power, ability, miracle"
+δύναμις,124,unigram,feminine,nominative,singular,,,قُدرت,قدرت,"power, ability, miracle"
+ἱερεύς,21,unigram,masculine,nominative,plural,ٹھہرتے,1.096091603901298,,ٹھہرتے,priest
+ἱερεύς,262,unigram,masculine,nominative,singular,,,کاہِن,امام,priest
+φυλακή,26,unigram,feminine,accusative,singular,,,قَید,جیل,prison
+προφήτης,67,unigram,masculine,accusative,plural,,,نبِیوں,نبیوں,prophet
+προφήτης,216,unigram,masculine,accusative,singular,نبی,19.816756609922034,نبی,نبی,prophet
+προφήτης,241,unigram,masculine,nominative,plural,,,نبِیوں,نبیوں,prophet
+προφήτης,287,unigram,masculine,nominative,singular,نبی,41.956153669223355,نبی,نبی,prophet
+βαλλάντιον,20,unigram,neuter,accusative,singular,بٹوا,2.1190164653522947,بٹوا,بٹوا,purse
+ποταμός,135,unigram,masculine,nominative,plural,جھنجھوڑنے,1.0387845094751544,,جھنجھوڑنے,river
+ποταμός,182,unigram,masculine,nominative,singular,بہتا,1.106282796604272,,بہتا,river
+λῃστής,45,unigram,masculine,accusative,plural,ڈاکوؤں,1.9999489140783424,,ڈاکوؤں,robber
+λῃστής,368,unigram,masculine,accusative,singular,ڈاکُو,1.0811206535908369,ڈاکُو,,robber
+λῃστής,345,unigram,masculine,nominative,plural,,,ڈاکُو,ڈاکوؤں,robber
+λῃστής,171,unigram,masculine,nominative,singular,,,ڈاکُو,ڈاکو,robber
+ἄρχων,223,unigram,masculine,accusative,plural,سرداروں,1.212709856982204,,سرداروں,ruler
+ἄρχων,71,unigram,masculine,nominative,plural,,,سردار,سرداروں,ruler
+ἄρχων,339,unigram,masculine,nominative,singular,,,سردار,حکمران,ruler
+ἀκοή,8,unigram,feminine,accusative,plural,,,لڑائِیاں,افواہیں,rumor
+ἀκοή,82,unigram,feminine,accusative,singular,انتپاس,1.0564420663892231,,انتپاس,rumor
+ἀκοή,176,unigram,feminine,nominative,plural,,,گِرہ,ٹوٹ,rumor
+ἀκοή,355,unigram,feminine,nominative,singular,شُہرت,1.4521998151067772,شُہرت,,rumor
+βιβλίον,60,unigram,neuter,accusative,plural,کتابیں,1.1613374356247497,,کتابیں,"scroll, book"
+βιβλίον,57,unigram,neuter,accusative,singular,طومار,1.123074958934528,,طومار,"scroll, book"
+διάκονος,236,unigram,masculine,nominative,plural,چکھا,1.0960768946513286,,چکھا,"servant, minister, deacon"
+διάκονος,101,unigram,masculine,nominative,singular,,,خادِم,خادم,"servant, minister, deacon"
+δοῦλος,228,unigram,masculine,accusative,plural,,,نَوکروں,نوکروں,"servant, slave"
+δοῦλος,30,unigram,masculine,accusative,singular,,,نَوکر,غلام,"servant, slave"
+δοῦλος,111,unigram,masculine,nominative,plural,,,نَوکر,نوکر,"servant, slave"
+δοῦλος,224,unigram,masculine,nominative,singular,,,نَوکر,مالک,"servant, slave"
+πρόβατον,349,unigram,neuter,accusative,plural,بھیڑوں,4.139978019497047,بھیڑوں,بھیڑوں,sheep
+πρόβατον,155,unigram,neuter,accusative,singular,بھیڑ,3.0054067268452886,بھیڑ,بھیڑ,sheep
+ποιμήν,270,unigram,masculine,nominative,plural,چرواہے,4.918219852479978,چرواہے,چرواہے,"shepherd, pastor"
+ποιμήν,309,unigram,masculine,nominative,singular,,,چَرواہا,چرواہا,"shepherd, pastor"
+σημεῖον,151,unigram,neuter,accusative,plural,,,مُعجِزے,نشان,sign
+σημεῖον,138,unigram,neuter,accusative,singular,,,نِشان,نشان,sign
+σημεῖον,46,unigram,neuter,nominative,plural,,,ہوں,نشان,sign
+σημεῖον,100,unigram,neuter,nominative,singular,,,نِشان,نشان,sign
+δραχμή,317,unigram,feminine,accusative,plural,ڈھونڈتی,1.0960524252565438,,ڈھونڈتی,"silver coin, drachma"
+δραχμή,184,unigram,feminine,accusative,singular,,,دِرہم,گم,"silver coin, drachma"
+ἀργύριον,233,unigram,neuter,accusative,plural,,,رُوپَے,30,"silver, money"
+ἀργύριον,358,unigram,neuter,accusative,singular,,,رُوپیہ,پیسے,"silver, money"
+ἁμαρτία,304,unigram,feminine,accusative,plural,,,گُناہ,معاف,sin
+ἁμαρτία,237,unigram,feminine,accusative,singular,,,گُناہ,گناہ,sin
+ἁμαρτία,313,unigram,feminine,nominative,plural,,,گُناہ,معاف,sin
+ἁμαρτία,310,unigram,feminine,nominative,singular,,,گُناہ,گناہ,sin
+ἀδελφή,336,unigram,feminine,accusative,plural,,,بہنوں,ماں،,sister
+ἀδελφή,145,unigram,feminine,accusative,singular,,,بہن,مریم,sister
+ἀδελφή,22,unigram,feminine,nominative,plural,بہنیں,1.247076073695502,بہنیں,,sister
+ἀδελφή,335,unigram,feminine,nominative,singular,بہن,8.27203636815852,بہن,بہن,sister
+ῥάπισμα,166,unigram,neuter,accusative,plural,آداب,1.096057314542422,آداب,,"slap, strike, hit"
+ῥάπισμα,297,unigram,neuter,accusative,singular,طمانچہ,1.0595352057902494,طمانچہ,,"slap, strike, hit"
+πλοιάριον,254,unigram,neuter,nominative,plural,تِبریاؔس,1.0960670999999007,تِبریاؔس,,small boat
+πλοιάριον,150,unigram,neuter,nominative,singular,,,چھوٹی,کشتی,small boat
+ὀψάριον,198,unigram,neuter,accusative,plural,جَو,1.1795999899061549,جَو,,small fish
+ὀψάριον,280,unigram,neuter,accusative,singular,,,مچھلی,روٹی,small fish
+υἱός,51,unigram,masculine,accusative,plural,,,زبدؔی,زبدی,son
+υἱός,137,unigram,masculine,accusative,singular,,,بیٹے,ابنِ,son
+υἱός,140,unigram,masculine,nominative,plural,,,بیٹے,فرزند,son
+υἱός,230,unigram,masculine,nominative,singular,,,بیٹا,ابنِ,son
+ψυχή,242,unigram,feminine,accusative,plural,قدم,1.385473133972835,,قدم,"soul, life"
+ψυχή,307,unigram,feminine,accusative,singular,جان,4.555293891878138,جان,جان,"soul, life"
+ἀστήρ,319,unigram,masculine,nominative,plural,,,قُوّتیں,ستارے,star
+ἀστήρ,207,unigram,masculine,nominative,singular,ستارہ,1.212541630128925,,ستارہ,star
+λίθος,323,unigram,masculine,accusative,plural,,,پتّھر,پتھر,stone
+λίθος,40,unigram,masculine,accusative,singular,,,پتّھر,پتھر,stone
+λίθος,149,unigram,masculine,nominative,plural,,,پتّھر,پتھر,stone
+λίθος,44,unigram,masculine,nominative,singular,,,پتّھر,پتھر,stone
+συναγωγή,268,unigram,feminine,accusative,plural,خانوں,1.4255012623703052,خانوں,خانوں,synagogue
+συναγωγή,360,unigram,feminine,accusative,singular,,,عِبادت,عبادت,synagogue
+τράπεζα,213,unigram,feminine,accusative,plural,اُلٹ,1.0441088591276242,اُلٹ,,table
+τράπεζα,152,unigram,feminine,accusative,singular,کرائے؟,1.0960768946513286,,کرائے؟,table
+τάλαντον,76,unigram,neuter,accusative,plural,,,توڑے,سِکے,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,245,unigram,neuter,accusative,singular,,,توڑا,سِکے,talent (weight and monetary unit: around 20 years' wages)
+φόρος,314,unigram,masculine,accusative,singular,,,خراج,ناجائز؟,tax
+τελώνης,206,unigram,masculine,nominative,plural,,,محصُول,لینے,tax collector
+τελώνης,79,unigram,masculine,nominative,singular,,,محصُول,لینے,tax collector
+γραμματεύς,365,unigram,masculine,nominative,plural,,,فقِیہہ,شریعت,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,231,unigram,masculine,nominative,singular,,,فقِیہہ,عالِم,"teacher, expert in the law, scholar, scribe"
+καθηγητής,350,unigram,masculine,nominative,plural,ہادی,1.2013202061330701,ہادی,ہادی,"teacher, guide"
+καθηγητής,244,unigram,masculine,nominative,singular,ہادی,1.2013202061330701,ہادی,ہادی,"teacher, guide"
+κλέπτης,91,unigram,masculine,nominative,plural,چور,2.3479891379700626,چور,چور,thief
+κλέπτης,243,unigram,masculine,nominative,singular,چور,9.798143747266058,چور,چور,thief
+διαλογισμός,320,unigram,masculine,accusative,plural,,,معلُوم,سوچ,"thought, argument"
+διαλογισμός,158,unigram,masculine,accusative,singular,,,خیال,سوچ,"thought, argument"
+διαλογισμός,129,unigram,masculine,nominative,plural,دِل,1.0468176106439921,دِل,,"thought, argument"
+διαλογισμός,312,unigram,masculine,nominative,singular,بحث,1.5524919162825297,بحث,بحث,"thought, argument"
+θρόνος,259,unigram,masculine,accusative,singular,,,تخت,بٹھائے,throne
+χρόνος,291,unigram,masculine,accusative,plural,بیرونِ,1.0663329420703158,,بیرونِ,time
+χρόνος,250,unigram,masculine,accusative,singular,دیر,1.9735986143560083,,دیر,time
+καιρός,84,unigram,masculine,nominative,plural,قید,1.096185247111637,,قید,"time, right time"
+καιρός,154,unigram,masculine,nominative,singular,وقت,2.003819923055769,وقت,وقت,"time, right time"
+τάφος,142,unigram,masculine,accusative,plural,,,مقبرے,سجاتے,"tomb, grave"
+τάφος,190,unigram,masculine,accusative,singular,قبر,1.4846394612448508,قبر,قبر,"tomb, grave"
+μνημεῖον,15,unigram,neuter,accusative,plural,,,بناتے,مزار,"tomb, grave"
+μνημεῖον,19,unigram,neuter,accusative,singular,قبر,32.437095126862445,قبر,قبر,"tomb, grave"
+μνημεῖον,87,unigram,neuter,nominative,plural,مُقدّسوں,1.1064171392539193,مُقدّسوں,,"tomb, grave"
+μνημεῖον,284,unigram,neuter,nominative,singular,,,قبر,قریب,"tomb, grave"
+ὀδούς,77,unigram,masculine,accusative,singular,دانت,1.2930030670565051,دانت,,tooth
+θησαυρός,238,unigram,masculine,accusative,singular,,,بیچ,خزانہ,treasure
+δένδρον,99,unigram,neuter,accusative,plural,درختوں,2.505416989686685,درختوں,درختوں,tree	
+δένδρον,85,unigram,neuter,accusative,singular,درخت,2.2392408519786344,درخت,درخت,tree	
+κώμη,290,unigram,feminine,accusative,plural,,,گاؤں,دیہاتوں,village
+κώμη,59,unigram,feminine,accusative,singular,,,گاؤں,گاؤں,village
+παρθένος,303,unigram,feminine,nominative,plural,,,کُنوارِیاں,کنواریاں,virgin
+παρθένος,221,unigram,feminine,nominative,singular,عمانوایل,1.161328723715616,,عمانوایل,virgin
+φωνή,222,unigram,feminine,nominative,plural,مچا,1.0962100302615791,,مچا,voice or sound
+φωνή,346,unigram,feminine,nominative,singular,آواز,5.563629563596947,آواز,آواز,voice or sound
+πόλεμος,282,unigram,masculine,accusative,plural,لڑائِیوں,1.0810827684916442,لڑائِیوں,,war
+ὕδωρ,367,unigram,neuter,accusative,plural,پانی,4.968498268618577,پانی,پانی,water
+ὕδωρ,105,unigram,neuter,accusative,singular,پانی,14.44608242387116,پانی,پانی,water
+ὕδωρ,120,unigram,neuter,nominative,singular,پانی,4.968498268618577,پانی,پانی,water
+ὑδρία,126,unigram,feminine,accusative,singular,گھڑا,1.4733995206626955,گھڑا,گھڑا,water jar
+ὁδός,283,unigram,feminine,accusative,plural,بھر,2.5768990654856894,بھر,بھر,way
+ὁδός,157,unigram,feminine,accusative,singular,,,راہ,راستے,way
+γάμος,178,unigram,masculine,accusative,plural,,,شادی,ضیافت,wedding
+γάμος,263,unigram,masculine,accusative,singular,دعوت,1.7304915948475923,دعوت,دعوت,wedding
+γυνή,119,unigram,feminine,accusative,plural,بِیوِیوں,1.1621936225158862,بِیوِیوں,,"wife, woman"
+γυνή,195,unigram,feminine,accusative,singular,,,بِیوی,شادی,"wife, woman"
+γυνή,130,unigram,feminine,nominative,plural,,,عَورتیں,خواتین,"wife, woman"
+γυνή,136,unigram,feminine,nominative,singular,,,عَورت,عورت,"wife, woman"
+ἄνεμος,9,unigram,masculine,nominative,plural,آندھی,1.0481765333967306,,آندھی,wind
+ἄνεμος,73,unigram,masculine,nominative,singular,,,ہوا,ہَوا,wind
+πνεῦμα,333,unigram,neuter,accusative,plural,بدتر,1.0650796819525759,,بدتر,"wind, breath, spirit"
+πνεῦμα,183,unigram,neuter,accusative,singular,,,رُوح,روح,"wind, breath, spirit"
+πνεῦμα,12,unigram,neuter,nominative,plural,,,رُوحیں,بدروحیں,"wind, breath, spirit"
+πνεῦμα,25,unigram,neuter,nominative,singular,,,رُوح,روح,"wind, breath, spirit"
+κοιλία,97,unigram,feminine,nominative,plural,پلایا۔,1.0961014216060068,,پلایا۔,"womb, stomach, source of feelings and emotions"
+κοιλία,302,unigram,feminine,nominative,singular,پلایا۔,1.2126376208639589,,پلایا۔,"womb, stomach, source of feelings and emotions"
+ῥῆμα,204,unigram,neuter,accusative,plural,باتیں,13.063868810804404,باتیں,باتیں,word
+ῥῆμα,180,unigram,neuter,accusative,singular,بات,3.1125510790643887,بات,بات,word
+ῥῆμα,34,unigram,neuter,nominative,plural,باتیں,2.8221102681943235,باتیں,باتیں,word
+ῥῆμα,353,unigram,neuter,nominative,singular,قَول,1.6006054652772714,قَول,,word
+λόγος,181,unigram,masculine,accusative,plural,,,باتیں,باتوں,word
+λόγος,172,unigram,masculine,accusative,singular,کلام,13.267452637004709,کلام,کلام,word
+λόγος,168,unigram,masculine,nominative,plural,,,ٹلیں,ہمیشہ,word
+λόγος,322,unigram,masculine,nominative,singular,کلام,13.632758057831067,کلام,کلام,word
+ἔργον,48,unigram,neuter,accusative,plural,کام,4.504970262628273,کام,کام,work
+ἔργον,106,unigram,neuter,accusative,singular,کام,2.06168360898555,کام,کام,work
+ἔργον,326,unigram,neuter,nominative,plural,کام,3.5270443975302075,کام,کام,work
+ἔργον,301,unigram,neuter,nominative,singular,,,کام,لاؤ,work
+ἐργάτης,161,unigram,masculine,nominative,plural,,,فصل,مزدور,worker
+ἐργάτης,232,unigram,masculine,nominative,singular,,,مزدُور,مزدور,worker
+μέριμνα,185,unigram,feminine,nominative,plural,لالچ,1.161311312321613,لالچ,,"worry, concern, desire"
+μέριμνα,159,unigram,feminine,nominative,singular,فریب,1.0810874961044612,فریب,,"worry, concern, desire"
+ἔτος,279,unigram,neuter,accusative,plural,,,برس,سال,year
+ἔτος,196,unigram,neuter,accusative,singular,سال,1.5271059784100165,,سال,year

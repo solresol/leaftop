@@ -1,0 +1,369 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1509_translation,version_1510_translation,english_translation
+θεός,357,unigram,masculine,accusative,plural,Jetta,1.2591437047102771,,Jetta,God
+θεός,147,unigram,masculine,accusative,singular,Gott,46.64219579945263,Gott,Gott,God
+θεός,30,unigram,masculine,nominative,plural,Jetta,1.1634492944761523,Jetta,,God
+θεός,228,unigram,masculine,nominative,singular,Gott,183.47207846597374,Gott,Gott,God
+κύριος,359,unigram,masculine,nominative,plural,loosleesden,1.1631489665259134,loosleesden,,"Lord, lord, master"
+κύριος,148,unigram,masculine,nominative,singular,Har,50.811993757602416,Har,Har,"Lord, lord, master"
+γραφή,142,unigram,feminine,accusative,plural,,,Schreft,Schreften,Scripture
+γραφή,54,unigram,feminine,accusative,singular,Schreft,3.9996702168568965,Schreft,Schreft,Scripture
+γραφή,285,unigram,feminine,nominative,plural,,,jeschräwen,erfelt,Scripture
+γραφή,352,unigram,feminine,nominative,singular,Schreft,6.216251023385469,Schreft,Schreft,Scripture
+ἄγγελος,109,unigram,masculine,accusative,plural,Enjel,4.511042192439922,Enjel,Enjel,angel
+ἄγγελος,93,unigram,masculine,accusative,singular,Enjel,1.5908837104289952,Enjel,Enjel,angel
+ἄγγελος,50,unigram,masculine,nominative,plural,Enjel,18.43133342932708,Enjel,Enjel,angel
+ἄγγελος,119,unigram,masculine,nominative,singular,Enjel,21.900923624642733,Enjel,Enjel,angel
+ἀπόστολος,47,unigram,masculine,nominative,plural,Apostel,15.881125072950034,Apostel,Apostel,apostle
+ἀπόστολος,5,unigram,masculine,nominative,singular,,,iernst,Jeschekjta,apostle
+ἐξουσία,74,unigram,feminine,accusative,plural,,,veauntwuaten,Jewaultje,authority
+ἐξουσία,218,unigram,feminine,accusative,singular,,,Krauft,Vollmacht,authority
+βρέφος,16,unigram,neuter,accusative,plural,,,schullen,aunrieren,babies
+βρέφος,350,unigram,neuter,accusative,singular,Kjrebb,2.1042047833424324,Kjrebb,Kjrebb,babies
+ἀποθήκη,293,unigram,feminine,accusative,plural,saumlen,1.8078197377273493,,saumlen,barn
+ἀποθήκη,73,unigram,feminine,accusative,singular,Spikja,1.128775283331163,Spikja,Spikja,barn
+ἀρχή,77,unigram,feminine,accusative,plural,,,veauntwuaten,Jewaultje,beginning
+ἀρχή,200,unigram,feminine,accusative,singular,Wundatieekjen,1.1796099268067013,,Wundatieekjen,beginning
+ζώνη,191,unigram,feminine,accusative,plural,,,Selwa,Veschauft,belt
+βλασφημία,34,unigram,feminine,accusative,plural,lestalich,1.0960768946513286,,lestalich,blasphemy
+βλασφημία,106,unigram,feminine,accusative,singular,Lastren,1.0960768946513286,Lastren,,blasphemy
+βλασφημία,226,unigram,feminine,nominative,plural,Lastren,1.999949021035427,,Lastren,blasphemy
+βλασφημία,94,unigram,feminine,nominative,singular,,,aule,Lastren,blasphemy
+πλοῖον,117,unigram,neuter,accusative,plural,,,Boots,Boote,boat
+πλοῖον,334,unigram,neuter,accusative,singular,,,Boot,Schepp,boat
+πλοῖον,261,unigram,neuter,nominative,plural,Schäp,1.0441966219365324,,Schäp,boat
+πλοῖον,247,unigram,neuter,nominative,singular,,,Launt,Schepp,boat
+σῶμα,235,unigram,neuter,nominative,plural,,,Been,worden,body
+σῶμα,64,unigram,neuter,nominative,singular,,,Kjarpa,Lief,body
+κλῆμα,60,unigram,neuter,nominative,plural,Ranken,1.212541630128925,,Ranken,branch
+κλῆμα,164,unigram,neuter,nominative,singular,Rank,1.7418261636693555,Rank,Rank,branch
+ἄρτος,339,unigram,masculine,accusative,plural,,,Broot,Brood,bread
+ἄρτος,368,unigram,masculine,accusative,singular,Broot,35.72937160820079,Broot,Broot,bread
+ἄρτος,172,unigram,masculine,nominative,plural,Broot,2.670023034641501,Broot,Broot,bread
+ἄρτος,42,unigram,masculine,nominative,singular,Broot,5.991541873642098,Broot,Broot,bread
+ἀδελφός,324,unigram,masculine,accusative,plural,Breeda,11.493704554990808,Breeda,Breeda,brother
+ἀδελφός,133,unigram,masculine,accusative,singular,Brooda,10.494003720075169,Brooda,Brooda,brother
+ἀδελφός,123,unigram,masculine,nominative,plural,Breeda,5.765116510406455,Breeda,Breeda,brother
+ἀδελφός,254,unigram,masculine,nominative,singular,Brooda,68.02665423289518,Brooda,Brooda,brother
+στῆθος,170,unigram,neuter,accusative,plural,Schauspäl,1.255494041147772,,Schauspäl,"chest, breast"
+στῆθος,309,unigram,neuter,accusative,singular,Brost,4.435838319979773,Brost,Brost,"chest, breast"
+ἀρχιερεύς,267,unigram,masculine,accusative,plural,,,Huagepriestasch,Huagepriesta,chief priest
+ἀρχιερεύς,65,unigram,masculine,accusative,singular,Huagenpriesta,1.6320884906312203,Huagenpriesta,,chief priest
+ἀρχιερεύς,132,unigram,masculine,nominative,plural,,,Huagepriestasch,Huagepriesta,chief priest
+ἀρχιερεύς,271,unigram,masculine,nominative,singular,,,Huagapriesta,Huagepriesta,chief priest
+παῖς,52,unigram,masculine,accusative,singular,,,hankjeem,Jung,child
+τέκνον,361,unigram,neuter,accusative,plural,Kjinja,30.159242803507393,Kjinja,Kjinja,child
+τέκνον,197,unigram,neuter,accusative,singular,Kjinja,1.228797016002882,Kjinja,Kjinja,child
+τέκνον,17,unigram,neuter,nominative,plural,Kjinja,3.5250034322020203,Kjinja,Kjinja,child
+τέκνον,211,unigram,neuter,nominative,singular,,,Sän,Kjint,child
+παιδίον,15,unigram,neuter,accusative,plural,,,kjliene,wäat,child
+παιδίον,100,unigram,neuter,accusative,singular,Kjint,25.36178820414522,Kjint,Kjint,child
+παιδίον,189,unigram,neuter,nominative,plural,Kjinja,5.220722714728576,Kjinja,Kjinja,child
+παιδίον,44,unigram,neuter,nominative,singular,Kjint,22.56800962693882,Kjint,Kjint,child
+πόλις,201,unigram,feminine,accusative,plural,Städa,3.9972998153287134,Städa,Städa,city
+πόλις,69,unigram,feminine,accusative,singular,Staut,36.63242866616311,Staut,Staut,city
+πύλη,289,unigram,feminine,nominative,plural,Doodesjewault,1.0960622061228922,Doodesjewault,,city gate
+πύλη,225,unigram,feminine,nominative,singular,fieet,1.1454502626623058,fieet,fieet,city gate
+χιτών,128,unigram,masculine,accusative,plural,,,Reis,Hamden,"clothing, undergarments"
+χιτών,31,unigram,masculine,accusative,singular,,,Äwarock,Rock,"clothing, undergarments"
+ἱμάτιον,145,unigram,neuter,accusative,plural,Kjleeda,11.68694944480346,Kjleeda,Kjleeda,coat
+ἱμάτιον,144,unigram,neuter,accusative,singular,,,Äwarock,Kjleet,coat
+ἐντολή,90,unigram,feminine,accusative,plural,Jebooten,9.031419823725969,Jebooten,Jebooten,commandment
+ἐντολή,88,unigram,feminine,accusative,singular,Jeboot,4.078648948463692,Jeboot,Jeboot,commandment
+συνέδριον,344,unigram,neuter,accusative,plural,,,Judenschoolen,Jerecht,council
+συνέδριον,56,unigram,neuter,accusative,singular,Rot,1.2125586797265842,Rot,Rot,council
+χώρα,83,unigram,feminine,accusative,plural,riep,1.255688430271222,riep,,"country, countryside"
+χώρα,314,unigram,feminine,accusative,singular,,,Gadarena,Launt,"country, countryside"
+ὄχλος,61,unigram,masculine,accusative,plural,,,Menschen,Volkj,crowd
+ὄχλος,9,unigram,masculine,accusative,singular,Volkj,7.053565366183271,Volkj,Volkj,crowd
+ὄχλος,111,unigram,masculine,nominative,plural,,,Menschen,Volkj,crowd
+ὄχλος,304,unigram,masculine,nominative,singular,,,Menschen,Volkj,crowd
+θυγάτηρ,126,unigram,feminine,nominative,plural,Dajchta,1.0961506491767987,Dajchta,,daughter
+θυγάτηρ,338,unigram,feminine,nominative,singular,Dochta,29.165074484244816,Dochta,Dochta,daughter
+ἡμέρα,81,unigram,feminine,accusative,plural,Doag,31.149540897478566,Doag,Doag,day
+ἡμέρα,95,unigram,feminine,accusative,singular,Dach,8.551858623760673,Dach,Dach,day
+ἡμέρα,2,unigram,feminine,nominative,plural,Doag,14.059110155722337,Doag,Doag,day
+ἡμέρα,71,unigram,feminine,nominative,singular,Dach,8.431528617900806,Dach,Dach,day
+ὀφειλέτης,135,unigram,masculine,nominative,singular,dusende,1.059531995066612,dusende,,debtor
+δαιμόνιον,32,unigram,neuter,accusative,plural,,,Soton,Dämonen,demon
+δαιμόνιον,354,unigram,neuter,accusative,singular,,,beesen,Dämon,demon
+δαιμόνιον,213,unigram,neuter,nominative,plural,Dämonen,3.946517561428778,,Dämonen,demon
+δαιμόνιον,187,unigram,neuter,nominative,singular,,,Soton,Dämon,demon
+δηνάριον,329,unigram,neuter,accusative,plural,,,betolen,Dinoa,denarius (about a day's wages)
+δηνάριον,174,unigram,neuter,accusative,singular,,,vollet,Dinoa,denarius (about a day's wages)
+μαθητής,194,unigram,masculine,accusative,plural,Jinja,8.93674124855403,Jinja,Jinja,disciple
+μαθητής,362,unigram,masculine,accusative,singular,Jinja,1.561809016888428,Jinja,Jinja,disciple
+μαθητής,297,unigram,masculine,nominative,plural,Jinja,36.290236051423726,Jinja,Jinja,disciple
+μαθητής,360,unigram,masculine,nominative,singular,Jinja,20.77897524068829,Jinja,Jinja,disciple
+νόσος,3,unigram,feminine,accusative,plural,Krankheiten,3.0482227760357694,Krankheiten,Krankheiten,disease
+νόσος,79,unigram,feminine,accusative,singular,,,Krankheit,Krankheiten,disease
+περιστερά,110,unigram,feminine,accusative,plural,,,Duwenhendla,Duwen,dove
+περιστερά,58,unigram,feminine,accusative,singular,Duw,2.9829142550200576,Duw,Duw,dove
+οὖς,163,unigram,neuter,accusative,plural,Uaren,3.2163067558739966,Uaren,Uaren,ear
+οὖς,303,unigram,neuter,accusative,singular,,,jefuschelt,Ua,ear
+σεισμός,219,unigram,masculine,nominative,plural,Ieedbäben,1.0810922260060456,,Ieedbäben,"earthquakes, storm"
+σεισμός,67,unigram,masculine,nominative,singular,,,horcht,kjikj,"earthquakes, storm"
+τέλος,35,unigram,neuter,accusative,plural,kollakjten,1.0961112485594913,kollakjten,,end
+τέλος,294,unigram,neuter,accusative,singular,Enj,2.7151731465724893,Enj,Enj,end
+αἰών,258,unigram,masculine,accusative,plural,eewich,1.3572872700550922,eewich,,eternity
+αἰών,325,unigram,masculine,accusative,singular,,,niemols,Eewichkjeit,eternity
+ὀφθαλμός,23,unigram,masculine,accusative,plural,Uagen,31.88353249765222,Uagen,Uagen,eye
+ὀφθαλμός,10,unigram,masculine,accusative,singular,Tän,1.2131231854102649,Tän,,eye
+ὀφθαλμός,68,unigram,masculine,nominative,plural,Uagen,11.215744997414141,Uagen,Uagen,eye
+ὀφθαλμός,322,unigram,masculine,nominative,singular,Uag,3.922683567183859,Uag,Uag,eye
+πρόσωπον,134,unigram,neuter,accusative,plural,Jesechta,1.8874625155167344,,Jesechta,face
+πρόσωπον,208,unigram,neuter,accusative,singular,Jesecht,5.0184917921948715,Jesecht,Jesecht,face
+λιμός,102,unigram,feminine,nominative,singular,Hungaschnoot,1.096071996175396,Hungaschnoot,,famine
+λιμός,149,unigram,masculine,nominative,singular,Hungaschnoot,1.3487046393834696,Hungaschnoot,Hungaschnoot,famine
+γεωργός,272,unigram,masculine,nominative,plural,Oaw,1.049969525702324,Oaw,,"farmer, tenant"
+γεωργός,53,unigram,masculine,nominative,singular,Wiengoadna,1.0595706247739851,Wiengoadna,,"farmer, tenant"
+πατήρ,328,unigram,masculine,accusative,singular,Voda,65.56870647338252,Voda,Voda,father
+πατήρ,337,unigram,masculine,nominative,plural,Vodasch,13.448363837334357,Vodasch,Vodasch,father
+πατήρ,202,unigram,masculine,nominative,singular,Voda,101.1309437411536,Voda,Voda,father
+σύνδουλος,341,unigram,masculine,nominative,plural,Metkjnajchten,1.4537788513868408,Metkjnajchten,Metkjnajchten,"fellow-servant, colleague"
+σύνδουλος,124,unigram,masculine,nominative,singular,,,Jedult,Metkjnajcht,"fellow-servant, colleague"
+ἀγρός,353,unigram,masculine,accusative,plural,Launt,2.7220962999567018,Launt,Launt,field
+ἀγρός,43,unigram,masculine,accusative,singular,,,Stekj,Aka,field
+δάκτυλος,252,unigram,masculine,accusative,plural,Finja,1.0960768946513286,,Finja,finger
+δάκτυλος,193,unigram,masculine,accusative,singular,laj,1.6455051794028421,laj,laj,finger
+ἰχθύς,167,unigram,masculine,accusative,plural,Fesch,1.410092292768105,Fesch,Fesch,fish
+ἰχθύς,207,unigram,masculine,accusative,singular,Fesch,1.7728869585865243,Fesch,Fesch,fish
+δίκτυον,118,unigram,neuter,accusative,plural,Nats,6.878144718534312,Nats,Nats,fishing net
+δίκτυον,216,unigram,neuter,accusative,singular,Nat,1.6915258797547246,Nat,Nat,fishing net
+δίκτυον,188,unigram,neuter,nominative,plural,,,tweitorieten,tweirieten,fishing net
+δίκτυον,262,unigram,neuter,nominative,singular,153,1.3488059605658769,153,153,fishing net
+τροφή,264,unigram,feminine,accusative,plural,,,jegonen,kjeepe,food
+τροφή,349,unigram,feminine,accusative,singular,,,weisa,rajchta,food
+πούς,255,unigram,masculine,accusative,plural,Feet,52.756962431534106,Feet,Feet,foot
+πούς,122,unigram,masculine,accusative,singular,steeten,1.11355531238748,steeten,,foot
+καρπός,199,unigram,masculine,accusative,plural,Frucht,8.325887460782074,Frucht,Frucht,"fruit, crop, harvest"
+καρπός,250,unigram,masculine,accusative,singular,Frucht,10.158472364768823,Frucht,Frucht,"fruit, crop, harvest"
+πλήρωμα,288,unigram,neuter,accusative,plural,,,Kjarw,voll,fullness
+πλήρωμα,348,unigram,neuter,accusative,singular,,,flekjen,oolet,fullness
+γενεά,290,unigram,feminine,accusative,plural,metfeelen,1.4357344297210608,metfeelen,,generation
+γενεά,251,unigram,feminine,accusative,singular,Jeschlajcht,2.9998367963125303,,Jeschlajcht,generation
+γενεά,335,unigram,feminine,nominative,plural,,,Jennerazionen,Jeschlajchta,generation
+γενεά,162,unigram,feminine,nominative,singular,,,Jennerazion,Jeschlajcht,generation
+δῶρον,327,unigram,neuter,accusative,plural,äare,1.2676989503232794,äare,,gift
+δῶρον,176,unigram,neuter,accusative,singular,,,Aultoa,Gow,gift
+ἡγεμών,185,unigram,masculine,accusative,plural,,,aunjestalde,Kjennichs,"governor, ruler"
+ἡγεμών,12,unigram,masculine,accusative,singular,,,Laundeskommandaunt,Launtfläaja,"governor, ruler"
+ἀσπασμός,340,unigram,masculine,accusative,plural,Moakjtplauz,1.053040215679247,Moakjtplauz,,greeting
+ἀσπασμός,186,unigram,masculine,accusative,singular,Gruss,1.0960768946513286,,Gruss,greeting
+ὁδηγός,4,unigram,masculine,nominative,singular,blinje,1.999949106296321,,blinje,guide
+θρίξ,101,unigram,feminine,nominative,plural,Hoa,1.0595545022300916,,Hoa,hair
+θρίξ,234,unigram,feminine,nominative,singular,Hoa,1.8794735571384882,Hoa,Hoa,hair
+χείρ,331,unigram,feminine,accusative,plural,Henj,61.602773588540614,Henj,Henj,hand
+χείρ,238,unigram,feminine,accusative,singular,Haunt,9.76042411915291,Haunt,Haunt,hand
+κεφαλή,154,unigram,feminine,accusative,plural,Kjap,2.3480977105421683,Kjap,Kjap,head
+κεφαλή,223,unigram,feminine,accusative,singular,,,Kopp,Haupt,head
+στάχυς,224,unigram,masculine,accusative,plural,Oaren,1.5323061560754436,Oaren,,head of grain
+στάχυς,80,unigram,masculine,accusative,singular,Oa,1.255494041147772,,Oa,head of grain
+καρδία,36,unigram,feminine,accusative,plural,Hoaten,3.2939809269801295,Hoaten,Hoaten,heart
+καρδία,306,unigram,feminine,accusative,singular,Hoat,6.7083811027432905,Hoat,Hoat,heart
+καρδία,355,unigram,feminine,nominative,plural,onverhofs,1.0963047455737722,onverhofs,,heart
+καρδία,209,unigram,feminine,nominative,singular,Hoat,10.371593665028454,Hoat,Hoat,heart
+οὐρανός,6,unigram,masculine,accusative,plural,Duw,1.3316812840854044,Duw,Duw,"heaven, sky"
+οὐρανός,284,unigram,masculine,accusative,singular,Himmel,21.060789473284284,Himmel,Himmel,"heaven, sky"
+οὐρανός,367,unigram,masculine,nominative,plural,Duw,1.4115643886872946,Duw,Duw,"heaven, sky"
+οὐρανός,214,unigram,masculine,nominative,singular,Himmel,4.169910970841793,Himmel,Himmel,"heaven, sky"
+ὥρα,313,unigram,feminine,nominative,plural,stat,1.2019280568590713,stat,stat,hour
+ὥρα,26,unigram,feminine,nominative,singular,,,Tiet,Stund,hour
+οἰκία,169,unigram,feminine,accusative,plural,,,sooväl,Hiesa,house
+οἰκία,345,unigram,feminine,accusative,singular,Hus,27.586307192826666,Hus,Hus,house
+οἶκος,301,unigram,masculine,accusative,plural,Vewaultung,1.0442296012686283,,Vewaultung,"house, home"
+οἶκος,22,unigram,masculine,accusative,singular,Hus,19.998409075483607,Hus,Hus,"house, home"
+κριτής,326,unigram,masculine,nominative,plural,Rechta,1.195992488157319,Rechta,Rechta,judge
+κριτής,178,unigram,masculine,nominative,singular,Rechta,4.811265335388545,Rechta,Rechta,judge
+κλείς,92,unigram,feminine,accusative,plural,Schlätels,1.2125176900525536,,Schlätels,key
+βασιλεύς,116,unigram,masculine,accusative,plural,Kjennichs,2.0407348889021844,Kjennichs,Kjennichs,king
+βασιλεύς,62,unigram,masculine,accusative,singular,Kjennich,6.528218916572066,Kjennich,Kjennich,king
+βασιλεία,86,unigram,feminine,accusative,plural,Kjennichsrikjs,1.1807061337280629,Kjennichsrikjs,,kingdom
+βασιλεία,173,unigram,feminine,accusative,singular,,,Gottesrikj,Rikj,kingdom
+κόπος,217,unigram,masculine,accusative,plural,Mieej,1.0727662120909764,,Mieej,"labour, work, trouble, difficulty"
+λύχνος,248,unigram,masculine,nominative,singular,,,Licht,Laump,lamp
+κλῆρος,107,unigram,masculine,accusative,plural,vedeelden,1.0960622061228922,,vedeelden,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,,,Lessa,Kjleeda,"lots (casting of lots), inheritance"
+ἄνθρωπος,316,unigram,masculine,accusative,plural,Menschen,20.91292719670983,Menschen,Menschen,man
+ἄνθρωπος,274,unigram,masculine,accusative,singular,,,Maun,Mensch,man
+ἄνθρωπος,129,unigram,masculine,nominative,plural,Menschen,7.178400369542232,Menschen,Menschen,man
+ἄνθρωπος,192,unigram,masculine,nominative,singular,,,Maun,Mensch,man
+ἀνήρ,265,unigram,masculine,accusative,plural,Mana,2.6329244354995014,Mana,Mana,"man, husband"
+ἀνήρ,269,unigram,masculine,accusative,singular,Maun,10.91876777976321,Maun,Maun,"man, husband"
+ἀνήρ,160,unigram,masculine,nominative,plural,Mana,4.576932754524401,Mana,Mana,"man, husband"
+ἀνήρ,256,unigram,masculine,nominative,singular,Maun,5.360429192174644,Maun,Maun,"man, husband"
+μνᾶ,318,unigram,feminine,accusative,plural,,,tieen,Miene,mina (about 100 days' wages)
+μνᾶ,13,unigram,feminine,accusative,singular,romstunden,1.1133217870504262,romstunden,,mina (about 100 days' wages)
+πρωτοκαθεδρία,115,unigram,feminine,accusative,plural,,,Setplauz,ieeschte,"most important seat, seat of honour"
+πρωτοκαθεδρία,38,unigram,feminine,accusative,singular,Bejreessunk,1.0960622061228922,,Bejreessunk,"most important seat, seat of honour"
+μήτηρ,105,unigram,feminine,accusative,plural,Mutta,1.0597141828820182,,Mutta,mother
+μήτηρ,298,unigram,feminine,accusative,singular,Mutta,12.835592009599285,Mutta,Mutta,mother
+ὄρος,233,unigram,neuter,accusative,plural,Boaj,2.5864970116960824,Boaj,Boaj,mountain
+ὄρος,282,unigram,neuter,accusative,singular,Boajch,3.809473525369647,Boajch,Boajch,mountain
+μύρον,96,unigram,neuter,accusative,plural,,,ruden,rude,myrrh
+μύρον,28,unigram,neuter,accusative,singular,,,äwajeeten,jegoten,myrrh
+ὄνομα,37,unigram,neuter,accusative,singular,Nomen,29.330862675526053,Nomen,Nomen,name
+ὄνομα,113,unigram,neuter,nominative,plural,Nomes,3.9997896673440048,Nomes,Nomes,name
+ὄνομα,270,unigram,neuter,nominative,singular,Nomen,7.686771322479769,Nomen,Nomen,name
+ἔθνος,246,unigram,neuter,accusative,plural,,,Velkja,aule,nation
+ἔθνος,210,unigram,neuter,accusative,singular,,,Volkj,Nazion,nation
+ἔθνος,321,unigram,neuter,nominative,plural,,,Velkja,Nazionen,nation
+ἔθνος,27,unigram,neuter,nominative,singular,,,Volkj,Nazion,nation
+νύξ,204,unigram,feminine,accusative,plural,Nacht,3.913671714293951,Nacht,Nacht,night
+νύξ,263,unigram,feminine,accusative,singular,Nacht,2.7386489386427053,Nacht,Nacht,night
+ὅρκος,63,unigram,masculine,accusative,plural,,,jeschwuaren,Desch,oath
+ὅρκος,281,unigram,masculine,accusative,singular,jeschwuaren,1.0960670999999007,,jeschwuaren,oath
+βοῦς,165,unigram,masculine,accusative,plural,Ossen,1.516140025354996,Ossen,Ossen,ox
+παραβολή,277,unigram,feminine,accusative,plural,Jlikjnisen,5.650770990534829,Jlikjnisen,Jlikjnisen,parable
+παραβολή,239,unigram,feminine,accusative,singular,Jlikjnis,24.474725894615354,Jlikjnis,Jlikjnis,parable
+μέρος,366,unigram,neuter,accusative,plural,,,Lomm,Jäajent,part
+μέρος,55,unigram,neuter,accusative,singular,,,Stekj,Deel,part
+μαργαρίτης,241,unigram,masculine,accusative,plural,Parlen,3.999796427775453,Parlen,Parlen,pearls
+μαργαρίτης,40,unigram,masculine,accusative,singular,Parl,1.096057314542422,,Parl,pearls
+τόπος,292,unigram,masculine,accusative,plural,Städen,1.0813026380505173,Städen,,place
+τόπος,315,unigram,masculine,accusative,singular,,,Städ,Uat,place
+πρωτοκλισία,296,unigram,feminine,accusative,plural,ieeschte,1.3416729645680892,,ieeschte,place of honor
+πρωτοκλισία,39,unigram,feminine,accusative,singular,ieeschten,1.0363307379066806,,ieeschten,place of honor
+ὄφις,114,unigram,masculine,accusative,singular,Schlang,5.577441854287245,Schlang,Schlang,poison
+σκεῦος,150,unigram,neuter,accusative,plural,,,stoakjen,Stoakjen,"possession, object, thing, jar, vessel"
+σκεῦος,273,unigram,neuter,accusative,singular,,,Woa,Jefäss,"possession, object, thing, jar, vessel"
+σκεῦος,140,unigram,neuter,nominative,plural,trigjgonen,1.0441088591276242,trigjgonen,,"possession, object, thing, jar, vessel"
+δύναμις,49,unigram,feminine,accusative,singular,Krauft,9.897429491245749,Krauft,Krauft,"power, ability, miracle"
+δύναμις,89,unigram,feminine,nominative,plural,,,Wunda,Woakjen,"power, ability, miracle"
+δύναμις,125,unigram,feminine,nominative,singular,Krauft,5.826447556827889,Krauft,Krauft,"power, ability, miracle"
+ἱερεύς,20,unigram,masculine,nominative,plural,Priesta,1.096091603901298,Priesta,,priest
+ἱερεύς,259,unigram,masculine,nominative,singular,Priesta,3.999795830253839,Priesta,Priesta,priest
+φυλακή,25,unigram,feminine,accusative,singular,,,enstoppen,Jefenkjnis,prison
+προφήτης,66,unigram,masculine,accusative,plural,Profeeten,16.993702521465625,Profeeten,Profeeten,prophet
+προφήτης,215,unigram,masculine,accusative,singular,Profeet,11.2999605842149,Profeet,Profeet,prophet
+προφήτης,240,unigram,masculine,nominative,plural,Profeeten,8.241688042094921,Profeeten,Profeeten,prophet
+προφήτης,283,unigram,masculine,nominative,singular,Profeet,29.74363207349382,Profeet,Profeet,prophet
+βαλλάντιον,19,unigram,neuter,accusative,singular,Sak,1.0595352057902494,Sak,,purse
+ποταμός,136,unigram,masculine,nominative,plural,toobd,1.064742544130528,,toobd,river
+ποταμός,181,unigram,masculine,nominative,singular,,,Stroom,Gruntmia,river
+λῃστής,365,unigram,masculine,accusative,singular,Reiba,1.0354358706474784,,Reiba,robber
+λῃστής,342,unigram,masculine,nominative,plural,,,Reiba,Reibasch,robber
+ἄρχων,221,unigram,masculine,accusative,plural,,,väaschte,Bowaschten,ruler
+ἄρχων,70,unigram,masculine,nominative,plural,,,onse,Bowaschten,ruler
+ἄρχων,336,unigram,masculine,nominative,singular,,,jerecht,Väastona,ruler
+ἀκοή,7,unigram,feminine,accusative,plural,Kjrichsjeschrech,1.1882648111083,Kjrichsjeschrech,Kjrichsjeschrech,rumor
+ἀκοή,82,unigram,feminine,accusative,singular,,,kjrieech,Berecht,rumor
+ἀκοή,175,unigram,feminine,nominative,plural,,,bunk,rechtich,rumor
+βιβλίον,57,unigram,neuter,accusative,singular,Scheedungsbreef,1.2719620342848679,Scheedungsbreef,Scheedungsbreef,"scroll, book"
+διάκονος,99,unigram,masculine,nominative,singular,Deena,1.4674558640206432,Deena,Deena,"servant, minister, deacon"
+δοῦλος,227,unigram,masculine,accusative,plural,,,Deena,Kjnajchts,"servant, slave"
+δοῦλος,29,unigram,masculine,accusative,singular,Kjnajcht,8.35923773844056,Kjnajcht,Kjnajcht,"servant, slave"
+δοῦλος,112,unigram,masculine,nominative,plural,,,Deena,Kjnajchts,"servant, slave"
+δοῦλος,222,unigram,masculine,nominative,singular,Kjnajcht,6.9312011244545415,Kjnajcht,Kjnajcht,"servant, slave"
+πρόβατον,346,unigram,neuter,accusative,plural,Schop,22.824605317101096,Schop,Schop,sheep
+πρόβατον,156,unigram,neuter,accusative,singular,Schop,3.615112662613206,Schop,Schop,sheep
+ποιμήν,268,unigram,masculine,nominative,plural,,,Hoad,Hoads,"shepherd, pastor"
+ποιμήν,307,unigram,masculine,nominative,singular,Hoad,2.4079004765847403,Hoad,Hoad,"shepherd, pastor"
+σημεῖον,153,unigram,neuter,accusative,plural,Tieekjens,2.7711069847969405,Tieekjens,Tieekjens,sign
+σημεῖον,139,unigram,neuter,accusative,singular,Tieekjen,10.56789962155783,Tieekjen,Tieekjen,sign
+σημεῖον,46,unigram,neuter,nominative,plural,Tieekjens,3.73703731204937,Tieekjens,Tieekjens,sign
+σημεῖον,98,unigram,neuter,nominative,singular,Tieekjen,8.685047300596803,Tieekjen,Tieekjen,sign
+δραχμή,183,unigram,feminine,accusative,singular,Drachma,1.3302812861785407,,Drachma,"silver coin, drachma"
+ἀργύριον,232,unigram,neuter,accusative,plural,Selwastekja,2.7721775878283137,Selwastekja,Selwastekja,"silver, money"
+ἀργύριον,356,unigram,neuter,accusative,singular,Jelt,4.93802099637232,Jelt,Jelt,"silver, money"
+ἁμαρτία,302,unigram,feminine,accusative,plural,Sinden,2.193049997348003,Sinden,Sinden,sin
+ἁμαρτία,236,unigram,feminine,accusative,singular,Sind,2.7765491063879075,Sind,Sind,sin
+ἁμαρτία,311,unigram,feminine,nominative,plural,Sinden,1.033674407983029,,Sinden,sin
+ἁμαρτία,308,unigram,feminine,nominative,singular,,,Lastrunk,Sind,sin
+ἀδελφή,333,unigram,feminine,accusative,plural,,,Sesta,Sestren,sister
+ἀδελφή,146,unigram,feminine,accusative,singular,Sesta,6.337336438182245,Sesta,Sesta,sister
+ἀδελφή,21,unigram,feminine,nominative,plural,Sestren,12.006175174785005,Sestren,Sestren,sister
+ἀδελφή,332,unigram,feminine,nominative,singular,Sesta,14.517408320084131,Sesta,Sesta,sister
+ῥάπισμα,166,unigram,neuter,accusative,plural,Baken,1.0595352057902494,,Baken,"slap, strike, hit"
+ῥάπισμα,295,unigram,neuter,accusative,singular,auntwuatst,1.096057314542422,,auntwuatst,"slap, strike, hit"
+πλοιάριον,253,unigram,neuter,nominative,plural,launden,1.0960670999999007,launden,,small boat
+πλοιάριον,152,unigram,neuter,nominative,singular,,,Lomm,Schepp,small boat
+ὀψάριον,198,unigram,neuter,accusative,plural,,,Joaschtbrood,kjlina,small fish
+ὀψάριον,276,unigram,neuter,accusative,singular,Fesch,1.4937517214606062,Fesch,Fesch,small fish
+υἱός,51,unigram,masculine,accusative,plural,Säns,2.9855991638400377,Säns,Säns,son
+υἱός,138,unigram,masculine,accusative,singular,Sän,2.5439008621957293,Sän,Sän,son
+υἱός,141,unigram,masculine,nominative,plural,Säns,10.201302471385512,Säns,Säns,son
+υἱός,229,unigram,masculine,nominative,singular,Sän,2.067132085816441,Sän,Sän,son
+ψυχή,242,unigram,feminine,accusative,plural,Seelen,1.0962149939516397,Seelen,,"soul, life"
+ψυχή,305,unigram,feminine,accusative,singular,Läwen,5.068356989487217,Läwen,Läwen,"soul, life"
+ἀστήρ,206,unigram,masculine,nominative,singular,Stiern,1.2554940411477717,Stiern,Stiern,star
+λίθος,320,unigram,masculine,accusative,plural,Steena,1.0596387620220236,,Steena,stone
+λίθος,41,unigram,masculine,accusative,singular,Steen,43.841880408940945,Steen,Steen,stone
+λίθος,151,unigram,masculine,nominative,plural,Steena,8.618249281128106,Steena,Steena,stone
+λίθος,45,unigram,masculine,nominative,singular,Steen,3.7780139684072647,Steen,Steen,stone
+συναγωγή,266,unigram,feminine,accusative,plural,,,Judenschoolen,Sienagogen,synagogue
+συναγωγή,358,unigram,feminine,accusative,singular,,,Judenschool,Sienagog,synagogue
+τράπεζα,212,unigram,feminine,accusative,plural,,,Deschen,Descha,table
+τάλαντον,75,unigram,neuter,accusative,plural,,,5,Talenten,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,245,unigram,neuter,accusative,singular,Selwastekj,2.8731015875292907,,Selwastekj,talent (weight and monetary unit: around 20 years' wages)
+φόρος,291,unigram,masculine,accusative,plural,vebitt,1.0960524252565438,vebitt,,tax
+φόρος,312,unigram,masculine,accusative,singular,Taks,1.044101405315964,,Taks,tax
+τελώνης,205,unigram,masculine,nominative,plural,,,Takskollakjta,Zollmanna,tax collector
+τελώνης,78,unigram,masculine,nominative,singular,,,Takskollakjta,Zollna,tax collector
+γραμματεύς,363,unigram,masculine,nominative,plural,Schreftjelieede,12.807716798484755,Schreftjelieede,Schreftjelieede,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,230,unigram,masculine,nominative,singular,Schreftjelieeda,8.999008608837771,Schreftjelieeda,Schreftjelieeda,"teacher, expert in the law, scholar, scribe"
+καθηγητής,347,unigram,masculine,nominative,plural,,,nanen,Liameista,"teacher, guide"
+καθηγητής,244,unigram,masculine,nominative,singular,,,nanen,Liameista,"teacher, guide"
+κλέπτης,91,unigram,masculine,nominative,plural,,,Stäla,Deew,thief
+κλέπτης,243,unigram,masculine,nominative,singular,,,Stäla,Deef,thief
+διαλογισμός,317,unigram,masculine,accusative,plural,dochten,1.7002039951713732,dochten,,"thought, argument"
+διαλογισμός,158,unigram,masculine,accusative,singular,,,veneem,Äwalajung,"thought, argument"
+διαλογισμός,130,unigram,masculine,nominative,plural,Huararie,1.1230909551257102,Huararie,,"thought, argument"
+διαλογισμός,310,unigram,masculine,nominative,singular,,,strieden,Äwalajung,"thought, argument"
+θρόνος,257,unigram,masculine,accusative,singular,Troon,1.645211990256556,Troon,Troon,throne
+χρόνος,287,unigram,masculine,accusative,plural,lenjre,1.1614247833415607,,lenjre,time
+χρόνος,249,unigram,masculine,accusative,singular,,,lang,Tiet,time
+καιρός,84,unigram,masculine,nominative,plural,aufjerant,1.096185247111637,aufjerant,,"time, right time"
+καιρός,155,unigram,masculine,nominative,singular,Tiet,8.717129890195224,Tiet,Tiet,"time, right time"
+τάφος,143,unigram,masculine,accusative,plural,putzen,1.255508950677359,putzen,,"tomb, grave"
+τάφος,190,unigram,masculine,accusative,singular,Grauf,2.268270918155515,Grauf,Grauf,"tomb, grave"
+μνημεῖον,14,unigram,neuter,accusative,plural,,,Jräwa,buen,"tomb, grave"
+μνημεῖον,18,unigram,neuter,accusative,singular,Grauf,4.66285224657917,Grauf,Grauf,"tomb, grave"
+μνημεῖον,87,unigram,neuter,nominative,plural,Jräwa,2.800418502180151,Jräwa,Jräwa,"tomb, grave"
+μνημεῖον,280,unigram,neuter,nominative,singular,Grauf,3.471495158859953,Grauf,Grauf,"tomb, grave"
+ὀδούς,76,unigram,masculine,accusative,singular,Tän,2.282819412314076,Tän,Tän,tooth
+θησαυρός,108,unigram,masculine,accusative,plural,Schauz,1.4675673712089359,,Schauz,treasure
+θησαυρός,237,unigram,masculine,accusative,singular,Schauz,1.584196637697867,Schauz,Schauz,treasure
+δένδρον,97,unigram,neuter,accusative,plural,Beem,4.95747010531068,Beem,Beem,tree	
+δένδρον,85,unigram,neuter,accusative,singular,Boom,3.4508072665692806,Boom,Boom,tree	
+κώμη,286,unigram,feminine,accusative,plural,Darpa,6.034244351823949,Darpa,Darpa,village
+κώμη,59,unigram,feminine,accusative,singular,Darp,17.889426156128078,Darp,Darp,village
+παρθένος,300,unigram,feminine,nominative,plural,Junkfrues,3.9997962573930907,Junkfrues,Junkfrues,virgin
+φωνή,220,unigram,feminine,nominative,plural,Jeschrech,1.0962100302615791,Jeschrech,,voice or sound
+φωνή,343,unigram,feminine,nominative,singular,Stemm,9.031141153694405,Stemm,Stemm,voice or sound
+πόλεμος,278,unigram,masculine,accusative,plural,Kjrich,1.664709960305037,Kjrich,Kjrich,war
+ὕδωρ,364,unigram,neuter,accusative,plural,Wota,5.866223842633904,Wota,Wota,water
+ὕδωρ,103,unigram,neuter,accusative,singular,Wota,14.278009431249096,Wota,Wota,water
+ὕδωρ,121,unigram,neuter,nominative,singular,Wota,4.747756229658105,Wota,Wota,water
+ὑδρία,127,unigram,feminine,accusative,singular,Wotakruck,1.86378902524573,Wotakruck,Wotakruck,water jar
+ὁδός,279,unigram,feminine,accusative,plural,,,voll,Wäaj,way
+ὁδός,157,unigram,feminine,accusative,singular,Wajch,27.72726299332029,Wajch,Wajch,way
+γάμος,177,unigram,masculine,accusative,plural,Kjast,13.667752956187378,Kjast,Kjast,wedding
+γάμος,260,unigram,masculine,accusative,singular,Kjast,1.5766028985999991,Kjast,Kjast,wedding
+γυνή,120,unigram,feminine,accusative,plural,,,aufjehoat,tojeloten,"wife, woman"
+γυνή,195,unigram,feminine,accusative,singular,Fru,26.28886951155429,Fru,Fru,"wife, woman"
+γυνή,131,unigram,feminine,nominative,plural,Frues,7.041677983753242,Frues,Frues,"wife, woman"
+γυνή,137,unigram,feminine,nominative,singular,Fru,71.29548174578623,Fru,Fru,"wife, woman"
+ἄνεμος,8,unigram,masculine,nominative,plural,Wint,2.1537220111433886,Wint,Wint,wind
+ἄνεμος,72,unigram,masculine,nominative,singular,Wint,5.87874717625926,Wint,Wint,wind
+πνεῦμα,330,unigram,neuter,accusative,plural,Jeista,1.5250566334829423,Jeista,Jeista,"wind, breath, spirit"
+πνεῦμα,182,unigram,neuter,accusative,singular,Jeist,17.13409684659519,Jeist,Jeist,"wind, breath, spirit"
+πνεῦμα,11,unigram,neuter,nominative,plural,Jeista,2.629148776252335,Jeista,Jeista,"wind, breath, spirit"
+πνεῦμα,24,unigram,neuter,nominative,singular,Jeist,39.37749492968043,Jeist,Jeist,"wind, breath, spirit"
+ῥῆμα,203,unigram,neuter,accusative,plural,Wieed,15.940753561993011,Wieed,Wieed,word
+ῥῆμα,179,unigram,neuter,accusative,singular,,,vestunden,Wuat,word
+ῥῆμα,33,unigram,neuter,nominative,plural,Wieed,7.007752003289503,Wieed,Wieed,word
+ῥῆμα,351,unigram,neuter,nominative,singular,Dinkj,1.1190151350620798,Dinkj,,word
+λόγος,180,unigram,masculine,accusative,plural,,,Räden,Wieed,word
+λόγος,171,unigram,masculine,accusative,singular,Wuat,32.57823151572888,Wuat,Wuat,word
+λόγος,168,unigram,masculine,nominative,plural,,,vegonen,Wieed,word
+λόγος,319,unigram,masculine,nominative,singular,Wuat,13.503463437939285,Wuat,Wuat,word
+ἔργον,48,unigram,neuter,accusative,plural,Woakjen,14.70052532459445,Woakjen,Woakjen,work
+ἔργον,104,unigram,neuter,accusative,singular,Woakj,4.53090764264686,Woakj,Woakj,work
+ἔργον,323,unigram,neuter,nominative,plural,Woakjen,9.047650544126219,Woakjen,Woakjen,work
+ἔργον,299,unigram,neuter,nominative,singular,Woakj,2.343530546693483,Woakj,Woakj,work
+ἐργάτης,161,unigram,masculine,nominative,plural,Oabeida,1.231309989092688,Oabeida,Oabeida,worker
+ἐργάτης,231,unigram,masculine,nominative,singular,Oabeida,1.7331058513582958,Oabeida,Oabeida,worker
+μέριμνα,184,unigram,feminine,nominative,plural,aunschmäarende,1.161311312321613,aunschmäarende,,"worry, concern, desire"
+μέριμνα,159,unigram,feminine,nominative,singular,stekjen,1.161311312321613,stekjen,,"worry, concern, desire"
+ἔτος,275,unigram,neuter,accusative,plural,Joa,12.433277252230269,Joa,Joa,year
+ἔτος,196,unigram,neuter,accusative,singular,Joa,2.801318427726411,Joa,Joa,year

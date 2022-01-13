@@ -1,0 +1,360 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_410_translation,version_411_translation,version_412_translation,version_413_translation,version_414_translation,version_415_translation,version_416_translation,version_417_translation,version_418_translation,version_419_translation,version_420_translation,version_421_translation,version_422_translation,version_423_translation,english_translation
+θεός,346,unigram,masculine,accusative,plural,,,,,,,,,,,,,,,dduwiau,diystyru,God
+θεός,142,unigram,masculine,accusative,singular,Dduw,4.343958380142503,Duw,Duw,Dduw,Dduw,Dduw,,,,,,Dduw,Dduw,Duw,Duw,God
+θεός,220,unigram,masculine,nominative,singular,Duw,860783.2473659532,Duw,Duw,Duw,Duw,Duw,,,,,,Duw,Duw,Duw,Duw,God
+κύριος,348,unigram,masculine,nominative,plural,berchenogion,3.6783688996395494,berchenogion,berchenogion,berchenogion,berchenogion,berchennogion,,,,,,,,,,"Lord, lord, master"
+κύριος,143,unigram,masculine,nominative,singular,Arglwydd,3039.0621609422997,Arglwydd,Arglwydd,Arglwydd,Arglwydd,Arglwydd,,,,,,Arglwydd,Arglwydd,Arglwydd,Arglwydd,"Lord, lord, master"
+γραφή,137,unigram,feminine,accusative,plural,Ysgrythurau,17.09893264280134,Ysgrythurau,Ysgrythurau,ysgrythurau,ysgrythurau,Ysgrythyrau,,,,,,Scrythurae,Scrythurae,Ysgrythurau,ysgrifau,Scripture
+γραφή,52,unigram,feminine,accusative,singular,Ysgrythur,4.965618464264207,Ysgrythur,Ysgrythur,ysgrythur,ysgrythur,ysgrythyr,,,,,,,,Ysgrythur,ysgrifau,Scripture
+γραφή,278,unigram,feminine,nominative,plural,,,Ysgrythurau,Ysgrythurau,ysgrythurau,ysgrythurau,cyflawnid,,,,,,Scrythurae,Scrythurae,Ond,ysgrifau,Scripture
+γραφή,341,unigram,feminine,nominative,singular,Ysgrythur,11.931011309229413,Ysgrythur,Ysgrythur,ysgrythur,ysgrythur,Ysgrythyr,,,,,,Scrythur,Scrythur,Ysgrythur,ysgrifau,Scripture
+ἄγγελος,104,unigram,masculine,accusative,plural,angylion,109.28022530138077,angylion,angylion,angylion,angylion,angylion,,,,,,Angelion,Angelion,angylion,angylion,angel
+ἄγγελος,89,unigram,masculine,accusative,singular,,,nghennad,nghennad,,,,,,,,,oth,oth,baratoa,negesydd,angel
+ἄγγελος,48,unigram,masculine,nominative,plural,angylion,111000.4608760451,angylion,angylion,angylion,angylion,angylion,,,,,,Angelion,Angelion,angylion,angylion,angel
+ἄγγελος,115,unigram,masculine,nominative,singular,angel,107119.1975616785,angel,angel,angel,angel,angel,,,,,,Angel,Angel,angel,angel,angel
+ἀπόστολος,45,unigram,masculine,nominative,plural,apostolion,1707.2398978472909,apostolion,apostolion,apostolion,apostolion,apostolion,,,,,,Apostolon,Apostolon,apostolion,apostolion,apostle
+ἀπόστολος,6,unigram,masculine,nominative,singular,,,anfonir,anfonir,ddanfonwyd,ddanfonwyd,chenhadwr,,,,,,cenadwr,cenadwr,negesydd,,apostle
+ἐξουσία,72,unigram,feminine,accusative,plural,amddiffyniad,1.2112807780664177,,,,,,,,,,,,,,amddiffyniad,authority
+ἐξουσία,212,unigram,feminine,accusative,singular,awdurdod,84259.87049308009,awdurdod,awdurdod,awdurdod,awdurdod,awdurdod,,,,,,veddiant,veddiant,awdurdod,awdurdod,authority
+βρέφος,17,unigram,neuter,accusative,plural,ceryddasant,1.1999288806403459,,,ceryddasant,ceryddasant,cyffyrddai,,,,,,,,fabanod,babis,babies
+βρέφος,339,unigram,neuter,accusative,singular,preseb,2.830104082253493,,,preseb,preseb,preseb,,,,,,presep,presep,preseb,cafn,babies
+ἀποθήκη,285,unigram,feminine,accusative,plural,ysguboriau,9.42467263222399,mwy,mwy,ysguboriau,ysguboriau,ysguboriau,,,,,,yscuporiae,yscuporiae,,ysguboriau,barn
+ἀποθήκη,71,unigram,feminine,accusative,singular,llosgi,1.8032003051224288,llosgi,llosgi,,,,,,,,,,,gwenith,ysgubor,barn
+φραγμός,247,unigram,masculine,accusative,plural,cloddiau,1.1999087542240303,cloddiau,cloddiau,,,,,,,,,,,,Perswadia,"barrier, wall"
+φραγμός,120,unigram,masculine,accusative,singular,dwr,1.6848268535965392,,,,,,,,,,,dwr,dwr,,,"barrier, wall"
+ἀρχή,74,unigram,feminine,accusative,plural,amddiffyniad,1.2110541754715731,,,,,,,,,,,,,,amddiffyniad,beginning
+ἀρχή,191,unigram,feminine,accusative,singular,,,,,,,,,,,,,dechreuat,,,pwy,beginning
+ζώνη,183,unigram,feminine,accusative,plural,phres,1.629806859851279,phres,phres,,,,,,,,,veddwch,veddwch,phres,mân,belt
+ζώνη,236,unigram,feminine,accusative,singular,groen,1.1998986978087096,,,,,,,,,,,groen,groen,Dillad,,belt
+βλασφημία,33,unigram,feminine,accusative,plural,cabledd,2.181273569645285,cabledd,cabledd,cabledd,cabledd,,,,,,,,,cablu,cablu,blasphemy
+βλασφημία,102,unigram,feminine,accusative,singular,gablawdd,1.095421848054621,,,,,,,,,,,gablawdd,,,,blasphemy
+βλασφημία,90,unigram,feminine,nominative,singular,cabledd,14.262374960710563,cabledd,cabledd,cabledd,cabledd,,,,,,,,,,,blasphemy
+πλοῖον,113,unigram,neuter,accusative,plural,gwch,8.912648398552921,gwch,gwch,long,long,gwch,,,,,,long,long,gwch,gwch,boat
+πλοῖον,325,unigram,neuter,accusative,singular,cwch,639.7428263037045,cwch,cwch,llong,llong,cwch,,,,,,llong,llong,cwch,cwch,boat
+πλοῖον,253,unigram,neuter,nominative,plural,longau,1.1219371580919615,,,longau,longau,ebrwydd,,,,,,,,,cychod,boat
+πλοῖον,238,unigram,neuter,nominative,singular,cwch,10.667450507698964,cwch,cwch,llong,llong,cwch,,,,,,yn‐cenol,yn‐cenol,cwch,cwch,boat
+σῶμα,227,unigram,neuter,nominative,plural,cyrff,7.999416676876853,cyrff,cyrff,,,,,,,,,,,,cyrff,body
+σῶμα,62,unigram,neuter,nominative,singular,gorff,16.47644744288271,gorff,gorff,gorff,gorff,gorph,,,,,,corph,corph,corff,gorff,body
+κλῆμα,58,unigram,neuter,nominative,plural,canghennau,1.0591090190634709,,,,,canghennau,,,,,,,,,,branch
+κλῆμα,159,unigram,neuter,nominative,singular,,,gangen,gangen,erys,erys,gangen,,,,,,erys,erys,ynof,gangen,branch
+ἄρτος,330,unigram,masculine,accusative,plural,torth,235.02910612337877,torth,torth,torth,torth,torth,,,,,,torth,torth,torth,torth,bread
+ἄρτος,359,unigram,masculine,accusative,singular,bara,824.043139252559,bara,bara,bara,bara,bara,,,,,,bara,bara,bara,bwyta,bread
+ἄρτος,166,unigram,masculine,nominative,plural,fara,20.473568331481374,fara,fara,fara,fara,dorthau,,,,,,vara,vara,fara,fara,bread
+ἄρτος,39,unigram,masculine,nominative,singular,bara,764.5859878635114,bara,bara,bara,bara,bara,,,,,,bara,bara,bara,bara,bread
+ἀδελφός,315,unigram,masculine,accusative,plural,frodyr,161.86545668491075,frodyr,frodyr,frodyr,frodyr,frodyr,,,,,,vroder,vroder,frodyr,frodyr,brother
+ἀδελφός,129,unigram,masculine,accusative,singular,frawd,133.32339001047805,frawd,frawd,frawd,frawd,frawd,,,,,,vrawt,vrawt,frawd,frawd,brother
+ἀδελφός,119,unigram,masculine,nominative,plural,frodyr,937.5463030876373,frodyr,frodyr,frodyr,frodyr,frodyr,,,,,,broder,broder,frodyr,frodyr,brother
+ἀδελφός,245,unigram,masculine,nominative,singular,frawd,67.0727265567482,frawd,frawd,frawd,frawd,frawd,,,,,,vrawt,vrawt,frawd,frawd,brother
+στῆθος,164,unigram,neuter,accusative,plural,olygfa,1.3459632311191176,olygfa,olygfa,,,,,,,,,,,,galaru,"chest, breast"
+στῆθος,300,unigram,neuter,accusative,singular,,,fynwes,fynwes,ddwyfron,ddwyfron,ddwyfron,,,,,,,,fynwes,,"chest, breast"
+ἀρχιερεύς,259,unigram,masculine,accusative,plural,archoffeiriaid,70.80824322768625,,,archoffeiriaid,archoffeiriaid,archoffeiriaid,,,,,,Archoffeiriait,Archoffeiriait,offeiriaid,prif,chief priest
+ἀρχιερεύς,63,unigram,masculine,accusative,singular,archoffeiriad,22.701071258919484,archoffeiriad,archoffeiriad,archoffeiriad,archoffeiriad,archoffeiriad,,,,,,Archoffeiriat,Archoffeiriat,,archoffeiriad,chief priest
+ἀρχιερεύς,128,unigram,masculine,nominative,plural,offeiriaid,1.3109256329377799,offeiriaid,offeiriaid,archoffeiriaid,archoffeiriaid,archoffeiriaid,,,,,,Archoffeiriait,Archoffeiriait,offeiriaid,offeiriaid,chief priest
+ἀρχιερεύς,263,unigram,masculine,nominative,singular,archoffeiriad,3096.311735819291,archoffeiriad,archoffeiriad,archoffeiriad,archoffeiriad,archoffeiriad,,,,,,Archoffeiriat,Archoffeiriat,Offeiriad,archoffeiriad,chief priest
+παῖς,50,unigram,masculine,accusative,singular,gynhyrfu,1.121775902365307,gynhyrfu,gynhyrfu,,,rhwygodd,,,,,,gerydawdd,,,,child
+τέκνον,350,unigram,neuter,accusative,plural,blant,161.78684299765914,blant,blant,blant,blant,blant,,,,,,blant,blant,blant,blant,child
+τέκνον,188,unigram,neuter,accusative,singular,,,plant,plant,brawd,brawd,brawd,,,,,,plant,plant,brawd,blentyn,child
+τέκνον,18,unigram,neuter,nominative,plural,,,,,blentyn,blentyn,,,,,,,plant,plant,thad,,child
+τέκνον,204,unigram,neuter,nominative,singular,Ha,2.6036235155725476,Fy,Fy,Ha,Ha,mhlentyn,,,,,,Ha,Ha,mab,Machgen,child
+παιδίον,16,unigram,neuter,accusative,plural,,,rhwystro,rhwystro,bychain,bychain,cyfryw,,,,,,cyfryw,cyfryw,rhwystro,plant,child
+παιδίον,96,unigram,neuter,accusative,singular,plentyn,250.64831160899155,plentyn,plentyn,bychan,bychan,plentyn,,,,,,vachcenyn,vachcenyn,plentyn,plentyn,child
+παιδίον,181,unigram,neuter,nominative,plural,plant,2.1418347303159564,plant,plant,bychain,bychain,blant,,,,,,,,,plant,child
+παιδίον,41,unigram,neuter,nominative,singular,plentyn,582.8642576443655,plentyn,plentyn,,,plentyn,,,,,,bachcenyn,bachcenyn,plentyn,plentyn,child
+πόλις,192,unigram,feminine,accusative,plural,ddinasoedd,51.40200647723987,trefi,trefi,ddinasoedd,ddinasoedd,,,,,,,ddinasoedd,ddinasoedd,ddinasoedd,trefi,city
+πόλις,67,unigram,feminine,accusative,singular,ddinas,132.58785946972446,dref,dref,ddinas,ddinas,ddinas,,,,,,dinas,dinas,ddinas,dref,city
+πύλη,218,unigram,feminine,nominative,singular,cyfyng,1.7088933677830973,cyfyng,cyfyng,cyfyng,cyfyng,porth,,,,,,cyfing,cyfing,cyfyng,gul,city gate
+χιτών,124,unigram,masculine,accusative,plural,bais,20.251266790931087,grys,grys,bais,bais,bais,,,,,,bais,bais,grys,sbâr,"clothing, undergarments"
+χιτών,30,unigram,masculine,accusative,singular,bais,12.439753466427593,grys,grys,bais,bais,bais,,,,,,bais,bais,foch,grys,"clothing, undergarments"
+ἱμάτιον,140,unigram,neuter,accusative,plural,ddillad,1.836860406830516,ddillad,ddillad,ddillad,ddillad,ddillad,,,,,,ddillat,ddillat,ddillad,ddillad,coat
+ἱμάτιον,139,unigram,neuter,accusative,singular,,,fantell,fantell,gochl,gochl,gochl,,,,,,gochyl,gochyl,fantell,gôt,coat
+ἐντολή,87,unigram,feminine,accusative,plural,gorchmynion,16.38145405274191,gorchmynion,gorchmynion,gorchmynion,gorchmynion,gorchymynion,,,,,,neb,neb,gorchmynion,gofala,commandment
+ἐντολή,85,unigram,feminine,accusative,singular,gorchymyn,29.57633603783001,gorchymyn,gorchymyn,orchymyn,orchymyn,orchymyn,,,,,,gorchymyn,gorchymyn,gorchymyn,traddodiadau,commandment
+συνέδριον,334,unigram,neuter,accusative,plural,,,lysoedd,lysoedd,cynghorau,cynghorau,yʼch,,,,,,ach,ach,llysoedd,awdurdodau,council
+συνέδριον,54,unigram,neuter,accusative,singular,archoffeiriaid,1.7135792826722043,prif,prif,archoffeiriaid,archoffeiriaid,archoffeiriaid,,,,,,Archoffeiriait,Archoffeiriait,Cyngor,Sanhedrin,council
+χώρα,80,unigram,feminine,accusative,plural,gwynion,1.059148316217731,,,,,gwynion,,,,,,,,,,"country, countryside"
+χώρα,303,unigram,feminine,accusative,singular,wlad,518.6691762852524,wlad,wlad,wlad,wlad,wlad,,,,,,wlat,wlat,wlad,ardal,"country, countryside"
+ὄχλος,59,unigram,masculine,accusative,plural,dyrfa,14.673908922939171,tyrfaoedd,tyrfaoedd,torfeydd,torfeydd,torfeydd,,,,,,dyrfa,dyrfa,dyrfa,dyrfa,crowd
+ὄχλος,11,unigram,masculine,accusative,singular,dyrfa,526813.9160496877,dyrfa,dyrfa,dyrfa,dyrfa,dyrfa,,,,,,dyrva,dyrva,dyrfa,dyrfa,crowd
+ὄχλος,106,unigram,masculine,nominative,plural,tyrfaoedd,54.90010363642502,tyrfaoedd,tyrfaoedd,bobloedd,bobloedd,torfeydd,,,,,,populoedd,populoedd,dyrfa,tyrfaoedd,crowd
+ὄχλος,295,unigram,masculine,nominative,singular,dyrfa,114.92225867465477,dyrfa,dyrfa,dyrfa,dyrfa,dyrfa,,,,,,popul,popul,dyrfa,dyrfa,crowd
+θυγάτηρ,122,unigram,feminine,nominative,plural,Merched,1.200090547449945,,,Merched,Merched,,,,,,,,,,,daughter
+θυγάτηρ,329,unigram,feminine,nominative,singular,merch,3.041199548935203,merch,merch,ferch,ferch,merch,,,,,,verch,verch,merch,ferch,daughter
+ἡμέρα,78,unigram,feminine,accusative,plural,diwrnod,2.962953131404286,diwrnod,diwrnod,dyddiau,dyddiau,dyddiau,,,,,,diernot,diernot,diwrnod,diwrnod,day
+ἡμέρα,91,unigram,feminine,accusative,singular,dydd,34.12555784565467,dydd,dydd,beunydd,beunydd,dydd,,,,,,dydd,dydd,dydd,dydd,day
+ἡμέρα,2,unigram,feminine,nominative,plural,dyddiau,504.305472570059,dyddiau,dyddiau,dyddiau,dyddiau,dyddiau,,,,,,dyddiae,dyddiae,amser,bryd,day
+ἡμέρα,69,unigram,feminine,nominative,singular,dydd,24.27237442469997,ddydd,ddydd,dydd,dydd,dydd,,,,,,dydd,dydd,ddydd,hwyr,day
+ὀφειλέτης,265,unigram,masculine,nominative,plural,troseddwyr,1.1216927745330212,troseddwyr,troseddwyr,,,,,,,,,,,,waeth,debtor
+δαιμόνιον,31,unigram,neuter,accusative,plural,gythreuliaid,20.21105368506751,gythreuliaid,gythreuliaid,gythreuliaid,gythreuliaid,cythreuliaid,,,,,,allan,allan,gythreuliaid,gythreuliaid,demon
+δαιμόνιον,344,unigram,neuter,accusative,singular,cythraul,882.6105750091212,cythraul,cythraul,cythraul,cythraul,cythraul,,,,,,cythrael,cythrael,cythraul,cythraul,demon
+δαιμόνιον,206,unigram,neuter,nominative,plural,cythreuliaid,1038.0248760977438,cythreuliaid,cythreuliaid,cythreuliaid,cythreuliaid,cythreuliaid,,,,,,cythraelieit,cythraelieit,cythreuliaid,cythreuliaid,demon
+δαιμόνιον,180,unigram,neuter,nominative,singular,cythraul,2211.6551282948894,cythraul,cythraul,cythraul,cythraul,cythraul,,,,,,cythrael,cythrael,cythraul,cythraul,demon
+δηνάριον,320,unigram,neuter,accusative,plural,,,arian,arian,ceiniog,ceiniog,denar,,,,,,ceiniawc,ceiniawc,hanner,dyled,denarius (about a day's wages)
+δηνάριον,168,unigram,neuter,accusative,singular,,,arian,arian,geiniog,geiniog,ddenar,,,,,,geiniawc,geiniawc,gyflogwyd,darn,denarius (about a day's wages)
+μαθητής,186,unigram,masculine,accusative,plural,ddisgyblion,62585.59861472422,ddisgyblion,ddisgyblion,ddisgyblion,ddisgyblion,ddisgyblion,,,,,,ddiscipulon,ddiscipulon,ddisgyblion,ddisgyblion,disciple
+μαθητής,351,unigram,masculine,accusative,singular,disgybl,11.504984553548159,disgybl,disgybl,disgybl,disgybl,disgybl,,,,,,discipul,discipul,disgybl,garu,disciple
+μαθητής,289,unigram,masculine,nominative,plural,ddisgyblion,16.01068411984863,ddisgyblion,ddisgyblion,ddisgyblion,ddisgyblion,ddisgyblion,,,,,,ddiscipulon,ddiscipulon,ddisgyblion,disgyblion,disciple
+μαθητής,349,unigram,masculine,nominative,singular,disgybl,878.3014950016707,disgybl,disgybl,disgybl,disgybl,disgybl,,,,,,discipul,discipul,disgybl,disgybl,disciple
+νόσος,3,unigram,feminine,accusative,plural,clefydau,22.100458429695674,clefydau,clefydau,clefydau,clefydau,clefydau,,,,,,,,,,disease
+νόσος,76,unigram,feminine,accusative,singular,afiechyd,1.612479021933299,,,afiechyd,afiechyd,afiechyd,,,,,,haint,haint,afiechyd,,disease
+περιστερά,105,unigram,feminine,accusative,plural,gwerthu,4.033492438422892,gwerthu,gwerthu,colomennod,colomennod,colommenod,,,,,,,,gwerthu,gwerthu,dove
+περιστερά,56,unigram,feminine,accusative,singular,colomen,8.613706513546129,colomen,colomen,colomen,colomen,colommen,,,,,,colomben,colomben,colomen,colomen,dove
+οὖς,158,unigram,neuter,accusative,plural,glustiau,1.5419415158318206,,,glustiau,glustiau,glustiau,,,,,,glustiae,glustiae,gwrandewch,awyddus,ear
+οὖς,294,unigram,neuter,accusative,singular,glust,5.853270402676637,,,glust,glust,glust,,,,,,glust,glust,,,ear
+σεισμός,213,unigram,masculine,nominative,plural,,,,,daeargrynfâu,daeargrynfâu,daeargrynfaau,,,,,,newynae,newynae,newyn,,"earthquakes, storm"
+σεισμός,65,unigram,masculine,nominative,singular,mawr,2.020975402933829,,,mawr,mawr,mawr,,,,,,mawr,mawr,,Yn,"earthquakes, storm"
+τέλος,287,unigram,neuter,accusative,singular,diwedd,19.976116295406253,diwedd,diwedd,diwedd,diwedd,diwedd,,,,,,dywedd,dywedd,diwedd,gadarn,end
+αἰών,250,unigram,masculine,accusative,plural,deyrnasa,1.9817990540279395,deyrnasa,deyrnasa,,,theyrnasa,,,,,,,,,Jacob,eternity
+αἰών,316,unigram,masculine,accusative,singular,byth,1981.5015980181004,byth,byth,dragywydd,dragywydd,dragywydd,,,,,,byth,byth,byth,byth,eternity
+ὀφθαλμός,24,unigram,masculine,accusative,plural,lygaid,4.237694477926159,lygaid,lygaid,lygaid,lygaid,lygaid,,,,,,lygait,lygait,llygaid,llygaid,eye
+ὀφθαλμός,66,unigram,masculine,nominative,plural,llygaid,3878.7189563785732,llygaid,llygaid,llygaid,llygaid,llygaid,,,,,,llygait,llygait,llygaid,llygaid,eye
+ὀφθαλμός,313,unigram,masculine,nominative,singular,lygad,85.05224232310327,lygad,lygad,lygad,lygad,lygad,,,,,,lygat,lygat,lygad,llygad,eye
+πρόσωπον,131,unigram,neuter,accusative,plural,hwynebau,22.422998060181957,hwynebau,hwynebau,hwynebau,hwynebau,,,,,,,,,,hwynebau,face
+πρόσωπον,201,unigram,neuter,accusative,singular,wyneb,6735.274647205459,wyneb,wyneb,wyneb,wyneb,wyneb,,,,,,wynep,wynep,wyneb,wyneb,face
+λιμός,7,unigram,feminine,nominative,plural,newynae,1.1217119142615875,,,,,,,,,,,newynae,newynae,newyn,,famine
+λιμός,98,unigram,feminine,nominative,singular,,,newyn,newyn,dreulio,dreulio,gwario,,,,,,,,,,famine
+λιμός,144,unigram,masculine,nominative,singular,gaewyd,1.1999288806403459,,,gaewyd,gaewyd,,,,,,,,,,newyn,famine
+γεωργός,264,unigram,masculine,nominative,plural,,,tenantiaid,tenantiaid,llafurwyr,llafurwyr,llafurwyr,,,,,,lladdwn,dewch,,tenantiaid,"farmer, tenant"
+γεωργός,51,unigram,masculine,nominative,singular,,,gwinllannwr,gwinllannwr,llafurwr,llafurwr,llafurwr,,,,,,,,gwinllannwr,winwydden,"farmer, tenant"
+πατήρ,207,unigram,masculine,accusative,plural,tadau,2.418996970118669,,,tadau,tadau,tadau,,,,,,tadae,tadae,,,father
+πατήρ,319,unigram,masculine,accusative,singular,Tad,40.84852751745251,Tad,Tad,Tad,Tad,Tad,,,,,,Tat,Tat,Tad,Tad,father
+πατήρ,328,unigram,masculine,nominative,plural,hynafiaid,50.51567539088356,hynafiaid,hynafiaid,tadau,tadau,tadau,,,,,,tadae,tadae,hynafiaid,hynafiaid,father
+πατήρ,194,unigram,masculine,nominative,singular,Tad,9314.443875125742,Tad,Tad,Tad,Tad,Tad,,,,,,Tat,Tat,Tad,Tad,father
+ἀγρός,343,unigram,masculine,accusative,plural,wlad,15.556802840416388,wlad,wlad,wlad,wlad,wlad,,,,,,,,wlad,brodyr,field
+ἀγρός,40,unigram,masculine,accusative,singular,faes,3.25564530690239,,,faes,faes,faes,,,,,,,vaes,,maes,field
+δάκτυλος,243,unigram,masculine,accusative,plural,fysedd,1.3144503787508872,,,fysedd,fysedd,fysedd,,,,,,vyssedd,,,,finger
+δάκτυλος,185,unigram,masculine,accusative,singular,ystlys,67.59810674957151,ystlys,ystlys,ystlys,ystlys,ystlys,,,,,,ystlys,ystlys,ystlys,arddyrnau,finger
+ἰχθύς,161,unigram,masculine,accusative,plural,torth,3.4061197063455735,torth,torth,bysgodyn,bysgodyn,bysgodyn,,,,,,torth,torth,bysgodyn,torth,fish
+ἰχθύς,200,unigram,masculine,accusative,singular,pysgodyn,2.0918930440368766,pysgodyn,pysgodyn,pysgodyn,pysgodyn,pysgodyn,,,,,,byscodyn,byscodyn,,,fish
+δίκτυον,114,unigram,neuter,accusative,plural,rhwydau,2519.0826226908575,rhwydau,rhwydau,rhwydau,rhwydau,rhwydau,,,,,,rhwytae,rhwytae,rhwydau,rhwydi,fishing net
+δίκτυον,210,unigram,neuter,accusative,singular,rhwyd,18.036164962921486,rhwyd,rhwyd,rhwyd,rhwyd,rhwyd,,,,,,rhwyt,rhwyt,rhwyd,rhwyd,fishing net
+δίκτυον,254,unigram,neuter,nominative,singular,,,,,,,,,,,,,,,rwygodd,153,fishing net
+τροφή,256,unigram,feminine,accusative,plural,brynu,2.2300838680331765,brynu,brynu,brynu,brynu,prynent,,,,,,brynu,,brynu,dre,food
+τροφή,338,unigram,feminine,accusative,singular,osodwyd,1.19993895064869,osodwyd,osodwyd,,,,,,,,,,,chall,,food
+πούς,246,unigram,masculine,accusative,plural,draed,229.69074222799554,draed,draed,draed,draed,draed,,,,,,draet,draet,draed,nhraed,foot
+πούς,118,unigram,masculine,accusative,singular,droed,1.6156253709501542,,,droed,droed,droed,,,,,,droet,droet,,,foot
+καρπός,190,unigram,masculine,accusative,plural,ffrwythau,184.1442873424833,ffrwythau,ffrwythau,ffrwythau,ffrwythau,ffrwythau,,,,,,ffrwythae,ffrwythae,,ffrwyth,"fruit, crop, harvest"
+καρπός,241,unigram,masculine,accusative,singular,ffrwyth,108682.1081636522,ffrwyth,ffrwyth,ffrwyth,ffrwyth,ffrwyth,,,,,,ffrwyth,ffrwyth,ffrwyth,ffrwyth,"fruit, crop, harvest"
+πλήρωμα,281,unigram,neuter,accusative,plural,dameidiau,4.4691155483732485,dameidiau,dameidiau,,,llonaid,,,,,,bascedeit,bascedeit,,dameidiau,fullness
+πλήρωμα,337,unigram,neuter,accusative,singular,vrethyn,1.1217119142615875,,,,,,,,,,,vrethyn,vrethyn,,,fullness
+γενεά,282,unigram,feminine,accusative,plural,hofnant,1.200131147320075,,,hofnant,hofnant,,,,,,,,,oesIʼr,trugarhau,generation
+γενεά,242,unigram,feminine,accusative,singular,genhedlaeth,72.21360388893447,genhedlaeth,genhedlaeth,genhedlaeth,genhedlaeth,genhedlaeth,,,,,,,,genhedlaeth,genhedlaeth,generation
+γενεά,326,unigram,feminine,nominative,plural,genedlaethau,3.9998058682881874,,,genedlaethau,genedlaethau,genhedlaethau,,,,,,,,,,generation
+γενεά,157,unigram,feminine,nominative,singular,genhedlaeth,140.9334858367544,genhedlaeth,genhedlaeth,genhedlaeth,genhedlaeth,genhedlaeth,,,,,,,,genhedlaeth,genhedlaeth,generation
+δῶρον,318,unigram,neuter,accusative,plural,rhoddion,1.7559756078177442,,,,,rhoddion,,,,,,,,,,gift
+δῶρον,169,unigram,neuter,accusative,singular,allor,7.58220679052095,offrwm,offrwm,allor,allor,allor,,,,,,allor,allor,allor,offrwm,gift
+ἡγεμών,178,unigram,masculine,accusative,plural,brenhinoedd,3.0456173319723616,llywodraethwyr,llywodraethwyr,brenhinoedd,brenhinoedd,brenhinoedd,,,,,,ich,ich,brenhinoedd,,"governor, ruler"
+ἡγεμών,13,unigram,masculine,accusative,singular,rhaglaw,1.8584369099493059,rhaglaw,rhaglaw,rhaglaw,rhaglaw,rhaglaw,,,,,,,,atebiad,sens,"governor, ruler"
+σταφυλή,193,unigram,feminine,accusative,plural,ysgall,1.095398876121712,,,,,,,,,,,,,,ysgall,grapes
+σταφυλή,353,unigram,feminine,accusative,singular,fieri,1.095398876121712,,,,,,,,,,,,,,fieri,grapes
+ἀσπασμός,331,unigram,masculine,accusative,plural,,,cyfarchiadau,cyfarchiadau,marchnadoedd,marchnadoedd,,,,,,,marchnatoedd,marchnatoedd,foesymgrymu,cyfarch,greeting
+ἀσπασμός,179,unigram,masculine,accusative,singular,chroth,1.059115049741089,,,,,,,,,,,,,,chroth,greeting
+ὁδηγός,5,unigram,masculine,nominative,plural,,,ddeillion,ddeillion,,,dywys,,,,,,tywysogion,tywysogion,ffos,ffos,guide
+ὁδηγός,4,unigram,masculine,nominative,singular,deillion,3.3743146229655934,dall,dall,deillion,deillion,deillion,,,,,,dywysogion,dywysogion,,Arweinwyr,guide
+θρίξ,97,unigram,feminine,nominative,plural,gwallt,1.92667047027073,,,,,gwallt,,,,,,,,blewyn,gwallt,hair
+χείρ,322,unigram,feminine,accusative,plural,ddwylo,6975.029070577791,ddwylo,ddwylo,ddwylo,ddwylo,ddwylaw,,,,,,ddwylo,ddwylo,ddwylo,ddwylo,hand
+χείρ,230,unigram,feminine,accusative,singular,law,31350.61476583479,law,law,law,law,law,,,,,,law,law,law,law,hand
+κεφαλή,150,unigram,feminine,accusative,plural,pennau,3.45645545667725,gablu,gablu,pennau,pennau,pennau,,,,,,pennae,,pennau,,head
+κεφαλή,216,unigram,feminine,accusative,singular,ben,18924.427535581013,ben,ben,ben,ben,ben,,,,,,ben,ben,ben,pen,head
+στάχυς,217,unigram,masculine,accusative,plural,,,tywysennau,tywysennau,ŷd,ŷd,tywys,,,,,,tywys,tywys,tywysennau,,head of grain
+στάχυς,77,unigram,masculine,accusative,singular,gwelltyn,1.0954080587464583,,,,,,,,,,,,,,gwelltyn,head of grain
+καρδία,34,unigram,feminine,accusative,plural,calonnau,26.17069314876414,calonnau,calonnau,calonnau,calonnau,calonnau,,,,,,calonae,calonae,pobl,,heart
+καρδία,297,unigram,feminine,accusative,singular,calon,5.283458794937551,meddwl,meddwl,calon,calon,calon,,,,,,calonae,calonae,meddyliau,deall,heart
+καρδία,202,unigram,feminine,nominative,singular,calon,14845.996914107815,calon,calon,calon,calon,calon,,,,,,calon,calon,calon,calonnau,heart
+οὐρανός,8,unigram,masculine,accusative,plural,,,nefoedd,nefoedd,agored,agored,ymrwygo,,,,,,,,colomen,colomen,"heaven, sky"
+οὐρανός,277,unigram,masculine,accusative,singular,nef,254371.40354730817,nef,nef,nef,nef,nef,,,,,,nef,nef,nef,nefoedd,"heaven, sky"
+οὐρανός,357,unigram,masculine,nominative,plural,,,,,,,,,,,,,,,gorffwys,colomen,"heaven, sky"
+οὐρανός,208,unigram,masculine,nominative,singular,nef,7.326134495735708,nef,nef,nef,nef,nef,,,,,,Nef,Nef,nef,awyr,"heaven, sky"
+ὥρα,302,unigram,feminine,nominative,plural,,,baglu,baglu,thramgwydda,thramgwydda,thripia,,,,,,thancwydda,thancwydda,,awr,hour
+ὥρα,27,unigram,feminine,nominative,singular,awr,12229.932181534265,awr,awr,awr,awr,awr,,,,,,awr,awr,amser,amser,hour
+οἰκία,163,unigram,feminine,accusative,plural,dai,1.719004955452102,dderbyn,dderbyn,dai,dai,dai,,,,,,,,,gweddïau,house
+οἰκία,335,unigram,feminine,accusative,singular,dŷ,19.411434193097858,dŷ,dŷ,dŷ,dŷ,dŷ,,,,,,duy,duy,dŷ,dŷ,house
+οἶκος,23,unigram,masculine,accusative,singular,,,adref,adref,dŷ,dŷ,dŷ,,,,,,duy,duy,adref,adre,"house, home"
+κριτής,317,unigram,masculine,nominative,plural,Beelsebwl,1.0891608288316883,Beelsebwl,Beelsebwl,,,Beelzebub,,,,,,,,,dilynwyr,judge
+κριτής,171,unigram,masculine,nominative,singular,barnwr,57.085708207688526,barnwr,barnwr,barnwr,barnwr,barnwr,,,,,,brawdwr,brawdwr,barnwr,barnwr,judge
+βασιλεύς,112,unigram,masculine,accusative,plural,brenhinoedd,5.660506284439909,brenhinoedd,brenhinoedd,brenhinoedd,brenhinoedd,brenhinoedd,,,,,,ich,ich,brenhinoedd,brenhinoedd,king
+βασιλεύς,60,unigram,masculine,accusative,singular,,,Frenin,Frenin,frenin,frenin,frenhin,,,,,,Vrenhin,Vrenhin,brenin,Iddewon‛,king
+βασιλεία,83,unigram,feminine,accusative,plural,deyrnasoedd,3.6961723648486298,deyrnasoedd,deyrnasoedd,deyrnasoedd,deyrnasoedd,deyrnasoedd,,,,,,deyrnasoedd,vynyth,deyrnasoedd,wledydd,kingdom
+βασιλεία,167,unigram,feminine,accusative,singular,deyrnas,125.61937206022097,deyrnas,deyrnas,deyrnas,deyrnas,deyrnas,,,,,,deyrnas,deyrnas,deyrnas,deyrnasu,kingdom
+κόπος,211,unigram,masculine,accusative,plural,brydferth,1.7598166883311563,brydferth,brydferth,weithred,weithred,berwch,,,,,,,,brydferth,lonydd,"labour, work, trouble, difficulty"
+λύχνος,239,unigram,masculine,nominative,singular,,,cannwyll,cannwyll,olau,olau,,,,,,,corph,corph,goleuni,lamp,lamp
+κλῆρος,103,unigram,masculine,accusative,plural,,,,,,,goelbren,,,,,,,,,gamblo,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,coelbren,5.284133506451612,coelbren,coelbren,,,coelbren,,,,,,goelbrenni,goelbrenni,coelbren,gamblo,"lots (casting of lots), inheritance"
+ἄνθρωπος,306,unigram,masculine,accusative,plural,,,dynion,dynion,ddynion,ddynion,ddynion,,,,,,ddynion,dynion,dynion,pobl,man
+ἄνθρωπος,266,unigram,masculine,accusative,singular,dyn,4.530291208277001,halogi,halogi,dyn,dyn,dyn,,,,,,ddyn,ddyn,dyn,‛aflan‛,man
+ἄνθρωπος,125,unigram,masculine,nominative,plural,dynion,71.38981237102243,pobl,pobl,dynion,dynion,dynion,,,,,,dynion,dynion,,pobl,man
+ἄνθρωπος,184,unigram,masculine,nominative,singular,dyn,1474.7983836423884,dyn,dyn,dyn,dyn,dyn,,,,,,dyn,dyn,dyn,dyn,man
+ἀνήρ,257,unigram,masculine,accusative,plural,ŵr,2.7506221283389283,,,ŵr,ŵr,ŵr,,,,,,wr,wr,tiʼr,,"man, husband"
+ἀνήρ,261,unigram,masculine,accusative,singular,gŵr,18.68116826597675,gŵr,gŵr,ŵr,ŵr,ŵr,,,,,,wr,wr,gŵr,gŵr,"man, husband"
+ἀνήρ,155,unigram,masculine,nominative,plural,wŷr,2.4202973380922623,wŷr,wŷr,wŷr,wŷr,mil,,,,,,gwyr,gwyr,mil,ddynion,"man, husband"
+ἀνήρ,248,unigram,masculine,nominative,singular,,,ddyn,ddyn,gŵr,gŵr,gŵr,,,,,,wr,wr,ŵr,ddyn,"man, husband"
+μνᾶ,309,unigram,feminine,accusative,plural,darn,9.218762684625565,darn,darn,punt,punt,maneh,,,,,,darn,darn,ddarn,,mina (about 100 days' wages)
+μνᾶ,14,unigram,feminine,accusative,singular,aur,1.2144942142911277,aur,aur,,,,,,,,,,,rhoddwch,elw,mina (about 100 days' wages)
+πρωτοκαθεδρία,110,unigram,feminine,accusative,plural,,,,,gadeiriau,gadeiriau,sunagogau,,,,,,eisteddleoedd,eisteddleoedd,gwleddoedd,,"most important seat, seat of honour"
+πρωτοκαθεδρία,36,unigram,feminine,accusative,singular,gadeiriau,1.6150466055423738,gadeiriau,gadeiriau,gadeiriau,gadeiriau,brif-gadair,,,,,,ys-cerwch,ys-cerwch,,seddi,"most important seat, seat of honour"
+μήτηρ,290,unigram,feminine,accusative,singular,fam,153.59320932697642,fam,fam,fam,fam,fam,,,,,,vam,vam,fam,fam,mother
+ὄρος,225,unigram,neuter,accusative,plural,mynyddoedd,8.043161078621454,mynyddoedd,mynyddoedd,mynyddoedd,mynyddoedd,mynyddoedd,,,,,,mynyddedd,mynyddedd,,mynyddoedd,mountain
+ὄρος,275,unigram,neuter,accusative,singular,mynydd,9.26399086527602,mynydd,mynydd,mynydd,mynydd,mynydd,,,,,,mynyth,mynyth,mynydd,mynydd,mountain
+ὄνομα,92,unigram,neuter,accusative,plural,Boanerges,1.1607796263255674,,,,,Boanerges,,,,,,,,,,name
+ὄνομα,35,unigram,neuter,accusative,singular,enw,2676.0096316431445,enw,enw,enw,enw,enw,,,,,,Enw,Enw,fʼenw,mi,name
+ὄνομα,108,unigram,neuter,nominative,plural,enwau,63.99047626329762,enwau,enwau,enwau,enwau,enwau,,,,,,enwae,enwae,,enwau,name
+ὄνομα,262,unigram,neuter,nominative,singular,enw,9148837.32151232,enw,enw,enw,enw,enw,,,,,,enw,enw,enw,enw,name
+ἔθνος,237,unigram,neuter,accusative,plural,genhedloedd,101.69785338879171,genhedloedd,genhedloedd,genhedloedd,genhedloedd,genhedloedd,,,,,,genetloedd,genetloedd,genhedloedd,gwlad,nation
+ἔθνος,203,unigram,neuter,accusative,singular,cenedl,37.56414351392881,cenedl,cenedl,cenedl,cenedl,cenedl,,,,,,theyrnas,theyrnas,cenedl,,nation
+ἔθνος,312,unigram,neuter,nominative,plural,Cenhedloedd,2.680558400018396,Cenhedloedd,Cenhedloedd,Cenhedloedd,Cenhedloedd,Cenhedloedd,,,,,,wyr,,ceisioʼr,genhedloedd,nation
+ἔθνος,28,unigram,neuter,nominative,singular,theyrnas,2.34469824751717,,,,,,,,,,,theyrnas,theyrnas,theyrnas,,nation
+νύξ,196,unigram,feminine,accusative,plural,nos,651.015266054909,nos,nos,nos,nos,nos,,,,,,nos,nos,nos,diwrnod,night
+νύξ,255,unigram,feminine,accusative,singular,nos,65.05873904341762,nos,nos,nos,nos,nos,,,,,,nos,nos,nos,nos,night
+ὅρκος,61,unigram,masculine,accusative,plural,,,lw,lw,drist,drist,lwon,,,,,,vort,vort,,westeion,oath
+ὅρκος,274,unigram,masculine,accusative,singular,,,,,,,,,,,,,,,dyngodd,lw,oath
+βοῦς,160,unigram,masculine,accusative,plural,,,,,,,newidwyr,,,,,,,,,ychen,ox
+βοῦς,286,unigram,masculine,accusative,singular,ych,1.9379248093613801,ych,ych,ych,ych,,,,,,,,,ych,ych,ox
+παραβολή,270,unigram,feminine,accusative,plural,damhegion,5.77280385979099,damhegion,damhegion,ddamhegion,ddamhegion,damhegion,,,,,,parabolae,parabolae,damhegion,straeon,parable
+παραβολή,231,unigram,feminine,accusative,singular,ddameg,7605.46752816713,ddameg,ddameg,ddameg,ddameg,ddammeg,,,,,,parabol,parabol,ddameg,stori,parable
+μέρος,356,unigram,neuter,accusative,plural,barthau,3.960587609152185,barthau,barthau,barthau,barthau,,,,,,,dueddae,i,gyffiniau,ardal,part
+μέρος,53,unigram,neuter,accusative,singular,,,cosba,cosba,rhan,rhan,,,,,,,ran,ran,dorriʼn,gosbi,part
+μαργαρίτης,233,unigram,masculine,accusative,plural,¶,1.0941828796901651,,,,,,,,,,,¶,¶,,perlau,pearls
+τόπος,284,unigram,masculine,accusative,plural,,,,,daeargrynfâu,daeargrynfâu,daeargrynfaau,,,,,,newynae,newynae,newyn,,place
+τόπος,304,unigram,masculine,accusative,singular,lle,97.09823741873063,lle,lle,lle,lle,lle,,,,,,lle,lle,lle,lle,place
+πρωτοκλισία,288,unigram,feminine,accusative,plural,eisteddleoedd,3.7260407740068473,seddau,seddau,eisteddleoedd,eisteddleoedd,marchnadoedd,,,,,,eisteddleoedd,eisteddleoedd,seddau,gorau,place of honor
+πρωτοκλισία,37,unigram,feminine,accusative,singular,,,anrhydedd,anrhydedd,uchaf,uchaf,,,,,,,,,,,place of honor
+ὄφις,358,unigram,masculine,accusative,plural,gwenwyn,1.2109753543116366,,,,,,,,,,,,,,gwenwyn,poison
+ὄφις,109,unigram,masculine,accusative,singular,sarff,25.733202676556942,sarff,sarff,sarff,sarff,sarph,,,,,,sarph,sarph,sarff,neidr,poison
+σκεῦος,145,unigram,neuter,accusative,plural,yspeilio,1.2220533379263696,,,,,,,,,,,yspeilio,yspeilio,rwymoʼr,gartre,"possession, object, thing, jar, vessel"
+σκεῦος,199,unigram,neuter,nominative,singular,isop,1.1999188151666842,,,isop,isop,,,,,,,,,,,"possession, object, thing, jar, vessel"
+δύναμις,111,unigram,feminine,accusative,plural,lawer,1.871723064550954,lawer,lawer,,,lawer,,,,,,,,,wyrthiau,"power, ability, miracle"
+δύναμις,47,unigram,feminine,accusative,singular,nerth,13.502182886480377,nerth,nerth,rhinwedd,rhinwedd,gallu,,,,,,nerth,nerth,gallu,nerth,"power, ability, miracle"
+δύναμις,86,unigram,feminine,nominative,plural,nerthoedd,3.1826134278479725,nerthol,nerthol,nerthoedd,nerthoedd,gwyrthiau,,,,,,nerthoedd,nerthoedd,pwerauʼr,gwyrthiau,"power, ability, miracle"
+δύναμις,121,unigram,feminine,nominative,singular,nerth,126.53688349878861,nerth,nerth,nerth,nerth,,,,,,,nerth,nerth,nerth,nerth,"power, ability, miracle"
+ἱερεύς,21,unigram,masculine,nominative,plural,ddieuog,1.4659181583833583,ddieuog,ddieuog,ddigerydd,ddigerydd,,,,,,,,,,ddieuog,priest
+ἱερεύς,251,unigram,masculine,nominative,singular,offeiriad,127.97838852376812,offeiriad,offeiriad,offeiriad,offeiriad,offeiriad,,,,,,Offeiriat,Offeiriat,offeiriad,offeiriad,priest
+φυλακή,267,unigram,feminine,accusative,plural,,,garchar,garchar,,,garcharau,,,,,,bleit,bleit,,bugeiliaid,prison
+φυλακή,26,unigram,feminine,accusative,singular,garchar,6.450537213221903,garchar,garchar,ngharchar,ngharchar,yngharchar,,,,,,yn‐carchar,yn‐carchar,garchar,carchar,prison
+προφήτης,64,unigram,masculine,accusative,plural,proffwydi,244.61786165339487,proffwydi,proffwydi,proffwydi,proffwydi,prophwydi,,,,,,Prophwyti,Prophwyti,proffwydi,proffwydi,prophet
+προφήτης,209,unigram,masculine,accusative,singular,broffwyd,17.39783055412234,broffwyd,broffwyd,proffwyd,proffwyd,prophwyd,,,,,,Prophwyt,Prophwyt,broffwyd,broffwyd,prophet
+προφήτης,232,unigram,masculine,nominative,plural,proffwydi,63.576184637638356,proffwydi,proffwydi,proffwydi,proffwydi,Prophwydi,,,,,,Prophwyti,Prophwyti,proffwydi,proffwydi,prophet
+προφήτης,276,unigram,masculine,nominative,singular,proffwyd,19.58046453145464,proffwyd,proffwyd,proffwyd,proffwyd,prophwyd,,,,,,Prophwyt,Prophwyt,proffwyd,broffwyd,prophet
+βαλλάντιον,20,unigram,neuter,accusative,singular,,,,,god,god,,,,,,,yscrepan,yscrepan,chod,bag,purse
+ποταμός,132,unigram,masculine,nominative,plural,,,,,,,afonydd,,,,,,glaw,glaw,afonydd,,river
+ποταμός,174,unigram,masculine,nominative,singular,llifddyfroedd,1.1217246885880696,,,llifddyfroedd,llifddyfroedd,,,,,,,,,dyfroedd,llif,river
+λῃστής,43,unigram,masculine,accusative,plural,leidr,1.0657527628538297,,,,,,,,,,,,,,leidr,robber
+λῃστής,355,unigram,masculine,accusative,singular,leitr,2.6586633687228605,,,,,daethoch,,,,,,leitr,leitr,chleddyfau,pastynau,robber
+λῃστής,332,unigram,masculine,nominative,plural,lladron,4.157018012772236,gydag,gydag,lladron,lladron,lladron,,,,,,llatron,llatron,croeshoelio,croeshoelio,robber
+ἄρχων,214,unigram,masculine,accusative,plural,llywiawdwyr,1.8797409574778394,,,llywiawdwyr,llywiawdwyr,llywiawdwyr,,,,,,,,llywodraethwyr,Peilat,ruler
+ἄρχων,100,unigram,masculine,accusative,singular,wrthnebwr,1.2000601457987268,,,,lywodraethwr,,,,,,,wrthnebwr,wrthnebwr,,gymodi,ruler
+ἄρχων,68,unigram,masculine,nominative,plural,,,,,penaethiaid,penaethiaid,pennaethiaid,,,,,,Christ,Christ,llywodraethwyr,Meseia,ruler
+ἄρχων,327,unigram,masculine,nominative,singular,tywysog,3.0127406044729113,tywysog,tywysog,,,llywodraethwr,,,,,,tywysoc,tywysoc,rheolwr,tywysog,ruler
+ἀκοή,9,unigram,feminine,accusative,plural,chyffroer,1.2053515243683248,chyffroi,chyffroi,chyffroer,chyffroer,chyffroer,,,,,,ryveloedd,ryveloeð,ryfeloedd,rhyfeloedd,rumor
+ἀκοή,79,unigram,feminine,accusative,singular,clybu,1.4744598431080917,tetrarch,tetrarch,clybu,clybu,clybu,,,,,,YPRYD,Pryd,glustiauʼr,Tua,rumor
+ἀκοή,342,unigram,feminine,nominative,singular,sôn,6.0114293235374126,sôn,sôn,sôn,sôn,sôn,,,,,,son,son,amdano,Galilea,rumor
+βιβλίον,55,unigram,neuter,accusative,singular,llythyr,1.456561654377277,,,llythyr,llythyr,llythyr,,,,,,yscar,yscar,,tystysgrif,"scroll, book"
+διάκονος,226,unigram,masculine,nominative,plural,brofodd,1.1999591042841644,,,brofodd,brofodd,,,,,,,,,,,"servant, minister, deacon"
+διάκονος,95,unigram,masculine,nominative,singular,,,was,was,weinidog,weinidog,gweinidog,,,,,,byddet,byddet,plith,Rhaid,"servant, minister, deacon"
+δοῦλος,219,unigram,masculine,accusative,plural,weision,105451.02924518609,weision,weision,weision,weision,weision,,,,,,weision,weision,weision,weision,"servant, slave"
+δοῦλος,29,unigram,masculine,accusative,singular,was,897.131292948463,was,was,was,was,was,,,,,,was,was,was,gwas,"servant, slave"
+δοῦλος,107,unigram,masculine,nominative,plural,gweision,29848.542635070004,gweision,gweision,gweision,gweision,gweision,,,,,,gweision,gweision,gweision,gweision,"servant, slave"
+δοῦλος,215,unigram,masculine,nominative,singular,gwas,205.9399011235744,gwas,gwas,gwas,gwas,gwas,,,,,,gwas,gwas,gwas,meistr,"servant, slave"
+πρόβατον,336,unigram,neuter,accusative,plural,defaid,46.059124027029995,defaid,defaid,defaid,defaid,defaid,,,,,,bugail,bugail,defaid,defaid,sheep
+ποιμήν,260,unigram,masculine,nominative,plural,bugeiliaid,289.7812776756931,bugeiliaid,bugeiliaid,bugeiliaid,bugeiliaid,bugeiliaid,,,,,,peth,peth,bugeiliaid,bugeiliaid,"shepherd, pastor"
+ποιμήν,298,unigram,masculine,nominative,singular,bugail,323.310083927771,bugail,bugail,bugail,bugail,bugail,,,,,,bugail,bugail,bugail,bugail,"shepherd, pastor"
+σημεῖον,148,unigram,neuter,accusative,plural,arwyddion,73751.0557868187,arwyddion,arwyddion,arwyddion,arwyddion,arwyddion,,,,,,arwyddion,arwyddion,arwyddion,arwyddion,sign
+σημεῖον,135,unigram,neuter,accusative,singular,arwydd,706092.0335080243,arwydd,arwydd,arwydd,arwydd,arwydd,,,,,,arwydd,arwydd,arwydd,arwydd,sign
+σημεῖον,44,unigram,neuter,nominative,plural,arwyddion,464.89241942831774,arwyddion,arwyddion,arwyddion,arwyddion,arwyddion,,,,,,,,arwyddion,arwyddion,sign
+σημεῖον,94,unigram,neuter,nominative,singular,arwydd,3692.005414222803,arwydd,arwydd,arwydd,arwydd,arwydd,,,,,,arwydd,arwydd,arwydd,arwydd,sign
+δραχμή,305,unigram,feminine,accusative,plural,ddyfal,1.1998986978087096,ddyfal,ddyfal,,,,,,,,,,,,,"silver coin, drachma"
+δραχμή,176,unigram,feminine,accusative,singular,,,darn,darn,dryll,dryll,drachm,,,,,,dryll,dryll,darn,darn,"silver coin, drachma"
+ἀργύριον,224,unigram,neuter,accusative,plural,arian,1827.8940208694703,arian,arian,arian,arian,arian,,,,,,ariant,ariant,arian,arian,"silver, money"
+ἀργύριον,345,unigram,neuter,accusative,singular,arian,32623.519342137548,arian,arian,arian,arian,arian,,,,,,arian,arian,arian,arian,"silver, money"
+ἁμαρτία,293,unigram,feminine,accusative,plural,pechodau,136.4057547817839,pechodau,pechodau,pechodau,pechodau,pechodau,,,,,,vaddae,pechotae,pechodau,pechodau,sin
+ἁμαρτία,228,unigram,feminine,accusative,singular,bechod,13.503723100738174,bechod,bechod,bechod,bechod,pechod,,,,,,,,bai,euog,sin
+ἁμαρτία,301,unigram,feminine,nominative,plural,bechodau,18.812770081467473,bechodau,bechodau,bechodau,bechodau,bechodau,,,,,,,,maddau,maddau,sin
+ἁμαρτία,299,unigram,feminine,nominative,singular,pechod,59.537176371735924,pechod,pechod,pechod,pechod,pechod,,,,,,,,pechod,,sin
+ἀδελφή,324,unigram,feminine,accusative,plural,chwiorydd,95.56634690205532,chwiorydd,chwiorydd,chwiorydd,chwiorydd,chwiorydd,,,,,,chwioredd,blant,chwiorydd,chwiorydd,sister
+ἀδελφή,141,unigram,feminine,accusative,singular,chwaer,581.7145435875204,chwaer,chwaer,chwaer,chwaer,chwaer,,,,,,chwaer,chwaer,chwaer,hoff,sister
+ἀδελφή,22,unigram,feminine,nominative,plural,chwiorydd,503.05314939779294,chwiorydd,chwiorydd,chwiorydd,chwiorydd,chwiorydd,,,,,,chwioredd,chwioredd,chwiorydd,chwiorydd,sister
+ἀδελφή,323,unigram,feminine,nominative,singular,chwaer,47882.62316266479,chwaer,chwaer,chwaer,chwaer,chwaer,,,,,,chwaer,chwaer,chwaer,chwaer,sister
+πλοιάριον,244,unigram,neuter,nominative,plural,Tiberias,1.7012735293838712,Tiberias,Tiberias,,,,,,,,,,,,Tiberias,small boat
+πλοιάριον,147,unigram,neuter,nominative,singular,cwch,1.853055485767725,cwch,cwch,llong,llong,wasgent,,,,,,,,cwch,tyrfa,small boat
+ὀψάριον,189,unigram,neuter,accusative,plural,haidd,1.3013614296734124,,,haidd,haidd,bachgennyn,,,,,,,,haidd,phum,small fish
+ὀψάριον,269,unigram,neuter,accusative,singular,bara,2.1401859578950133,bara,bara,,,,,,,,,,,bara,coginio,small fish
+υἱός,49,unigram,masculine,accusative,plural,Sebedeus,2.068015200415895,Sebedeus,Sebedeus,Sebedeus,Sebedeus,meibion,,,,,,Zebedeus,Zebedeus,fab,Sebedeus,son
+υἱός,134,unigram,masculine,accusative,singular,Fab,1.2559949384470173,Fab,Fab,Fab,Fab,Mab,,,,,,Map,Map,Mab,Mab,son
+υἱός,136,unigram,masculine,nominative,plural,plant,5.092159515631167,blant,blant,plant,plant,meibion,,,,,,plant,plant,Deyrnas,blant,son
+υἱός,221,unigram,masculine,nominative,singular,Mab,71.42870483709198,Mab,Mab,Mab,Mab,Mab,,,,,,Map,Map,Mab,Mab,son
+ψυχή,296,unigram,feminine,accusative,singular,einioes,154.77906613892765,einioes,einioes,einioes,einioes,einioes,,,,,,einioes,einioes,fywyd,bywyd,"soul, life"
+ἀστήρ,307,unigram,masculine,nominative,plural,,,,,sêr,sêr,nerthoedd,,,,,,ser,ser,gwegian,,star
+ἀστήρ,198,unigram,masculine,nominative,singular,,,,,,,,,,,,,,,seren,uwchben,star
+λίθος,311,unigram,masculine,accusative,plural,gerrig,17.43098309716516,gerrig,gerrig,gerrig,gerrig,,,,,,,,,cerrig,cerrig,stone
+λίθος,38,unigram,masculine,accusative,singular,maen,144.68488944023008,maen,maen,maen,maen,maen,,,,,,maen,maen,garreg,garreg,stone
+λίθος,146,unigram,masculine,nominative,plural,cerrig,145.93356749390023,cerrig,cerrig,cerrig,cerrig,cerrig,,,,,,,,cerrig,cerrig,stone
+λίθος,42,unigram,masculine,nominative,singular,maen,10.513367295882922,maen,maen,maen,maen,maen,,,,,,vaen,,garreg,garreg,stone
+συναγωγή,258,unigram,feminine,accusative,plural,synagogau,169.13430907771496,synagogau,synagogau,synagogau,synagogau,sunagogau,,,,,,Synagogae,Synagogae,synagogau,synagogau,synagogue
+συναγωγή,347,unigram,feminine,accusative,singular,synagog,577.898338347718,synagog,synagog,synagog,synagog,sunagog,,,,,,Synagog,Synagog,synagog,synagog,synagogue
+τράπεζα,205,unigram,feminine,accusative,plural,cyfnewidwyr,2.1544898436054574,cyfnewidwyr,cyfnewidwyr,,,,,,,,,,,,cyfnewid,table
+τράπεζα,149,unigram,feminine,accusative,singular,Buasai,1.1999591042841644,Buasai,Buasai,,,,,,,,,,,,,table
+τάλαντον,73,unigram,neuter,accusative,plural,talent,8.886273987881939,cod,cod,talent,talent,talent,,,,,,talent,talent,,talent,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,235,unigram,neuter,accusative,singular,dalent,26.995868324303405,god,god,dalent,dalent,dalent,,,,,,,,cwdyn,talent,talent (weight and monetary unit: around 20 years' wages)
+φόρος,283,unigram,masculine,accusative,plural,gwahardd,1.1998886459170521,,,gwahardd,gwahardd,,,,,,,,,,camarwain,tax
+τελώνης,197,unigram,masculine,nominative,plural,trethi,3.3552404926274306,trethi,trethi,publicanod,publicanod,,,,,,,Publicanot,Publicanot,trethi,trethi,tax collector
+τελώνης,75,unigram,masculine,nominative,singular,trethi,2.8616832731592856,trethi,trethi,publican,publican,treth-gymmerwr,,,,,,Publican,Publican,trethi,trethi,tax collector
+γραμματεύς,352,unigram,masculine,nominative,plural,ysgrifenyddion,388.00170514008323,ysgrifenyddion,ysgrifenyddion,ysgrifenyddion,ysgrifenyddion,ysgrifenyddion,,,,,,Gwyr‐llen,Gwyr‐llen,Gyfraith,arbenigwyr,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,222,unigram,masculine,nominative,singular,ysgrifennydd,21.31609243389227,ysgrifennydd,ysgrifennydd,ysgrifennydd,ysgrifennydd,ysgrifenydd,,,,,,,,Gyfraith,thrysorau,"teacher, expert in the law, scholar, scribe"
+κλέπτης,88,unigram,masculine,nominative,plural,lladron,2.690605477679897,,,lladron,lladron,lladron,,,,,,llatron,llatron,lladron,,thief
+κλέπτης,234,unigram,masculine,nominative,singular,lleidr,2507.9459136763244,lleidr,lleidr,lleidr,lleidr,lleidr,,,,,,lleitr,lleitr,lleidr,lleidr,thief
+διαλογισμός,308,unigram,masculine,accusative,plural,meddyliau,8.250391879456295,meddyliau,meddyliau,,,hymresymmiadau,,,,,,meddyliae,meddyliae,meddyliau,meddyliau,"thought, argument"
+διαλογισμός,153,unigram,masculine,accusative,singular,,,feddyliau,feddyliau,meddwl,meddwl,ymresymmiad,,,,,,veddyliae,veddyliae,drwyʼu,gosododd,"thought, argument"
+διαλογισμός,126,unigram,masculine,nominative,plural,meddyliau,2.3879264472702015,puteinio,puteinio,meddyliau,meddyliau,meddyliau,,,,,,meddyliae,meddyliae,llofruddio,,"thought, argument"
+θρόνος,249,unigram,masculine,accusative,singular,orsedd,2.468889665693044,orsedd,orsedd,orseddfa,orseddfa,orsedd,,,,,,,,,orsedd,throne
+χρόνος,280,unigram,masculine,accusative,plural,,,hir,hir,dalm,dalm,maith,,,,,,,,ysbaid,Gosododd,time
+χρόνος,240,unigram,masculine,accusative,singular,amser,78.51725553008565,amser,amser,amser,amser,amser,,,,,,amser,amser,sêr-ddewiniaid,gwŷr,time
+καιρός,81,unigram,masculine,nominative,plural,hamserau,1.200141308801072,hamserau,hamserau,,,,,,,,,,,,garcharorion,"time, right time"
+καιρός,151,unigram,masculine,nominative,singular,amser,3317.465990571981,amser,amser,amser,amser,amser,,,,,,amser,amser,amser,amser,"time, right time"
+τάφος,138,unigram,masculine,accusative,plural,addurno,1.998602114490985,addurno,addurno,addurno,addurno,,,,,,,,,,feddau,"tomb, grave"
+τάφος,182,unigram,masculine,accusative,singular,bedd,34.74251881597018,bedd,bedd,bedd,bedd,bedd,,,,,,bedd,bedd,bedd,bedd,"tomb, grave"
+μνημεῖον,15,unigram,neuter,accusative,plural,,,beddfeini,beddfeini,beddau,beddau,,,,,,,,,Gwae,cofgolofnau,"tomb, grave"
+μνημεῖον,19,unigram,neuter,accusative,singular,bedd,7281.597057061916,bedd,bedd,bedd,bedd,bedd,,,,,,vonwent,vonwent,bedd,bedd,"tomb, grave"
+μνημεῖον,84,unigram,neuter,nominative,plural,beddau,43.41398546471306,beddau,beddau,beddau,beddau,beddau,,,,,,,,,beddau,"tomb, grave"
+μνημεῖον,273,unigram,neuter,nominative,singular,bedd,4.4067671402749236,orwedd,orwedd,bedd,bedd,,,,,,,van,van,,bedd,"tomb, grave"
+θησαυρός,229,unigram,masculine,accusative,singular,drysor,1.3948939463119137,drysor,drysor,thyred,thyred,,,,,,,dresawr,dresawr,drysor,eiddo,treasure
+δένδρον,93,unigram,neuter,accusative,plural,coed,1.888291054345268,,,,,,,,,,,,,,coed,tree	
+δένδρον,82,unigram,neuter,accusative,singular,goeden,5.855994667933312,goeden,goeden,,,,,,,,,,,bren,goeden,tree	
+λίτρα,130,unigram,feminine,accusative,singular,arogl,1.1998886459170521,,,arogl,arogl,,,,,,,,,,,unit of measure around 300 grams
+κώμη,279,unigram,feminine,accusative,plural,pentrefi,65.20183995940586,pentrefi,pentrefi,pentrefi,pentrefi,pentrefi,,,,,,trefi,trefi,pentrefi,pentrefi,village
+κώμη,57,unigram,feminine,accusative,singular,dref,147.59426506034742,,,dref,dref,,,,,,,dref,dref,pentref,,village
+παρθένος,292,unigram,feminine,nominative,plural,genethod,4.887742606177075,genethod,genethod,,,,,,,,,,,merched,lampau,virgin
+φωνή,333,unigram,feminine,nominative,singular,llef,4.343476077797907,llais,llais,llef,llef,Llef,,,,,,llef,llef,llais,lais,voice or sound
+πόλεμος,271,unigram,masculine,accusative,plural,ryfeloedd,5.272423957631691,ryfeloedd,ryfeloedd,ryfeloedd,ryfeloedd,ryfeloedd,,,,,,ryveloedd,dir,ryfeloedd,ryfeloedd,war
+ὕδωρ,354,unigram,neuter,accusative,plural,dwfr,19.988139237125633,tonnau,tonnau,dyfroedd,dyfroedd,dwfr,,,,,,dwfr,dwfr,draws,dŵr,water
+ὕδωρ,99,unigram,neuter,accusative,singular,dwfr,112.80230239871804,dŵr,dŵr,dwfr,dwfr,dwfr,,,,,,dwfr,dwfr,dŵr,dŵr,water
+ὕδωρ,117,unigram,neuter,nominative,singular,dwfr,178.19455900319736,dŵr,dŵr,dwfr,dwfr,dwfr,,,,,,dwfr,dwfr,dŵr,,water
+ὑδρία,123,unigram,feminine,accusative,singular,hystên,2.416256297888702,hystên,hystên,dyfrlestr,dyfrlestr,,,,,,,,,hystên,hystên,water jar
+ὁδός,272,unigram,feminine,accusative,plural,ffyrdd,41.511150449784104,ffyrdd,ffyrdd,,,ffyrdd,,,,,,prifffyrdd,prifffyrdd,,ffyrdd,way
+ὁδός,152,unigram,feminine,accusative,singular,ffordd,98583.10613881753,ffordd,ffordd,ffordd,ffordd,ffordd,,,,,,ffordd,ffordd,ffordd,ffordd,way
+γάμος,170,unigram,masculine,accusative,plural,briodas,48.028096772114345,briodas,briodas,briodas,briodas,briodaswledd,,,,,,briodas,briodas,wledd,wledd,wedding
+γάμος,252,unigram,masculine,accusative,singular,,,,,galwyd,galwyd,,,,,,,gelwit,gelwit,wahodd,gwahoddiad,wedding
+γυνή,116,unigram,feminine,accusative,plural,,,,,,,ganiattaodd,,,,,,,,,ganiatáu,"wife, woman"
+γυνή,187,unigram,feminine,accusative,singular,wraig,6561.190295644459,wraig,wraig,wraig,wraig,wraig,,,,,,wreic,wreic,wraig,wraig,"wife, woman"
+γυνή,127,unigram,feminine,nominative,plural,gwragedd,193.47974873441257,gwragedd,gwragedd,gwragedd,gwragedd,gwragedd,,,,,,gwragedd,gwragedd,wragedd,,"wife, woman"
+γυνή,133,unigram,feminine,nominative,singular,wraig,745.7149371403008,wraig,wraig,wraig,wraig,wraig,,,,,,wreic,wreic,wraig,wraig,"wife, woman"
+ἄνεμος,10,unigram,masculine,nominative,plural,gwyntoedd,32.310447920851445,gwyntoedd,gwyntoedd,gwyntoedd,gwyntoedd,gwyntoedd,,,,,,gwyntoedd,gwyntoedd,,gwyntoedd,wind
+ἄνεμος,70,unigram,masculine,nominative,singular,gwynt,7911.770359991095,gwynt,gwynt,gwynt,gwynt,gwynt,,,,,,gwynt,gwynt,gwynt,gwynt,wind
+πνεῦμα,321,unigram,neuter,accusative,plural,,,,,ddechreuad,ddechreuad,ysprydion,,,,,,ddechraeat,ddechraeat,,cyflwr,"wind, breath, spirit"
+πνεῦμα,175,unigram,neuter,accusative,singular,Ysbryd,8.89635185002371,Ysbryd,Ysbryd,Ysbryd,Ysbryd,Yspryd,,,,,,yspryt,yspryt,Ysbryd,Ysbryd,"wind, breath, spirit"
+πνεῦμα,12,unigram,neuter,nominative,plural,ysbrydion,14.1192027709879,ysbrydion,ysbrydion,ysbrydion,ysbrydion,ysprydion,,,,,,ysprytion,ysprytion,ysbrydion,ysbrydion,"wind, breath, spirit"
+πνεῦμα,25,unigram,neuter,nominative,singular,Ysbryd,5.21143187739561,Ysbryd,Ysbryd,Ysbryd,Ysbryd,Yspryd,,,,,,yspryt,yspryt,Ysbryd,Ysbryd,"wind, breath, spirit"
+κοιλία,291,unigram,feminine,nominative,singular,sugnaist,1.3145498598524454,,,sugnaist,sugnaist,sugnaist,,,,,,,,,,"womb, stomach, source of feelings and emotions"
+ῥῆμα,195,unigram,neuter,accusative,plural,geiriau,134.38490933019312,geiriau,geiriau,geiriau,geiriau,ymadroddion,,,,,,airiae,airiae,geiriau,ddweud,word
+ῥῆμα,172,unigram,neuter,accusative,singular,gair,11.497550536387514,ymadrodd,ymadrodd,gair,gair,ymadrodd,,,,,,gair,gair,deall,Doedd,word
+ῥῆμα,32,unigram,neuter,nominative,plural,geiriau,14.620644633264874,geiriau,geiriau,geiriau,geiriau,ymadroddion,,,,,,geiriae,geiriae,geiriau,nonsens,word
+ῥῆμα,340,unigram,neuter,nominative,singular,gair,7.697271291597524,peth,peth,gair,gair,gair,,,,,,gair,gair,pob,gadarnhau,word
+λόγος,173,unigram,masculine,accusative,plural,geiriau,65.98392577230378,geiriau,geiriau,geiriau,geiriau,geiriau,,,,,,gairiae,gairiae,,ddweud,word
+λόγος,165,unigram,masculine,accusative,singular,gair,2760.8502193842646,gair,gair,gair,gair,Gair,,,,,,gair,gair,gair,neges,word
+λόγος,162,unigram,masculine,nominative,plural,ngeiriau,2.1554346380459917,ngeiriau,ngeiriau,ânt,ânt,ant,,,,,,Nef,Nef,ngeiriau,diflannu,word
+λόγος,310,unigram,masculine,nominative,singular,gair,7598.951539317685,gair,gair,gair,gair,gair,,,,,,gair,gair,Gair,neges,word
+ἔργον,46,unigram,neuter,accusative,plural,gweithredoedd,22.133919558466626,gweithredoedd,gweithredoedd,gweithredoedd,gweithredoedd,gweithredoedd,,,,,,gweithredoedd,gweithredoedd,gwneud,gwneud,work
+ἔργον,101,unigram,neuter,accusative,singular,weithred,4.401210595944799,brydferth,brydferth,weithred,weithred,berwch,,,,,,,,weithred,hyfryd,work
+ἔργον,314,unigram,neuter,nominative,plural,gweithredoedd,3.731223173032591,gweithredoedd,gweithredoedd,gweithredoedd,gweithredoedd,gweithredoedd,,,,,,gweithredoedd,gweithredoedd,gweithredoedd,golau,work
+ἐργάτης,156,unigram,masculine,nominative,plural,,,,,,,weithwyr,,,,,,,,,brin,worker
+ἐργάτης,223,unigram,masculine,nominative,singular,gweithiwr,3.4567330347177525,gweithiwr,gweithiwr,,,gweithiwr,,,,,,gweithwr,gweithwr,gweithiwr,gweithiwr,worker
+μέριμνα,177,unigram,feminine,nominative,plural,brysur,1.0954034664104502,,,,,,,,,,,,,,brysur,"worry, concern, desire"
+μέριμνα,154,unigram,feminine,nominative,singular,hudoliaeth,1.1999087542240303,hudoliaeth,hudoliaeth,,,,,,,,,,,,brysur,"worry, concern, desire"
+ἔτος,268,unigram,neuter,accusative,plural,mlynedd,55.97553421195056,mlynedd,mlynedd,mlynedd,mlynedd,mlynedd,,,,,,blynedd,blynedd,mlynedd,ers,year

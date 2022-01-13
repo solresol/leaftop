@@ -1,0 +1,275 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_330_translation,english_translation
+θεός,264,unigram,masculine,accusative,plural,bojanimtii,1.2568811710380376,bojanimtii,God
+θεός,102,unigram,masculine,accusative,singular,tere,1.012253753976678,tere,God
+θεός,167,unigram,masculine,nominative,singular,Allah,3.3780381839284983,Allah,God
+κύριος,103,unigram,masculine,nominative,singular,Tuhan,2.163218455381336,Tuhan,"Lord, lord, master"
+γραφή,99,unigram,feminine,accusative,plural,Alkitab,2.6557485724136534,Alkitab,Scripture
+γραφή,41,unigram,feminine,accusative,singular,Alkitab,1.35212657640479,Alkitab,Scripture
+γραφή,209,unigram,feminine,nominative,plural,jipu,1.151312550865222,jipu,Scripture
+γραφή,260,unigram,feminine,nominative,singular,Alkitab,2.2777239700298404,Alkitab,Scripture
+ἄγγελος,79,unigram,masculine,accusative,plural,malaikat,2.0970924612418758,malaikat,angel
+ἄγγελος,69,unigram,masculine,accusative,singular,ambirimemomtemin,1.4964859785857714,ambirimemomtemin,angel
+ἄγγελος,38,unigram,masculine,nominative,plural,malaikat,2.037316837881189,malaikat,angel
+ἄγγελος,88,unigram,masculine,nominative,singular,malaikat,2.284497701298497,malaikat,angel
+ἀπόστολος,35,unigram,masculine,nominative,plural,ambirimemome,1.0132200582627924,ambirimemome,apostle
+ἀπόστολος,4,unigram,masculine,nominative,singular,emesam,1.059127127470689,emesam,apostle
+ἐξουσία,158,unigram,feminine,accusative,singular,fiak,2.7078728774128757,fiak,authority
+βρέφος,12,unigram,neuter,accusative,plural,baosompor,1.2083782104681848,baosompor,babies
+βρέφος,259,unigram,neuter,accusative,singular,peti,1.1124058718355103,peti,babies
+ἀποθήκη,57,unigram,feminine,accusative,singular,baemesapiames,1.0642323521868506,baemesapiames,barn
+ἀρχή,141,unigram,feminine,accusative,singular,akoretamaarin,1.1781780617437103,akoretamaarin,beginning
+ζώνη,135,unigram,feminine,accusative,plural,batoomas,1.4827591175295145,batoomas,belt
+βλασφημία,25,unigram,feminine,accusative,plural,ememe,1.2109753543116366,ememe,blasphemy
+βλασφημία,165,unigram,feminine,nominative,plural,aememas,1.1552881476122463,aememas,blasphemy
+πλοῖον,86,unigram,neuter,accusative,plural,ti,1.5520611827601511,ti,boat
+πλοῖον,246,unigram,neuter,accusative,singular,ti,7.183043926255076,ti,boat
+πλοῖον,180,unigram,neuter,nominative,singular,ti,1.3428457056015004,ti,boat
+σῶμα,50,unigram,neuter,nominative,singular,tadamo,1.4633194955668978,tadamo,body
+κλῆμα,115,unigram,neuter,nominative,singular,bajamemapaar,1.1054652133497325,bajamemapaar,branch
+ἄρτος,250,unigram,masculine,accusative,plural,jise,1.1499585133566448,jise,bread
+ἄρτος,274,unigram,masculine,accusative,singular,amos,1.3530438101438755,amos,bread
+ἄρτος,120,unigram,masculine,nominative,plural,amos,1.137479404307466,amos,bread
+ἄρτος,30,unigram,masculine,nominative,singular,aendae,1.072731672042171,aendae,bread
+ἀδελφός,239,unigram,masculine,accusative,plural,arepotamen,1.08942621368886,arepotamen,brother
+ἀδελφός,95,unigram,masculine,accusative,singular,areot,1.922703073708719,areot,brother
+ἀδελφός,89,unigram,masculine,nominative,plural,areotais,1.4362927217516532,areotais,brother
+ἀδελφός,182,unigram,masculine,nominative,singular,areot,1.9493464268825744,areot,brother
+στῆθος,228,unigram,neuter,accusative,singular,asisiape,1.1579000127494667,asisiape,"chest, breast"
+ἀρχιερεύς,192,unigram,masculine,accusative,plural,Tame,1.2050533329833482,Tame,chief priest
+ἀρχιερεύς,94,unigram,masculine,nominative,plural,Tame,1.2679196945135411,Tame,chief priest
+ἀρχιερεύς,197,unigram,masculine,nominative,singular,Tame,1.2010060958558115,Tame,chief priest
+παῖς,186,unigram,masculine,accusative,plural,ambap,1.4124475181789098,ambap,child
+τέκνον,267,unigram,neuter,accusative,plural,ajii,1.0378129480146467,ajii,child
+τέκνον,151,unigram,neuter,nominative,singular,Detii,1.451121853075875,Detii,child
+παιδίον,75,unigram,neuter,accusative,singular,jii,1.0860219095916657,jii,child
+παιδίον,31,unigram,neuter,nominative,singular,jii,1.8496954942039687,jii,child
+πόλις,142,unigram,feminine,accusative,plural,ajarema,1.228334757069679,ajarema,city
+πόλις,53,unigram,feminine,accusative,singular,kota,6.435380201511225,kota,city
+πύλη,164,unigram,feminine,nominative,singular,sata,1.1054596038005229,sata,city gate
+χιτών,91,unigram,masculine,accusative,plural,Baju,1.5251513840801332,Baju,"clothing, undergarments"
+ἱμάτιον,101,unigram,neuter,accusative,plural,abaju,1.3409873995347967,abaju,coat
+ἱμάτιον,100,unigram,neuter,accusative,singular,baju,1.4831831962880668,baju,coat
+ἐντολή,67,unigram,feminine,accusative,plural,debasakamtam,1.4070146025954218,debasakamtam,commandment
+ἐντολή,65,unigram,feminine,accusative,singular,aooemakam,1.200536999698977,aooemakam,commandment
+συνέδριον,254,unigram,neuter,accusative,plural,ateteman,1.0351532312316778,ateteman,council
+συνέδριον,43,unigram,neuter,accusative,singular,Basakamtii,1.1054876771558184,Basakamtii,council
+χώρα,231,unigram,feminine,accusative,singular,tapirmi,1.4518687624102309,tapirmi,"country, countryside"
+ὄχλος,47,unigram,masculine,accusative,plural,tanane,2.5110251022586794,tanane,crowd
+ὄχλος,8,unigram,masculine,accusative,singular,tanane,2.3566174639737696,tanane,crowd
+ὄχλος,81,unigram,masculine,nominative,plural,tananeam,1.3319495976795694,tananeam,crowd
+ὄχλος,223,unigram,masculine,nominative,singular,tanane,2.0325022553077976,tanane,crowd
+θυγάτηρ,249,unigram,feminine,nominative,singular,Deparais,1.320791175713273,Deparais,daughter
+ἡμέρα,61,unigram,feminine,accusative,plural,bamintep,1.3499122154928231,bamintep,day
+ἡμέρα,70,unigram,feminine,accusative,singular,afaafeaarir,1.317742949985441,afaafeaarir,day
+ἡμέρα,2,unigram,feminine,nominative,plural,bare,2.9965302798067697,bare,day
+ἡμέρα,55,unigram,feminine,nominative,singular,Jo,1.0242628838749779,Jo,day
+δαιμόνιον,23,unigram,neuter,accusative,plural,bii,3.3313473345515225,bii,demon
+δαιμόνιον,262,unigram,neuter,accusative,singular,bii,1.325930864900249,bii,demon
+δαιμόνιον,153,unigram,neuter,nominative,plural,bii,1.8626262621204088,bii,demon
+δαιμόνιον,133,unigram,neuter,nominative,singular,bii,1.8757022577686784,bii,demon
+δηνάριον,242,unigram,neuter,accusative,plural,atetamen,1.3636555632949492,atetamen,denarius (about a day's wages)
+δηνάριον,122,unigram,neuter,accusative,singular,perak,1.077378177548956,perak,denarius (about a day's wages)
+μαθητής,138,unigram,masculine,accusative,plural,abajamkai,7.302275552853469,abajamkai,disciple
+μαθητής,268,unigram,masculine,accusative,singular,afaimaarir,2.3183970219392047,afaimaarir,disciple
+μαθητής,217,unigram,masculine,nominative,plural,abajamkai,1.155158242736615,abajamkai,disciple
+μαθητής,266,unigram,masculine,nominative,singular,bajamkai,3.0282504391816354,bajamkai,disciple
+νόσος,60,unigram,feminine,accusative,singular,kumiti,1.4678180553479567,kumiti,disease
+περιστερά,80,unigram,feminine,accusative,plural,pari,1.0351532312316778,pari,dove
+περιστερά,45,unigram,feminine,accusative,singular,Jip,1.1347808577348686,Jip,dove
+οὖς,114,unigram,neuter,accusative,plural,fero,1.2939202323555596,fero,ear
+οὖς,222,unigram,neuter,accusative,singular,jokam,1.2018145674478824,jokam,ear
+σεισμός,159,unigram,masculine,nominative,plural,ajitemas,1.2418834213017471,ajitemas,"earthquakes, storm"
+τέλος,215,unigram,neuter,accusative,singular,aemtas,1.7285460707076832,aemtas,end
+αἰών,187,unigram,masculine,accusative,plural,aomepaartem,1.253854299747144,aomepaartem,eternity
+αἰών,240,unigram,masculine,accusative,singular,apoknak,1.1403863371492424,apoknak,eternity
+ὀφθαλμός,17,unigram,masculine,accusative,plural,banamek,2.416870807495919,banamek,eye
+ὀφθαλμός,52,unigram,masculine,nominative,plural,aoemanses,1.0834427649082616,aoemanses,eye
+ὀφθαλμός,237,unigram,masculine,nominative,singular,tabanamek,1.78451946600128,tabanamek,eye
+πρόσωπον,148,unigram,neuter,accusative,singular,aememtamemarem,1.2582113245668347,aememtamemarem,face
+λιμός,5,unigram,feminine,nominative,plural,ajamoma,1.2128799494700937,ajamoma,famine
+λιμός,76,unigram,feminine,nominative,singular,janderesen,1.160164722821634,janderesen,famine
+λιμός,104,unigram,masculine,nominative,singular,aokorommin,1.0954126531313877,aokorommin,famine
+γεωργός,198,unigram,masculine,nominative,plural,batatiiamo,1.1082121210420943,batatiiamo,"farmer, tenant"
+γεωργός,40,unigram,masculine,nominative,singular,apeomtepemar,1.7209181235940785,apeomtepemar,"farmer, tenant"
+πατήρ,241,unigram,masculine,accusative,singular,Deritipit,1.8018125558386056,Deritipit,father
+πατήρ,144,unigram,masculine,nominative,singular,Deritipit,2.221382326044135,Deritipit,father
+ἀγρός,261,unigram,masculine,accusative,plural,taso,1.0178200746302624,taso,field
+δάκτυλος,137,unigram,masculine,accusative,singular,jafapu,1.1054820573587156,jafapu,finger
+ἰχθύς,117,unigram,masculine,accusative,plural,jise,1.3060499353783614,jise,fish
+ἰχθύς,147,unigram,masculine,accusative,singular,enamo,1.2180236155698745,enamo,fish
+δίκτυον,87,unigram,neuter,accusative,plural,ajimi,2.8406886604517,ajimi,fishing net
+δίκτυον,156,unigram,neuter,accusative,singular,jimi,1.2257784185971894,jimi,fishing net
+τροφή,190,unigram,feminine,accusative,plural,bajitin,1.5704130602595123,bajitin,food
+τροφή,258,unigram,feminine,accusative,singular,ataemum,1.09541724956689,ataemum,food
+πούς,183,unigram,masculine,accusative,plural,debai,1.1786282486343536,debai,foot
+καρπός,140,unigram,masculine,accusative,plural,eek,1.7139998406314696,eek,"fruit, crop, harvest"
+καρπός,181,unigram,masculine,accusative,singular,eek,1.9091902794549431,eek,"fruit, crop, harvest"
+πλήρωμα,212,unigram,neuter,accusative,plural,andaeremtiies,1.3724077282175158,andaeremtiies,fullness
+πλήρωμα,257,unigram,neuter,accusative,singular,aeosomtas,1.3658296687793672,aeosomtas,fullness
+γενεά,247,unigram,feminine,nominative,plural,ajiire,1.1300430277377458,ajiire,generation
+γενεά,113,unigram,feminine,nominative,singular,jaos,1.1691162263626718,jaos,generation
+δῶρον,123,unigram,neuter,accusative,singular,bajaatam,1.1910198085529922,bajaatam,gift
+ἡγεμών,131,unigram,masculine,accusative,plural,atatapimtaateman,1.0591210858738662,atatapimtaateman,"governor, ruler"
+ἡγεμών,10,unigram,masculine,accusative,singular,gubernur,1.1668918443105822,gubernur,"governor, ruler"
+σταφυλή,143,unigram,feminine,accusative,plural,bakomtaerpor,1.1601402291408716,bakomtaerpor,grapes
+σταφυλή,270,unigram,feminine,accusative,singular,baemekomtaer,1.1601402291408716,baemekomtaer,grapes
+ἀσπασμός,251,unigram,masculine,accusative,plural,pasar,1.253005247653045,pasar,greeting
+ἀσπασμός,132,unigram,masculine,accusative,singular,ajamsendinikien,1.09541724956689,ajamsendinikien,greeting
+ὁδηγός,3,unigram,masculine,nominative,singular,kapie,1.2200919280282798,kapie,guide
+χείρ,244,unigram,feminine,accusative,plural,ban,2.4137311782084043,ban,hand
+χείρ,174,unigram,feminine,accusative,singular,ban,1.219576949704949,ban,hand
+κεφαλή,162,unigram,feminine,accusative,singular,kuus,1.6413004575856136,kuus,head
+στάχυς,163,unigram,masculine,accusative,plural,gandum,1.286724856376894,gandum,head of grain
+καρδία,225,unigram,feminine,accusative,singular,(,1.074114866196409,(,heart
+καρδία,149,unigram,feminine,nominative,singular,aemapmakam,1.136293487620608,aemapmakam,heart
+οὐρανός,208,unigram,masculine,accusative,singular,oup,1.2630269716570013,oup,"heaven, sky"
+οὐρανός,154,unigram,masculine,nominative,singular,wonamo,1.3810841559600684,wonamo,"heaven, sky"
+ὥρα,230,unigram,feminine,nominative,plural,bawotem,1.0956874089398059,bawotem,hour
+ὥρα,20,unigram,feminine,nominative,singular,bare,1.4797538711056644,bare,hour
+οἰκία,255,unigram,feminine,accusative,singular,tame,3.349821086315583,tame,house
+οἶκος,16,unigram,masculine,accusative,singular,tame,1.0034894022641057,tame,"house, home"
+κριτής,125,unigram,masculine,nominative,singular,basakamtii,1.4009271806141732,basakamtii,judge
+βασιλεύς,85,unigram,masculine,accusative,plural,atatapimtaateman,1.059230679329511,atatapimtaateman,king
+βασιλεύς,48,unigram,masculine,accusative,singular,raja,1.1391501903353332,raja,king
+βασιλεία,64,unigram,feminine,accusative,plural,ameteporomtamen,1.1451558757601523,ameteporomtamen,kingdom
+βασιλεία,121,unigram,feminine,accusative,singular,aobaomep,3.2903321551967286,aobaomep,kingdom
+κόπος,157,unigram,masculine,accusative,plural,aemtamman,1.2622872876657592,aemtamman,"labour, work, trouble, difficulty"
+κλῆρος,1,unigram,masculine,accusative,singular,koser,1.0381356228573773,koser,"lots (casting of lots), inheritance"
+ἄνθρωπος,233,unigram,masculine,accusative,plural,takapin,1.2588208179345557,takapin,man
+ἄνθρωπος,199,unigram,masculine,accusative,singular,okone,1.1262298705129723,okone,man
+ἄνθρωπος,136,unigram,masculine,nominative,singular,Jipit,1.1334037263252843,Jipit,man
+ἀνήρ,194,unigram,masculine,accusative,singular,Mariaam,1.2148498845083149,Mariaam,"man, husband"
+ἀνήρ,111,unigram,masculine,nominative,plural,5.000,1.0151685417290799,5.000,"man, husband"
+ἀνήρ,184,unigram,masculine,nominative,singular,juas,1.0234078598502212,juas,"man, husband"
+μνᾶ,234,unigram,feminine,accusative,plural,mina,1.4675165579617946,mina,mina (about 100 days' wages)
+πρωτοκαθεδρία,84,unigram,feminine,accusative,plural,bomonam,1.1599315973308904,bomonam,"most important seat, seat of honour"
+πρωτοκαθεδρία,27,unigram,feminine,accusative,singular,selamato,1.0591090190634709,selamato,"most important seat, seat of honour"
+μήτηρ,218,unigram,feminine,accusative,singular,arsoot,1.4547806714947356,arsoot,mother
+ὄρος,172,unigram,neuter,accusative,plural,baesostas,1.2531298314318784,baesostas,mountain
+ὄρος,206,unigram,neuter,accusative,singular,fami,2.2465978761359837,fami,mountain
+ὄνομα,26,unigram,neuter,accusative,singular,afeomemteman,1.5729154438283923,afeomemteman,name
+ὄνομα,195,unigram,neuter,nominative,singular,juas,2.0846637770671084,juas,name
+ἔθνος,179,unigram,neuter,accusative,plural,samaniin,1.8724467364479116,samaniin,nation
+ἔθνος,150,unigram,neuter,accusative,singular,ajamoma,1.2584099235992254,ajamoma,nation
+ἔθνος,21,unigram,neuter,nominative,singular,ajamoma,1.2463714778446378,ajamoma,nation
+ὅρκος,49,unigram,masculine,accusative,plural,jaki,1.0539226033472475,jaki,oath
+ὅρκος,205,unigram,masculine,accusative,singular,darerokor,1.079953859137445,darerokor,oath
+βοῦς,116,unigram,masculine,accusative,plural,bauumamtaa,1.3164068298742622,bauumamtaa,ox
+παραβολή,201,unigram,feminine,accusative,plural,baetaa,2.9888025247475567,baetaa,parable
+παραβολή,175,unigram,feminine,accusative,singular,baetaa,3.6448785508253367,baetaa,parable
+μέρος,273,unigram,neuter,accusative,plural,ataaes,1.5300796187652708,ataaes,part
+μέρος,42,unigram,neuter,accusative,singular,ataapomtem,1.1369903293787051,ataapomtem,part
+τόπος,214,unigram,masculine,accusative,plural,ajitemas,1.2412715479261724,ajitemas,place
+τόπος,232,unigram,masculine,accusative,singular,asan,1.336238070383214,asan,place
+πρωτοκλισία,216,unigram,feminine,accusative,plural,pakambwi,1.0127322686691895,pakambwi,place of honor
+πρωτοκλισία,28,unigram,feminine,accusative,singular,baemap,1.0772818512528264,baemap,place of honor
+ὄφις,83,unigram,masculine,accusative,singular,amber,1.630490313178944,amber,poison
+δύναμις,37,unigram,feminine,accusative,singular,pak,1.0857261832023857,pak,"power, ability, miracle"
+δύναμις,66,unigram,feminine,nominative,plural,jinim,1.062498065469123,jinim,"power, ability, miracle"
+ἱερεύς,14,unigram,masculine,nominative,plural,aoomas,1.261174344663918,aoomas,priest
+ἱερεύς,188,unigram,masculine,nominative,singular,baream,1.3274535359729196,baream,priest
+φυλακή,19,unigram,feminine,accusative,singular,buji,2.1176720971152534,buji,prison
+προφήτης,51,unigram,masculine,accusative,plural,bakoretam,3.227970366426357,bakoretam,prophet
+προφήτης,155,unigram,masculine,accusative,singular,bakoretam,2.1721335748247577,bakoretam,prophet
+προφήτης,176,unigram,masculine,nominative,plural,bakoretam,2.5064040693473,bakoretam,prophet
+προφήτης,207,unigram,masculine,nominative,singular,bakoretam,2.735454871010005,bakoretam,prophet
+ποταμός,96,unigram,masculine,nominative,plural,Terawa,1.1579284958987344,Terawa,river
+ποταμός,128,unigram,masculine,nominative,singular,awawarimen,1.1443411806570962,awawarimen,river
+λῃστής,33,unigram,masculine,accusative,plural,tasa,2.0452082455967906,tasa,robber
+λῃστής,272,unigram,masculine,accusative,singular,atoomdaemakam,1.1669217153396598,atoomdaemakam,robber
+λῃστής,252,unigram,masculine,nominative,plural,tasa,2.216923174947224,tasa,robber
+λῃστής,118,unigram,masculine,nominative,singular,tasa,1.4562612075992043,tasa,robber
+ἄρχων,160,unigram,masculine,accusative,plural,ajarisimapomen,1.4339813859098802,ajarisimapomen,ruler
+ἄρχων,54,unigram,masculine,nominative,plural,kapar,1.1439440971441321,kapar,ruler
+ἄρχων,248,unigram,masculine,nominative,singular,aomepmar,1.500089744635005,aomepmar,ruler
+ἀκοή,6,unigram,feminine,accusative,plural,setepnak,1.109320775688065,setepnak,rumor
+ἀκοή,62,unigram,feminine,accusative,singular,Antipas,1.095421848054621,Antipas,rumor
+βιβλίον,44,unigram,neuter,accusative,singular,buku,1.9201451127867672,buku,"scroll, book"
+διάκονος,74,unigram,masculine,nominative,singular,baememtas,1.0301480359477733,baememtas,"servant, minister, deacon"
+δοῦλος,166,unigram,masculine,accusative,plural,baetam,2.000136626537925,baetam,"servant, slave"
+δοῦλος,22,unigram,masculine,accusative,singular,baetam,1.9023974562784252,baetam,"servant, slave"
+δοῦλος,82,unigram,masculine,nominative,plural,baetam,1.9378691090974176,baetam,"servant, slave"
+δοῦλος,161,unigram,masculine,nominative,singular,karai,1.0570169810539771,karai,"servant, slave"
+πρόβατον,256,unigram,neuter,accusative,plural,domba,3.468537905267482,domba,sheep
+ποιμήν,193,unigram,masculine,nominative,plural,domba,1.083449915715898,domba,"shepherd, pastor"
+ποιμήν,226,unigram,masculine,nominative,singular,domba,1.085348207793227,domba,"shepherd, pastor"
+σημεῖον,107,unigram,neuter,accusative,plural,jinim,1.0632042265503872,jinim,sign
+σημεῖον,98,unigram,neuter,accusative,singular,jinim,1.0596470219010217,jinim,sign
+σημεῖον,34,unigram,neuter,nominative,plural,jinim,1.0614987956145578,jinim,sign
+σημεῖον,73,unigram,neuter,nominative,singular,jinim,1.0666588762566978,jinim,sign
+δραχμή,130,unigram,feminine,accusative,singular,Andimartaerto,1.5328091663671373,Andimartaerto,"silver coin, drachma"
+ἀργύριον,171,unigram,neuter,accusative,plural,uang,1.3730123304004749,uang,"silver, money"
+ἀργύριον,263,unigram,neuter,accusative,singular,uang,1.871682671332028,uang,"silver, money"
+ἁμαρτία,221,unigram,feminine,accusative,plural,bajanimemtam,1.2368062119842027,bajanimemtam,sin
+ἁμαρτία,173,unigram,feminine,accusative,singular,dosa,2.802604277449901,dosa,sin
+ἁμαρτία,229,unigram,feminine,nominative,plural,wodosa,1.254856983855177,wodosa,sin
+ἁμαρτία,227,unigram,feminine,nominative,singular,dosa,1.0624358374523517,dosa,sin
+ἀδελφή,15,unigram,feminine,nominative,plural,dare,1.0524595373213892,dare,sister
+ἀδελφή,245,unigram,feminine,nominative,singular,derpitais,1.073575146903798,derpitais,sister
+πλοιάριον,106,unigram,neuter,nominative,singular,ti,1.1967396413500946,ti,small boat
+υἱός,39,unigram,masculine,accusative,plural,aemapmas,1.3293685209486454,aemapmas,son
+υἱός,168,unigram,masculine,nominative,singular,Anakot,1.0225581095264549,Anakot,son
+ψυχή,224,unigram,feminine,accusative,singular,bajorem,1.5629407062918317,bajorem,"soul, life"
+λίθος,236,unigram,masculine,accusative,plural,basampirim,1.4705193677990591,basampirim,stone
+λίθος,29,unigram,masculine,accusative,singular,eka,3.960622169105549,eka,stone
+λίθος,105,unigram,masculine,nominative,plural,eka,1.8765305118626705,eka,stone
+λίθος,32,unigram,masculine,nominative,singular,eka,1.8111532767135887,eka,stone
+συναγωγή,191,unigram,feminine,accusative,plural,samayen,1.6144137059179389,samayen,synagogue
+συναγωγή,265,unigram,feminine,accusative,singular,tame,1.0955082243678844,tame,synagogue
+τράπεζα,152,unigram,feminine,accusative,plural,ameja,1.0804691907048638,ameja,table
+τάλαντον,58,unigram,neuter,accusative,plural,perak,1.4382635611262242,perak,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,178,unigram,neuter,accusative,singular,perak,1.2237001728208363,perak,talent (weight and monetary unit: around 20 years' wages)
+φόρος,213,unigram,masculine,accusative,plural,aweomero,1.095394287878594,aweomero,tax
+τελώνης,146,unigram,masculine,nominative,plural,uang,1.305335139877419,uang,tax collector
+τελώνης,59,unigram,masculine,nominative,singular,pemerintah,1.156552710795875,pemerintah,tax collector
+γραμματεύς,269,unigram,masculine,nominative,plural,baememtam,1.272611346595785,baememtam,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,169,unigram,masculine,nominative,singular,baememtam,1.2754402588026912,baememtam,"teacher, expert in the law, scholar, scribe"
+κλέπτης,68,unigram,masculine,nominative,plural,wosom,1.1879717801331835,wosom,thief
+κλέπτης,177,unigram,masculine,nominative,singular,wosom,2.041708165445326,wosom,thief
+διαλογισμός,110,unigram,masculine,accusative,singular,adamopu,1.2109753543116366,adamopu,"thought, argument"
+διαλογισμός,92,unigram,masculine,nominative,plural,ajamdamatemas,1.1220155389629851,ajamdamatemas,"thought, argument"
+θρόνος,185,unigram,masculine,accusative,singular,arerokor,1.1601565545731825,arerokor,throne
+χρόνος,211,unigram,masculine,accusative,plural,aesosaaririn,1.0954587100358997,aesosaaririn,time
+καιρός,108,unigram,masculine,nominative,singular,bare,1.4940163422144306,bare,"time, right time"
+τάφος,134,unigram,masculine,accusative,singular,dambir,1.247449305254826,dambir,"tomb, grave"
+μνημεῖον,11,unigram,neuter,accusative,plural,aeapomemakam,1.9999513103959987,aeapomemakam,"tomb, grave"
+μνημεῖον,13,unigram,neuter,accusative,singular,jipa,1.108036500921725,jipa,"tomb, grave"
+μνημεῖον,204,unigram,neuter,nominative,singular,jipa,1.5088824156239111,jipa,"tomb, grave"
+δένδρον,72,unigram,neuter,accusative,plural,wus,1.02084783015628,wus,tree	
+δένδρον,63,unigram,neuter,accusative,singular,wus,1.02084783015628,wus,tree	
+κώμη,210,unigram,feminine,accusative,plural,samaniin,1.1075685127549015,samaniin,village
+κώμη,46,unigram,feminine,accusative,singular,tamsan,1.0155901628364037,tamsan,village
+παρθένος,220,unigram,feminine,nominative,plural,aitawais,1.6171606228165714,aitawais,virgin
+φωνή,253,unigram,feminine,nominative,singular,deTii,1.2007128806605991,deTii,voice or sound
+πόλεμος,202,unigram,masculine,accusative,plural,asepnak,1.2224930716193876,asepnak,war
+ὕδωρ,271,unigram,neuter,accusative,plural,bwi,1.3847236481448784,bwi,water
+ὕδωρ,77,unigram,neuter,accusative,singular,bwi,2.4062203636428063,bwi,water
+ὑδρία,90,unigram,feminine,accusative,singular,abwi,1.1443014333583836,abwi,water jar
+ὁδός,203,unigram,feminine,accusative,plural,turu,1.2604862757148914,turu,way
+ὁδός,109,unigram,feminine,accusative,singular,bokotpu,2.09573364415191,bokotpu,way
+γάμος,124,unigram,masculine,accusative,plural,pakambwi,2.117879020335037,pakambwi,wedding
+γάμος,189,unigram,masculine,accusative,singular,ajates,1.1055214499238464,ajates,wedding
+γυνή,139,unigram,feminine,accusative,singular,aremo,2.318135150612874,aremo,"wife, woman"
+γυνή,93,unigram,feminine,nominative,plural,tapes,1.354741826714273,tapes,"wife, woman"
+γυνή,97,unigram,feminine,nominative,singular,taot,1.3730806441727728,taot,"wife, woman"
+ἄνεμος,7,unigram,masculine,nominative,plural,Kuur,1.5320959073540883,Kuur,wind
+ἄνεμος,56,unigram,masculine,nominative,singular,kuuram,1.0735891076064847,kuuram,wind
+πνεῦμα,243,unigram,neuter,accusative,plural,biirawa,1.3767530704783155,biirawa,"wind, breath, spirit"
+πνεῦμα,129,unigram,neuter,accusative,singular,Jip,4.525720313577349,Jip,"wind, breath, spirit"
+πνεῦμα,9,unigram,neuter,nominative,plural,bomon,1.0567643736497636,bomon,"wind, breath, spirit"
+πνεῦμα,18,unigram,neuter,nominative,singular,Jip,3.0867195120457964,Jip,"wind, breath, spirit"
+κοιλία,71,unigram,feminine,nominative,plural,aoo,1.059136200130502,aoo,"womb, stomach, source of feelings and emotions"
+κοιλία,219,unigram,feminine,nominative,singular,andamen,1.1602302019812143,andamen,"womb, stomach, source of feelings and emotions"
+ῥῆμα,145,unigram,neuter,accusative,plural,ajanimompaaririn,1.896074774010188,ajanimompaaririn,word
+ῥῆμα,126,unigram,neuter,accusative,singular,apoken,1.3307870874745458,apoken,word
+ῥῆμα,24,unigram,neuter,nominative,plural,aetakam,1.9258753017699528,aetakam,word
+λόγος,127,unigram,masculine,accusative,plural,deatakam,1.6848559888917691,deatakam,word
+λόγος,119,unigram,masculine,accusative,singular,andaeamesteteres,1.038859378917922,andaeamesteteres,word
+λόγος,235,unigram,masculine,nominative,singular,deatakam,1.0759991081083398,deatakam,word
+ἔργον,36,unigram,neuter,accusative,plural,pak,1.278784240592406,pak,work
+ἔργον,78,unigram,neuter,accusative,singular,aemtamman,1.6798320432634957,aemtamman,work
+ἔργον,238,unigram,neuter,nominative,plural,aememas,1.1620034164135895,aememas,work
+ἐργάτης,112,unigram,masculine,nominative,plural,pii,1.1085005351479522,pii,worker
+ἐργάτης,170,unigram,masculine,nominative,singular,batetamtas,1.617353018867843,batetamtas,worker
+ἔτος,200,unigram,neuter,accusative,plural,tahun,3.6145828592909015,tahun,year
+ζεῦγος,196,unigram,neuter,accusative,singular,ataetiitamey.,1.095394287878594,ataetiitamey.,"yoke, pair"

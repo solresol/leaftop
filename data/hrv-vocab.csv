@@ -1,0 +1,333 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_737_translation,version_738_translation,version_739_translation,english_translation
+θεός,129,unigram,masculine,accusative,singular,Boga,228.50522531218462,Boga,Boga,Boga,God
+θεός,28,unigram,masculine,nominative,plural,bogovi,1.097258004808277,,bogovi,,God
+θεός,202,unigram,masculine,nominative,singular,Bog,195.35262178382348,Bog,Bog,Bog,God
+κύριος,130,unigram,masculine,nominative,singular,Gospodin,1.958597906490766,gospodar,Gospodin,Gospodin,"Lord, lord, master"
+γραφή,125,unigram,feminine,accusative,plural,,,Pisma,,Sveto,Scripture
+γραφή,48,unigram,feminine,accusative,singular,tekst,1.1063446289765493,,tekst,,Scripture
+γραφή,256,unigram,feminine,nominative,plural,,,Pisma,mora,ispunilo,Scripture
+γραφή,319,unigram,feminine,nominative,singular,Pismo,2.821550979357952,Pismo,,,Scripture
+ἄγγελος,94,unigram,masculine,accusative,plural,anđele,7.822564584945934,anđele,anđele,anđele,angel
+ἄγγελος,83,unigram,masculine,accusative,singular,glasnika,1.0500981916898025,,glasnika,,angel
+ἄγγελος,44,unigram,masculine,nominative,plural,anđeli,56.24273009601945,anđeli,anđeli,anđeli,angel
+ἄγγελος,105,unigram,masculine,nominative,singular,anđeo,8.637273572752953,anđeo,anđeo,anđeo,angel
+ἀπόστολος,41,unigram,masculine,nominative,plural,apostoli,7.892246343017371,apostoli,apostoli,apostoli,apostle
+ἀπόστολος,6,unigram,masculine,nominative,singular,,,poslanik,glasnik,,apostle
+ἐξουσία,68,unigram,feminine,accusative,plural,izvedu,1.0962199599997684,,izvedu,,authority
+ἐξουσία,192,unigram,feminine,accusative,singular,vlast,60.3410137885511,vlast,vlast,vlast,authority
+βρέφος,16,unigram,neuter,accusative,plural,,,,dotakne,malu,babies
+βρέφος,317,unigram,neuter,accusative,singular,jaslama,1.999949063699646,,,jaslama,babies
+ἀποθήκη,262,unigram,feminine,accusative,plural,žitnice,7.9993885240918114,žitnice,žitnice,žitnice,barn
+ἀποθήκη,67,unigram,feminine,accusative,singular,žitnicu,2.3479729410728587,,žitnicu,žitnicu,barn
+φραγμός,109,unigram,masculine,accusative,singular,,,kulu,toranj,,"barrier, wall"
+ἀρχή,71,unigram,feminine,accusative,plural,,,,izvedu,poglavare,beginning
+βλασφημία,32,unigram,feminine,accusative,plural,,,promišljati,,huli,blasphemy
+βλασφημία,93,unigram,feminine,accusative,singular,Hulio,1.0960768946513286,,,Hulio,blasphemy
+βλασφημία,200,unigram,feminine,nominative,plural,,,hule,grijesi,,blasphemy
+βλασφημία,84,unigram,feminine,nominative,singular,,,hula,kleveta,,blasphemy
+πλοῖον,103,unigram,neuter,accusative,plural,lađice,5.57512608319093,lađe,lađice,lađice,boat
+πλοῖον,303,unigram,neuter,accusative,singular,lađu,6.488924958120758,lađu,lađicu,lađu,boat
+πλοῖον,221,unigram,neuter,nominative,singular,lađa,2.9998357508366333,lađa,lađica,lađa,boat
+σῶμα,209,unigram,neuter,nominative,plural,tijela,5.704308856929604,tijela,tijela,tijela,body
+σῶμα,58,unigram,neuter,nominative,singular,tijelo,14.29479481457306,tijelo,tijelo,tijelo,body
+κλῆμα,54,unigram,neuter,nominative,plural,mladice,1.2013523596909814,mladice,izdanci,mladice,branch
+κλῆμα,146,unigram,neuter,nominative,singular,mladica,2.1845644600840237,mladica,ostane,mladica,branch
+ἄρτος,307,unigram,masculine,accusative,plural,kruhova,4.700400575816952,kruhova,kruhova,kruhova,bread
+ἄρτος,332,unigram,masculine,accusative,singular,kruh,40.59386985223286,kruh,kruh,kruh,bread
+ἄρτος,154,unigram,masculine,nominative,plural,,,kruha,,hrane,bread
+ἄρτος,36,unigram,masculine,nominative,singular,kruh,15.903396084811803,kruh,kruh,kruh,bread
+ἀδελφός,293,unigram,masculine,accusative,plural,braću,7.67180493357865,braću,braću,braću,brother
+ἀδελφός,118,unigram,masculine,accusative,singular,brata,16.70146655510649,brata,brata,brata,brother
+ἀδελφός,108,unigram,masculine,nominative,plural,braća,5.422250391369666,braća,braća,braća,brother
+ἀδελφός,227,unigram,masculine,nominative,singular,brat,188.27330153491576,brat,brat,brat,brother
+στῆθος,151,unigram,neuter,accusative,plural,vraćalo,1.0960622061228922,,,vraćalo,"chest, breast"
+στῆθος,278,unigram,neuter,accusative,singular,,,Gospodine,upitao,,"chest, breast"
+ἀρχιερεύς,237,unigram,masculine,accusative,plural,,,glavarima,vodećim,svećeničkim,chief priest
+ἀρχιερεύς,59,unigram,masculine,accusative,singular,svećeniku,1.4440551612208363,svećeniku,vrhovnom,svećeniku,chief priest
+ἀρχιερεύς,117,unigram,masculine,nominative,plural,,,svećenički,svećenici,poglavari,chief priest
+ἀρχιερεύς,241,unigram,masculine,nominative,singular,svećenik,1.7655107433187875,svećenik,svećenik,svećenik,chief priest
+παῖς,231,unigram,masculine,accusative,plural,jako,1.7684764188246855,jako,jako,,child
+παῖς,46,unigram,masculine,accusative,singular,grčiti,1.0961210847775034,,,grčiti,child
+τέκνον,326,unigram,neuter,accusative,plural,djecu,30.057942276835934,djecu,djecu,djecu,child
+τέκνον,175,unigram,neuter,accusative,singular,,,brat,Brat,,child
+τέκνον,17,unigram,neuter,nominative,plural,otac,1.2015921631325723,otac,otac,otac,child
+τέκνον,186,unigram,neuter,nominative,singular,,,ʻSine,Sine,Sinko,child
+παιδίον,15,unigram,neuter,accusative,plural,,,dječicu,djecu,,child
+παιδίον,89,unigram,neuter,accusative,singular,dijete,38.50433702050587,dijete,dijete,dijete,child
+παιδίον,168,unigram,neuter,nominative,plural,djeca,1.2316390844935698,djeca,,,child
+παιδίον,38,unigram,neuter,nominative,singular,dijete,3.2124844212089907,dijete,dijete,,child
+πόλις,177,unigram,feminine,accusative,plural,gradove,3.245347632924718,gradove,gradove,,city
+πόλις,63,unigram,feminine,accusative,singular,grad,84.56625131158631,grad,grad,grad,city
+πύλη,260,unigram,feminine,nominative,plural,nadvladati,1.0960622061228922,nadvladati,,,city gate
+πύλη,199,unigram,feminine,nominative,singular,uska,1.9073338371095045,uska,uska,uska,city gate
+χιτών,113,unigram,masculine,accusative,plural,,,košulje,hranu,štap,"clothing, undergarments"
+χιτών,29,unigram,masculine,accusative,singular,košulju,2.7992782015716084,košulju,košulju,košulju,"clothing, undergarments"
+ἱμάτιον,127,unigram,neuter,accusative,plural,odjeću,8.90202730233316,odjeću,odjeću,odjeću,coat
+ἱμάτιον,126,unigram,neuter,accusative,singular,ogrtač,5.662310741164053,odjeću,ogrtač,ogrtač,coat
+ἐντολή,81,unigram,feminine,accusative,plural,zapovijedi,13.515629382736265,zapovijedi,zapovijedi,zapovijedi,commandment
+ἐντολή,79,unigram,feminine,accusative,singular,zapovijed,5.779876627111074,zapovijed,zapovijed,,commandment
+συνέδριον,312,unigram,neuter,accusative,plural,,,vijećima,sinagogama,bičevati,council
+συνέδριον,50,unigram,neuter,accusative,singular,,,Vijeće,vodeći,vijeće,council
+χώρα,282,unigram,feminine,accusative,singular,kraj,2.5640620287247398,kraj,kraj,kraj,"country, countryside"
+ὄχλος,55,unigram,masculine,accusative,plural,mnoštvo,2.9454791079938625,mnoštvo,narod,mnoštvo,crowd
+ὄχλος,9,unigram,masculine,accusative,singular,mnoštvo,16.275851264388976,mnoštvo,mnoštvo,mnoštvo,crowd
+ὄχλος,96,unigram,masculine,nominative,plural,mnoštvo,33.03952331786583,mnoštvo,mnoštvo,mnoštvo,crowd
+ὄχλος,273,unigram,masculine,nominative,singular,mnoštvo,15.967360160122617,mnoštvo,mnoštvo,mnoštvo,crowd
+θυγάτηρ,306,unigram,feminine,nominative,singular,kći,5.484379430819871,kći,kći,,daughter
+ἡμέρα,74,unigram,feminine,accusative,plural,dana,60.33733025551468,dana,dana,dana,day
+ἡμέρα,85,unigram,feminine,accusative,singular,dan,14.739817508993914,dan,dan,dan,day
+ἡμέρα,2,unigram,feminine,nominative,plural,dani,4.236311478177943,dani,vrijeme,dani,day
+ἡμέρα,65,unigram,feminine,nominative,singular,dan,17.151872483199067,dan,dan,dan,day
+ὀφειλέτης,119,unigram,masculine,nominative,singular,obračunavati,1.2125176900525536,obračunavati,,,debtor
+δαιμόνιον,30,unigram,neuter,accusative,plural,,,đavle,duhove,zloduhe,demon
+δαιμόνιον,322,unigram,neuter,accusative,singular,,,đavla,duhom,,demon
+δαιμόνιον,187,unigram,neuter,nominative,plural,,,đavli,duhovi,zlodusi,demon
+δαιμόνιον,166,unigram,neuter,nominative,singular,,,đavao,duh,zloduh,demon
+δηνάριον,298,unigram,neuter,accusative,plural,,,dinara,srebrnjaka,dugovao,denarius (about a day's wages)
+δηνάριον,156,unigram,neuter,accusative,singular,,,dinar,srebrnjak,,denarius (about a day's wages)
+μαθητής,172,unigram,masculine,accusative,plural,učenicima,1.7000119349311285,učenicima,učenicima,učenicima,disciple
+μαθητής,327,unigram,masculine,accusative,singular,,,koga,volio,osobito,disciple
+μαθητής,266,unigram,masculine,nominative,plural,učenici,21.0059313886593,učenici,učenici,učenici,disciple
+μαθητής,325,unigram,masculine,nominative,singular,učenik,78.83108610482567,učenik,učenik,učenik,disciple
+νόσος,3,unigram,feminine,accusative,plural,bolesti,2.7390586189968658,bolesti,,bolesti,disease
+νόσος,73,unigram,feminine,accusative,singular,,,nemoć,,bolesti,disease
+περιστερά,95,unigram,feminine,accusative,plural,golubova,1.2388007911542749,golubova,golubova,trgovce,dove
+περιστερά,52,unigram,feminine,accusative,singular,goluba,1.8528128851195602,goluba,goluba,goluba,dove
+οὖς,145,unigram,neuter,accusative,plural,uši,1.9249473069652623,uši,sluša,uši,ear
+οὖς,272,unigram,neuter,accusative,singular,uho,2.1549921291604264,uho,uho,krovova,ear
+σεισμός,193,unigram,masculine,nominative,plural,potresa,1.4436957127905445,,potresa,potresa,"earthquakes, storm"
+σεισμός,61,unigram,masculine,nominative,singular,,,gle,,Odjednom,"earthquakes, storm"
+τέλος,263,unigram,neuter,accusative,singular,kraja,1.340765128160735,,kraja,kraja,end
+αἰών,294,unigram,masculine,accusative,singular,zauvijek,2.3155463197736843,zauvijek,zauvijek,zauvijek,eternity
+ὀφθαλμός,22,unigram,masculine,accusative,plural,oči,8.317007382085492,oči,oči,vid,eye
+ὀφθαλμός,10,unigram,masculine,accusative,singular,zub,1.523947129119636,,zub,zub,eye
+ὀφθαλμός,62,unigram,masculine,nominative,plural,oči,25.181667144628374,oči,oči,oči,eye
+ὀφθαλμός,291,unigram,masculine,nominative,singular,,,oko,ispunjen,,eye
+πρόσωπον,183,unigram,neuter,accusative,singular,,,lice,licem,,face
+λιμός,7,unigram,feminine,nominative,plural,potresa,1.2378293523500483,,potresa,,famine
+γεωργός,243,unigram,masculine,nominative,plural,vinogradari,4.94461557520517,vinogradari,vinogradari,vinogradari,"farmer, tenant"
+γεωργός,47,unigram,masculine,nominative,singular,vinogradar,1.201459869218647,vinogradar,,vinogradar,"farmer, tenant"
+πατήρ,297,unigram,masculine,accusative,singular,oca,1.2158101384541733,oca,oca,oca,father
+πατήρ,305,unigram,masculine,nominative,plural,preci,5.537945368945851,očevi,preci,preci,father
+πατήρ,178,unigram,masculine,nominative,singular,Otac,190.5736636926028,Otac,Otac,Otac,father
+σύνδουλος,139,unigram,masculine,accusative,plural,pijancima,1.2125536087908515,,pijancima,,"fellow-servant, colleague"
+σύνδουλος,309,unigram,masculine,nominative,plural,ispričati,1.0960670999999007,,,ispričati,"fellow-servant, colleague"
+σύνδουλος,110,unigram,masculine,nominative,singular,,,,strpljiv,Prijatelj,"fellow-servant, colleague"
+ἀγρός,321,unigram,masculine,accusative,plural,,,zemlje,polja,imanja,field
+ἀγρός,37,unigram,masculine,accusative,singular,njivu,9.783733855668313,njivu,njivu,njivu,field
+δάκτυλος,226,unigram,masculine,accusative,plural,prste,1.0960768946513286,prste,,,finger
+δάκτυλος,171,unigram,masculine,accusative,singular,,,prst,,ruku,finger
+ἰχθύς,149,unigram,masculine,accusative,plural,ribe,1.4775773518772435,ribe,kruhova,ribe,fish
+ἰχθύς,182,unigram,masculine,accusative,singular,ribu,2.4622980498559266,ribu,ribu,zmiju,fish
+δίκτυον,104,unigram,neuter,accusative,plural,mreže,21.38224382067434,mreže,mreže,mreže,fishing net
+δίκτυον,190,unigram,neuter,accusative,singular,mrežu,1.695886807484495,mrežu,,mrežu,fishing net
+δίκτυον,167,unigram,neuter,nominative,plural,razdirale,1.0960965115985384,,,razdirale,fishing net
+τροφή,235,unigram,feminine,accusative,plural,,,hranu,kupiti,otišli,food
+τροφή,316,unigram,feminine,accusative,singular,,,pravo,razboriti,postavio,food
+πούς,228,unigram,masculine,accusative,plural,noge,48.45854318681382,noge,noge,noge,foot
+καρπός,176,unigram,masculine,accusative,plural,plodove,2.7825512521055953,plodove,plodove,,"fruit, crop, harvest"
+καρπός,224,unigram,masculine,accusative,singular,plod,2.140417144506706,plod,plod,roda,"fruit, crop, harvest"
+πλήρωμα,259,unigram,neuter,accusative,plural,punih,1.3314821419087433,punih,punih,punih,fullness
+γενεά,225,unigram,feminine,accusative,singular,naraštaj,2.560887064317545,naraštaj,,naraštaj,generation
+γενεά,144,unigram,feminine,nominative,singular,naraštaj,3.9291413583827413,naraštaj,naraštaj,naraštaj,generation
+δῶρον,296,unigram,neuter,accusative,plural,darove,2.018434743733699,darove,,,gift
+δῶρον,157,unigram,neuter,accusative,singular,dar,3.4408715381105077,dar,dar,žrtvenikom,gift
+ἡγεμών,165,unigram,masculine,accusative,plural,kraljeve,6.216709705384614,kraljeve,kraljeve,kraljeve,"governor, ruler"
+ἡγεμών,12,unigram,masculine,accusative,singular,čudio,1.267301505635075,čudio,čudio,začudilo,"governor, ruler"
+ἀσπασμός,308,unigram,masculine,accusative,plural,,,pozdrave,trgovima,pozdravljaju,greeting
+ὁδηγός,5,unigram,masculine,nominative,plural,,,,jamu.,obojica,guide
+ὁδηγός,4,unigram,masculine,nominative,singular,,,vodiči,vođe,Slijepi,guide
+θρίξ,208,unigram,feminine,nominative,singular,vlas,1.329135573171213,vlas,dlaka,vlas,hair
+χείρ,300,unigram,feminine,accusative,plural,ruke,252.011817684536,ruke,ruke,ruke,hand
+χείρ,212,unigram,feminine,accusative,singular,ruku,15.954120776735012,ruku,ruku,ruku,hand
+κεφαλή,136,unigram,feminine,accusative,plural,vrijeđali,1.83848748660788,,vrijeđali,,head
+κεφαλή,196,unigram,feminine,accusative,singular,glavu,18.733262800317018,glavu,glavu,glavu,head
+στάχυς,197,unigram,masculine,accusative,plural,klasje,1.1420787435810489,klasje,,,head of grain
+καρδία,33,unigram,feminine,accusative,plural,srca,1.6518614526158506,srca,,,heart
+καρδία,275,unigram,feminine,accusative,singular,srce,5.26758550463349,srce,srce,,heart
+καρδία,184,unigram,feminine,nominative,singular,srce,9.001950123400409,srce,srca,srce,heart
+οὐρανός,255,unigram,masculine,accusative,singular,nebo,12.747403576108537,nebo,nebo,nebo,"heaven, sky"
+οὐρανός,188,unigram,masculine,nominative,singular,nebo,1.1715261865430926,nebo,nebo,Nebo,"heaven, sky"
+ὥρα,25,unigram,feminine,nominative,singular,vrijeme,2.8173321546906953,čas,vrijeme,vrijeme,hour
+οἰκία,313,unigram,feminine,accusative,singular,kuću,365.11394156927355,kuću,kuću,kuću,house
+οἶκος,270,unigram,masculine,accusative,plural,učinit,1.0963047455737722,,učinit,,"house, home"
+οἶκος,21,unigram,masculine,accusative,singular,kući,3.217698961289429,kući,kući,kući,"house, home"
+κριτής,295,unigram,masculine,nominative,plural,,,suci,čiju,,judge
+κριτής,159,unigram,masculine,nominative,singular,sudac,6.5475405296663345,sudac,sudac,sudac,judge
+βασιλεύς,102,unigram,masculine,accusative,plural,kraljeve,6.222532984591546,kraljeve,kraljeve,kraljeve,king
+βασιλεύς,56,unigram,masculine,accusative,singular,kralja,2.7004047023882434,kralja,kralja,kralja,king
+βασιλεία,77,unigram,feminine,accusative,plural,kraljevstva,1.426789120414796,kraljevstva,kraljevstva,Đavao,kingdom
+βασιλεία,155,unigram,feminine,accusative,singular,kraljevstvo,4.071562741164843,kraljevstvo,Božje,kraljevstvo,kingdom
+κόπος,191,unigram,masculine,accusative,plural,,,uznemirujete,djelo,,"labour, work, trouble, difficulty"
+λύχνος,242,unigram,masculine,nominative,plural,Obucite,1.161346151680032,,Obucite,,lamp
+λύχνος,222,unigram,masculine,nominative,singular,svjetiljka,1.688038990104229,svjetiljka,svjetiljka,,lamp
+κλῆρος,1,unigram,masculine,accusative,singular,,,ždrijeb,odjeću,kocku,"lots (casting of lots), inheritance"
+ἄνθρωπος,284,unigram,masculine,accusative,plural,ljude,15.106492304200627,ljude,ljude,ljude,man
+ἄνθρωπος,245,unigram,masculine,accusative,singular,čovjeka,115.41908545022964,čovjeka,čovjeka,čovjeka,man
+ἄνθρωπος,114,unigram,masculine,nominative,plural,ljudi,12.074770959652295,ljudi,ljudi,ljudi,man
+ἄνθρωπος,170,unigram,masculine,nominative,singular,čovjek,403.867755621433,čovjek,čovjek,čovjek,man
+ἀνήρ,239,unigram,masculine,accusative,singular,muža,28.374487693383788,muža,muža,muža,"man, husband"
+ἀνήρ,142,unigram,masculine,nominative,plural,muškaraca,2.1515262003160105,muškaraca,tisuća,muškaraca,"man, husband"
+ἀνήρ,229,unigram,masculine,nominative,singular,čovjek,13.256661209216164,čovjek,čovjek,čovjek,"man, husband"
+μνᾶ,287,unigram,feminine,accusative,plural,,,mina,deset,‘,mina (about 100 days' wages)
+μνᾶ,13,unigram,feminine,accusative,singular,srebro,1.0960670999999007,,,srebro,mina (about 100 days' wages)
+πρωτοκαθεδρία,100,unigram,feminine,accusative,plural,gozbama,1.1785399417784634,gozbama,gozbama,gozbama,"most important seat, seat of honour"
+μήτηρ,92,unigram,feminine,accusative,plural,majku,1.096329813773948,,,majku,mother
+μήτηρ,267,unigram,feminine,accusative,singular,majku,3.010302891949921,majku,majku,majku,mother
+ὄρος,207,unigram,neuter,accusative,plural,bježe,1.209215284755683,bježe,bježe,,mountain
+ὄρος,253,unigram,neuter,accusative,singular,goru,5.430245434502355,goru,na,goru,mountain
+ὄνομα,34,unigram,neuter,accusative,singular,ime,6.384746229386142,ime,ime,ime,name
+ὄνομα,98,unigram,neuter,nominative,plural,imena,7.9993690103270545,imena,imena,imena,name
+ὄνομα,240,unigram,neuter,nominative,singular,ime,3.0846837342406443,ime,ime,imenom,name
+ἔθνος,220,unigram,neuter,accusative,plural,narodima,2.1001529851506002,,narodima,narodima,nation
+ἔθνος,185,unigram,neuter,accusative,singular,narod,3.673295443826743,narod,narod,narod,nation
+ἔθνος,290,unigram,neuter,nominative,plural,,,,potrebno,nevjernici,nation
+ἔθνος,26,unigram,neuter,nominative,singular,narod,1.8366288635718333,narod,narod,narod,nation
+νύξ,180,unigram,feminine,accusative,plural,noći,15.606345730972336,noći,noći,noći,night
+νύξ,234,unigram,feminine,accusative,singular,,,danju,,zatim,night
+ὅρκος,57,unigram,masculine,accusative,plural,,,zakletve,,zakleo,oath
+ὅρκος,252,unigram,masculine,accusative,singular,zavjeta,1.0960670999999007,,,zavjeta,oath
+βοῦς,147,unigram,masculine,accusative,plural,,,goveda,novca,volove,ox
+παραβολή,248,unigram,feminine,accusative,plural,,,usporedbe,,prispodobe,parable
+παραβολή,213,unigram,feminine,accusative,singular,usporedbu,9.572894179971755,usporedbu,usporedbu,prispodobu,parable
+μέρος,331,unigram,neuter,accusative,plural,,,područja,područje,,part
+μέρος,49,unigram,neuter,accusative,singular,dio,1.1931300636437387,,dio,,part
+μαργαρίτης,215,unigram,masculine,accusative,plural,bisere,1.999949106296321,,bisere,,pearls
+τόπος,261,unigram,masculine,accusative,plural,potresa,1.4450964213386113,,potresa,potresa,place
+τόπος,283,unigram,masculine,accusative,singular,mjesto,81.72094519485569,mjesto,mjesto,mjesto,place
+πρωτοκλισία,265,unigram,feminine,accusative,plural,,,prva,mjesta,pročelju,place of honor
+ὄφις,99,unigram,masculine,accusative,singular,zmiju,4.7283729475954885,zmiju,zmiju,zmiju,poison
+σκεῦος,131,unigram,neuter,accusative,plural,opljačkati,1.5385487963909523,,opljačkati,,"possession, object, thing, jar, vessel"
+σκεῦος,244,unigram,neuter,accusative,singular,,,pronese,išta,,"possession, object, thing, jar, vessel"
+σκεῦος,123,unigram,neuter,nominative,plural,stvari,1.2125536087908517,stvari,zatekne,stvari,"possession, object, thing, jar, vessel"
+δύναμις,101,unigram,feminine,accusative,plural,,,djela,čuda,čudesa,"power, ability, miracle"
+δύναμις,43,unigram,feminine,accusative,singular,moć,1.2768703058586852,,moć,,"power, ability, miracle"
+δύναμις,80,unigram,feminine,nominative,plural,,,silna,čuda,sile,"power, ability, miracle"
+δύναμις,111,unigram,feminine,nominative,singular,sila,5.872633366029439,snaga,sila,sila,"power, ability, miracle"
+ἱερεύς,232,unigram,masculine,nominative,singular,svećenik,2.9030686409352606,svećenik,svećenik,svećenik,priest
+φυλακή,24,unigram,feminine,accusative,singular,tamnicu,6.0557773453720465,tamnicu,zatvor,tamnicu,prison
+προφήτης,60,unigram,masculine,accusative,plural,proroke,48.35980036487087,proroke,proroke,proroke,prophet
+προφήτης,189,unigram,masculine,accusative,singular,proroka,2.8735791849647203,proroka,prorok,proroka,prophet
+προφήτης,214,unigram,masculine,nominative,plural,proroci,16.318183500164558,proroci,proroci,proroci,prophet
+προφήτης,254,unigram,masculine,nominative,singular,prorok,11.694624054583823,prorok,prorok,prorok,prophet
+βαλλάντιον,19,unigram,neuter,accusative,singular,,,novčanik,torbu,,purse
+ποταμός,162,unigram,masculine,nominative,singular,izgradi,1.2851180822006234,,,izgradi,river
+λῃστής,330,unigram,masculine,accusative,singular,razbojnika,1.0811206535908369,razbojnika,,,robber
+λῃστής,310,unigram,masculine,nominative,plural,razbojnici,3.8326259135058,razbojnici,razbojnici,,robber
+λῃστής,152,unigram,masculine,nominative,singular,razbojnik,3.999795658923141,razbojnik,razbojnik,,robber
+ἄρχων,194,unigram,masculine,accusative,plural,,,poglavare,,vijećnike,ruler
+ἄρχων,64,unigram,masculine,nominative,plural,glavari,2.4060611112285786,glavari,glavari,naši,ruler
+ἄρχων,304,unigram,masculine,nominative,singular,knez,2.083044931637716,knez,vladar,knez,ruler
+ἀκοή,75,unigram,feminine,accusative,singular,tetrarh,1.9398173737892548,tetrarh,glasine,tetrarh,rumor
+ἀκοή,320,unigram,feminine,nominative,singular,,,glas,proširila,,rumor
+βιβλίον,51,unigram,neuter,accusative,singular,,,knjigu,svitak,,"scroll, book"
+διάκονος,88,unigram,masculine,nominative,singular,sluga,1.2164663852775588,neka,sluga,sluga,"servant, minister, deacon"
+δοῦλος,201,unigram,masculine,accusative,plural,sluge,47.26109343019487,sluge,sluge,sluge,"servant, slave"
+δοῦλος,27,unigram,masculine,accusative,singular,slugu,29.245162052113336,slugu,slugu,slugu,"servant, slave"
+δοῦλος,97,unigram,masculine,nominative,plural,sluge,5.173477876074624,sluge,sluge,sluge,"servant, slave"
+δοῦλος,195,unigram,masculine,nominative,singular,sluga,8.827931085221017,sluga,sluga,sluga,"servant, slave"
+πρόβατον,314,unigram,neuter,accusative,plural,ovce,25.967877568153625,ovce,ovce,ovce,sheep
+πρόβατον,138,unigram,neuter,accusative,singular,ovcu,7.079973060328074,ovcu,ovcu,ovcu,sheep
+ποιμήν,238,unigram,masculine,nominative,plural,pastiri,7.541807543637783,pastiri,pastiri,pastiri,"shepherd, pastor"
+ποιμήν,276,unigram,masculine,nominative,singular,pastir,4.020114761894881,pastir,pastir,pastir,"shepherd, pastor"
+σημεῖον,134,unigram,neuter,accusative,plural,,,čudesa,znakove,čuda,sign
+σημεῖον,122,unigram,neuter,accusative,singular,znak,15.431851789512482,znak,znak,znak,sign
+σημεῖον,40,unigram,neuter,nominative,plural,znaci,3.8323628952932096,znakovi,znaci,znaci,sign
+σημεῖον,87,unigram,neuter,nominative,singular,znak,6.660628387566405,znak,znak,znak,sign
+δραχμή,164,unigram,feminine,accusative,singular,,,srebrnjak,nađe,,"silver coin, drachma"
+ἀργύριον,206,unigram,neuter,accusative,plural,trideset,1.3528744307150329,srebrnjaka,trideset,trideset,"silver, money"
+ἀργύριον,323,unigram,neuter,accusative,singular,novac,8.925399328113267,novac,novac,novac,"silver, money"
+ἁμαρτία,271,unigram,feminine,accusative,plural,grijehe,5.952942772041596,grijehe,grijehe,grijehe,sin
+ἁμαρτία,210,unigram,feminine,accusative,singular,grijeh,3.516685711330452,grijeh,grijeh,grijeh,sin
+ἁμαρτία,280,unigram,feminine,nominative,plural,grijesi,1.1948992079814291,grijesi,grijesi,oprošteni,sin
+ἁμαρτία,277,unigram,feminine,nominative,singular,grijeh,4.3214901602407565,grijeh,grijeh,grijeh,sin
+ἀδελφή,302,unigram,feminine,accusative,plural,sestre,1.2959853612968881,sestre,sestre,oca,sister
+ἀδελφή,128,unigram,feminine,accusative,singular,sestru,3.9997953154439863,sestru,sestru,,sister
+ἀδελφή,20,unigram,feminine,nominative,plural,sestre,11.177421754584056,sestre,sestre,sestre,sister
+ἀδελφή,301,unigram,feminine,nominative,singular,sestra,17.78091252541691,sestra,sestra,sestra,sister
+ῥάπισμα,148,unigram,neuter,accusative,plural,licu,1.2013416367619456,pljuske,licu,licu,"slap, strike, hit"
+ῥάπισμα,264,unigram,neuter,accusative,singular,pljusku,1.096057314542422,pljusku,,,"slap, strike, hit"
+πλοιάριον,133,unigram,neuter,nominative,singular,,,učenicima,,mnoštvo,small boat
+ὀψάριον,247,unigram,neuter,accusative,singular,kruh,1.5974777458393385,ribu,kruh,kruh,small fish
+υἱός,45,unigram,masculine,accusative,plural,sinova,3.218480369808405,sina,sinova,sinova,son
+υἱός,121,unigram,masculine,accusative,singular,Sina,2.382587039691678,Sina,Sina,Sina,son
+υἱός,124,unigram,masculine,nominative,plural,sinovi,4.283778242335117,djeca,sinovi,sinovi,son
+υἱός,203,unigram,masculine,nominative,singular,Sin,6.845159507033352,Sin,Sin,Sin,son
+ψυχή,216,unigram,feminine,accusative,plural,posjedujte,1.0962149939516397,posjedujte,,,"soul, life"
+ψυχή,274,unigram,feminine,accusative,singular,život,2.573562881407235,život,život,život,"soul, life"
+ἀστήρ,285,unigram,masculine,nominative,plural,,,,padati,padatii,star
+λίθος,289,unigram,masculine,accusative,plural,kamenje,2.500385635216877,kamenje,,kamenje,stone
+λίθος,35,unigram,masculine,accusative,singular,kamen,108.99871257204028,kamen,kamen,kamen,stone
+λίθος,132,unigram,masculine,nominative,plural,kamenje,7.502529175562153,kamenje,kamenje,kamenje,stone
+λίθος,39,unigram,masculine,nominative,singular,kamen,5.519379282292344,kamen,kamen,kamen,stone
+συναγωγή,236,unigram,feminine,accusative,plural,sinagogama,4.508358516945541,sinagogama,sinagogama,sinagogama,synagogue
+συναγωγή,324,unigram,feminine,accusative,singular,sinagogu,20.606140297837737,sinagogu,sinagogu,sinagogu,synagogue
+τράπεζα,135,unigram,feminine,accusative,singular,,,,podignem,uložio,table
+τάλαντον,69,unigram,neuter,accusative,plural,talenata,2.5364710969869537,talenata,talenata,zlatnika,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,219,unigram,neuter,accusative,singular,talenat,8.618839222709104,talenat,talenat,vreću,talent (weight and monetary unit: around 20 years' wages)
+φόρος,281,unigram,masculine,accusative,singular,,,,plaćamo,plaćati,tax
+τελώνης,181,unigram,masculine,nominative,plural,poreznici,8.816081143740565,poreznici,poreznici,,tax collector
+τελώνης,72,unigram,masculine,nominative,singular,poreznik,5.70080096503996,poreznik,poreznik,poreza,tax collector
+γραμματεύς,328,unigram,masculine,nominative,plural,pismoznanci,8.479780123885819,pismoznanci,Zakona,pismoznanci,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,204,unigram,masculine,nominative,singular,pismoznanac,4.834133111047833,pismoznanac,Zakona,pismoznanac,"teacher, expert in the law, scholar, scribe"
+καθηγητής,315,unigram,masculine,nominative,plural,učiteljima,1.161293917469705,učiteljima,,,"teacher, guide"
+καθηγητής,218,unigram,masculine,nominative,singular,učiteljima,1.161293917469705,učiteljima,,,"teacher, guide"
+κλέπτης,82,unigram,masculine,nominative,plural,lopovi,2.3479891379700626,lopovi,,lopovi,thief
+κλέπτης,217,unigram,masculine,nominative,singular,lopov,5.689529228698639,lopov,lopov,lopov,thief
+διαλογισμός,286,unigram,masculine,accusative,plural,znao,1.299786079861284,,znao,,"thought, argument"
+διαλογισμός,141,unigram,masculine,accusative,singular,,,misao,misli,uza,"thought, argument"
+διαλογισμός,115,unigram,masculine,nominative,plural,misli,2.7617768200261597,misli,misli,srca,"thought, argument"
+διαλογισμός,279,unigram,masculine,nominative,singular,,,misao,,razmišljati,"thought, argument"
+θρόνος,230,unigram,masculine,accusative,singular,prijestolje,1.2013845589884997,prijestolje,prijestolje,,throne
+χρόνος,258,unigram,masculine,accusative,plural,,,duže,dulje,,time
+χρόνος,223,unigram,masculine,accusative,singular,,,vremena,dugo,,time
+καιρός,137,unigram,masculine,nominative,singular,vrijeme,9.169172943699433,vrijeme,vrijeme,vrijeme,"time, right time"
+τάφος,169,unigram,masculine,accusative,singular,grob,2.3021453809487613,grobnicu,grob,grob,"tomb, grave"
+μνημεῖον,14,unigram,neuter,accusative,plural,,,gradite,grobnice,prorocima,"tomb, grave"
+μνημεῖον,18,unigram,neuter,accusative,singular,grob,5.386942824673192,grobnice,grob,grob,"tomb, grave"
+μνημεῖον,78,unigram,neuter,nominative,plural,grobovi,1.9999484165552333,grobovi,,,"tomb, grave"
+μνημεῖον,251,unigram,neuter,nominative,singular,,,grobnica,grob,,"tomb, grave"
+ὀδούς,70,unigram,masculine,accusative,singular,zub,1.5764526627228987,,zub,zub,tooth
+θησαυρός,211,unigram,masculine,accusative,singular,blago,1.8018871547248847,blago,,blago,treasure
+δένδρον,86,unigram,neuter,accusative,plural,,,stabla,drveće,,tree	
+δένδρον,76,unigram,neuter,accusative,singular,stablo,3.999795573155694,stablo,,stablo,tree	
+κώμη,257,unigram,feminine,accusative,plural,sela,8.993445516311782,sela,sela,sela,village
+κώμη,53,unigram,feminine,accusative,singular,selo,38.3220688475037,selo,selo,selo,village
+παρθένος,269,unigram,feminine,nominative,plural,djevice,3.9997962573930907,djevice,djevojke,djevice,virgin
+φωνή,311,unigram,feminine,nominative,singular,glas,8.948989815449087,glas,glas,glas,voice or sound
+πόλεμος,249,unigram,masculine,accusative,plural,,,ratove,kraj,,war
+ὕδωρ,329,unigram,neuter,accusative,plural,vodi,2.3850270200225143,vodi,hodajući,vodi,water
+ὕδωρ,90,unigram,neuter,accusative,singular,vodu,5.917732826923084,vodu,vodu,vodu,water
+ὕδωρ,107,unigram,neuter,nominative,singular,voda,23.91125692329136,voda,voda,voda,water
+ὑδρία,198,unigram,feminine,accusative,plural,vrha,1.0960524252565438,,,vrha,water jar
+ὑδρία,112,unigram,feminine,accusative,singular,,,otišla,sugrađanima,,water jar
+ὁδός,250,unigram,feminine,accusative,plural,,,puteve,,napuni,way
+ὁδός,140,unigram,feminine,accusative,singular,put,8.517905537996983,put,put,put,way
+γάμος,158,unigram,masculine,accusative,plural,svadbu,37.19847966199773,svadbu,svadbu,svadbu,wedding
+γάμος,233,unigram,masculine,accusative,singular,svadbu,1.201449095271969,svadbu,svadbu,pozvani,wedding
+γυνή,106,unigram,feminine,accusative,plural,,,otpuštati,razvodite,ustupak,"wife, woman"
+γυνή,173,unigram,feminine,accusative,singular,ženu,5.416926583390217,ženu,ženu,ženu,"wife, woman"
+γυνή,116,unigram,feminine,nominative,plural,žene,10.147505815967438,žene,žene,žene,"wife, woman"
+γυνή,120,unigram,feminine,nominative,singular,žena,220.5044164247182,žena,žena,žena,"wife, woman"
+ἄνεμος,8,unigram,masculine,nominative,plural,vjetrovi,3.5979833617669765,vjetrovi,vjetrovi,vjetrovi,wind
+ἄνεμος,66,unigram,masculine,nominative,singular,vjetar,20.130498683566135,vjetar,vjetar,vjetar,wind
+πνεῦμα,299,unigram,neuter,accusative,plural,Na,1.1150916654517589,,,Na,"wind, breath, spirit"
+πνεῦμα,163,unigram,neuter,accusative,singular,Duha,3.397071769992673,Duha,Duha,Duha,"wind, breath, spirit"
+πνεῦμα,11,unigram,neuter,nominative,plural,duhovi,3.7804689474572934,duhovi,duhovi,,"wind, breath, spirit"
+πνεῦμα,23,unigram,neuter,nominative,singular,Duh,3.4470758918774096,Duh,Duh,Duh,"wind, breath, spirit"
+ῥῆμα,179,unigram,neuter,accusative,plural,riječi,6.583774718348207,riječi,,riječi,word
+ῥῆμα,160,unigram,neuter,accusative,singular,razumjeli,1.3950843694309452,,razumjeli,razumjeli,word
+ῥῆμα,31,unigram,neuter,nominative,plural,,,riječi,duh,,word
+ῥῆμα,318,unigram,neuter,nominative,singular,,,riječ,,ništa,word
+λόγος,161,unigram,masculine,accusative,plural,riječi,1.573206706830811,besjede,riječi,riječi,word
+λόγος,153,unigram,masculine,accusative,singular,,,riječ,učenje,Riječ,word
+λόγος,150,unigram,masculine,nominative,plural,,,Nebo,Zemlja,ostaju,word
+λόγος,288,unigram,masculine,nominative,singular,riječ,2.887326582482601,riječ,učenje,riječ,word
+ἔργον,42,unigram,neuter,accusative,plural,djela,48.9923303723261,djela,djela,djela,work
+ἔργον,91,unigram,neuter,accusative,singular,djelo,4.979937048663935,djelo,djelo,djelo,work
+ἔργον,292,unigram,neuter,nominative,plural,djela,17.531300868075704,djela,djela,djela,work
+ἔργον,268,unigram,neuter,nominative,singular,,,djelo,volja.,,work
+ἐργάτης,143,unigram,masculine,nominative,plural,,,,radnika,Žetva,worker
+ἐργάτης,205,unigram,masculine,nominative,singular,radnik,1.9999489783035076,radnik,,,worker
+ἔτος,246,unigram,neuter,accusative,plural,godina,14.555076180180507,godina,godina,godina,year
+ἔτος,174,unigram,neuter,accusative,singular,godine,1.6154348933207163,,,godine,year

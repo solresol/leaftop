@@ -1,0 +1,357 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1718_translation,version_1719_translation,version_1720_translation,version_1721_translation,version_1722_translation,version_1723_translation,version_1724_translation,english_translation
+θεός,346,unigram,masculine,accusative,plural,perëndi,1.4233913136299594,perëndi,perëndi,perëndina,,,,,God
+θεός,140,unigram,masculine,accusative,singular,Perëndinë,105.5649103481757,Perëndinë,Perëndinë,Perëndinë,Perndinë,,,,God
+θεός,31,unigram,masculine,nominative,plural,,,perëndi,,,Perndira,,,,God
+θεός,219,unigram,masculine,nominative,singular,Perëndia,325.02023127347087,Perëndia,Perëndia,Perëndia,Perndia,,,,God
+κύριος,348,unigram,masculine,nominative,plural,,,,zotët,sgjithni,zotërinjt,,,,"Lord, lord, master"
+κύριος,141,unigram,masculine,nominative,singular,Zoti,6.521825081144673,Zoti,Zoti,Zoti,Zoti,,,,"Lord, lord, master"
+γραφή,136,unigram,feminine,accusative,plural,Shkrimet,2.2433310222407923,Shkrimet,Shkrimet,shkronjatë,kartëratë,,,,Scripture
+γραφή,55,unigram,feminine,accusative,singular,shenjtë,1.2678081706729714,,shenjtë,,,,,,Scripture
+γραφή,274,unigram,feminine,nominative,plural,Shkrimet,1.8419631186268244,Shkrimet,Shkrimet,shkronjatë,kartëratë,,,,Scripture
+γραφή,341,unigram,feminine,nominative,singular,,,Shkrimi,shenjtë,shkronja,karta,,,,Scripture
+ἄγγελος,103,unigram,masculine,accusative,plural,engjëjt,2.2121476543903436,engjëjt,engjëjt,engjujt,mbëjedhënë,,,,angel
+ἄγγελος,89,unigram,masculine,accusative,singular,lajmëtarin,1.0500981916898025,lajmëtarin,,,,,,,angel
+ἄγγελος,51,unigram,masculine,nominative,plural,engjëjt,22.348092295911865,engjëjt,engjëjt,engjujtë,Qiell,,,,angel
+ἄγγελος,114,unigram,masculine,nominative,singular,engjëlli,1.2901629441156113,engjëlli,engjëlli,engjull,Ëngjëlli,,,,angel
+ἀπόστολος,48,unigram,masculine,nominative,plural,apostujt,3.777046734738495,apostujt,apostujt,apostujtë,apostojtë,,,,apostle
+ἀπόστολος,7,unigram,masculine,nominative,singular,,,dërguari,dërguar,dërguemi,dërguarë,,,,apostle
+ἐξουσία,208,unigram,feminine,accusative,singular,pushtet,3.887104736104704,pushtet,pushtet,pushtet,urdhër,,,,authority
+βρέφος,18,unigram,neuter,accusative,plural,qortuan,1.0595416318177246,qortuan,,,,,,,babies
+βρέφος,339,unigram,neuter,accusative,singular,,,grazhd,grazhd,grasht,grasht,,,,babies
+ἀποθήκη,74,unigram,feminine,accusative,singular,grurin,2.3479729410728587,grurin,grurin,diegunë,,,,,barn
+φραγμός,119,unigram,masculine,accusative,singular,kullë,1.0595319950666118,,,,kullë,,,,"barrier, wall"
+ἀρχή,190,unigram,feminine,accusative,singular,lëvdimn,1.0662807816552895,,,,lëvdimn,,,,beginning
+ζώνη,181,unigram,feminine,accusative,plural,brezat,1.1613200159490844,,,brezat,,,,,belt
+ζώνη,234,unigram,feminine,accusative,singular,ushqehej,1.0960524252565438,,ushqehej,,,,,,belt
+βλασφημία,35,unigram,feminine,accusative,plural,,,arsyetojnë,,,vllasfimira,,,,blasphemy
+βλασφημία,217,unigram,feminine,nominative,plural,,,,fyerjet,,vllasfimira,,,,blasphemy
+βλασφημία,90,unigram,feminine,nominative,singular,,,blasfemia,,vlasfimi,,,,,blasphemy
+πλοῖον,112,unigram,neuter,accusative,plural,,,barkat,varkat,lundratë,varkatë,,,,boat
+πλοῖον,323,unigram,neuter,accusative,singular,varkë,9.063014048264675,barkë,varkë,lundrët,varkë,,,,boat
+πλοῖον,250,unigram,neuter,nominative,plural,,,barkë,varkën,lundrët,varkë,,,,boat
+πλοῖον,236,unigram,neuter,nominative,singular,varka,5.551281563393261,barka,varka,lundra,varka,,,,boat
+σῶμα,65,unigram,neuter,nominative,singular,trupi,13.583636608834858,trupi,trupi,korpi,kurmi,,,,body
+κλῆμα,61,unigram,neuter,nominative,plural,shermendet,1.2013523596909814,shermendet,shermendet,hardhiatë,dhritë,,,,branch
+κλῆμα,156,unigram,neuter,nominative,singular,shermendi,2.4755357096526143,shermendi,shermendi,mbettë,dhria,,,,branch
+ἄρτος,328,unigram,masculine,accusative,plural,bukë,3.8835448483663657,bukë,bukë,bukë,bukë,,,,bread
+ἄρτος,356,unigram,masculine,accusative,singular,bukë,41.203665857076295,bukë,bukë,bukë,bukë,,,,bread
+ἄρτος,163,unigram,masculine,nominative,plural,bukë,37.143059124475464,bukë,bukë,bukë,bukë,,,,bread
+ἄρτος,42,unigram,masculine,nominative,singular,buka,11.180626157577324,buka,buka,buka,Qielli,,,,bread
+ἀδελφός,314,unigram,masculine,accusative,plural,,,vëllezërit,,,vëllazër,,,,brother
+ἀδελφός,129,unigram,masculine,accusative,singular,,,vëllanë,vëllanë,vëllan,vëllan,,,,brother
+ἀδελφός,118,unigram,masculine,nominative,plural,vëllezërit,7.96307107681666,vëllezërit,vëllezërit,vëllazënit,vëllazërit,,,,brother
+ἀδελφός,242,unigram,masculine,nominative,singular,vëllai,57.234434190556485,vëllai,vëllai,vëllai,vëllai,,,,brother
+στῆθος,297,unigram,neuter,accusative,singular,kraharorin,5.174983799460933,kraharorin,kraharorin,krahanuer,gjoks,,,,"chest, breast"
+ἀρχιερεύς,255,unigram,masculine,accusative,plural,,,priftërinjve,kryepriftërinjtë,Krye-priftënit,parët,,,,chief priest
+ἀρχιερεύς,66,unigram,masculine,accusative,singular,kryeprifti,2.5010814075024235,kryeprifti,kryeprifti,Krye-prifti,priftëret,,,,chief priest
+ἀρχιερεύς,128,unigram,masculine,nominative,plural,,,priftërinjve,kryepriftërinjtë,Krye-priftënit,parët,,,,chief priest
+ἀρχιερεύς,259,unigram,masculine,nominative,singular,kryeprifti,6.290154109688891,kryeprifti,kryeprifti,Krye-prifti,priftëret,,,,chief priest
+παῖς,246,unigram,masculine,accusative,plural,fëmijët,1.8970485333143736,fëmijët,fëmijët,,djelmtë,,,,child
+παῖς,53,unigram,masculine,accusative,singular,,,përpëliti,,,përshqien,,,,child
+τέκνον,350,unigram,neuter,accusative,plural,fëmijët,1.7361446967094731,fëmijët,fëmijët,dielmt,djelm,,,,child
+τέκνον,187,unigram,neuter,accusative,singular,vëllai,1.7369137458802013,vëllai,,vëllai,vëllai,,,,child
+τέκνον,19,unigram,neuter,nominative,plural,,,,Bijtë,,vëllanë,,,,child
+τέκνον,200,unigram,neuter,nominative,singular,Bir,4.336326116793028,bir,Bir,dial,Bir,,,,child
+παιδίον,17,unigram,neuter,accusative,plural,,,vegjël,,vogjilë,tillëvet,,,,child
+παιδίον,97,unigram,neuter,accusative,singular,fëmijën,2.7403017229063757,fëmijën,fëmijën,dialin,djalënë,,,,child
+παιδίον,179,unigram,neuter,nominative,plural,,,,fëmijë,çunat,,,,,child
+παιδίον,44,unigram,neuter,nominative,singular,,,fëmijë,Fëmija,çun,djalë,,,,child
+πόλις,191,unigram,feminine,accusative,plural,qytete,1.6019981522464875,qytete,qytetet,qytete,qutete,,,,city
+πόλις,70,unigram,feminine,accusative,singular,qytet,83.16771796678918,qytet,qytet,qytet,qutet,,,,city
+πύλη,278,unigram,feminine,nominative,plural,,,,,ferrit,diert,,,,city gate
+πύλη,216,unigram,feminine,nominative,singular,ngushtë,1.2202966018676227,ngushtë,ngushtë,,ngushtë,,,,city gate
+χιτών,124,unigram,masculine,accusative,plural,tunika,3.7006783832741403,tunika,tunika,petka,palë,,,,"clothing, undergarments"
+χιτών,32,unigram,masculine,accusative,singular,tunikën,3.442512903708421,tunikën,tunikën,,,,,,"clothing, undergarments"
+ἱμάτιον,138,unigram,neuter,accusative,plural,rrobat,57.914861421768364,rrobat,rrobat,petkat,rrobat,,,,coat
+ἱμάτιον,137,unigram,neuter,accusative,singular,mantelin,2.623653014567942,mantelin,mantelin,petkun,rrobë,,,,coat
+ἐντολή,87,unigram,feminine,accusative,plural,urdhërimet,9.313980560301227,urdhërimet,urdhërimet,porosiat,porsit,,,,commandment
+ἐντολή,85,unigram,feminine,accusative,singular,,,urdhërimin,,porosi,porsi,,,,commandment
+συνέδριον,333,unigram,neuter,accusative,plural,,,përpara,sinedra,rrafunë,,,,,council
+συνέδριον,57,unigram,neuter,accusative,singular,,,sinedrin,mblodhën,,parët,,,,council
+χώρα,81,unigram,feminine,accusative,plural,aratë,1.0961358565100614,,,aratë,,,,,"country, countryside"
+χώρα,302,unigram,feminine,accusative,singular,vend,2.573025667516399,krahinën,vend,vend,vënd,,,,"country, countryside"
+ὄχλος,62,unigram,masculine,accusative,plural,turmat,10.462111022945674,turmat,turmat,gjindëjenë,botënë,,,,crowd
+ὄχλος,11,unigram,masculine,accusative,singular,turmën,2.2899066679362345,turmën,turmën,gjindëjenë,turmënë,,,,crowd
+ὄχλος,105,unigram,masculine,nominative,plural,turmat,4.161951767541532,turmat,turmat,gjindëja,turmëtë,,,,crowd
+ὄχλος,292,unigram,masculine,nominative,singular,turmë,2.0025859359383396,turmë,turmë,gjindëje,turma,,,,crowd
+θυγάτηρ,122,unigram,feminine,nominative,plural,,,bija,Bija,,,,,,daughter
+θυγάτηρ,327,unigram,feminine,nominative,singular,,,bija,bijë,,jote,,,,daughter
+ἡμέρα,79,unigram,feminine,accusative,plural,,,ditë,ditësh,ditt,ditet,,,,day
+ἡμέρα,91,unigram,feminine,accusative,singular,ditë,6.163273083198239,ditë,ditë,përditë,ditënë,,,,day
+ἡμέρα,2,unigram,feminine,nominative,plural,ditë,1.3193717299876881,ditë,ditë,ditt,dit,,,,day
+ἡμέρα,72,unigram,feminine,nominative,singular,,,dita,ditë,dita,ditë,,,,day
+ὀφειλέτης,130,unigram,masculine,nominative,singular,detyrohej,1.2870457203668455,detyrohej,detyrohej,detuer,,,,,debtor
+δαιμόνιον,33,unigram,neuter,accusative,plural,,,demonët,djajtë,djemënitë,paudhëtë,,,,demon
+δαιμόνιον,344,unigram,neuter,accusative,singular,,,demon,djallin,diallinë,xhindosurë,,,,demon
+δαιμόνιον,202,unigram,neuter,nominative,plural,,,demonët,djajtë,djemënitë,paudhëtë,,,,demon
+δαιμόνιον,177,unigram,neuter,nominative,singular,,,demoni,qortoi,dialli,paudhi,,,,demon
+δηνάριον,319,unigram,neuter,accusative,plural,denarë,4.687601717240865,denarë,denarë,dinarë,dhinarë,,,,denarius (about a day's wages)
+δηνάριον,165,unigram,neuter,accusative,singular,,,denar,monedhë,dinar,dhinar,,,,denarius (about a day's wages)
+μαθητής,184,unigram,masculine,accusative,plural,dishepujt,6.7307357369260705,dishepujt,dishepujt,dishepujt,mathitit,,,,disciple
+μαθητής,351,unigram,masculine,accusative,singular,donte,1.8635924686673104,donte,donte,donte,dashurë,,,,disciple
+μαθητής,284,unigram,masculine,nominative,plural,dishepujt,113.94306295910113,dishepujt,dishepujt,dishepujt,mathitit,,,,disciple
+μαθητής,349,unigram,masculine,nominative,singular,dishepulli,15.458539888531135,dishepulli,dishepulli,dishepulli,mathitiu,,,,disciple
+νόσος,3,unigram,feminine,accusative,plural,sëmundjet,3.064855143599759,sëmundjet,sëmundjet,,sëmundëtë,,,,disease
+νόσος,77,unigram,feminine,accusative,singular,,,,lëngatë,sëmundëje,Ungjilln,,,,disease
+περιστερά,104,unigram,feminine,accusative,plural,shitnë,1.32303936165621,,,,shitnë,,,,dove
+περιστερά,59,unigram,feminine,accusative,singular,pëllumb,2.353313959083593,pëllumb,pëllumb,pullump,pëllumbë,,,,dove
+οὖς,155,unigram,neuter,accusative,plural,veshë,3.3093987898768105,dëgjojë,veshë,veshë,veshë,,,,ear
+οὖς,291,unigram,neuter,accusative,singular,vesh,1.688511962725503,,çatitë,vesh,vesh,,,,ear
+σεισμός,209,unigram,masculine,nominative,plural,tërmete,1.4312438609034783,tërmete,tërmete,tërmetëna,tërmete,,,,"earthquakes, storm"
+σεισμός,68,unigram,masculine,nominative,singular,tërmet,3.016225773729933,ja,,tërmet,tërmet,,,,"earthquakes, storm"
+τέλος,281,unigram,neuter,accusative,singular,fund,1.4423111442570207,fund,fund,së,durojë,,,,end
+αἰών,247,unigram,masculine,accusative,plural,,,,,mbëretënuem,mbretërojë,,,,eternity
+αἰών,315,unigram,masculine,accusative,singular,,,përjetë,kurrë,jetënë,jetë,,,,eternity
+ὀφθαλμός,24,unigram,masculine,accusative,plural,sytë,13.63903040483061,sytë,sytë,sytë,sitë,,,,eye
+ὀφθαλμός,69,unigram,masculine,nominative,plural,sytë,15.964745851533873,sytë,sytë,syt,sit,,,,eye
+ὀφθαλμός,312,unigram,masculine,nominative,singular,syri,2.874429107156348,syri,syri,syni,siu,,,,eye
+πρόσωπον,197,unigram,neuter,accusative,singular,,,fytyrë,,faqen,faqe,,,,face
+λιμός,8,unigram,feminine,nominative,plural,,,tërmete,,,ngrihetë,,,,famine
+λιμός,99,unigram,feminine,nominative,singular,,,,,mangutë,prishi,,,,famine
+λιμός,142,unigram,masculine,nominative,singular,veja,1.2013845614880911,veja,,veja,,,,,famine
+γεωργός,260,unigram,masculine,nominative,plural,vreshtarët,2.195076156378118,vreshtarët,vreshtarët,bujqitë,vrasëmë,,,,"farmer, tenant"
+γεωργός,54,unigram,masculine,nominative,singular,vreshtari,1.201459869218647,vreshtari,vreshtari,bulku,bujku,,,,"farmer, tenant"
+πατήρ,203,unigram,masculine,accusative,plural,atënit,1.1633421739386351,,,atënit,,,,,father
+πατήρ,318,unigram,masculine,accusative,singular,Ati,1.2845089046959477,Ati,Ati,atin,babanë,,,,father
+πατήρ,326,unigram,masculine,nominative,plural,etërit,1.7831409668428906,etërit,etërit,Atënitë,,,,,father
+πατήρ,192,unigram,masculine,nominative,singular,Ati,202.93741027835455,Ati,Ati,Ati,babai,,,,father
+σύνδουλος,149,unigram,masculine,accusative,plural,,,pijanecët,dehurit,fillon,dejmitë,,,,"fellow-servant, colleague"
+σύνδουλος,94,unigram,masculine,accusative,singular,,,shokun,pata,,,,,,"fellow-servant, colleague"
+σύνδουλος,330,unigram,masculine,nominative,plural,pikëlluan,1.3385798480289144,pikëlluan,pikëlluan,,helmuanë,,,,"fellow-servant, colleague"
+σύνδουλος,120,unigram,masculine,nominative,singular,,,shok,kthej,,shoku,,,,"fellow-servant, colleague"
+ἀγρός,343,unigram,masculine,accusative,plural,ara,1.9125973954995887,fshatra,ara,ara,,,,,field
+ἀγρός,43,unigram,masculine,accusative,singular,arë,7.1016180366227815,,arën,arë,arë,,,,field
+δάκτυλος,183,unigram,masculine,accusative,singular,gishtin,1.106282796604272,gishtin,,,,,,,finger
+ἰχθύς,159,unigram,masculine,accusative,plural,peshqit,1.4733986642547607,peshqit,peshqit,peshqitë,,,,,fish
+ἰχθύς,196,unigram,masculine,accusative,singular,gjarpër,1.1883714374540961,gjarpër,gjarpër,,pishk,,,,fish
+δίκτυον,113,unigram,neuter,accusative,plural,rrjetat,10.544853080832755,rrjetat,rrjetat,rretatë,,,,,fishing net
+δίκτυον,206,unigram,neuter,accusative,singular,rrjetën,2.674264034452072,rrjetën,rrjetën,rrietënë,rrjetnë,,,,fishing net
+δίκτυον,178,unigram,neuter,nominative,plural,griseshin,1.1613810574337249,,griseshin,,,,,,fishing net
+τροφή,252,unigram,feminine,accusative,plural,,,,,ushqime,blerë,,,,food
+τροφή,338,unigram,feminine,accusative,singular,,,shtëpiarët,,mençim,,,,,food
+πούς,243,unigram,masculine,accusative,plural,këmbët,36.070546304842615,këmbët,këmbët,,këmbët,,,,foot
+πούς,117,unigram,masculine,accusative,singular,,,mbajnë,,kambënë,këmbënë,,,,foot
+καρπός,189,unigram,masculine,accusative,plural,fryte,1.4918087989561308,fryte,fryte,pemë,mira,,,,"fruit, crop, harvest"
+καρπός,239,unigram,masculine,accusative,singular,fryt,8.71256943654181,fryt,fryt,pemë,pemmë,,,,"fruit, crop, harvest"
+πλήρωμα,277,unigram,neuter,accusative,plural,shporta,3.2003074220499497,shporta,shporta,copa,copatë,,,,fullness
+πλήρωμα,337,unigram,neuter,accusative,singular,vjetër,1.0810874961044612,vjetër,,,,,,,fullness
+γενεά,240,unigram,feminine,accusative,singular,,,brez,brezni,bres,Me,,,,generation
+γενεά,324,unigram,feminine,nominative,plural,,,brezat,,brezatë,,,,,generation
+γενεά,154,unigram,feminine,nominative,singular,,,brez,brezni,bres,nishan,,,,generation
+δῶρον,317,unigram,neuter,accusative,plural,,,tyre,dhuratat,dhunëtiat,dhurëti,,,,gift
+δῶρον,167,unigram,neuter,accusative,singular,,,ofertën,dhuratën,dhunëtinë,dhurëtinë,,,,gift
+ἡγεμών,175,unigram,masculine,accusative,plural,,,guvernatorëve,,,shpienë,,,,"governor, ruler"
+ἡγεμών,14,unigram,masculine,accusative,singular,,,,,guvernatori,Igjemoni,,,,"governor, ruler"
+ἀσπασμός,329,unigram,masculine,accusative,plural,,,sheshe,përshëndesin,tregjet,përshëndetjënë,,,,greeting
+ἀσπασμός,176,unigram,masculine,accusative,singular,përshëndetjen,1.0960768946513286,përshëndetjen,,,,,,,greeting
+ὁδηγός,6,unigram,masculine,nominative,plural,,,,udhëheqin,,dëftoftë,,,,guide
+ὁδηγός,4,unigram,masculine,nominative,singular,verbër,1.9348994553305514,verbër,verbër,verbëtë,verbërë,,,,guide
+θρίξ,98,unigram,feminine,nominative,plural,qimet,1.2379194890810716,,,qimet,,,,,hair
+θρίξ,225,unigram,feminine,nominative,singular,qime,1.3568566715724435,,,,qime,,,,hair
+χείρ,320,unigram,feminine,accusative,plural,duart,30.273356237947404,duart,duart,duertë,duartë,,,,hand
+χείρ,228,unigram,feminine,accusative,singular,dorën,7.2078925899844215,dorën,dorën,dorën,dorënë,,,,hand
+κεφαλή,147,unigram,feminine,accusative,plural,krenët,1.197531477979814,,,krenët,,,,,head
+κεφαλή,214,unigram,feminine,accusative,singular,kokën,9.747902687054317,kokën,kokën,kryetë,kriet,,,,head
+στάχυς,215,unigram,masculine,accusative,plural,,,kallinj,,kallëza,,,,,head of grain
+στάχυς,78,unigram,masculine,accusative,singular,kall,1.1613374356247497,,,kall,,,,,head of grain
+καρδία,36,unigram,feminine,accusative,plural,zemrat,3.62459471957865,zemrat,zemrat,,,,,,heart
+καρδία,294,unigram,feminine,accusative,singular,,,zemër,zemra,zemrënë,,,,,heart
+καρδία,198,unigram,feminine,nominative,singular,zemra,13.462891645436175,zemra,zemra,zemëra,zëmëra,,,,heart
+οὐρανός,273,unigram,masculine,accusative,singular,qiellit,3.1354029824522205,qiellit,qiellit,qiell,Qiell,,,,"heaven, sky"
+οὐρανός,204,unigram,masculine,nominative,singular,qielli,1.234745007919769,,qielli,qielli,Qielli,,,,"heaven, sky"
+ὥρα,301,unigram,feminine,nominative,plural,skondaps,1.1617873204569231,,,,skondaps,,,,hour
+ὥρα,27,unigram,feminine,nominative,singular,ora,15.652733812002278,ora,ora,ora,koha,,,,hour
+οἰκία,334,unigram,feminine,accusative,singular,shtëpi,8.864852083941102,shtëpinë,shtëpi,shtëpit,shtëpi,,,,house
+οἶκος,289,unigram,masculine,accusative,plural,heqin,1.0963047455737722,,heqin,,,,,,"house, home"
+οἶκος,23,unigram,masculine,accusative,singular,shtëpinë,6.082390579797916,shtëpinë,shtëpinë,shtëpit,shtëpi,,,,"house, home"
+κριτής,316,unigram,masculine,nominative,plural,,,gjykatësit,,,nxjerënë,,,,judge
+κριτής,169,unigram,masculine,nominative,singular,gjykatësi,2.270052112041742,gjykatësi,gjykatësi,gjyqtari,gjukatësi,,,,judge
+κλείς,88,unigram,feminine,accusative,plural,çelësat,1.1613026128296644,çelësat,,,,,,,key
+βασιλεύς,111,unigram,masculine,accusative,plural,,,guvernatorëve,,,shpienë,,,,king
+βασιλεύς,63,unigram,masculine,accusative,singular,mbret,5.254661066224763,mbret,mbret,mbëret,mbret,,,,king
+βασιλεία,83,unigram,feminine,accusative,plural,mbretëritë,1.6198186279092759,mbretëritë,mbretëritë,mbëretëniat,lartë,,,,kingdom
+βασιλεία,164,unigram,feminine,accusative,singular,mbretërinë,6.970641819292145,mbretërinë,mbretërinë,mbëretënin,mbretëri,,,,kingdom
+κόπος,207,unigram,masculine,accusative,plural,,,kreu,mundoni,,zahmet,,,,"labour, work, trouble, difficulty"
+κόπος,92,unigram,masculine,accusative,singular,munduem,1.8078099263355247,,,munduem,,,,,"labour, work, trouble, difficulty"
+λύχνος,237,unigram,masculine,nominative,singular,,,ndriçuar,trupi,kandili,ndriturë,,,,lamp
+κλῆρος,1,unigram,masculine,accusative,singular,,,,hodhën,shortë,short,,,,"lots (casting of lots), inheritance"
+ἄνθρωπος,305,unigram,masculine,accusative,plural,njerëzit,6.259104951458396,njerëzit,njerëzit,nierëzitë,njerëzitë,,,,man
+ἄνθρωπος,262,unigram,masculine,accusative,singular,njeri,4.345553923358431,njeri,njeri,nierinë,njerinë,,,,man
+ἄνθρωπος,125,unigram,masculine,nominative,plural,njerëzit,7.63747773376531,njerëzit,njerëzit,nierëzitë,njerëzitë,,,,man
+ἄνθρωπος,182,unigram,masculine,nominative,singular,njeri,40.79635743123826,njeri,njeri,nieri,njeri,,,,man
+ἀνήρ,253,unigram,masculine,accusative,plural,,,burra,burrave,,burratë,,,,"man, husband"
+ἀνήρ,257,unigram,masculine,accusative,singular,burrin,1.4854498871595283,burrin,burrin,burr,burrën,,,,"man, husband"
+ἀνήρ,152,unigram,masculine,nominative,plural,burra,5.634358543651615,burra,burra,burra,burra,,,,"man, husband"
+ἀνήρ,244,unigram,masculine,nominative,singular,njeri,1.8808692643113563,njeri,ishte,nieri,njeri,,,,"man, husband"
+μνᾶ,308,unigram,feminine,accusative,plural,dhjetë,1.1483383042195292,mina,dhjetë,mna,dhjetë,,,,mina (about 100 days' wages)
+μνᾶ,15,unigram,feminine,accusative,singular,Merrjani,1.0960670999999007,,Merrjani,,,,,,mina (about 100 days' wages)
+πρωτοκαθεδρία,109,unigram,feminine,accusative,plural,,,gosti,festa,darkat,duanë,,,,"most important seat, seat of honour"
+πρωτοκαθεδρία,38,unigram,feminine,accusative,singular,,,përshëndetjet,,përshëndetunatë,,,,,"most important seat, seat of honour"
+μήτηρ,102,unigram,feminine,accusative,plural,,,përndjekje,,,mëmë,,,,mother
+μήτηρ,285,unigram,feminine,accusative,singular,nënën,2.447977880983449,nënën,nënën,t,mëmënë,,,,mother
+ὄρος,224,unigram,neuter,accusative,plural,,,,,malet,male,,,,mountain
+ὄρος,271,unigram,neuter,accusative,singular,mal,5.625922312111652,mal,mal,,mal,,,,mountain
+μύρον,93,unigram,neuter,accusative,plural,mirrë.Të,1.0960965115985384,,mirrë.Të,,,,,,myrrh
+μύρον,29,unigram,neuter,accusative,singular,,,,varrim,vorruemit,,,,,myrrh
+ὄνομα,37,unigram,neuter,accusative,singular,emrin,5.207699233599791,emrin,emrin,emninë,ëmër,,,,name
+ὄνομα,107,unigram,neuter,nominative,plural,emrat,3.9997896673440048,emrat,emrat,,,,,,name
+ὄνομα,258,unigram,neuter,nominative,singular,,,emri,emrin,emninë,ëmër,,,,name
+ἔθνος,235,unigram,neuter,accusative,plural,,,popujt,kombeve,kombet,filira,,,,nation
+ἔθνος,199,unigram,neuter,accusative,singular,,,ngrihet,,,filinë,,,,nation
+ἔθνος,311,unigram,neuter,nominative,plural,,,kërkojnë,paganët,kombetë,gjithë,,,,nation
+ἔθνος,28,unigram,neuter,nominative,singular,kombi,2.1771715349630583,kombi,kombi,kombi,fili,,,,nation
+νύξ,194,unigram,feminine,accusative,plural,net,7.503035198103628,net,net,nett,net,,,,night
+νύξ,251,unigram,feminine,accusative,singular,nat,3.9997951432599623,,natë,nat,nat,,,,night
+ὅρκος,64,unigram,masculine,accusative,plural,betimit,1.2937219279533274,betimit,betimit,bet,be,,,,oath
+ὅρκος,270,unigram,masculine,accusative,singular,betimin,1.776471857170246,betimin,betimin,,,,,,oath
+βοῦς,157,unigram,masculine,accusative,plural,parave,1.7459808737029598,,parave,,,,,,ox
+παραβολή,266,unigram,feminine,accusative,plural,shëmbëlltyrat,5.657024861699611,shëmbëlltyrat,shëmbëlltyrat,,,,,,parable
+παραβολή,229,unigram,feminine,accusative,singular,shëmbëlltyrë,10.201156485043429,shëmbëlltyrë,shëmbëlltyrë,parabullë,paravoli,,,,parable
+μέρος,355,unigram,neuter,accusative,plural,,,mbasi,krahinën,anët,,,,,part
+μέρος,56,unigram,neuter,accusative,singular,pjesë,2.0288998684280735,pjesë,pjesë,piesën,pjesën,,,,part
+μαργαρίτης,40,unigram,masculine,accusative,singular,margaritar,1.316739288237296,margaritar,margaritar,,margaritar,,,,pearls
+τόπος,280,unigram,masculine,accusative,plural,,,,,tërmetëna,tërmete,,,,place
+τόπος,303,unigram,masculine,accusative,singular,vendin,1.3011334136758825,vendin,vendin,vend,vënd,,,,place
+πρωτοκλισία,283,unigram,feminine,accusative,plural,vendet,2.0746992555316957,vendet,vendet,para,vëndet,,,,place of honor
+πρωτοκλισία,39,unigram,feminine,accusative,singular,,,vendit,nderit,mësallësë,parë,,,,place of honor
+ὄφις,108,unigram,masculine,accusative,singular,gjarpër,1.2937415006187931,gjarpër,gjarpër,,,,,,poison
+σκεῦος,143,unigram,neuter,accusative,plural,lidhur,1.0648460672838294,lidhur,,,,,,,"possession, object, thing, jar, vessel"
+σκεῦος,261,unigram,neuter,accusative,singular,enë,1.0960768946513286,,,enë,,,,,"possession, object, thing, jar, vessel"
+σκεῦος,134,unigram,neuter,nominative,plural,,,,ndodhet,,taracë,,,,"possession, object, thing, jar, vessel"
+δύναμις,110,unigram,feminine,accusative,plural,,,vepra,mrekulli,mërekullia,,,,,"power, ability, miracle"
+δύναμις,50,unigram,feminine,accusative,singular,,,pushtet,fuqinë,fuqin,fuqi,,,,"power, ability, miracle"
+δύναμις,86,unigram,feminine,nominative,plural,,,fuqitë,,mërekullia,tundenë,,,,"power, ability, miracle"
+δύναμις,121,unigram,feminine,nominative,singular,,,,shëronte,fuqia,fuqi,,,,"power, ability, miracle"
+ἱερεύς,248,unigram,masculine,nominative,singular,prift,15.998366341072087,prift,prift,prift,prift,,,,priest
+φυλακή,263,unigram,feminine,accusative,plural,nëpër,1.1304851873078163,,nëpër,,,,,,prison
+φυλακή,26,unigram,feminine,accusative,singular,burg,5.685244503987878,burg,burg,burk,hapsanë,,,,prison
+προφήτης,67,unigram,masculine,accusative,plural,profetët,10.593910330241888,profetët,profetët,,profitëtë,,,,prophet
+προφήτης,205,unigram,masculine,accusative,singular,profet,89.94733441437279,profet,profet,profet,profit,,,,prophet
+προφήτης,230,unigram,masculine,nominative,plural,profetët,8.575939591928908,profetët,profetët,profetënitë,profitëritë,,,,prophet
+προφήτης,272,unigram,masculine,nominative,singular,profet,13.730863793734637,profet,profet,profet,profit,,,,prophet
+βαλλάντιον,21,unigram,neuter,accusative,singular,,,vete,trastë,,kuletë,,,,purse
+ποταμός,172,unigram,masculine,nominative,singular,lumi,1.0595448471241755,,,,lumi,,,,river
+λῃστής,46,unigram,masculine,accusative,plural,kusarë,1.9999489140783424,,,,kusarë,,,,robber
+λῃστής,354,unigram,masculine,accusative,singular,kursarë,1.0811301478527142,,,kursarë,,,,,robber
+λῃστής,331,unigram,masculine,nominative,plural,kusarë,3.8326259135058,,kusarë,kursarë,kusarë,,,,robber
+λῃστής,161,unigram,masculine,nominative,singular,kusar,7.230673800451929,kusar,kusar,kursar,kusar,,,,robber
+ἄρχων,212,unigram,masculine,accusative,plural,,,kryetarët,krerët,parët,arhondëtë,,,,ruler
+ἄρχων,71,unigram,masculine,nominative,plural,,,kryetarët,krerët,parëtë,arhondëtë,,,,ruler
+ἄρχων,325,unigram,masculine,nominative,singular,,,princi,bote,urdhënari,arhondi,,,,ruler
+ἀκοή,9,unigram,feminine,accusative,plural,,,flitet,,,luftëravet,,,,rumor
+ἀκοή,80,unigram,feminine,accusative,singular,,,famën,tetrarku,katër-urdhënsi,Tetrahi,,,,rumor
+ἀκοή,166,unigram,feminine,nominative,plural,rrjedhshëm,1.0960817954296525,,rrjedhshëm,,,,,,rumor
+ἀκοή,342,unigram,feminine,nominative,singular,zani,1.5017795926858657,,,zani,,,,,rumor
+βιβλίον,58,unigram,neuter,accusative,singular,,,librin,,,kartë,,,,"scroll, book"
+διάκονος,96,unigram,masculine,nominative,singular,shërbëtori,2.8050788403230156,shërbëtori,shërbëtori,shërbëtori,jetë,,,,"servant, minister, deacon"
+δοῦλος,218,unigram,masculine,accusative,plural,shërbëtorët,8.873670523739003,shërbëtorët,shërbëtorët,shërbëtorët,kopijt,,,,"servant, slave"
+δοῦλος,30,unigram,masculine,accusative,singular,,,shërbëtor,shërbëtorin,shërbëtorit,kopil,,,,"servant, slave"
+δοῦλος,106,unigram,masculine,nominative,plural,shërbëtorët,3.017875867729217,shërbëtorët,Shërbëtorët,shërbëtorët,kopij,,,,"servant, slave"
+δοῦλος,213,unigram,masculine,nominative,singular,shërbëtor,2.570459122291435,shërbëtor,shërbëtor,shërbëtori,kopil,,,,"servant, slave"
+πρόβατον,335,unigram,neuter,accusative,plural,delet,9.788781069547005,delet,delet,dhent,dhënt,,,,sheep
+ποιμήν,256,unigram,masculine,nominative,plural,barinjtë,2.721500561652735,barinjtë,barinjtë,baritë,dëlmerëtë,,,,"shepherd, pastor"
+ποιμήν,295,unigram,masculine,nominative,singular,bariu,3.307163514120397,bariu,bariu,bariu,dëlmuari,,,,"shepherd, pastor"
+σημεῖον,146,unigram,neuter,accusative,plural,,,shenja,mrekulli,mërekullia,thavmëra,,,,sign
+σημεῖον,133,unigram,neuter,accusative,singular,shenjë,16.57007944055974,shenjë,mrekulli,shenjë,nishan,,,,sign
+σημεῖον,47,unigram,neuter,nominative,plural,shenja,2.902761718629081,shenja,shenja,shenjë,nishane,,,,sign
+σημεῖον,95,unigram,neuter,nominative,singular,shenjë,4.1033452316932575,shenjë,shenja,shenjë,nishani,,,,sign
+δραχμή,304,unigram,feminine,accusative,plural,ndez,1.0960524252565438,,ndez,,,,,,"silver coin, drachma"
+δραχμή,174,unigram,feminine,accusative,singular,gjejë,2.5993887270271627,,,gjejë,gjejë,,,,"silver coin, drachma"
+ἀργύριον,223,unigram,neuter,accusative,plural,,,argjendi,monedhat,argjandatë,asprëtë,,,,"silver, money"
+ἀργύριον,345,unigram,neuter,accusative,singular,,,premtuan,para,argjand,asprë,,,,"silver, money"
+ἁμαρτία,290,unigram,feminine,accusative,plural,mëkatet,5.442038160150314,mëkatet,mëkatet,faje,fajetë,,,,sin
+ἁμαρτία,226,unigram,feminine,accusative,singular,faj,2.7197956633773264,mëkatin,mëkat,faj,faj,,,,sin
+ἁμαρτία,299,unigram,feminine,nominative,plural,,,falur,falur,fajet,fajet,,,,sin
+ἁμαρτία,296,unigram,feminine,nominative,singular,,,mëkat,mëkat,faj,faj,,,,sin
+ἀδελφή,322,unigram,feminine,accusative,plural,,,,nënë,motëra,,,,,sister
+ἀδελφή,139,unigram,feminine,accusative,singular,motrën,3.827560727253552,motrën,motrën,motërën,motrën,,,,sister
+ἀδελφή,22,unigram,feminine,nominative,plural,motrat,12.261684847715044,motrat,motrat,motërat,motrat,,,,sister
+ἀδελφή,321,unigram,feminine,nominative,singular,motra,3.547269723314817,,motra,,motra,,,,sister
+ῥάπισμα,158,unigram,neuter,accusative,plural,shuplaka,1.0595352057902494,shuplaka,,,,,,,"slap, strike, hit"
+ῥάπισμα,282,unigram,neuter,accusative,singular,,,shuplakë,,shërbëtorësh,gjëndeshinë,,,,"slap, strike, hit"
+πλοιάριον,241,unigram,neuter,nominative,plural,,,,Tiberiada,,Tiveriadha,,,,small boat
+πλοιάριον,145,unigram,neuter,nominative,singular,varkë,1.4850989613338557,,varkë,,varkë,,,,small boat
+ὀψάριον,188,unigram,neuter,accusative,plural,,,,elbi,Këtu,elpta,,,,small fish
+ὀψάριον,265,unigram,neuter,accusative,singular,,,bukë,prush,,,,,,small fish
+υἱός,52,unigram,masculine,accusative,plural,bijt,1.628749912513029,Zebedeut,bijtë,bijt,bijt,,,,son
+υἱός,132,unigram,masculine,accusative,singular,,,Birin,Birin,bir,bir,,,,son
+υἱός,135,unigram,masculine,nominative,plural,,,bijtë,bijtë,bijt,bijt,,,,son
+υἱός,220,unigram,masculine,nominative,singular,Biri,4.288397279045518,Biri,Biri,bir,biri,,,,son
+ψυχή,293,unigram,feminine,accusative,singular,jetën,21.129471918111268,jetën,jetën,jetën,Shpirtin,,,,"soul, life"
+ἀστήρ,306,unigram,masculine,nominative,plural,,,yjet,qiellidhe,tundunë,tundenë,,,,star
+λίθος,310,unigram,masculine,accusative,plural,gurë,2.1750590582541016,gurë,gurë,gurë,gurë,,,,stone
+λίθος,41,unigram,masculine,accusative,singular,gur,6.592932222493742,gur,gur,gur,gur,,,,stone
+λίθος,144,unigram,masculine,nominative,plural,këta,1.605104004829132,këta,,këta,gurë,,,,stone
+λίθος,45,unigram,masculine,nominative,singular,gur,11.0820549049166,gur,gur,gur,gur,,,,stone
+συναγωγή,254,unigram,feminine,accusative,plural,,,sinagoga,nëpër,synagogat,sinagoje,,,,synagogue
+συναγωγή,347,unigram,feminine,accusative,singular,sinagogë,1.7412313620263105,sinagogë,sinagogë,synagogët,sinaguaj,,,,synagogue
+τράπεζα,201,unigram,feminine,accusative,plural,këmbyesve,1.1287829116308548,këmbyesve,këmbyesve,truvezarëvet,sarafëvet,,,,table
+τάλαντον,75,unigram,neuter,accusative,plural,,,talenta,monedha,tallanta,kuletatë,,,,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,233,unigram,neuter,accusative,singular,,,talentin,monedhat,tallantënë,kuletënë,,,,talent (weight and monetary unit: around 20 years' wages)
+φόρος,279,unigram,masculine,accusative,plural,gjetëm,1.0960622061228922,,,gjetëm,,,,,tax
+φόρος,300,unigram,masculine,accusative,singular,,,taksë,taksa,,Qesari,,,,tax
+τελώνης,195,unigram,masculine,nominative,plural,tagrambledhësit,4.866546312361233,tagrambledhësit,tagrambledhësit,,kumerqarë,,,,tax collector
+τελώνης,76,unigram,masculine,nominative,singular,tagrambledhës,2.2337805264662456,tagrambledhës,tagrambledhës,publikani,,,,,tax collector
+γραμματεύς,352,unigram,masculine,nominative,plural,skribët,17.658625343213295,skribët,skribët,Shkruisitë,grammatejtë,,,,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,221,unigram,masculine,nominative,singular,skrib,3.271927641952219,skrib,skrib,Shkruis,,,,,"teacher, expert in the law, scholar, scribe"
+καθηγητής,336,unigram,masculine,nominative,plural,,,udhëheqësi,prijës,mieshtra,thërriteni,,,,"teacher, guide"
+καθηγητής,232,unigram,masculine,nominative,singular,,,udhëheqësi,prijës,mieshtra,thërriteni,,,,"teacher, guide"
+κλέπτης,231,unigram,masculine,nominative,singular,vjedhësi,2.3757685130643105,vjedhësi,vjedhësi,,kusar,,,,thief
+διαλογισμός,307,unigram,masculine,accusative,plural,mendimet,3.156279811540825,mendimet,qëndro,mendimet,silloit,,,,"thought, argument"
+διαλογισμός,151,unigram,masculine,accusative,singular,,,,mbajti,mendimin,mëndonishnë,,,,"thought, argument"
+διαλογισμός,126,unigram,masculine,nominative,plural,mendimet,1.8015513199377111,mendimet,mendimet,,zëmëra,,,,"thought, argument"
+διαλογισμός,298,unigram,masculine,nominative,singular,,,grindje,pyetja,,silloisishnë,,,,"thought, argument"
+θρόνος,245,unigram,masculine,accusative,singular,,,fronin,,shkambin,fron,,,,throne
+χρόνος,276,unigram,masculine,accusative,plural,,,,,bujq,bujqet,,,,time
+χρόνος,238,unigram,masculine,accusative,singular,kohë,1.980195172011525,kohe,kohë,mot,kohë,,,,time
+καιρός,148,unigram,masculine,nominative,singular,koha,34.732513071994525,koha,koha,koha,koha,,,,"time, right time"
+τάφος,180,unigram,masculine,accusative,singular,varrin,2.4000580459772984,varrin,varrin,vorrinë,varrë,,,,"tomb, grave"
+μνημεῖον,16,unigram,neuter,accusative,plural,,,profetëve,,ndërtoni,,,,,"tomb, grave"
+μνημεῖον,20,unigram,neuter,accusative,singular,varri,3.2229247553124303,varri,varri,vorr,varr,,,,"tomb, grave"
+μνημεῖον,84,unigram,neuter,nominative,plural,,,varret,besimtarë,,varretë,,,,"tomb, grave"
+μνημεῖον,269,unigram,neuter,nominative,singular,varr,1.066368862219056,varr,,,,,,,"tomb, grave"
+θησαυρός,227,unigram,masculine,accusative,singular,thesar,1.6997477196367352,thesar,thesar,thesore,hazine,,,,treasure
+δένδρον,82,unigram,neuter,accusative,singular,,,saj,,asai,,,,,tree	
+κώμη,275,unigram,feminine,accusative,plural,fshatra,1.7857177869984768,fshatra,fshatra,katundevet,fshatëra,,,,village
+κώμη,60,unigram,feminine,accusative,singular,fshat,26.11225409275112,fshat,fshat,katund,fshat,,,,village
+παρθένος,288,unigram,feminine,nominative,plural,virgjëreshat,3.775036552984519,virgjëreshat,virgjëreshat,virgjineshat,,,,,virgin
+παρθένος,210,unigram,feminine,nominative,singular,Emanuil,1.0960670999999007,,,,Emanuil,,,,virgin
+φωνή,211,unigram,feminine,nominative,plural,zanet,1.0962199599997684,,,zanet,,,,,voice or sound
+φωνή,332,unigram,feminine,nominative,singular,zë,6.045395241101474,zë,zë,za,zë,,,,voice or sound
+πόλεμος,267,unigram,masculine,accusative,plural,luftëra,1.666679097618574,flitet,luftëra,,luftëra,,,,war
+ὕδωρ,353,unigram,neuter,accusative,plural,ujëra,5.121632097314017,ujëra,ujë,ujënat,ujëra,,,,water
+ὕδωρ,100,unigram,neuter,accusative,singular,ujë,58.68199889571849,ujë,ujë,ujë,ujë,,,,water
+ὕδωρ,116,unigram,neuter,nominative,singular,uji,3.5990443989689713,uji,uji,ujë,ujëtë,,,,water
+ὑδρία,123,unigram,feminine,accusative,singular,shtambën,1.417076672135167,kovën,shtambën,shtambën,stamnën,,,,water jar
+ὁδός,268,unigram,feminine,accusative,plural,,,nëpër,,udhët,udhëra,,,,way
+ὁδός,150,unigram,feminine,accusative,singular,udhë,2.3496870917658192,rrugës,udhën,udhë,udhë,,,,way
+γάμος,168,unigram,masculine,accusative,plural,dasmë,16.570531645040276,dasmë,dasmë,darsmat,dasmëra,,,,wedding
+γάμος,249,unigram,masculine,accusative,singular,dasmë,1.6656171279156735,dasmë,dasmë,thërrit,ftua,,,,wedding
+γυνή,115,unigram,feminine,accusative,plural,ndani,1.0965530363990983,ndani,,,,,,,"wife, woman"
+γυνή,185,unigram,feminine,accusative,singular,gruan,1.8900878645835733,gruan,grua,grue,gruan,,,,"wife, woman"
+γυνή,127,unigram,feminine,nominative,plural,gra,6.871881171947861,gra,gra,gra,gra,,,,"wife, woman"
+γυνή,131,unigram,feminine,nominative,singular,grua,5.387098398588159,grua,grua,grue,grua,,,,"wife, woman"
+ἄνεμος,10,unigram,masculine,nominative,plural,erërat,2.248784677808671,erërat,erërat,erënat,,,,,wind
+ἄνεμος,73,unigram,masculine,nominative,singular,era,35.73712044490502,era,era,era,era,,,,wind
+πνεῦμα,173,unigram,neuter,accusative,singular,,,Frymën,Shpirtin,Shenjt,Shpirt,,,,"wind, breath, spirit"
+πνεῦμα,13,unigram,neuter,nominative,plural,,,frymërat,shpirtrat,,Shpirtet,,,,"wind, breath, spirit"
+πνεῦμα,25,unigram,neuter,nominative,singular,Shpirti,4.37961046469875,Fryma,Shpirti,Shpirti,Shpirti,,,,"wind, breath, spirit"
+λύκος,12,unigram,masculine,nominative,plural,ujqër,1.096057314542422,ujqër,,,,,,,wolf
+λύκος,5,unigram,masculine,nominative,singular,ulku,1.096057314542422,,,,ulku,,,,wolf
+κοιλία,287,unigram,feminine,nominative,singular,thithunë,1.0961112485594913,,,thithunë,,,,,"womb, stomach, source of feelings and emotions"
+ῥῆμα,193,unigram,neuter,accusative,plural,fjalët,8.96484757813643,fjalët,fjalët,fjalët,fjalët,,,,word
+ῥῆμα,170,unigram,neuter,accusative,singular,,,fjalë,kuptuan,fjalësë,kupëtoijnë,,,,word
+ῥῆμα,34,unigram,neuter,nominative,plural,fjalët,1.6932640825999916,fjalët,fjalë,fjalët,,,,,word
+ῥῆμα,340,unigram,neuter,nominative,singular,asgjë,1.201611978048436,asgjë,asgjë,,fjalë,,,,word
+λόγος,171,unigram,masculine,accusative,plural,fjalët,2.3208375257792047,fjalët,fjalët,fjalët,fjalët,,,,word
+λόγος,162,unigram,masculine,accusative,singular,,,fjalën,fjalën,fjalënë,fjalënë,,,,word
+λόγος,160,unigram,masculine,nominative,plural,,,fjalët,Qielli,dheu,mia,,,,word
+λόγος,309,unigram,masculine,nominative,singular,fjala,116.72788918927219,fjala,fjala,fjala,fjala,,,,word
+ἔργον,49,unigram,neuter,accusative,plural,veprat,13.337570655516513,veprat,veprat,punët,punërat,,,,work
+ἔργον,101,unigram,neuter,accusative,singular,punë,1.7579879692976388,vepër,mundoni,punë,punë,,,,work
+ἔργον,313,unigram,neuter,nominative,plural,veprat,8.02728668245604,veprat,veprat,vepërat,punërat,,,,work
+ἔργον,286,unigram,neuter,nominative,singular,vepra,1.2897993654124553,vepra,vepra,puna,pun,,,,work
+ἐργάτης,153,unigram,masculine,nominative,plural,,,korra,punëtorë,punëtorëtë,pakë,,,,worker
+ἐργάτης,222,unigram,masculine,nominative,singular,punëtori,4.716338016701878,punëtori,punëtori,punëtori,zoti,,,,worker
+ἔτος,264,unigram,neuter,accusative,plural,vjet,14.144947810724977,,vjet,viet,vjet,,,,year
+ἔτος,186,unigram,neuter,accusative,singular,vit,3.774874624184339,vit,vit,,,,,,year

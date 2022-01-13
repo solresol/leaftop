@@ -1,0 +1,284 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_2124_translation,version_2125_translation,english_translation
+θεός,110,unigram,masculine,accusative,singular,Guð,24.82532389103627,Guð,Guð,God
+θεός,24,unigram,masculine,nominative,plural,guðir,1.5854428691115217,guðir,guðir,God
+θεός,173,unigram,masculine,nominative,singular,Guð,199.82554972656337,Guð,Guð,God
+κύριος,111,unigram,masculine,nominative,singular,Drottinn,12.99303138347715,Drottinn,Drottinn,"Lord, lord, master"
+γραφή,106,unigram,feminine,accusative,plural,ritningarnar,5.192205633277274,ritningarnar,ritningarnar,Scripture
+γραφή,215,unigram,feminine,nominative,plural,ritningarnar,2.6774903211348278,ritningarnar,ritningarnar,Scripture
+γραφή,271,unigram,feminine,nominative,singular,ritningin,6.849662148274026,ritningin,ritningin,Scripture
+ἄγγελος,78,unigram,masculine,accusative,plural,engla,2.8628016681834936,engla,engla,angel
+ἄγγελος,68,unigram,masculine,accusative,singular,sendiboða,1.5694468286437564,sendiboða,sendiboða,angel
+ἄγγελος,40,unigram,masculine,nominative,plural,englar,10.992049499699725,englar,englar,angel
+ἄγγελος,86,unigram,masculine,nominative,singular,engill,1.5771139643848286,engill,engill,angel
+ἀπόστολος,37,unigram,masculine,nominative,plural,Postularnir,5.743562226165928,Postularnir,Postularnir,apostle
+ἀπόστολος,6,unigram,masculine,nominative,singular,sendiboði,1.2013953022722905,sendiboði,sendiboði,apostle
+ἐξουσία,166,unigram,feminine,accusative,singular,vald,14.058969658129262,vald,vald,authority
+βρέφος,12,unigram,neuter,accusative,plural,ungbörnin,1.0960670999999007,ungbörnin,,babies
+βρέφος,269,unigram,neuter,accusative,singular,jötu,1.887566349315513,jötu,,babies
+ἀποθήκη,221,unigram,feminine,accusative,plural,hlöður,1.563820973709038,hlöður,hlöður,barn
+ἀποθήκη,56,unigram,feminine,accusative,singular,hlöðu,1.0901581188297433,hlöðu,hlöðu,barn
+ζώνη,145,unigram,feminine,accusative,plural,eir,1.2013309189107515,eir,eir,belt
+βλασφημία,76,unigram,feminine,accusative,singular,guðlastið,1.2013845589884997,guðlastið,guðlastið,blasphemy
+πλοῖον,257,unigram,neuter,accusative,singular,bátinn,9.321772142586834,bátinn,bátinn,boat
+πλοῖον,186,unigram,neuter,nominative,singular,báturinn,1.8025898596988983,báturinn,báturinn,boat
+σῶμα,49,unigram,neuter,nominative,singular,líkami,6.915238458114632,líkami,líkami,body
+ἄρτος,261,unigram,masculine,accusative,plural,brauð,3.325959718230413,brauð,brauð,bread
+ἄρτος,283,unigram,masculine,accusative,singular,brauð,11.09317919621755,brauð,brauð,bread
+ἄρτος,131,unigram,masculine,nominative,plural,brauð,3.2864810472233357,brauð,brauð,bread
+ἄρτος,32,unigram,masculine,nominative,singular,brauðið,1.0872832872151648,brauðið,brauðið,bread
+ἀδελφός,247,unigram,masculine,accusative,plural,bræður,8.62058979034833,bræður,bræður,brother
+ἀδελφός,99,unigram,masculine,accusative,singular,bróður,7.931603143188804,bróður,bróður,brother
+ἀδελφός,89,unigram,masculine,nominative,plural,bræður,15.070141502864507,bræður,bræður,brother
+ἀδελφός,192,unigram,masculine,nominative,singular,bróðir,13.897419548118378,bróðir,bróðir,brother
+στῆθος,128,unigram,neuter,accusative,plural,barði,1.2013523596909814,barði,barði,"chest, breast"
+στῆθος,233,unigram,neuter,accusative,singular,spurði,1.3226322326039792,spurði,spurði,"chest, breast"
+ἀρχιερεύς,200,unigram,masculine,accusative,plural,æðstu,6.118780155581254,æðstu,æðstu,chief priest
+ἀρχιερεύς,50,unigram,masculine,accusative,singular,æðsta,1.7982950702967857,æðsta,æðsta,chief priest
+ἀρχιερεύς,98,unigram,masculine,nominative,plural,prestarnir,1.427929662557862,prestarnir,prestarnir,chief priest
+ἀρχιερεύς,204,unigram,masculine,nominative,singular,æðsti,2.3020967633853093,æðsti,æðsti,chief priest
+τέκνον,278,unigram,neuter,accusative,plural,börn,4.287756673643081,börn,börn,child
+τέκνον,151,unigram,neuter,accusative,singular,foreldrum,1.0648494792904102,foreldrum,,child
+τέκνον,13,unigram,neuter,nominative,plural,Börn,2.068745956282401,Börn,Börn,child
+τέκνον,160,unigram,neuter,nominative,singular,Barnið,1.0679088431607808,Barnið,,child
+παιδίον,72,unigram,neuter,accusative,singular,barnið,5.497904944296909,barnið,barnið,child
+παιδίον,144,unigram,neuter,nominative,plural,börn,3.7764705862508685,börn,börn,child
+παιδίον,34,unigram,neuter,nominative,singular,barn,2.26126566135586,barn,barn,child
+πόλις,152,unigram,feminine,accusative,plural,borgir,1.276941833898748,borgir,borgir,city
+πόλις,53,unigram,feminine,accusative,singular,borg,1.493940496747088,borg,borg,city
+πύλη,171,unigram,feminine,nominative,singular,liggur,3.9997963426180037,liggur,liggur,city gate
+χιτών,94,unigram,masculine,accusative,plural,kyrtla,2.430865180435571,kyrtla,kyrtla,"clothing, undergarments"
+χιτών,25,unigram,masculine,accusative,singular,kyrtilinn,2.304566067773957,kyrtilinn,kyrtilinn,"clothing, undergarments"
+ἱμάτιον,108,unigram,neuter,accusative,plural,klæði,5.722356129804149,klæði,klæði,coat
+ἱμάτιον,107,unigram,neuter,accusative,singular,yfirhöfn,4.813799482083461,yfirhöfn,yfirhöfn,coat
+ἐντολή,66,unigram,feminine,accusative,plural,boðorð,1.4819599572573683,,boðorð,commandment
+ἐντολή,64,unigram,feminine,accusative,singular,boðorð,2.8895974393376243,boðorð,boðorð,commandment
+συνέδριον,266,unigram,neuter,accusative,plural,dómstóla,1.742053293170725,dómstóla,dómstóla,council
+συνέδριον,43,unigram,neuter,accusative,singular,saman,1.252057041356689,saman,saman,council
+χώρα,237,unigram,feminine,accusative,singular,land,1.1579142123096262,land,land,"country, countryside"
+ὄχλος,47,unigram,masculine,accusative,plural,fólkið,2.931088338705673,fólkið,fólkið,crowd
+ὄχλος,8,unigram,masculine,accusative,singular,mannfjöldann,2.8144218542216883,mannfjöldann,mannfjöldann,crowd
+ὄχλος,80,unigram,masculine,nominative,plural,mannfjöldinn,1.1409800688392564,mannfjöldinn,mannfjöldinn,crowd
+ὄχλος,229,unigram,masculine,nominative,singular,mannfjöldi,1.4943243273117301,mannfjöldi,mannfjöldi,crowd
+θυγάτηρ,92,unigram,feminine,nominative,plural,Jerúsalemsdætur,1.2015462456907173,Jerúsalemsdætur,Jerúsalemsdætur,daughter
+θυγάτηρ,260,unigram,feminine,nominative,singular,Dóttir,2.3224175682211468,Dóttir,Dóttir,daughter
+ἡμέρα,60,unigram,feminine,accusative,plural,daga,13.41050958784438,daga,daga,day
+ἡμέρα,69,unigram,feminine,accusative,singular,Daglega,1.179055118951155,Daglega,Daglega,day
+ἡμέρα,2,unigram,feminine,nominative,plural,dagar,7.043672564986537,dagar,dagar,day
+ἡμέρα,55,unigram,feminine,nominative,singular,dagur,6.973555879037631,dagur,dagur,day
+δαιμόνιον,26,unigram,neuter,accusative,plural,út,1.0329532556788636,út,út,demon
+δαιμόνιον,274,unigram,neuter,accusative,singular,illan,1.6027123279404354,illan,illan,demon
+δαιμόνιον,161,unigram,neuter,nominative,plural,illir,1.0412974373888335,illir,,demon
+δαιμόνιον,143,unigram,neuter,nominative,singular,illi,1.4791328655405653,illi,illi,demon
+δηνάριον,252,unigram,neuter,accusative,plural,denara,2.9246140817303807,denara,denara,denarius (about a day's wages)
+δηνάριον,133,unigram,neuter,accusative,singular,denar,2.5980141811470405,denar,denar,denarius (about a day's wages)
+μαθητής,148,unigram,masculine,accusative,plural,lærisveina,4.491440155759627,lærisveina,lærisveina,disciple
+μαθητής,279,unigram,masculine,accusative,singular,elskaði,1.5295331232307794,elskaði,elskaði,disciple
+μαθητής,223,unigram,masculine,nominative,plural,lærisveinar,2.547020126788968,lærisveinar,lærisveinar,disciple
+μαθητής,277,unigram,masculine,nominative,singular,lærisveinn,2.10706593444144,lærisveinn,lærisveinn,disciple
+νόσος,3,unigram,feminine,accusative,plural,sjúkdóma,4.424840328345119,sjúkdóma,sjúkdóma,disease
+περιστερά,79,unigram,feminine,accusative,plural,stólum,1.141734834494527,stólum,stólum,dove
+περιστερά,45,unigram,feminine,accusative,singular,dúfu,1.881056824584222,dúfu,dúfu,dove
+οὖς,122,unigram,neuter,accusative,plural,eyru,3.0361278780515977,eyru,eyru,ear
+σεισμός,167,unigram,masculine,nominative,plural,landskjálftar,1.0901581188297433,landskjálftar,landskjálftar,"earthquakes, storm"
+τέλος,222,unigram,neuter,accusative,singular,staðfastur,1.6561939987580585,staðfastur,staðfastur,end
+αἰών,248,unigram,masculine,accusative,singular,eilífu,8.571209549995208,eilífu,eilífu,eternity
+ὀφθαλμός,18,unigram,masculine,accusative,plural,augu,14.591218480327763,augu,augu,eye
+ὀφθαλμός,52,unigram,masculine,nominative,plural,augu,14.604971729406918,augu,augu,eye
+ὀφθαλμός,245,unigram,masculine,nominative,singular,auga,1.8973504399189878,auga,auga,eye
+πρόσωπον,100,unigram,neuter,accusative,plural,andlit,3.9997947117184753,andlit,andlit,face
+γεωργός,206,unigram,masculine,nominative,plural,vínyrkjarnir,1.8235233323084585,vínyrkjarnir,vínyrkjarnir,"farmer, tenant"
+πατήρ,251,unigram,masculine,accusative,singular,föður,7.406054454236532,föður,föður,father
+πατήρ,259,unigram,masculine,nominative,plural,Feður,1.7031101104291142,Feður,Feður,father
+πατήρ,153,unigram,masculine,nominative,singular,faðir,1.2915356685721857,faðir,faðir,father
+σύνδουλος,117,unigram,masculine,accusative,plural,samþjóna,1.0960670999999007,,samþjóna,"fellow-servant, colleague"
+σύνδουλος,263,unigram,masculine,nominative,plural,samþjónar,1.4702862541917174,samþjónar,samþjónar,"fellow-servant, colleague"
+σύνδουλος,90,unigram,masculine,nominative,singular,Samþjónn,1.2013630877021924,Samþjónn,Samþjónn,"fellow-servant, colleague"
+ἀγρός,273,unigram,masculine,accusative,plural,akra,1.3205548538850262,akra,akra,field
+ἀγρός,33,unigram,masculine,accusative,singular,akur,5.599891885281581,akur,akur,field
+δάκτυλος,147,unigram,masculine,accusative,singular,fingur,1.2238616260625692,fingur,fingur,finger
+ἰχθύς,125,unigram,masculine,accusative,plural,fiskana,1.254517898473651,fiskana,fiskana,fish
+ἰχθύς,157,unigram,masculine,accusative,singular,höggorm,1.2939574473849902,höggorm,höggorm,fish
+δίκτυον,85,unigram,neuter,accusative,plural,net,2.642465750713655,net,net,fishing net
+δίκτυον,164,unigram,neuter,accusative,singular,netið,5.233197996764672,netið,netið,fishing net
+τροφή,199,unigram,feminine,accusative,plural,vistir,1.382095595849963,vistir,vistir,food
+πούς,193,unigram,masculine,accusative,plural,fætur,25.624267371945223,fætur,fætur,foot
+καρπός,189,unigram,masculine,accusative,singular,ávöxt,14.827713732729256,ávöxt,ávöxt,"fruit, crop, harvest"
+πλήρωμα,218,unigram,neuter,accusative,plural,körfur,2.2951590700058384,körfur,körfur,fullness
+γενεά,219,unigram,feminine,accusative,plural,Miskunn,1.3490909699418365,Miskunn,Miskunn,generation
+γενεά,190,unigram,feminine,accusative,singular,kynslóð,5.284937013535441,kynslóð,kynslóð,generation
+γενεά,121,unigram,feminine,nominative,singular,kynslóð,7.300606207831231,kynslóð,kynslóð,generation
+δῶρον,250,unigram,neuter,accusative,plural,gjafir,3.0772752789193842,gjafir,gjafir,gift
+δῶρον,135,unigram,neuter,accusative,singular,altarið,1.0971604450482253,altarið,altarið,gift
+ἡγεμών,142,unigram,masculine,accusative,plural,landshöfðingja,1.1226625697787749,landshöfðingja,landshöfðingja,"governor, ruler"
+ἡγεμών,10,unigram,masculine,accusative,singular,landshöfðinginn,1.7544969088018585,landshöfðinginn,landshöfðinginn,"governor, ruler"
+ἀσπασμός,262,unigram,masculine,accusative,plural,heilsa,1.0721017262939256,heilsa,heilsa,greeting
+ὁδηγός,5,unigram,masculine,nominative,plural,leiðtogar,1.096057314542422,leiðtogar,,guide
+ὁδηγός,4,unigram,masculine,nominative,singular,leiðtogar,3.999796427775453,leiðtogar,leiðtogar,guide
+θρίξ,73,unigram,feminine,nominative,plural,talin,1.5933834716489894,talin,talin,hair
+χείρ,254,unigram,feminine,accusative,plural,hendur,29.514371189026043,hendur,hendur,hand
+χείρ,180,unigram,feminine,accusative,singular,hönd,1.317492154854305,hönd,hönd,hand
+κεφαλή,170,unigram,feminine,accusative,singular,höfuð,5.275162490091408,höfuð,höfuð,head
+καρδία,231,unigram,feminine,accusative,singular,hjarta,3.6027575876793474,hjarta,hjarta,heart
+καρδία,158,unigram,feminine,nominative,singular,hjarta,7.7731491479815364,hjarta,hjarta,heart
+οὐρανός,214,unigram,masculine,accusative,singular,himins,11.540472571950444,himins,himins,"heaven, sky"
+οὐρανός,162,unigram,masculine,nominative,singular,lok,1.2868648906449236,lok,lok,"heaven, sky"
+ὥρα,21,unigram,feminine,nominative,singular,stund,1.316459128380048,stund,stund,hour
+οἰκία,127,unigram,feminine,accusative,plural,heimili,3.994119675853777,heimili,heimili,house
+οἰκία,267,unigram,feminine,accusative,singular,hús,11.64007563030384,hús,hús,house
+οἶκος,227,unigram,masculine,accusative,plural,sviptur,1.2018840951675736,sviptur,sviptur,"house, home"
+οἶκος,17,unigram,masculine,accusative,singular,heim,2.9885640400222346,heim,heim,"house, home"
+κριτής,249,unigram,masculine,nominative,plural,dómarar,1.3120951870145312,dómarar,dómarar,judge
+κριτής,136,unigram,masculine,nominative,singular,dómarinn,4.08258664506261,dómarinn,dómarinn,judge
+βασιλεύς,84,unigram,masculine,accusative,plural,konunga,1.1228758321639831,konunga,konunga,king
+βασιλεύς,48,unigram,masculine,accusative,singular,konung,2.2175027862234327,konung,konung,king
+βασιλεία,62,unigram,feminine,accusative,plural,ríki,1.8526940550611786,ríki,ríki,kingdom
+βασιλεία,132,unigram,feminine,accusative,singular,ríki,2.8946074481742454,ríki,ríki,kingdom
+κόπος,165,unigram,masculine,accusative,plural,angra,1.4332690147109204,angra,angra,"labour, work, trouble, difficulty"
+λύχνος,205,unigram,masculine,nominative,plural,,,gyrtir,tygjaðir,lamp
+λύχνος,187,unigram,masculine,nominative,singular,lampi,1.82350412390671,lampi,lampi,lamp
+κλῆρος,77,unigram,masculine,accusative,plural,hlutum,1.0960622061228922,,hlutum,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,skiptu,1.072093170982862,skiptu,skiptu,"lots (casting of lots), inheritance"
+ἄνθρωπος,239,unigram,masculine,accusative,plural,menn,5.041079726855821,menn,menn,man
+ἄνθρωπος,208,unigram,masculine,accusative,singular,mann,2.3368962723484032,mann,mann,man
+ἄνθρωπος,95,unigram,masculine,nominative,plural,menn,11.310765080214248,menn,menn,man
+ἄνθρωπος,146,unigram,masculine,nominative,singular,maður,16.042286106461326,maður,maður,man
+ἀνήρ,202,unigram,masculine,accusative,singular,,,mann,eð,"man, husband"
+ἀνήρ,120,unigram,masculine,nominative,plural,þúsund,1.4455348400433259,þúsund,þúsund,"man, husband"
+ἀνήρ,194,unigram,masculine,nominative,singular,maður,6.380899840081189,maður,maður,"man, husband"
+μνᾶ,242,unigram,feminine,accusative,plural,pund,1.3786822860301182,pund,pund,mina (about 100 days' wages)
+πρωτοκαθεδρία,29,unigram,feminine,accusative,singular,skipa,1.2013523596909814,skipa,skipa,"most important seat, seat of honour"
+μήτηρ,224,unigram,feminine,accusative,singular,móður,4.935384203507422,móður,móður,mother
+ὄνομα,28,unigram,neuter,accusative,singular,nafn,1.24211606929906,nafn,nafn,name
+ὄνομα,203,unigram,neuter,nominative,singular,hét,1.239244262861985,hét,hét,name
+ἔθνος,185,unigram,neuter,accusative,plural,þjóðum,1.123300361612978,þjóðum,,nation
+ἔθνος,159,unigram,neuter,accusative,singular,þjóð,3.3882891886590136,þjóð,þjóð,nation
+ἔθνος,22,unigram,neuter,nominative,singular,Þjóð,2.01062381357497,Þjóð,Þjóð,nation
+νύξ,155,unigram,feminine,accusative,plural,nætur,5.5788886266802,nætur,nætur,night
+νύξ,198,unigram,feminine,accusative,singular,síðan,1.5597484804976518,síðan,síðan,night
+ὅρκος,212,unigram,masculine,accusative,singular,eiðs,1.3486844045269415,eiðs,eiðs,oath
+βοῦς,123,unigram,masculine,accusative,plural,helgidóminum,1.8737006499846003,helgidóminum,helgidóminum,ox
+παραβολή,210,unigram,feminine,accusative,plural,Þegar,1.147804328073829,Þegar,Þegar,parable
+παραβολή,181,unigram,feminine,accusative,singular,dæmisögu,4.62080473464474,dæmisögu,dæmisögu,parable
+μέρος,282,unigram,neuter,accusative,plural,hélt,1.1433080078123152,hélt,hélt,part
+μέρος,42,unigram,neuter,accusative,singular,hlut,1.3861514173306244,hlut,hlut,part
+μαργαρίτης,183,unigram,masculine,accusative,plural,perlum,3.999796427775453,perlum,perlum,pearls
+τόπος,238,unigram,masculine,accusative,singular,stað,3.507760943340447,stað,stað,place
+πρωτοκλισία,30,unigram,feminine,accusative,singular,hefðarsæti,3.9997962573930907,hefðarsæti,hefðarsæti,place of honor
+ὄφις,82,unigram,masculine,accusative,singular,höggorm,1.2937415006187931,höggorm,höggorm,poison
+σκεῦος,207,unigram,neuter,accusative,singular,helgidóminn,1.0493540498272356,helgidóminn,,"possession, object, thing, jar, vessel"
+σκεῦος,104,unigram,neuter,nominative,plural,húsinu,1.0595416318177246,,húsinu,"possession, object, thing, jar, vessel"
+δύναμις,83,unigram,feminine,accusative,plural,kraftaverk,1.6581466241370484,kraftaverk,kraftaverk,"power, ability, miracle"
+δύναμις,39,unigram,feminine,accusative,singular,mátt,1.7642073016000244,mátt,mátt,"power, ability, miracle"
+δύναμις,65,unigram,feminine,nominative,plural,kraftaverkin,1.7530396906889456,kraftaverkin,kraftaverkin,"power, ability, miracle"
+δύναμις,91,unigram,feminine,nominative,singular,kraftur,8.999015792561105,kraftur,kraftur,"power, ability, miracle"
+ἱερεύς,196,unigram,masculine,nominative,singular,prestur,2.066373302756873,prestur,prestur,priest
+φυλακή,20,unigram,feminine,accusative,singular,fangelsi,10.794531339499938,fangelsi,fangelsi,prison
+προφήτης,51,unigram,masculine,accusative,plural,spámennina,12.368093944646251,spámennina,spámennina,prophet
+προφήτης,163,unigram,masculine,accusative,singular,spámann,3.1129481476542633,spámann,spámann,prophet
+προφήτης,182,unigram,masculine,nominative,plural,spámennirnir,5.010754226654537,spámennirnir,spámennirnir,prophet
+προφήτης,213,unigram,masculine,nominative,singular,spámaður,6.554148621314087,spámaður,spámaður,prophet
+βαλλάντιον,15,unigram,neuter,accusative,singular,pyngju,1.3120563042331448,pyngju,pyngju,purse
+ποταμός,139,unigram,masculine,nominative,singular,skall,1.0901685030944281,skall,skall,river
+λῃστής,264,unigram,masculine,nominative,plural,krossfestir,1.133717122304438,krossfestir,krossfestir,robber
+λῃστής,129,unigram,masculine,nominative,singular,ræningi,1.9999489140783424,ræningi,,robber
+ἄρχων,168,unigram,masculine,accusative,plural,höfðingjana,1.4706651972217974,höfðingjana,höfðingjana,ruler
+ἄρχων,54,unigram,masculine,nominative,plural,höfðingjarnir,1.1418075415689821,höfðingjarnir,höfðingjarnir,ruler
+ἄρχων,258,unigram,masculine,nominative,singular,forstöðumaður,1.1590200048703583,forstöðumaður,forstöðumaður,ruler
+ἀκοή,7,unigram,feminine,accusative,plural,ófriðartíðindi,1.1336847647923536,ófriðartíðindi,ófriðartíðindi,rumor
+ἀκοή,61,unigram,feminine,accusative,singular,fjórðungsstjóri,1.2238881616411086,fjórðungsstjóri,fjórðungsstjóri,rumor
+ἀκοή,134,unigram,feminine,nominative,plural,losnaði,1.2013953022722905,losnaði,losnaði,rumor
+ἀκοή,272,unigram,feminine,nominative,singular,barst,2.1214693636380706,barst,barst,rumor
+βιβλίον,44,unigram,neuter,accusative,singular,bókinni,1.141698588758533,bókinni,bókinni,"scroll, book"
+διάκονος,71,unigram,masculine,nominative,singular,þjónn,3.323183001568143,þjónn,þjónn,"servant, minister, deacon"
+δοῦλος,172,unigram,masculine,accusative,plural,þjóna,18.42993735283056,þjóna,þjóna,"servant, slave"
+δοῦλος,23,unigram,masculine,accusative,singular,þjón,2.552756904457774,þjón,þjón,"servant, slave"
+δοῦλος,81,unigram,masculine,nominative,plural,þjónar,1.7054139942248208,þjónar,þjónar,"servant, slave"
+δοῦλος,169,unigram,masculine,nominative,singular,þjónn,3.080710388425298,þjónn,þjónn,"servant, slave"
+πρόβατον,268,unigram,neuter,accusative,plural,sauði,2.246192719226312,sauði,sauði,sheep
+ποιμήν,201,unigram,masculine,nominative,plural,hirðarnir,2.8515923612805083,hirðarnir,hirðarnir,"shepherd, pastor"
+ποιμήν,232,unigram,masculine,nominative,singular,hirðir,2.7746227873790357,hirðir,hirðir,"shepherd, pastor"
+σημεῖον,114,unigram,neuter,accusative,plural,tákn,38.59676678715468,tákn,tákn,sign
+σημεῖον,103,unigram,neuter,accusative,singular,tákn,11.33584782614524,tákn,tákn,sign
+σημεῖον,36,unigram,neuter,nominative,plural,tákn,3.8323628952932096,tákn,tákn,sign
+σημεῖον,70,unigram,neuter,nominative,singular,tákn,4.885820845137059,tákn,tákn,sign
+δραχμή,141,unigram,feminine,accusative,singular,hana,1.0541451635072798,hana,hana,"silver coin, drachma"
+ἀργύριον,177,unigram,neuter,accusative,plural,tóku,1.7422970469341694,tóku,tóku,"silver, money"
+ἀργύριον,275,unigram,neuter,accusative,singular,fé,3.445084222874372,fé,fé,"silver, money"
+ἁμαρτία,228,unigram,feminine,accusative,plural,syndir,11.737373904888962,syndir,syndir,sin
+ἁμαρτία,178,unigram,feminine,accusative,singular,synd,2.8189652198488817,synd,synd,sin
+ἁμαρτία,235,unigram,feminine,nominative,plural,,,fyrirgefnar,þínar,sin
+ἀδελφή,256,unigram,feminine,accusative,plural,systur,1.8124619950201728,systur,systur,sister
+ἀδελφή,109,unigram,feminine,accusative,singular,systur,3.774909413556086,systur,systur,sister
+ἀδελφή,16,unigram,feminine,nominative,plural,systur,4.1949803070753795,systur,systur,sister
+ἀδελφή,255,unigram,feminine,nominative,singular,systir,4.016291060163104,systir,systir,sister
+ῥάπισμα,124,unigram,neuter,accusative,plural,andlitið,1.2238218710170874,andlitið,andlitið,"slap, strike, hit"
+πλοιάριον,191,unigram,neuter,nominative,plural,Tíberías,1.2013630877021924,Tíberías,Tíberías,small boat
+πλοιάριον,113,unigram,neuter,nominative,singular,lærisveinum,1.3652879893013479,lærisveinum,lærisveinum,small boat
+υἱός,41,unigram,masculine,accusative,plural,sonu,3.4523457495953176,sonu,sonu,son
+υἱός,102,unigram,masculine,accusative,singular,son,1.9135556885509255,son,son,son
+υἱός,105,unigram,masculine,nominative,plural,börn,2.857364779516626,börn,börn,son
+υἱός,174,unigram,masculine,nominative,singular,sonur,1.4872767081351166,sonur,sonur,son
+ψυχή,230,unigram,feminine,accusative,singular,líf,3.006551432329946,líf,líf,"soul, life"
+ἀστήρ,240,unigram,masculine,nominative,plural,Stjörnurnar,1.0595352057902494,Stjörnurnar,,star
+λίθος,244,unigram,masculine,accusative,plural,steina,1.3126830581834776,steina,steina,stone
+λίθος,31,unigram,masculine,accusative,singular,steini,2.218817278533444,steini,steini,stone
+λίθος,112,unigram,masculine,nominative,plural,steinar,3.8324085051567662,steinar,steinar,stone
+λίθος,35,unigram,masculine,nominative,singular,steinn,1.8921744806548875,steinn,steinn,stone
+συναγωγή,276,unigram,feminine,accusative,singular,samkunduna,4.590689778189401,samkunduna,samkunduna,synagogue
+τράπεζα,115,unigram,feminine,accusative,singular,léstu,1.2013845589884997,léstu,léstu,table
+τάλαντον,57,unigram,neuter,accusative,plural,talentur,1.8235068639948036,talentur,talentur,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,184,unigram,neuter,accusative,singular,talentu,3.832661906103723,talentu,talentu,talent (weight and monetary unit: around 20 years' wages)
+φόρος,220,unigram,masculine,accusative,plural,bannar,1.0960524252565438,bannar,,tax
+φόρος,236,unigram,masculine,accusative,singular,keisaranum,1.059531995066612,,keisaranum,tax
+τελώνης,156,unigram,masculine,nominative,plural,tollheimtumenn,5.842589446286448,tollheimtumenn,tollheimtumenn,tax collector
+τελώνης,59,unigram,masculine,nominative,singular,tollheimtumaður,15.099897657694214,tollheimtumaður,tollheimtumaður,tax collector
+γραμματεύς,280,unigram,masculine,nominative,plural,fræðimennirnir,1.2657703352291327,fræðimennirnir,fræðimennirnir,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,175,unigram,masculine,nominative,singular,fræðimaður,3.8322437927219974,fræðimaður,fræðimaður,"teacher, expert in the law, scholar, scribe"
+κλέπτης,67,unigram,masculine,nominative,plural,þjófar,2.3479891379700626,þjófar,þjófar,thief
+διαλογισμός,241,unigram,masculine,accusative,plural,hugsanir,3.56284162323106,hugsanir,hugsanir,"thought, argument"
+διαλογισμός,119,unigram,masculine,accusative,singular,hugsuðu,1.0811111685397359,hugsuðu,,"thought, argument"
+διαλογισμός,96,unigram,masculine,nominative,plural,hugsanir,2.0690267734000543,hugsanir,hugsanir,"thought, argument"
+διαλογισμός,234,unigram,masculine,nominative,singular,spurning,1.4082468155531351,spurning,spurning,"thought, argument"
+θρόνος,195,unigram,masculine,accusative,singular,hásæti,1.34872488402202,hásæti,hásæti,throne
+χρόνος,217,unigram,masculine,accusative,plural,langdvala,1.3489075273599913,langdvala,langdvala,time
+χρόνος,188,unigram,masculine,accusative,singular,stund,1.071823716962795,stund,stund,time
+καιρός,116,unigram,masculine,nominative,singular,tími,1.3243547666595485,tími,tími,"time, right time"
+μνημεῖον,11,unigram,neuter,accusative,plural,grafir,1.122827396677449,grafir,grafir,"tomb, grave"
+μνημεῖον,14,unigram,neuter,accusative,singular,grafarinnar,3.5056316095953033,grafarinnar,grafarinnar,"tomb, grave"
+μνημεῖον,63,unigram,neuter,nominative,plural,grafir,3.999793668881785,grafir,grafir,"tomb, grave"
+ὀδούς,58,unigram,masculine,accusative,singular,tönn,1.2014060506556434,tönn,tönn,tooth
+θησαυρός,179,unigram,masculine,accusative,singular,fjársjóð,1.876682156069709,fjársjóð,fjársjóð,treasure
+κώμη,216,unigram,feminine,accusative,plural,borgir,1.1171147419861593,borgir,borgir,village
+κώμη,46,unigram,feminine,accusative,singular,þorpið,1.0791347016355428,þorpið,þorpið,village
+παρθένος,226,unigram,feminine,nominative,plural,meyjarnar,3.9997962573930907,meyjarnar,meyjarnar,virgin
+φωνή,265,unigram,feminine,nominative,singular,rödd,3.5523151732124094,rödd,rödd,voice or sound
+πόλεμος,211,unigram,masculine,accusative,plural,hernað,1.1287600378449985,hernað,hernað,war
+ὕδωρ,281,unigram,neuter,accusative,plural,,,vatninu,þú,water
+ὕδωρ,74,unigram,neuter,accusative,singular,vatn,14.705352484920764,vatn,vatn,water
+ὕδωρ,88,unigram,neuter,nominative,singular,vatnið,1.5540301803218728,vatnið,vatnið,water
+ὑδρία,93,unigram,feminine,accusative,singular,skjólu,1.1721166411307768,skjólu,skjólu,water jar
+ὁδός,118,unigram,feminine,accusative,singular,veg,4.004183466406347,veg,veg,way
+γάμος,197,unigram,masculine,accusative,singular,brúðkaupsins,2.1270023466887262,brúðkaupsins,brúðkaupsins,wedding
+γυνή,87,unigram,feminine,accusative,plural,konur,1.2024285616360821,konur,konur,"wife, woman"
+γυνή,149,unigram,feminine,accusative,singular,konu,16.052802292588403,konu,konu,"wife, woman"
+γυνή,97,unigram,feminine,nominative,plural,konur,1.7831031199297964,konur,konur,"wife, woman"
+γυνή,101,unigram,feminine,nominative,singular,kona,3.0429300522672027,kona,kona,"wife, woman"
+πνεῦμα,253,unigram,neuter,accusative,plural,,,hlutur,verri,"wind, breath, spirit"
+πνεῦμα,140,unigram,neuter,accusative,singular,anda,2.3803801750070295,anda,anda,"wind, breath, spirit"
+πνεῦμα,9,unigram,neuter,nominative,plural,andarnir,2.8467889692898933,andarnir,andarnir,"wind, breath, spirit"
+πνεῦμα,19,unigram,neuter,nominative,singular,andi,12.09174765182462,andi,andi,"wind, breath, spirit"
+ῥῆμα,154,unigram,neuter,accusative,plural,orð,2.1075873902908384,orð,orð,word
+ῥῆμα,137,unigram,neuter,accusative,singular,skildu,1.3125955033274386,skildu,skildu,word
+ῥῆμα,27,unigram,neuter,nominative,plural,orð,1.5302972506979098,orð,orð,word
+ῥῆμα,270,unigram,neuter,nominative,singular,orð,2.425643985961804,orð,orð,word
+λόγος,138,unigram,masculine,accusative,plural,orð,3.523102017721873,orð,orð,word
+λόγος,130,unigram,masculine,accusative,singular,orð,1.89507722820637,orð,orð,word
+λόγος,126,unigram,masculine,nominative,plural,Himinn,1.4626971889361957,Himinn,Himinn,word
+λόγος,243,unigram,masculine,nominative,singular,orð,2.121347116037606,orð,orð,word
+ἔργον,38,unigram,neuter,accusative,plural,verk,44.008836079631315,verk,verk,work
+ἔργον,75,unigram,neuter,accusative,singular,verk,12.323140044996128,verk,verk,work
+ἔργον,246,unigram,neuter,nominative,plural,verk,4.931506019028114,verk,verk,work
+ἔργον,225,unigram,neuter,nominative,singular,,,verk,sendi.,work
+ἐργάτης,176,unigram,masculine,nominative,singular,verkamaðurinn,1.2238881616411086,verkamaðurinn,verkamaðurinn,worker
+ἔτος,209,unigram,neuter,accusative,plural,ár,12.009575549041788,ár,ár,year
+ἔτος,150,unigram,neuter,accusative,singular,ár,3.0478138677104534,ár,ár,year

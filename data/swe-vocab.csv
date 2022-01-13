@@ -1,0 +1,383 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1804_translation,version_1805_translation,version_1806_translation,version_1807_translation,version_1808_translation,version_1809_translation,version_1810_translation,version_1811_translation,version_1812_translation,version_1813_translation,english_translation
+θεός,370,unigram,masculine,accusative,plural,gudar,1.097258004808277,,,gudar,,,,,,,,God
+θεός,151,unigram,masculine,accusative,singular,Gud,160552.64731319356,Gud,,Gud,Gud,Gud,Gud,Gud,Gud,Gud,Gud,God
+θεός,32,unigram,masculine,nominative,plural,gudar,3.1419903457260365,gudar,,gudar,,gudar,,gudar,,gudar,gudar,God
+θεός,233,unigram,masculine,nominative,singular,Gud,11165870765.656637,Gud,,Gud,Gud,Gud,Gud,Gud,Gud,Gud,Gud,God
+κύριος,372,unigram,masculine,nominative,plural,löste,1.2036052582263375,åsnan,,löste,,,löste,lossade,,,,"Lord, lord, master"
+κύριος,152,unigram,masculine,nominative,singular,Herren,11.916592695597682,Herren,,Herren,Herren,herre,Herren,Herren,Herren,Herren,Herren,"Lord, lord, master"
+γραφή,146,unigram,feminine,accusative,plural,Skrifterna,45.32866202232927,skrifterna,,Skrifterna,Skriften,skrifterna,Skrifterna,Skrifterna,Skrifterna,Skrifterna,Skriften,Scripture
+γραφή,57,unigram,feminine,accusative,singular,,,skriftens,,,Skriften,skriftens,Skriftens,,förkastade,,Skriften,Scripture
+γραφή,295,unigram,feminine,nominative,plural,,,Men,,,förutsagt,skrifterna,uppfyllas,uppfyllas,Skrifterna,Skrifterna,Skriften,Scripture
+γραφή,365,unigram,feminine,nominative,singular,Skriften,404.7773444939613,uppfyllas,,Skriften,Skriften,skriften,Skriften,Skriften,Skriften,Skriften,Skriften,Scripture
+ἄγγελος,111,unigram,masculine,accusative,plural,änglar,178.61736981475562,änglar,,Änglar,änglar,änglar,änglar,änglar,änglar,änglar,änglar,angel
+ἄγγελος,92,unigram,masculine,accusative,singular,,,,,Ängel,bereda,ängel,budbärare,budbärare,bereda,budbärare,bereda,angel
+ἄγγελος,53,unigram,masculine,nominative,plural,änglarna,3.5386725732653415,änglarna,,Änglarna,änglarna,änglarna,änglar,änglar,änglarna,änglar,änglarna,angel
+ἄγγελος,122,unigram,masculine,nominative,singular,ängel,10.280594450683543,ängel,,Ängel,ängeln,ängel,ängel,ängel,ängel,ängel,ängel,angel
+ἀπόστολος,50,unigram,masculine,nominative,plural,Apostlarna,49.23109049200132,Apostlarna,,Apostlarna,tolv,apostlarna,,,Apostlarna,Apostlarna,Apostlarna,apostle
+ἀπόστολος,6,unigram,masculine,nominative,singular,budbärare,1.7326198820878649,budbärare,,sändabådet,budbärare,,budbäraren,budbäraren,,sändebudet,budbärare,apostle
+ἐξουσία,222,unigram,feminine,accusative,singular,makt,2066.452873052706,makt,,magt,makt,makt,makt,makt,auktoritet,makt,makt,authority
+βρέφος,17,unigram,neuter,accusative,plural,spädbarn,2.2681339991050407,röra,,båro,körde,späda,spädbarn,spädbarn,motade,spädbarn,körde,babies
+βρέφος,363,unigram,neuter,accusative,singular,nederlagdt,1.4686697667861366,,,nederlagdt,,,,,,,,babies
+ἀποθήκη,303,unigram,feminine,accusative,plural,lador,38.54924950754067,lador,,församla,lador,lador,samlar,lador,lador,lador,lador,barn
+ἀποθήκη,77,unigram,feminine,accusative,singular,vetet,2.371304654936464,vetet,,,vetet,,samla,samla,vetet,samla,vetet,barn
+φραγμός,261,unigram,masculine,accusative,plural,,,stigarna,,,,,,,,,uppmana,"barrier, wall"
+φραγμός,127,unigram,masculine,accusative,singular,vakttorn,1.0595319950666118,,,,,,,,vakttorn,,,"barrier, wall"
+ἀρχή,203,unigram,feminine,accusative,singular,,,uppenbarade,,Aldraförst,,begynnelsen,Begynnelsen,,,utförde,de.Han,beginning
+ζώνη,194,unigram,feminine,accusative,plural,inga,1.145071270060534,,,,inga,,,,,,,belt
+βλασφημία,36,unigram,feminine,accusative,plural,hädare,3.944887002686049,hädare,,hädelse,,hädiska,hädare,hädare,hädare,hädare,hädar,blasphemy
+βλασφημία,108,unigram,feminine,accusative,singular,förhädat,1.0960768946513286,,,förhädat,,,,,,,,blasphemy
+βλασφημία,231,unigram,feminine,nominative,plural,hädelser,8.849359621411446,,,,,,hädelser,hädelser,,hädelser,,blasphemy
+βλασφημία,93,unigram,feminine,nominative,singular,hädelse,22.698262496312413,,,,,hädelse,hädelse,hädelse,hädelse,hädelse,,blasphemy
+πλοῖον,120,unigram,neuter,accusative,plural,båtarna,36.521961848416055,,,båtarna,båtarna,båtarna,båtarna,båtarna,båtarna,båtarna,båtarna,boat
+πλοῖον,348,unigram,neuter,accusative,singular,båten,6.175011860210154,båten,,skeppet,båten,båten,båten,båten,båten,båten,båten,boat
+πλοῖον,268,unigram,neuter,nominative,plural,båtar,1.6855938864963467,,,,,båtar,båtar,båtar,båtar,i.,,boat
+πλοῖον,252,unigram,neuter,nominative,singular,båten,8.63811021421157,båten,,skeppet,långt,båten,båten,båten,båten,båten,båten,boat
+σῶμα,67,unigram,neuter,nominative,singular,kropp,4951.403318232645,kropp,,kropp,kropp,kropp,kropp,kropp,kropp,kropp,kropp,body
+κλῆμα,63,unigram,neuter,nominative,plural,grenarna,1.4488560333602734,grenarna,,,vinstocken,,grenarna,Utan,grenarna.Den,grenarna,grenarna,branch
+κλῆμα,168,unigram,neuter,nominative,singular,förblir,4.256684648795527,kvar,,blifver,gren,förbliver,förblir,förblir,förblir,grenen,gren,branch
+ἄρτος,352,unigram,masculine,accusative,plural,bröd,149.24436791008824,bröd,,bröd,bröd,bröd,bröd,bröd,bröd,bröd,bröd,bread
+ἄρτος,382,unigram,masculine,accusative,singular,bröd,127.71614052469693,bröd,,bröd,brödet,bröd,bröd,bröd,bröd,bröd,bröd,bread
+ἄρτος,177,unigram,masculine,nominative,plural,bröd,430.6234096510397,bröd,,bröd,bröd,bröd,bröd,bröd,mätta,bröd,bröd,bread
+ἄρτος,43,unigram,masculine,nominative,singular,,,brödet,,brödet,brödet,bröd,bröd,bröd,bröd,,brödet,bread
+ἀδελφός,338,unigram,masculine,accusative,plural,bröder,19182.11426761469,bröder,,bröder,bröder,bröder,bröder,bröder,bröder,bröder,bröder,brother
+ἀδελφός,137,unigram,masculine,accusative,singular,bror,86.61625068904374,bror,,broder,bror,broder,bror,bror,bror,bror,bror,brother
+ἀδελφός,126,unigram,masculine,nominative,plural,bröder,1092.7261568797528,bröder,,bröder,bröder,bröder,bröder,bröder,bröder,bröder,bröder,brother
+ἀδελφός,259,unigram,masculine,nominative,singular,bror,5962.580911420842,bror,,broder,bror,broder,bror,bror,bror,bror,bror,brother
+στῆθος,174,unigram,neuter,accusative,plural,bröstet,2.0208954935228602,,,,,bröstet,bröstet,,åskådare,,bröstet,"chest, breast"
+στῆθος,321,unigram,neuter,accusative,singular,,,bakåt,,bröst,mot,bröst,Jesu,bröst,bröstkorg,mot,mot,"chest, breast"
+ἀρχιερεύς,274,unigram,masculine,accusative,plural,översteprästerna,1051.8212442721049,översteprästerna,,Presterna,översteprästerna,översteprästerna,översteprästerna,översteprästerna,översteprästerna,översteprästerna,översteprästerna,chief priest
+ἀρχιερεύς,68,unigram,masculine,accusative,singular,översteprästen,20.407737492480273,översteprästen,,Presten,,översteprästen,översteprästen,översteprästen,översteprästen,översteprästen,översteprästen,chief priest
+ἀρχιερεύς,136,unigram,masculine,nominative,plural,översteprästerna,517.6534093977366,översteprästerna,,öfverste,översteprästerna,översteprästerna,översteprästerna,översteprästerna,översteprästerna,översteprästerna,översteprästerna,chief priest
+ἀρχιερεύς,278,unigram,masculine,nominative,singular,översteprästen,109.38833655115636,översteprästen,,öfverste,översteprästen,översteprästen,översteprästen,översteprästen,översteprästen,översteprästen,översteprästen,chief priest
+παῖς,264,unigram,masculine,accusative,plural,slå,1.5897909673348871,,,slå,,,,,,,,child
+παῖς,55,unigram,masculine,accusative,singular,pojken,1.1455706130035472,ryckte,,pilten,knuffade,gossen,slet,pojken,pojken,pojken,våldsamt,child
+τέκνον,374,unigram,neuter,accusative,plural,barn,46421.31156858791,barn,,barn,barn,barn,barn,barn,barn,barn,barn,child
+τέκνον,200,unigram,neuter,accusative,singular,,,,,brodren,Barn,brodern,bror,bror,Barn,,,child
+τέκνον,18,unigram,neuter,nominative,plural,barn,7.101610244978551,barn,,brodren,Barn,barn,barn,barn,barn,barn,barn,child
+τέκνον,214,unigram,neuter,nominative,singular,barn,1.9952956685343621,barn,,Min,son,son,barn,barn,barn,barn,Mitt,child
+παιδίον,16,unigram,neuter,accusative,plural,hindra,1.118260853778936,barnen,,förmener,Skicka,förmenen,hindra,hindra,sådana,små,hindra,child
+παιδίον,101,unigram,neuter,accusative,singular,barnet,844.3686800298851,barnet,,barnet,barnet,barnet,barnet,barnet,barnet,barnet,barnet,child
+παιδίον,192,unigram,neuter,nominative,plural,barn,91.5014898466928,barnen,,barn,små,barn,barn,barn,barn,barn,barn,child
+παιδίον,45,unigram,neuter,nominative,singular,barn,1.679124282880801,barn,,barnet,eget,barn,barn,barnet,barnet,barn,barn,child
+πόλις,204,unigram,feminine,accusative,plural,städer,92.47650345855966,städer,,städer,städer,,städer,städer,städer,städer,städer,city
+πόλις,72,unigram,feminine,accusative,singular,stad,2.4353755219577136,stad,,staden,staden,stad,stad,stad,stad,stad,staden,city
+πύλη,299,unigram,feminine,nominative,plural,församling,1.0966044370282375,,,,församling,,,,,,,city gate
+πύλη,230,unigram,feminine,nominative,singular,,,port,,porten,porten,leder,port,port,porten,port,porten,city gate
+χιτών,132,unigram,masculine,accusative,plural,livklädnader,2.4424260086236713,skjorta,,kjortlar,vandringsstav,livklädnader,livklädnader,tunikor,,långskjortor,,"clothing, undergarments"
+χιτών,33,unigram,masculine,accusative,singular,manteln,1.4207194820969846,också,,kjortelen,,livklädnaden,livklädnad,manteln,manteln,långskjorta,skjortan,"clothing, undergarments"
+ἱμάτιον,149,unigram,neuter,accusative,plural,kläder,24.635344340231747,kläder,,kläder,kläder,kläder,kläder,kläder,kläder,kläder,kläder,coat
+ἱμάτιον,148,unigram,neuter,accusative,singular,mantel,49.05661430118622,mantel,,kläder,,mantel,mantel,mantel,mantel,mantel,mantel,coat
+ἐντολή,89,unigram,feminine,accusative,plural,bud,5.933367722753239,bud,,bud,bud,bud,bud,bud,bud,bud,bud,commandment
+ἐντολή,87,unigram,feminine,accusative,singular,bud,6409.640072035765,bud,,bud,bestämt,bud,bud,bud,bud,bud,bud,commandment
+συνέδριον,357,unigram,neuter,accusative,plural,domstolar,3.563594035072142,domstolar,,öfverantvarda,domstol,domstolar,domstolar,domstolar,domstolar,domstolar,synagogorna,council
+συνέδριον,59,unigram,neuter,accusative,singular,rådet,2.0616654196430146,rådet,,Råd,rådet,,rådet,,Sanhedrin,,rådet,council
+χώρα,83,unigram,feminine,accusative,plural,vitnat,1.3169927868348865,vitnat,,,,,vitnat,vitnat,,skörden,,"country, countryside"
+χώρα,326,unigram,feminine,accusative,singular,område,2.1283525511372403,land,,,området,land,område,område,område,område,området,"country, countryside"
+ὄχλος,64,unigram,masculine,accusative,plural,folket,31067.26730409026,folket,,folket,folket,folket,folket,folket,folket,folket,folket,crowd
+ὄχλος,11,unigram,masculine,accusative,singular,folket,251781.77132742206,folket,,folket,folket,folket,folket,folket,folket,folket,folket,crowd
+ὄχλος,113,unigram,masculine,nominative,plural,folket,42.755749987554786,folket,,folket,folket,folket,folket,folket,folket,folket,folket,crowd
+ὄχλος,316,unigram,masculine,nominative,singular,folket,4.2648860516472675,folk,,folket,folket,folk,folket,folket,stor,folket,folk,crowd
+θυγάτηρ,130,unigram,feminine,nominative,plural,döttrar,1.8138831239498303,,,,döttrar,döttrar,döttrar,döttrar,döttrar,,,daughter
+θυγάτηρ,351,unigram,feminine,nominative,singular,dotter,816658.0056202682,dotter,,dotter,dotter,dotter,dotter,dotter,dotter,dotter,dotter,daughter
+ἡμέρα,81,unigram,feminine,accusative,plural,dagar,850568.4193775115,dagar,,dagar,dagar,dagar,dagar,dagar,dagar,dagar,dagar,day
+ἡμέρα,94,unigram,feminine,accusative,singular,dag,223.317026724096,dag,,dag,dag,dag,dag,dag,dag,dag,dag,day
+ἡμέρα,2,unigram,feminine,nominative,plural,dagar,1148.53136275186,dagar,,dagar,dagar,dagar,dagar,dagar,dagar,dagar,dagar,day
+ἡμέρα,74,unigram,feminine,nominative,singular,dagen,7.204756408467576,förberedelsedag,,dagen,nästa,dagen,dag,dagen,dagen,dag,kväll,day
+ὀφειλέτης,281,unigram,masculine,nominative,plural,tornet,1.096057314542422,,,,,,,tornet,,,,debtor
+ὀφειλέτης,140,unigram,masculine,nominative,singular,granskningen,2.098584917306854,granskningen,,räkna,,räkenskap,granskningen,granskningen,,,,debtor
+δαιμόνιον,34,unigram,neuter,accusative,plural,onda,18.279566176019813,demoner,,djeflar,onda,onda,onda,onda,demoner,demoner,onda,demon
+δαιμόνιον,368,unigram,neuter,accusative,singular,besatt,2.3135718591685808,besatt,,djefvulen,besatt,ond,ond,ond,besatt,demon,besatt,demon
+δαιμόνιον,216,unigram,neuter,nominative,plural,onda,4.870327956872588,,,djeflarna,onda,onda,onda,onda,demonerna,farit,onda,demon
+δαιμόνιον,190,unigram,neuter,nominative,singular,anden,3.7897732258734305,demonen,,djefvulen,anden,onde,anden,anden,demonen,demonen,anden,demon
+δηνάριον,343,unigram,neuter,accusative,plural,denarer,40.84125179487447,denarer,,penningar,mer,silverpenningar,denarer,denarer,denarer,dagslöner,denarer,denarius (about a day's wages)
+δηνάριον,179,unigram,neuter,accusative,singular,denar,57.29739970288901,denar,,penningen,,penning,denar,denar,denar,,denar,denarius (about a day's wages)
+μαθητής,197,unigram,masculine,accusative,plural,lärjungar,94.33342579391444,lärjungar,,Lärjungar,efterföljare,lärjungar,lärjungar,lärjungar,lärjungar,lärjungar,lärjungar,disciple
+μαθητής,375,unigram,masculine,accusative,singular,älskade,5.952199116707742,älskade,,Lärjungan,älskade,älskade,älskade,älskade,vänskapsband,älskade,lärjunge,disciple
+μαθητής,308,unigram,masculine,nominative,plural,lärjungar,120.6652084949193,lärjungar,,Lärjungar,efterföljare,lärjungar,lärjungar,lärjungar,lärjungar,lärjungar,lärjungar,disciple
+μαθητής,373,unigram,masculine,nominative,singular,lärjungen,1.5497161816914833,lärjungen,,Lärjungen,efterföljare,lärjungen,lärjunge,lärjungen,lärjunge,lärjungen,lärjunge,disciple
+νόσος,3,unigram,feminine,accusative,plural,sjukdomar,131.67524715354546,sjukdomar,,sjukdomar,sjukdomar,sjukdomar,sjukdomar,sjukdomar,obotliga,sjukdomar,sjukdomar,disease
+νόσος,80,unigram,feminine,accusative,singular,krämpor,1.2203752845927842,krämpor,,krankhet,plågor,skröplighet,krämpor,,,krämpor,plågor,disease
+περιστερά,112,unigram,feminine,accusative,plural,duvor,1.5436234699222575,duvor,,sålde,duvor,sålde,sålde,sålde,duvor,duvor,duvor,dove
+περιστερά,61,unigram,feminine,accusative,singular,duva,47.51861439540255,duva,,dufva,duva,duva,duva,duva,duva,duva,duva,dove
+οὖς,167,unigram,neuter,accusative,plural,öron,79.64924599468891,öron,,öron,Lyssna,öron,öron,öron,öron,öron,öron,ear
+οὖς,315,unigram,neuter,accusative,singular,taken,2.285570042885297,,,taken,,,taken,taken,taken,taken,,ear
+σεισμός,223,unigram,masculine,nominative,plural,jordbävningar,3.5811544690174095,hungersnöd,,,jordbävningar,jordbävningar,jordbävningar,jordbävningar,matkris,jordbävningar,jordbävningar,"earthquakes, storm"
+σεισμός,70,unigram,masculine,nominative,singular,,,,,stor,plötsligt,jordbävning,,,jordbävning,,plötsligt,"earthquakes, storm"
+τέλος,305,unigram,neuter,accusative,singular,slutet,5.3267379770577685,slutet,,ändan,slutet,,slutet,slutet,slutet,slutet,slutet,end
+αἰών,265,unigram,masculine,accusative,plural,Jakobs,1.1892390748388957,välde,,ände,kungamakt,,Jakobs,Jakobs,evig,,,eternity
+αἰών,339,unigram,masculine,accusative,singular,någonsin,13.26864525970823,någonsin,,evinnerliga,aldrig,någonsin,någonsin,någonsin,evigt,evighet,evighet,eternity
+ὀφθαλμός,25,unigram,masculine,accusative,plural,ögon,3273.7500870421313,ögon,,ögon,ögon,ögon,ögon,ögon,ögon,ögon,ögon,eye
+ὀφθαλμός,71,unigram,masculine,nominative,plural,ögon,26514.322522399503,ögon,,ögon,lyckliga,ögon,ögon,ögon,ögon,ögon,ögon,eye
+ὀφθαλμός,336,unigram,masculine,nominative,singular,öga,68.72532251820036,öga,,öga,öga,öga,öga,öga,öga,öga,öga,eye
+πρόσωπον,139,unigram,neuter,accusative,plural,,,,,ansigte,,ansikten,,,,,,face
+πρόσωπον,211,unigram,neuter,accusative,singular,ansikte,12.068120522061935,marken,,ansigte,ansiktet,ansikte,ansikte,ansikte,ansikte,ansikte,påverkas,face
+λιμός,7,unigram,feminine,nominative,plural,,,hungersnöd,,,,,,,,jordbävningar,,famine
+λιμός,103,unigram,feminine,nominative,singular,,,,,hunger,,,hungersnöd,,,,,famine
+γεωργός,280,unigram,masculine,nominative,plural,vinodlarna,4.075932652192816,arrendatorerna,,vingårdsmännerna,lantbrukarna,vingårdsmännen,vingårdsarbetarna,vinodlarna,vinodlarna,vinodlarna,lantbrukarna,"farmer, tenant"
+γεωργός,56,unigram,masculine,nominative,singular,vinodlaren,1.7079523287391547,vinodlaren,,,,,vingårdsmannen,vinodlaren,,vinodlaren,trädgårdsmästaren,"farmer, tenant"
+πατήρ,217,unigram,masculine,accusative,plural,fäder,1.4942730991036957,,,fäder,stamfar,,,fäder,,löfte,förfäder,father
+πατήρ,342,unigram,masculine,accusative,singular,Fadern,1.6808533306782034,Fadern,,fader,Far,fader,Fadern,Fadern,Fadern,Fadern,Fadern,father
+πατήρ,350,unigram,masculine,nominative,plural,fäder,468.64960929733553,fäder,,fäder,förfäder,fäder,fäder,fäder,förfäder,fäder,förfäder,father
+πατήρ,205,unigram,masculine,nominative,singular,Fadern,2.057736588877851,Fadern,,Fader,Far,Fadern,Fadern,Fadern,Fader,Fadern,Fader,father
+σύνδουλος,161,unigram,masculine,accusative,plural,druckna,2.2376709968632458,druckna,,,,,druckna,medtjänare,druckna,berusade,druckna,"fellow-servant, colleague"
+σύνδουλος,97,unigram,masculine,accusative,singular,arbetskamrat,1.255508950677359,,,,,,,,arbetskamrat,,,"fellow-servant, colleague"
+σύνδουλος,354,unigram,masculine,nominative,plural,medtjänare,1.611571452923527,illa,,,upprörda,medtjänare,medtjänare,medtjänare,smärtade,precis,upprörda,"fellow-servant, colleague"
+σύνδουλος,128,unigram,masculine,nominative,singular,,,betala,,medtjenare,arbetskamrat,medtjänare,medtjänare,medtjänare,arbetskamrat,,arbetskamrat,"fellow-servant, colleague"
+ἀγρός,367,unigram,masculine,accusative,plural,åkrar,2.4622813013815237,systrar,,åkrar,åkrar,jordagods,åkrar,åkrar,,åkrar,åkrar,field
+ἀγρός,44,unigram,masculine,accusative,singular,åker,4.061105902823924,,,åker,åker,,åkern,åker,åker,,åker,field
+δάκτυλος,257,unigram,masculine,accusative,plural,,,fingrarna,,,,fingrar,,,fingrar,fingrarna,,finger
+δάκτυλος,196,unigram,masculine,accusative,singular,finger,2.695335245078582,sida,,finger,,finger,sida,finger,finger,sida,Tomas,finger
+ἰχθύς,171,unigram,masculine,accusative,plural,fiskarna,2.3196547081938483,fiskarna,,fiskar,fem,fiskarna,fiskarna,fiskarna,bröd,fiskarna,fiskarna,fish
+ἰχθύς,210,unigram,masculine,accusative,singular,fisk,8.259178635465341,orm,,fisk,metkrok,fisk,fisk,orm,fisk,fisk,fisk,fish
+δίκτυον,121,unigram,neuter,accusative,plural,nät,37.79546131093679,näten,,nät,nät,nät,näten,näten,nät,näten,nät,fishing net
+δίκτυον,220,unigram,neuter,accusative,singular,nätet,10.335976863237358,nätet,,nätet,nätet,nätet,nätet,nätet,båten,båten,nätet,fishing net
+δίκτυον,191,unigram,neuter,nominative,plural,näten,1.991270618532509,,,beslöto,näten,näten,,,,,näten,fishing net
+δίκτυον,269,unigram,neuter,nominative,singular,nätet,1.1613810574337249,,,nätet,,,,,,,,fishing net
+τροφή,271,unigram,feminine,accusative,plural,köpa,1.4320903552596382,,,gångne,ensam,köpa,köpa,köpa,köpa,köpa,gått,food
+τροφή,362,unigram,feminine,accusative,singular,förståndig,1.1550879265510088,uppsikt,,,klok,,förståndig,kloke,,förståndig,ansvara,food
+πούς,260,unigram,masculine,accusative,plural,fötter,9811755.51266137,fötter,,fötter,fötter,fötter,fötter,fötter,fötter,fötter,fötter,foot
+πούς,125,unigram,masculine,accusative,singular,fot,1.3777995853877467,,,fot,skadar,fot,fot,,stöter,,,foot
+καρπός,202,unigram,masculine,accusative,plural,frukt,48.14046649074424,frukt,,frukt,,frukt,frukt,frukt,frukt,frukt,frukt,"fruit, crop, harvest"
+καρπός,255,unigram,masculine,accusative,singular,frukt,7424.603562739949,frukt,,frukt,frukt,frukt,frukt,frukt,frukt,frukt,frukt,"fruit, crop, harvest"
+πλήρωμα,298,unigram,neuter,accusative,plural,korgar,9.711399845748508,fulla,,korgar,korgar,korgar,korgar,brödbitar,korgar,brödbitar,korgar,fullness
+πλήρωμα,361,unigram,neuter,accusative,singular,hålet,1.0595352057902494,,,hålet,,,,,,,,fullness
+γενεά,300,unigram,feminine,accusative,plural,släkte,1.317152857045697,,,,tillber,släkte,släkte,,,släkte,generation,generation
+γενεά,256,unigram,feminine,accusative,singular,släkte,44.056241674417116,släkte,,slägtet,släkte,släkte,släkte,släktet,här,,släkte,generation
+γενεά,166,unigram,feminine,nominative,singular,släkte,1343.8947003256112,släkte,,slägtet,släkte,släkte,släkte,släkte,släkte,släkte,släkte,generation
+δῶρον,341,unigram,neuter,accusative,plural,gåvor,6.98820337951176,gåvor,,,,ned,gåvor,gåvor,gåvor,gåvor,gåvor,gift
+δῶρον,181,unigram,neuter,accusative,singular,altaret,11.550415482382222,altaret,,altaret,altaret,altaret,altaret,altaret,altaret,altaret,altaret,gift
+ἡγεμών,189,unigram,masculine,accusative,plural,ståthållare,1.2636541058065063,,,Förstar,,landshövdingar,landshövdingar,ståthållare,ståthållare,ståthållare,,"governor, ruler"
+ἡγεμών,13,unigram,masculine,accusative,singular,landshövdingens,1.2020239003729318,,,landshöfdingen,landshövdingens,landshövdingen,,ståthållaren,,,landshövdingens,"governor, ruler"
+ἀσπασμός,353,unigram,masculine,accusative,plural,torgen,1.5198166641512816,hälsade,,torgen,torgen,hälsade,torgen,hälsade,hälsade,torgen,torgen,greeting
+ὁδηγός,5,unigram,masculine,nominative,plural,gropen,1.5591959796881538,,,ledare,bry,ledare,gropen,gropen,gropen,ledare,gropen,guide
+ὁδηγός,4,unigram,masculine,nominative,singular,ledare,4.116085978187647,ledare,,ledare,blinda,ledare,ledare,ledare,blinda,ledare,blinda,guide
+θρίξ,102,unigram,feminine,nominative,plural,,,hårstråna,,hufvudhår,,,,,hårstrån,,,hair
+θρίξ,239,unigram,feminine,nominative,singular,hår,2.67644696608257,hår,,hår,,hår,hår,hår,,hårstrå,hårstrå,hair
+χείρ,345,unigram,feminine,accusative,plural,händer,126.53339348808265,händer,,händer,händerna,händer,händer,händer,händer,händer,händer,hand
+χείρ,243,unigram,feminine,accusative,singular,handen,12.406095659594568,handen,,hand,handen,handen,handen,handen,hand,handen,handen,hand
+κεφαλή,158,unigram,feminine,accusative,plural,skakade,2.290641744104504,,,hufvud,skakade,,skakade,skakade,skakade,skakade,skakade,head
+κεφαλή,228,unigram,feminine,accusative,singular,huvud,234.05486406184573,huvud,,hufvud,huvud,huvud,huvud,huvud,huvud,huvudet,huvud,head
+στάχυς,229,unigram,masculine,accusative,plural,sädesfält,3.2636956689659358,ax,,säd,sädesfält,sädesfält,sädesfält,sädesfält,sädesfält,ax,sädesfält,head of grain
+καρδία,37,unigram,feminine,accusative,plural,hjärtan,73.61582752050656,hjärtan,,hjerta,människorna,hjärtan,hjärtan,hjärtan,hjärtan,hjärtan,hjärtan,heart
+καρδία,318,unigram,feminine,accusative,singular,hjärtan,16.337532120516126,hjärtan,,hjerta,äta,hjärtan,hjärta,hjärta,hjärtan,hjärtan,hjärtan,heart
+καρδία,212,unigram,feminine,nominative,singular,hjärtan,198.48216531573453,,,hjerta,hjärta,hjärtan,hjärtan,hjärtan,hjärtan,hjärtan,hjärtan,heart
+οὐρανός,8,unigram,masculine,accusative,plural,duva,2.8488437441358903,duva,,,duva,,duva,duva,duva,duva,,"heaven, sky"
+οὐρανός,294,unigram,masculine,accusative,singular,himlen,2385.7267422847335,himlen,,himmelen,himlen,himmelen,himlen,himlen,himlen,himlen,himlen,"heaven, sky"
+οὐρανός,380,unigram,masculine,nominative,plural,duva,2.0941397151283727,,,,duva,duva,,,duva,duva,duva,"heaven, sky"
+οὐρανός,218,unigram,masculine,nominative,singular,jord,1.4842831890053874,förgå,,jord,gälla,jord,förgå,förgå,jord,jord,,"heaven, sky"
+ὥρα,325,unigram,feminine,nominative,plural,timmar,1.6231112406608073,,,timmar,timmar,timmar,,,,,timmar,hour
+ὥρα,28,unigram,feminine,nominative,singular,stund,9.095171649099445,stund,,kommen,bestämt,stund,stund,timmen,tid,stund,stund,hour
+οἰκία,173,unigram,feminine,accusative,plural,få,1.3094317159987605,,,hus,,hus,få,få,få,få,,house
+οἰκία,358,unigram,feminine,accusative,singular,hus,2683.5554734076113,hus,,hus,hus,hus,hus,hus,hus,hus,hus,house
+οἶκος,313,unigram,masculine,accusative,plural,avsked,1.2736338300649594,,,fögderi,arbete,,avsked,avsked,,avskedats,,"house, home"
+οἶκος,24,unigram,masculine,accusative,singular,hem,189.46898188505446,hem,,hus,hem,hem,hem,hem,hus,hem,hem,"house, home"
+κριτής,340,unigram,masculine,nominative,plural,domare,1.7383904742636493,anhängare,,domare,använder,anhängare,vems,domare,vems,domare,domare,judge
+κριτής,183,unigram,masculine,nominative,singular,domaren,15.247992288793524,domaren,,domaren,,domaren,domaren,domaren,domaren,domaren,domaren,judge
+κλείς,91,unigram,feminine,accusative,plural,nycklar,1.5291327790162363,nycklarna,,nycklar,nycklarna,,nycklar,nycklar,,nycklar,nycklarna,key
+βασιλεύς,119,unigram,masculine,accusative,plural,kungar,1.2612933841975804,kungar,,Konungar,kungar,,,kungar,,kungar,,king
+βασιλεύς,65,unigram,masculine,accusative,singular,kung,45.16890013560564,kung,,Konung,kung,konung,konung,kung,kung,kung,kung,king
+βασιλεία,85,unigram,feminine,accusative,plural,riken,6.75804540038028,riken,,viste,länder,riken,riken,riken,riken,riken,riken,kingdom
+βασιλεία,178,unigram,feminine,accusative,singular,rike,117.77379040056896,rike,,rike,eget,rike,rike,rike,rike,rike,rike,kingdom
+κόπος,221,unigram,masculine,accusative,plural,kritiserar,1.275190727092118,ledsen,,tillfrids,kritiserar,oroen,oroar,gärning,besvärar,,kritiserar,"labour, work, trouble, difficulty"
+λύχνος,279,unigram,masculine,nominative,plural,,,,,omgjordade,redo,,,,,,,lamp
+λύχνος,253,unigram,masculine,nominative,singular,ljus,17.017294125306872,lampa,,ljus,lampa,ljus,ljus,ljus,ljus,ljus,lampa,lamp
+κλῆρος,109,unigram,masculine,accusative,plural,,,gör.,,kastandes,tärning,lott,lott,lott,gör.,,gör.,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,lott,2.827140141924253,lott,,lott,delade,lott,lott,lott,lott,delade,lott,"lots (casting of lots), inheritance"
+ἄνθρωπος,329,unigram,masculine,accusative,plural,människorna,62.19493001788835,människorna,,menniskorna,Ja,människorna,människorna,människorna,människor,människorna,likadant,man
+ἄνθρωπος,283,unigram,masculine,accusative,singular,människan,5.203754667288613,människan,,menniskona,inför,människan,människan,människan,människan,människan,människan,man
+ἄνθρωπος,133,unigram,masculine,nominative,plural,människorna,58.703676281465434,människorna,,menniskorna,,människorna,människor,människorna,Människosonen,människorna,människorna,man
+ἄνθρωπος,195,unigram,masculine,nominative,singular,man,56.16303782211058,man,,man,man,man,man,man,man,man,man,man
+ἀνήρ,272,unigram,masculine,accusative,plural,tungt,1.5160090896558256,sömn,,män,,,tungt,tungt,,tungt,,"man, husband"
+ἀνήρ,276,unigram,masculine,accusative,singular,man,778.3431492846639,man.,,man,man,man,man,man,man,man,man,"man, husband"
+ἀνήρ,164,unigram,masculine,nominative,plural,män,392.5867148099548,män,,män,män,män,män,män,män,män,män,"man, husband"
+ἀνήρ,262,unigram,masculine,nominative,singular,man,69.04569166684799,man,,man,man,man,man,man,man,man,man,"man, husband"
+μνᾶ,332,unigram,feminine,accusative,plural,pund,8.188599796847482,pund,,pund,vinst,pund,pund,pund,silvermynt,pengar,pund,mina (about 100 days' wages)
+μνᾶ,14,unigram,feminine,accusative,singular,pund,1.2929325700400602,,,pundet,,'Tagen,pund,,silvermyntet,ʼTa,pund,mina (about 100 days' wages)
+πρωτοκαθεδρία,117,unigram,feminine,accusative,plural,festmåltiderna,1.2629837177819312,,,främst,,gästabuden,festmåltiderna,,blicka,festmåltiderna,,"most important seat, seat of honour"
+πρωτοκαθεδρία,39,unigram,feminine,accusative,singular,,,främst,,sitten,,,,,blicka,hälsningarna,raden,"most important seat, seat of honour"
+μήτηρ,107,unigram,feminine,accusative,plural,,,mödrar,,,åkrar,,,,,,,mother
+μήτηρ,309,unigram,feminine,accusative,singular,mor,27.652968886431342,mor,,moder,föräldrar,moder,mor,mor,mor,mor,mor,mother
+ὄρος,238,unigram,neuter,accusative,plural,bergen,52.63022030909398,bergen,,bergen,bergen,bergen,bergen,bergen,bergen,bergen,bergen,mountain
+ὄρος,292,unigram,neuter,accusative,singular,berg,3.78599844996942,Olivberget,,berg,berg,Oljeberget,,,berg,,berg,mountain
+μύρον,96,unigram,neuter,accusative,plural,örter,1.0966405673711248,,,,örter,,,,,,,myrrh
+μύρον,30,unigram,neuter,accusative,singular,,,,,,,,begravning,,hällde,,,myrrh
+ὄνομα,95,unigram,neuter,accusative,plural,åsksönerna,1.389474345666544,,,,åsksönerna,,,,,,,name
+ὄνομα,38,unigram,neuter,accusative,singular,namn,23.899558639816906,namn,,Namn,tillhör,namn,namn,namn,namn,namn,namn,name
+ὄνομα,115,unigram,neuter,nominative,plural,namn,3.5612287619316083,,,namn,,namn,,,gläd,,,name
+ὄνομα,277,unigram,neuter,nominative,singular,namn,447.6020418029441,namn,,namn,hette,namn,namn,namn,namn,namn,hette,name
+ἔθνος,251,unigram,neuter,accusative,plural,folk,3.8171634923865883,förkunnas,,folk,folk,folk,alla,alla,folk,alla,folk,nation
+ἔθνος,213,unigram,neuter,accusative,singular,folk,3.5143692463115728,folk,,,vårt,folk,folk,folk,etniska,folk,länder,nation
+ἔθνος,335,unigram,neuter,nominative,plural,jagar,1.3378188490961656,jagar,,Hedningarna,,,hedningarna,hedningarna,jagar,behöver,jagar,nation
+ἔθνος,29,unigram,neuter,nominative,singular,,,resa,,,länder,resa,Folk,,etniska,folk,länder,nation
+νύξ,207,unigram,feminine,accusative,plural,nätter,90.07176295340399,nätter,,nätter,,nätter,nätter,nätter,nätter,nätter,nätter,night
+νύξ,270,unigram,feminine,accusative,singular,natt,9.343134002107734,,,natt,,,natt,natt,tiden,natt,,night
+ὅρκος,66,unigram,masculine,accusative,plural,,,,,edens,,,ed,,,,,oath
+ὅρκος,291,unigram,masculine,accusative,singular,ed,1.5790311598990705,ed,,,,,ed,ed,22:16-18,ed,eden,oath
+βοῦς,169,unigram,masculine,accusative,plural,oxar,9.297826852365104,oxar,,fä,tempelområdet,fäkreatur,oxar,oxar,oxar,oxar,pengar,ox
+βοῦς,304,unigram,masculine,accusative,singular,,,,,,,,,,vattnar,,oxe,ox
+παραβολή,287,unigram,feminine,accusative,plural,liknelser,291.9300961617153,liknelser,,liknelser,bilder,,liknelser,liknelser,liknelser,liknelser,liknelser,parable
+παραβολή,244,unigram,feminine,accusative,singular,liknelse,509.7224030842533,liknelse,,,bild,liknelse,liknelse,liknelse,liknelse,liknelse,liknelse,parable
+μέρος,379,unigram,neuter,accusative,plural,trakten,3.737608225440235,området,,landsändar,kring,trakten,trakten,trakten,kring,trakten,,part
+μέρος,58,unigram,neuter,accusative,singular,del,13.421077574305395,hugga,,del,dela,del,del,del,del,del,dela,part
+μαργαρίτης,246,unigram,masculine,accusative,plural,pärlor,186.0053856029442,pärlor,,perlor,pärlor,pärlor,pärlor,pärlor,pärlor,pärlor,pärlor,pearls
+μαργαρίτης,41,unigram,masculine,accusative,singular,pärla,1.7499976740566308,pärla,,,,pärla,pärla,pärla,,pärla,,pearls
+τόπος,302,unigram,masculine,accusative,plural,jordbävningar,3.5852812363795636,,,mångastäds,jordbävningar,jordbävningar,jordbävningar,jordbävningar,matkris,jordbävningar,jordbävningar,place
+τόπος,327,unigram,masculine,accusative,singular,plats,3043.7832412629264,plats,,rum,plats,,plats,plats,plats,plats,plats,place
+πρωτοκλισία,307,unigram,feminine,accusative,plural,,,,,främst,,främsta,platserna,platserna,,hedersplatserna,främsta,place of honor
+πρωτοκλισία,40,unigram,feminine,accusative,singular,främsta,12.330338444538148,,,,främsta,främsta,främsta,,platserna,hedersplatsen,främsta,place of honor
+ὄφις,381,unigram,masculine,accusative,plural,dödligt,1.096071996175396,,,,,,,,dödligt,,,poison
+ὄφις,116,unigram,masculine,accusative,singular,orm,5.784866402715981,orm,,orm,kopparormen,orm,orm,orm,orm,orm,orm,poison
+σκεῦος,153,unigram,neuter,accusative,plural,plundra,1.332676604346244,plundra,,skinnar,,,,,plundra,,plundra,"possession, object, thing, jar, vessel"
+σκεῦος,282,unigram,neuter,accusative,singular,tempelplatsen,1.4233267919646595,tempelplatsen,,stadde,,någonting,tempelplatsen,tillät,,varor,,"possession, object, thing, jar, vessel"
+σκεῦος,144,unigram,neuter,nominative,plural,tillhörigheter,1.8834742845844663,tillhörigheter,,,springa,bohag,tillhörigheter,,tillhörigheter,tillhörigheter,ägodelar,"possession, object, thing, jar, vessel"
+δύναμις,118,unigram,feminine,accusative,plural,kraftgärningar,26.54565448677894,underverk,,kraftiga,,kraftgärningar,kraftgärningar,kraftgärningar,kraftgärningar,kraftgärningar,under,"power, ability, miracle"
+δύναμις,52,unigram,feminine,accusative,singular,kraft,318.61946029429197,kraft,,kraft,kraft,kraft,kraft,kraft,kraft,kraft,kraft,"power, ability, miracle"
+δύναμις,88,unigram,feminine,nominative,plural,krafter,3.074841231062571,underverk,,krafter,under,kraftgärningar,,kraftgärningarna,krafter,,krafter,"power, ability, miracle"
+δύναμις,129,unigram,feminine,nominative,singular,kraft,2264.5628114377705,kraft,,kraft,kraft,kraft,kraft,kraft,kraft,kraft,kraft,"power, ability, miracle"
+ἱερεύς,21,unigram,masculine,nominative,plural,prästerna,1.7666601173518761,brott,,skuld,,prästerna,prästerna,prästerna,,prästerna,,priest
+ἱερεύς,266,unigram,masculine,nominative,singular,präst,211.49888008072654,präst,,Prest,präst,präst,präst,präst,präst,präst,präst,priest
+φυλακή,284,unigram,feminine,accusative,plural,,,herdar,,,,,,,fängelser,,,prison
+φυλακή,27,unigram,feminine,accusative,singular,fängelse,616.9201188802862,fängelse,,häktelse,fängelse,fängelse,fängelse,fängelse,fängelse,fängelse,fängelse,prison
+προφήτης,69,unigram,masculine,accusative,plural,profeterna,3110.0563915695307,profeterna,,Propheterna,profeterna,profeterna,profeterna,profeterna,profeterna,profeterna,profeterna,prophet
+προφήτης,219,unigram,masculine,accusative,singular,profet,5621.664177143422,profet,,Prophet,profet,profet,profet,profet,profet,profet,profet,prophet
+προφήτης,245,unigram,masculine,nominative,plural,profeterna,1512.7523234533548,profeterna,,Propheterna,profeterna,profeterna,profeterna,profeterna,profeterna,profeterna,profeterna,prophet
+προφήτης,293,unigram,masculine,nominative,singular,profet,1501.9731728242725,profet,,Prophet,profet,profet,profet,profet,profet,profet,profet,prophet
+βαλλάντιον,20,unigram,neuter,accusative,singular,börs,1.9719269959438352,pengar,,,pengar,penningpung,börs,börs,börs,börs,börs,purse
+ποταμός,186,unigram,masculine,nominative,singular,vräker,1.4231047098794516,vräker,,strömmade,vräker,vattenströmmen,vräkte,vräkte,vräker,vällde,vräker,river
+λῃστής,47,unigram,masculine,accusative,plural,rövare,3.999795616039417,,,röfvarena,,,rövare,rövare,,förbrytare,,robber
+λῃστής,378,unigram,masculine,accusative,singular,rövare,1.1688293399898637,rövare,,röfvare,,rövare,förbrytare,rövare,påkar,,,robber
+λῃστής,355,unigram,masculine,nominative,plural,rövare,13.795450130852597,rövare,,röfvare,brottslingar,rövare,rövare,rövare,,förbrytare,brottslingar,robber
+λῃστής,175,unigram,masculine,nominative,singular,rövare,3.774932660001596,rövare,,röfvare,brottsling,rövare,,,rånare,förbrytare,,robber
+ἄρχων,226,unigram,masculine,accusative,plural,,,rådsmedlemmarna,,föreståndarena,medlemmarna,rådsherrarna,rådsmedlemmarna,,,rådsherrarna,medlemmarna,ruler
+ἄρχων,105,unigram,masculine,accusative,singular,medhjälpare,1.0961309302758326,,,,,,,,,,medhjälpare,ruler
+ἄρχων,73,unigram,masculine,nominative,plural,,,Messias,,öfverste,medlemmarna,rådsherrarna,Nu,Messias,,rådsherrarna,medlemmarna,ruler
+ἄρχων,349,unigram,masculine,nominative,singular,härskare,2.1577060917101023,härskare,,Förste,härskare,furste,furste,furste,föreståndare,härskare,härskare,ruler
+ἀκοή,9,unigram,feminine,accusative,plural,,,,,rykte,,,,,,rykten,,rumor
+ἀκοή,82,unigram,feminine,accusative,singular,,,tetrarken,,rykte,tag,landsfursten,landsfursten,landsfursten,stores,tetrarken,tetrarken,rumor
+ἀκοή,180,unigram,feminine,nominative,plural,,,löstes,,,perfekt,,,,sluddra,löstes,perfekt,rumor
+ἀκοή,366,unigram,feminine,nominative,singular,hela,1.2551976291673115,Ryktet,,rykte,,ryktet,hela,spred,,hela,hela,rumor
+βιβλίον,60,unigram,neuter,accusative,singular,skilsmässobrev,2.7242543117238163,skilsmässobrev,,skiljobref,,boken,skilsmässobrev,skilsmässobrev,,skilsmässobrev,,"scroll, book"
+διάκονος,240,unigram,masculine,nominative,plural,smakade,1.0960768946513286,,,,,,,,smakade,,,"servant, minister, deacon"
+διάκονος,100,unigram,masculine,nominative,singular,tjänare,1.7081534274852992,vara,,tjenare,tjänare,tjänare,tjänare,tjänare,tjänare,vara,tjänare,"servant, minister, deacon"
+δοῦλος,232,unigram,masculine,accusative,plural,tjänare,4857.27109249325,tjänare,,tjenare,tjänare,tjänare,tjänare,tjänare,tjänare,slavar,tjänare,"servant, slave"
+δοῦλος,31,unigram,masculine,accusative,singular,tjänare,237.75108753071763,tjänare,,tjenare,tjänare,tjänare,tjänare,tjänare,tjänare,slav,tjänare,"servant, slave"
+δοῦλος,114,unigram,masculine,nominative,plural,,,tjänarna,,tjenare,goda,tjänare,Tjänarna,Tjänarna,tjänare,slavarna,goda,"servant, slave"
+δοῦλος,227,unigram,masculine,nominative,singular,herre,2.613810162420834,tjänaren,,tjenaren,herre,tjänaren,herre,tjänaren,tjänare,herre,herre,"servant, slave"
+πρόβατον,359,unigram,neuter,accusative,plural,fåren,3.104176565476271,fåren,,får,får,fåren,fåren,fåren,får,fåren,får,sheep
+πρόβατον,160,unigram,neuter,accusative,singular,får,2.9559038090529746,fåret,,får,griper,får,får,får,får,får,griper,sheep
+ποιμήν,275,unigram,masculine,nominative,plural,herdarna,31.82973527874126,herdarna,,herdarna,,herdarna,herdarna,herdarna,,herdarna,,"shepherd, pastor"
+ποιμήν,319,unigram,masculine,nominative,singular,herde,5.36283647573119,herden,,herden,herde,herde,herde,herden,herde,herden,herde,"shepherd, pastor"
+σημεῖον,156,unigram,neuter,accusative,plural,tecken,195331.28120884046,tecken,,tecken,under,tecken,tecken,tecken,tecken,tecken,tecken,sign
+σημεῖον,143,unigram,neuter,accusative,singular,tecken,73559.70748264744,tecken,,tecken,tecken,tecken,tecken,tecken,tecken,tecken,tecken,sign
+σημεῖον,49,unigram,neuter,nominative,plural,tecken,164.72862624717547,tecken,,tecken,tecken,tecken,Tecken,tecken,tecken,tecken,tecken,sign
+σημεῖον,99,unigram,neuter,nominative,singular,tecken,77.03572265510999,tecken,,tecken,tecken,tecken,tecken,tecken,tecken,tecken,tecken,sign
+δραχμή,328,unigram,feminine,accusative,plural,sopar,1.2013309189107515,sopar,,sopar,,,,,,,,"silver coin, drachma"
+δραχμή,188,unigram,feminine,accusative,singular,hon,1.132640260339446,,,,,,hon,hon,förlorat,hon,hittar,"silver coin, drachma"
+ἀργύριον,237,unigram,neuter,accusative,plural,silvermynten,1.341326030898644,pengarna,,silfpenningar,30,silverpenningarna,silvermynten,silvermynten,pengarna,silvermynten,trettio,"silver, money"
+ἀργύριον,369,unigram,neuter,accusative,singular,pengar,748.6088469451984,pengar,,penningar,pengar,penningar,pengar,pengar,pengar,pengar,pengar,"silver, money"
+ἁμαρτία,314,unigram,feminine,accusative,plural,synder,1342.409913834801,synder,,synder,synder,synder,synder,synder,synder,synder,synder,sin
+ἁμαρτία,241,unigram,feminine,accusative,singular,synd,2763.371878981562,synd,,synd,synd,synd,synd,synd,synd,synd,synd,sin
+ἁμαρτία,323,unigram,feminine,nominative,plural,synder,85.14433543208492,synder,,synder,synder,synder,synder,synder,synder,synder,förlåtna,sin
+ἁμαρτία,320,unigram,feminine,nominative,singular,synd,60.30933852338652,synd,,synd,synd,synd,synd,synd,synd,synd,synd,sin
+ἀδελφή,347,unigram,feminine,accusative,plural,systrar,8.24463673469209,systrar,,systrar,syskon,systrar,systrar,systrar,systrar,systrar,syskon,sister
+ἀδελφή,150,unigram,feminine,accusative,singular,syster,161.85365993297074,syster,,syster,Maria,syster,syster,syster,syster,syster,syster,sister
+ἀδελφή,23,unigram,feminine,nominative,plural,systrar,43.170972022287586,systrar,,systrar,systrar,systrar,systrar,systrar,systrar,systrar,systrar,sister
+ἀδελφή,346,unigram,feminine,nominative,singular,syster,74328.7493144836,syster,,syster,syster,syster,syster,syster,syster,syster,syster,sister
+ῥάπισμα,170,unigram,neuter,accusative,plural,,,örfilar,,kindpustar,Leve,kinden,hälsad,hälsad,,ˮLeve,Leve,"slap, strike, hit"
+ῥάπισμα,306,unigram,neuter,accusative,singular,örfil,1.6370609234414184,örfil,,kindpust,örfil,,,,,svarar,örfil,"slap, strike, hit"
+πλοιάριον,258,unigram,neuter,nominative,plural,,,,,tacksägelse,,,,,tacksägelsen,Tiberias,,small boat
+πλοιάριον,155,unigram,neuter,nominative,singular,båt,13.613393898529594,folkmassan,,,båt,båt,båt,båt,båt,båt,båt,small boat
+ὀψάριον,201,unigram,neuter,accusative,plural,kornbröd,1.1807970426204273,,,,kornbröd,,,,,,,small fish
+ὀψάριον,286,unigram,neuter,accusative,singular,glödhög,1.4434246176829222,glödhög,,,,glöd,glödhög,koleld,,ovanpå,glödhög,small fish
+υἱός,54,unigram,masculine,accusative,plural,söner,59.85649358346489,söner,,söner,söner,söner,söner,söner,söner,söner,Sebedaios,son
+υἱός,142,unigram,masculine,accusative,singular,Människosonen,5.045005735230431,son,,Son,Människosonen,son,Människosonen,Människosonen,Människosonen,Människosonen,Människosonen,son
+υἱός,145,unigram,masculine,nominative,plural,söner,458.14344940532976,söner,,barn,söner,barn,söner,söner,söner,söner,egna,son
+υἱός,234,unigram,masculine,nominative,singular,Människosonen,24.05969231765217,son,,Son,Människosonen,Människosonen,Människosonen,Människosonen,Människosonen,Människosonen,Människosonen,son
+ψυχή,247,unigram,feminine,accusative,plural,,,Genom,,,,,,,själar,,vinna,"soul, life"
+ψυχή,317,unigram,feminine,accusative,singular,liv,265.13611327694025,liv,,lif,liv,liv,liv,liv,liv,liv,liv,"soul, life"
+ἀστήρ,330,unigram,masculine,nominative,plural,Stjärnorna,1.260275570896567,,,bäfva,,,Stjärnorna,Stjärnorna,Stjärnorna,Stjärnorna,himlenoch,star
+ἀστήρ,209,unigram,masculine,nominative,singular,stjärnan,2.127027587393996,,,stjernan,,,stjärnan,stjärnan,Stjärnan,stjärnan,,star
+λίθος,334,unigram,masculine,accusative,plural,stenar,75.3666714368584,stenar,,stenar,stenar,stenar,stenar,stenar,stenar,stenar,stenar,stone
+λίθος,42,unigram,masculine,accusative,singular,,,stenen,,stenen,sten,sten,sten,stenen,stenen,,sten,stone
+λίθος,154,unigram,masculine,nominative,plural,stenarna,64.90399688302315,stenarna,,stenar,stenarna,stenar,stenarna,stenarna,stenarna,stenarna,stenarna,stone
+λίθος,46,unigram,masculine,nominative,singular,sten,32.89292605338993,sten,,sten,sten,sten,sten,sten,sten,sten,sten,stone
+συναγωγή,273,unigram,feminine,accusative,plural,synagogor,41.00180595710631,synagogorna,,Synagogor,synagogorna,synagogor,synagogor,synagogor,synagogor,synagogor,synagogorna,synagogue
+συναγωγή,371,unigram,feminine,accusative,singular,synagogan,368.2027809258562,synagogan,,Synagogon,synagogan,synagogan,synagogan,synagogan,synagogan,synagogan,synagogan,synagogue
+τράπεζα,215,unigram,feminine,accusative,plural,välte,1.601982619660125,välte,,templet,välte,,omkull,,välte,pengar,välte,table
+τράπεζα,157,unigram,feminine,accusative,singular,bank,1.3174622224923158,bank,,,bank,,,,hem.,,bank,table
+τάλαντον,78,unigram,neuter,accusative,plural,talenter,27.15804748464162,talenter,,pund,säckar,pund,talenter,talenter,talenter,årslöner,säckar,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,250,unigram,neuter,accusative,singular,talent,11.429160771240312,talent,,pund,guldmynt,pund,talent,talent,talent,årslöner,pengarna,talent (weight and monetary unit: around 20 years' wages)
+φόρος,301,unigram,masculine,accusative,plural,förbjuder,1.4081125270518073,förhindra,,,vilse,förhindra,förbjuder,,förbjuder,förbjuder,vilse,tax
+φόρος,324,unigram,masculine,accusative,singular,kejsaren,1.501187581759159,,,,,kejsaren,betalar,kejsaren,,kejsaren,kejsaren,tax
+τελώνης,208,unigram,masculine,nominative,plural,tullindrivare,15.8439538678389,tullindrivare,,Publicaner,,publikaner,publikaner,tullindrivare,tullindrivare,skatteindrivare,tullindrivare,tax collector
+τελώνης,79,unigram,masculine,nominative,singular,tullindrivaren,5.732750321128534,tullindrivaren,,Publican,tullindrivaren,publikan,,tullindrivaren,skatteindrivaren,skatteindrivaren,tullindrivaren,tax collector
+γραμματεύς,376,unigram,masculine,nominative,plural,skriftlärda,68704.38800338055,skriftlärda,,Skriftlärde,laglärarna,skriftlärde,skriftlärda,skriftlärda,skriftlärda,skriftlärda,skriftlärda,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,235,unigram,masculine,nominative,singular,skriftlärd,12.658486667423162,skriftlärd,,Skriftlärd,Mästare,skriftlärd,skriftlärd,skriftlärd,skriftlärd,,skriftlärda,"teacher, expert in the law, scholar, scribe"
+καθηγητής,360,unigram,masculine,nominative,plural,lärare,1.303206589090718,lärare,,Mästare,'lärare,,lärare,lärare,,läromästare,lärare,"teacher, guide"
+καθηγητής,249,unigram,masculine,nominative,singular,lärare,1.303206589090718,lärare,,Mästare,'lärare,,lärare,lärare,,läromästare,lärare,"teacher, guide"
+κλέπτης,90,unigram,masculine,nominative,plural,tjuvar,11.467650529498833,tjuvar,,tjufvar,värde,tjuvar,tjuvar,tjuvar,tjuvar,tjuvar,,thief
+κλέπτης,248,unigram,masculine,nominative,singular,tjuv,9.868368749631546,tjuv,,tjufven,,tjuv,tjuv,tjuv,tjuv,tjuv,,thief
+διαλογισμός,331,unigram,masculine,accusative,plural,tankar,6.2740374866118085,tankar,,tankar,förstod,tankar,tänkte,Stå,tankar,tänkte,tänkte,"thought, argument"
+διαλογισμός,163,unigram,masculine,accusative,singular,bredvid,1.7489133385310838,bredvid,,,bredvid,hjärtans,bredvid,bredvid,ställde,bredvid,bredvid,"thought, argument"
+διαλογισμός,134,unigram,masculine,nominative,plural,,,stöld,,tankar,hjärtat,tankar,stöld,,tankar,stöld,,"thought, argument"
+διαλογισμός,322,unigram,masculine,nominative,singular,frågan,1.7150674994851167,,,,,tanken,frågan,frågan,diskussion,tvista,störst,"thought, argument"
+θρόνος,263,unigram,masculine,accusative,singular,tron,1.1550969414231844,,,säte,förfader,Högstes,tron,,,tron,tron,throne
+χρόνος,297,unigram,masculine,accusative,plural,arrenderade,1.2307170517133257,arrenderade,,,,lång,arrenderade,arrenderade,5:1-7,,arrenderade,time
+χρόνος,254,unigram,masculine,accusative,singular,tid,11.647124883137513,tid,,tid,stjärnan,tid,tid,tid,länge,tid,tid,time
+καιρός,159,unigram,masculine,nominative,singular,Tiden,1.9143434458529984,Tiden,,tid,tid,tid,Tiden,inne,Tiden,tiden,Tiden,"time, right time"
+τάφος,147,unigram,masculine,accusative,plural,,,,,,,pryden,,,,pryder,,"tomb, grave"
+τάφος,193,unigram,masculine,accusative,singular,graven,47.44614945320182,graven,,grafvena,graven,graven,graven,graven,graven,graven,graven,"tomb, grave"
+μνημεῖον,15,unigram,neuter,accusative,plural,bygger,1.414021283795109,reser,,grifter,,byggen,bygger,bygger,gravar,bygger,Ve,"tomb, grave"
+μνημεῖον,19,unigram,neuter,accusative,singular,graven,101040.37507641705,graven,,grafvena,graven,graven,graven,graven,graven,graven,graven,"tomb, grave"
+μνημεῖον,86,unigram,neuter,nominative,plural,gravar,1.8064518095459632,,,,gravar,,,,,,,"tomb, grave"
+μνημεῖον,290,unigram,neuter,nominative,singular,låg,2.1231401715247427,,,,nära,,låg,låg,,låg,nära,"tomb, grave"
+ὀδούς,75,unigram,masculine,accusative,plural,skär,1.0960866985123228,,,,,,,,skär,,,tooth
+θησαυρός,110,unigram,masculine,accusative,plural,skatter,3.160763451772041,,,,värde,skatter,skatter,,,skatter,,treasure
+θησαυρός,242,unigram,masculine,accusative,singular,skatt,1.6746335054280657,skatt,,skatt,fattiga,skatt,,äger,skatt,äger,,treasure
+δένδρον,98,unigram,neuter,accusative,plural,träd,338.0713173534922,träd,,trä,träd,träd,träd,träd,träd,träd,träd,tree	
+δένδρον,84,unigram,neuter,accusative,singular,träd,5.971144770328623,,,,träd,dess,,,träd,,träd,tree	
+λίτρα,138,unigram,feminine,accusative,singular,lukt,1.0960524252565438,,,lukt,,,,,,,,unit of measure around 300 grams
+κώμη,296,unigram,feminine,accusative,plural,byarna,75.04877692060394,byarna,,,byarna,byarna,byarna,byarna,byarna,byarna,byarna,village
+κώμη,62,unigram,feminine,accusative,singular,by,3.005102266399811,by,,byn,byn,by,by,,by,by,,village
+παρθένος,312,unigram,feminine,nominative,plural,jungfrurna,31.995923597267264,flickorna,,jungfrurna,,jungfrurna,jungfrurna,jungfrurna,jungfrur,jungfrurna,,virgin
+παρθένος,224,unigram,feminine,nominative,singular,Immanuel,1.1622943155120475,,,,Immanuel,,,,,,,virgin
+φωνή,225,unigram,feminine,nominative,plural,effekt,1.0962100302615791,,,,,,,,,,effekt,voice or sound
+φωνή,356,unigram,feminine,nominative,singular,röst,3910.567651043988,röst,,röst,röst,röst,röst,röst,röst,röst,röst,voice or sound
+πόλεμος,288,unigram,masculine,accusative,plural,krig,1.9705191271074962,,,örlig,krig,krigslarm,krig,krig,krig,krig,krig,war
+πόλεμος,48,unigram,masculine,accusative,singular,attackera,1.212541630128925,,,,,,,,attackera,,,war
+ὕδωρ,377,unigram,neuter,accusative,plural,vattnet,894.578398051112,,,vattnet,vattnet,vattnet,vattnet,vattnet,vattnet,ˮKom.ˮ,vattnet,water
+ὕδωρ,104,unigram,neuter,accusative,singular,vatten,141.74870569016636,vattnet,,vatten,vatten,vatten,vatten,vatten,vatten,vattnet,vatten,water
+ὕδωρ,124,unigram,neuter,nominative,singular,vatten,65.97796412117955,vatten,,vatten,vatten,vatten,vatten,vatten,vatten,vatten,vatten,water
+ὑδρία,131,unigram,feminine,accusative,singular,vattenkruka,1.619724468861973,vattenkruka,,kruko,vattenkruka,kruka,kruka,vattenkruka,vattenkruka,kruka,vattenkruka,water jar
+ὁδός,289,unigram,feminine,accusative,plural,vägar,9.756228961058172,vägarna,,vägar,alla,,,vägar,vägar,,,way
+ὁδός,162,unigram,feminine,accusative,singular,vägen,4941.443897014427,vägen,,vägen,vägen,vägen,vägen,vägen,vägen,vägen,vägen,way
+γάμος,182,unigram,masculine,accusative,plural,bröllopet,9.272667707796511,bröllopet,,,komma,bröllopet,bröllopet,bröllopet,bröllopet,,,wedding
+γάμος,267,unigram,masculine,accusative,singular,bröllopet,1.6765032819245647,bröllopet,,,inbjudna,bröllopet,bröllopet,bröllopet,,bröllopet,inbjudna,wedding
+γυνή,123,unigram,feminine,accusative,plural,hustrur,1.2024285616360821,,,,tänkt,hårdhets,hustrur,,hustrur,,,"wife, woman"
+γυνή,198,unigram,feminine,accusative,singular,hustru,24382.102876757035,hustru,,hustru,fru,hustru,hustru,hustru,hustru,hustru,hustru,"wife, woman"
+γυνή,135,unigram,feminine,nominative,plural,kvinnor,52.31090682766669,kvinnor,,qvinnor,kvinnorna,kvinnor,kvinnor,kvinnor,kvinnor,kvinnor,kvinnor,"wife, woman"
+γυνή,141,unigram,feminine,nominative,singular,kvinna,1008.2490241739952,kvinna,,qvinna,kvinna,kvinna,kvinna,kvinna,kvinna,kvinna,kvinna,"wife, woman"
+ἄνεμος,10,unigram,masculine,nominative,plural,vindarna,11.204294771183019,vindarna,,vädret,,vindarna,vindarna,vindarna,vindarna,vindarna,,wind
+ἄνεμος,76,unigram,masculine,nominative,singular,vinden,1258.5032616331227,vinden,,vädret,vinden,vinden,vinden,vinden,vinden,vinden,vinden,wind
+πνεῦμα,344,unigram,neuter,accusative,plural,andar,1.3056072059469743,,,andar,,bo,,bosätter,andar,,,"wind, breath, spirit"
+πνεῦμα,187,unigram,neuter,accusative,singular,,,ande,,Anda,Ande,ande,Ande,Ande,ande,,Anden,"wind, breath, spirit"
+πνεῦμα,12,unigram,neuter,nominative,plural,andarna,19.515495840630496,andarna,,,onda,orena,andarna,andarna,andarna,andarna,andarna,"wind, breath, spirit"
+πνεῦμα,26,unigram,neuter,nominative,singular,Ande,7.662681235272865,ande,,Ande,Ande,ande,Ande,Ande,ande,Ande,Anden,"wind, breath, spirit"
+κοιλία,311,unigram,feminine,nominative,singular,amma,1.5242782105826078,,,,amma,,,,,ammade,amma,"womb, stomach, source of feelings and emotions"
+ῥῆμα,206,unigram,neuter,accusative,plural,ord,238.6949365803146,ord,,ord,budskap,ord,ord,ord,,ord,ord,word
+ῥῆμα,184,unigram,neuter,accusative,singular,,,menade,,förstodo,fråga,förstodo,förstod,fråga,förstod,förstod,fråga,word
+ῥῆμα,35,unigram,neuter,nominative,plural,ord,19.883468117047265,,,ord,,ord,ord,ord,ord,ord,,word
+ῥῆμα,364,unigram,neuter,nominative,singular,ingenting,2.0701326975230803,ingenting,,,,,ingenting,ingenting,ord,,,word
+λόγος,185,unigram,masculine,accusative,plural,ord,23.731915532457133,ord,,ord,tal,ord,ord,ord,ord,ord,tal,word
+λόγος,176,unigram,masculine,accusative,singular,ord,2.8423516826835518,ordet,,ordet,budskapet,ordet,ord,ord,ord,ord,ord,word
+λόγος,172,unigram,masculine,nominative,plural,Himmel,2.7153145483294083,Himmel,,Himmel,,Himmel,Himmel,Himmel,Himmel,Himmel,,word
+λόγος,333,unigram,masculine,nominative,singular,ord,65.13978169418613,ord,,tal,budskap,ord,ord,ord,ord,ord,ord,word
+ἔργον,51,unigram,neuter,accusative,plural,gärningar,16900.88913701234,gärningar,,gerningar,under,gärningar,gärningar,gärningar,gärningar,gärningar,gärningar,work
+ἔργον,106,unigram,neuter,accusative,singular,gärning,2.274709145491228,har,,gerning,,gärning,gärning,,besvärar,gärning,,work
+ἔργον,337,unigram,neuter,nominative,plural,gärningar,73.88175659214151,gärningar,,verk,ljuset,gärningar,gärningar,gärningar,gärningar,gärningar,gärningar,work
+ἔργον,310,unigram,neuter,nominative,singular,,,sänt.,,verk,sänt,gärning,gärning,verk,gärning,,verk,work
+ἐργάτης,165,unigram,masculine,nominative,plural,arbetarena,1.0647501341848278,,,arbetarena,,,,,,,,worker
+ἐργάτης,236,unigram,masculine,nominative,singular,arbetaren,6.304671592845343,arbetaren,,arbetaren,arbetaren,arbetaren,arbetaren,arbetaren,arbetaren,arbetaren,arbetaren,worker
+ἔτος,285,unigram,neuter,accusative,plural,år,234364.29524199868,år,,år,år,år,år,år,år,år,år,year
+ἔτος,199,unigram,neuter,accusative,singular,år,17.60786380635633,år,,,,,år,år,år,år,år,year
+ζεῦγος,22,unigram,neuter,accusative,plural,par,1.443215293295698,,,,,par,par,par,,,par,"yoke, pair"

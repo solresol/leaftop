@@ -1,0 +1,383 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_2313_translation,english_translation
+θεός,610,uni_token,masculine,accusative,plural,改,1.1064060376679512,改,God
+θεός,393,uni_token,masculine,accusative,singular,帝,1.3099636188438362,帝,God
+θεός,273,uni_token,masculine,nominative,plural,書,1.0442484358762942,書,God
+θεός,475,uni_token,masculine,nominative,singular,帝,1.2966585020302823,帝,God
+κύριος,612,uni_token,masculine,nominative,plural,驢,1.3086670668058416,驢,"Lord, lord, master"
+κύριος,394,uni_token,masculine,nominative,singular,主,7.137868600275575,主,"Lord, lord, master"
+γραφή,388,uni_token,feminine,accusative,plural,聖,1.2258357707643277,聖,Scripture
+γραφή,298,uni_token,feminine,accusative,singular,聖,1.0623645345545574,聖,Scripture
+γραφή,536,uni_token,feminine,nominative,plural,聖,1.2107180381445355,聖,Scripture
+γραφή,605,uni_token,feminine,nominative,singular,聖,1.0077503266068495,聖,Scripture
+ἄγγελος,356,uni_token,masculine,accusative,plural,使,1.3880457689592676,使,angel
+ἄγγελος,336,uni_token,masculine,accusative,singular,鋒,1.2110606624630176,鋒,angel
+ἄγγελος,294,uni_token,masculine,nominative,plural,使,1.0102480115600685,使,angel
+ἄγγελος,367,uni_token,masculine,nominative,singular,使,1.0100331639962192,使,angel
+ἀπόστολος,291,uni_token,masculine,nominative,plural,徒,2.2210941878488817,徒,apostle
+ἀπόστολος,247,uni_token,masculine,nominative,singular,奴,1.3635763236593994,奴,apostle
+ἐξουσία,320,uni_token,feminine,accusative,plural,甚,1.0812448033018731,甚,authority
+ἐξουσία,465,uni_token,feminine,accusative,singular,權,1.142893036918561,權,authority
+βρέφος,603,uni_token,neuter,accusative,singular,槽,1.2997135536495867,槽,babies
+ἀποθήκη,544,uni_token,feminine,accusative,plural,倉,1.0810969581983796,倉,barn
+ἀποθήκη,319,uni_token,feminine,accusative,singular,倉,1.0938504734635317,倉,barn
+ἀρχή,322,uni_token,feminine,accusative,plural,甚,1.0811348984426945,甚,beginning
+ἀρχή,446,uni_token,feminine,accusative,singular,始,1.0692706457129597,始,beginning
+ζώνη,437,uni_token,feminine,accusative,plural,銅,1.1420787435810489,銅,belt
+βλασφημία,277,uni_token,feminine,accusative,plural,侮,1.0149816898114734,侮,blasphemy
+βλασφημία,353,uni_token,feminine,accusative,singular,扯,1.0258566529985271,扯,blasphemy
+πλοῖον,365,uni_token,neuter,accusative,plural,船,2.3200217513992536,船,boat
+πλοῖον,588,uni_token,neuter,accusative,singular,船,3.8159354570408586,船,boat
+πλοῖον,509,uni_token,neuter,nominative,plural,船,1.0150160225392035,船,boat
+πλοῖον,495,uni_token,neuter,nominative,singular,船,1.419345537347481,船,boat
+σῶμα,483,uni_token,neuter,nominative,plural,身,1.0741646565949674,身,body
+σῶμα,309,uni_token,neuter,nominative,singular,體,1.0989189728484745,體,body
+κλῆμα,305,uni_token,neuter,nominative,plural,枝,1.1741894317429278,枝,branch
+κλῆμα,411,uni_token,neuter,nominative,singular,枝,1.252819661724064,枝,branch
+ἄρτος,592,uni_token,masculine,accusative,plural,餅,2.91623224191266,餅,bread
+ἄρτος,622,uni_token,masculine,accusative,singular,食,1.3410167131819717,食,bread
+ἄρτος,419,uni_token,masculine,nominative,plural,餅,1.2435745754637462,餅,bread
+ἄρτος,284,uni_token,masculine,nominative,singular,糧,1.8328895598942256,糧,bread
+ἀδελφός,577,uni_token,masculine,accusative,plural,兄,1.024242698347403,兄,brother
+ἀδελφός,380,uni_token,masculine,accusative,singular,弟,1.6719964375488734,弟,brother
+ἀδελφός,370,uni_token,masculine,nominative,plural,弟,2.132397825946148,弟,brother
+ἀδελφός,501,uni_token,masculine,nominative,singular,弟,2.4037580244308128,弟,brother
+στῆθος,416,uni_token,neuter,accusative,plural,捶,1.500798646431566,捶,"chest, breast"
+στῆθος,561,uni_token,neuter,accusative,singular,探,1.0627474552623692,探,"chest, breast"
+ἀρχιερεύς,513,uni_token,masculine,accusative,plural,司,1.079515012014677,司,chief priest
+ἀρχιερεύς,310,uni_token,masculine,accusative,singular,司,1.094357398205302,司,chief priest
+ἀρχιερεύς,379,uni_token,masculine,nominative,plural,司,1.0410691156468637,司,chief priest
+ἀρχιερεύς,519,uni_token,masculine,nominative,singular,司,1.071464947459804,司,chief priest
+παῖς,505,uni_token,masculine,accusative,plural,譴,1.457132374199405,譴,child
+παῖς,296,uni_token,masculine,accusative,singular,抨,1.0298272897547498,抨,child
+τέκνον,614,uni_token,neuter,accusative,plural,女,1.2790783066217992,女,child
+τέκνον,443,uni_token,neuter,accusative,singular,女,1.1913896846007488,女,child
+τέκνον,259,uni_token,neuter,nominative,plural,子,1.3222704529252909,子,child
+τέκνον,457,uni_token,neuter,nominative,singular,啊,1.2411000192082582,啊,child
+παιδίον,258,uni_token,neuter,accusative,plural,止,1.0360829784489014,止,child
+παιδίον,346,uni_token,neuter,accusative,singular,仔,1.0659924086852508,仔,child
+παιδίον,435,uni_token,neuter,nominative,plural,朋,1.0212232713182834,朋,child
+παιδίον,286,uni_token,neuter,nominative,singular,細,1.6262044865385832,細,child
+πόλις,447,uni_token,feminine,accusative,plural,城,1.1285815324465396,城,city
+πόλις,314,uni_token,feminine,accusative,singular,城,3.807258122392864,城,city
+πύλη,540,uni_token,feminine,nominative,plural,磐,1.1029122929035189,磐,city gate
+πύλη,473,uni_token,feminine,nominative,singular,狹,1.1133081710155124,狹,city gate
+χιτών,375,uni_token,masculine,accusative,plural,衫,1.1623454735079282,衫,"clothing, undergarments"
+χιτών,274,uni_token,masculine,accusative,singular,內,1.1768667822958725,內,"clothing, undergarments"
+ἱμάτιον,391,uni_token,neuter,accusative,plural,衫,3.5850182970439066,衫,coat
+ἱμάτιον,390,uni_token,neuter,accusative,singular,衫,3.4240153744973774,衫,coat
+ἐντολή,333,uni_token,feminine,accusative,plural,命,1.5630303180150935,命,commandment
+ἐντολή,331,uni_token,feminine,accusative,singular,令,1.144220350700859,令,commandment
+συνέδριον,597,uni_token,neuter,accusative,plural,膩,1.044009743494881,膩,council
+συνέδριον,300,uni_token,neuter,accusative,singular,議,1.3579370718028292,議,council
+χώρα,566,uni_token,feminine,accusative,singular,區,1.0672984554070233,區,"country, countryside"
+ὄχλος,306,uni_token,masculine,accusative,plural,眾,2.930031764208332,眾,crowd
+ὄχλος,252,uni_token,masculine,accusative,singular,群,1.1780276635476332,群,crowd
+ὄχλος,358,uni_token,masculine,nominative,plural,眾,3.108131024926145,眾,crowd
+ὄχλος,556,uni_token,masculine,nominative,singular,群,1.974486600308184,群,crowd
+θυγάτηρ,373,uni_token,feminine,nominative,plural,噭,1.1372811329099557,噭,daughter
+θυγάτηρ,591,uni_token,feminine,nominative,singular,妹,2.1338044884699667,妹,daughter
+ἡμέρα,325,uni_token,feminine,accusative,plural,日,5.05627793087038,日,day
+ἡμέρα,337,uni_token,feminine,accusative,singular,日,3.6731086106323554,日,day
+ἡμέρα,242,uni_token,feminine,nominative,plural,日,3.3482453217564414,日,day
+ἡμέρα,316,uni_token,feminine,nominative,singular,日,2.4302273670035857,日,day
+ὀφειλέτης,522,uni_token,masculine,nominative,plural,塔,1.2125176900525536,塔,debtor
+ὀφειλέτης,382,uni_token,masculine,nominative,singular,數,1.1419629916040772,數,debtor
+δαιμόνιον,275,uni_token,neuter,accusative,plural,鬼,1.3009322612462475,鬼,demon
+δαιμόνιον,608,uni_token,neuter,accusative,singular,鬼,1.7068687793759452,鬼,demon
+δαιμόνιον,459,uni_token,neuter,nominative,plural,鬼,2.4252399630543646,鬼,demon
+δαιμόνιον,433,uni_token,neuter,nominative,singular,鬼,2.0852105724895185,鬼,demon
+δηνάριον,582,uni_token,neuter,accusative,plural,銀,1.1783657431096846,銀,denarius (about a day's wages)
+δηνάριον,421,uni_token,neuter,accusative,singular,銀,1.2774577812735497,銀,denarius (about a day's wages)
+μαθητής,440,uni_token,masculine,accusative,plural,學,1.3621657267325449,學,disciple
+μαθητής,615,uni_token,masculine,accusative,singular,惜,1.3431859975567768,惜,disciple
+μαθητής,549,uni_token,masculine,nominative,plural,學,1.294850336396956,學,disciple
+μαθητής,613,uni_token,masculine,nominative,singular,學,1.3832644606478242,學,disciple
+νόσος,243,uni_token,feminine,accusative,plural,病,1.220636414040772,病,disease
+νόσος,324,uni_token,feminine,accusative,singular,各,1.028783371515494,各,disease
+περιστερά,357,uni_token,feminine,accusative,plural,鴿,1.202593391322352,鴿,dove
+περιστερά,302,uni_token,feminine,accusative,singular,鴿,1.202593391322352,鴿,dove
+οὖς,410,uni_token,neuter,accusative,plural,耳,1.3174641290097229,耳,ear
+σεισμός,466,uni_token,masculine,nominative,plural,荒,1.0911184741171134,荒,"earthquakes, storm"
+σεισμός,312,uni_token,masculine,nominative,singular,忽,1.6479151062382609,忽,"earthquakes, storm"
+τέλος,546,uni_token,neuter,accusative,singular,耐,1.052068417403958,耐,end
+αἰών,506,uni_token,masculine,accusative,plural,窮,1.093997465725724,窮,eternity
+αἰών,578,uni_token,masculine,accusative,singular,永,1.089972409803874,永,eternity
+ὀφθαλμός,266,uni_token,masculine,accusative,plural,珠,1.3459324719290957,珠,eye
+ὀφθαλμός,253,uni_token,masculine,accusative,singular,賠,1.3578140087835844,賠,eye
+ὀφθαλμός,313,uni_token,masculine,nominative,plural,珠,1.1762459028227783,珠,eye
+ὀφθαλμός,575,uni_token,masculine,nominative,singular,珠,1.150267984168044,珠,eye
+πρόσωπον,381,uni_token,neuter,accusative,plural,媸,1.179718179898725,媸,face
+πρόσωπον,454,uni_token,neuter,accusative,singular,伏,1.1282560844878144,伏,face
+λιμός,248,uni_token,feminine,nominative,plural,荒,1.1133217870504262,荒,famine
+λιμός,587,uni_token,masculine,nominative,plural,瘟,1.096071996175396,瘟,famine
+λιμός,348,uni_token,feminine,nominative,singular,荒,1.179621581339905,荒,famine
+λιμός,395,uni_token,masculine,nominative,singular,旱,1.096071996175396,旱,famine
+γεωργός,521,uni_token,masculine,nominative,plural,佃,1.2259577717246941,佃,"farmer, tenant"
+γεωργός,297,uni_token,masculine,nominative,singular,栽,1.3695222966411609,栽,"farmer, tenant"
+πατήρ,460,uni_token,masculine,accusative,plural,紀,1.0446784073314637,紀,father
+πατήρ,581,uni_token,masculine,accusative,singular,爸,1.6772413647975408,爸,father
+πατήρ,590,uni_token,masculine,nominative,plural,祖,2.088889812381778,祖,father
+πατήρ,448,uni_token,masculine,nominative,singular,爸,1.6284843512631564,爸,father
+σύνδουλος,404,uni_token,masculine,accusative,plural,醉,1.210107806930739,醉,"fellow-servant, colleague"
+σύνδουλος,342,uni_token,masculine,accusative,singular,伴,1.0440040752954594,伴,"fellow-servant, colleague"
+σύνδουλος,594,uni_token,masculine,nominative,plural,艱,1.0564316199531925,艱,"fellow-servant, colleague"
+σύνδουλος,371,uni_token,masculine,nominative,singular,寬,1.210107806930739,寬,"fellow-servant, colleague"
+ἀγρός,607,uni_token,masculine,accusative,plural,村,1.3692257347343202,村,field
+ἀγρός,285,uni_token,masculine,accusative,singular,田,1.1335017462618528,田,field
+δάκτυλος,499,uni_token,masculine,accusative,plural,舌,1.2633914052661708,舌,finger
+δάκτυλος,439,uni_token,masculine,accusative,singular,脇,1.2541853188125742,脇,finger
+ἰχθύς,413,uni_token,masculine,accusative,plural,魚,1.0172219528901127,魚,fish
+ἰχθύς,453,uni_token,masculine,accusative,singular,魚,1.3815337196125472,魚,fish
+δίκτυον,366,uni_token,neuter,accusative,plural,網,2.6843560182620223,網,fishing net
+δίκτυον,463,uni_token,neuter,accusative,singular,網,1.3229867466277192,網,fishing net
+δίκτυον,434,uni_token,neuter,nominative,plural,險,1.1455182517999687,險,fishing net
+τροφή,510,uni_token,feminine,accusative,plural,街,1.154551083081688,街,food
+τροφή,602,uni_token,feminine,accusative,singular,精,1.0354275879693704,精,food
+πούς,502,uni_token,masculine,accusative,plural,腳,6.120981953121891,腳,foot
+πούς,369,uni_token,masculine,accusative,singular,撞,1.145758309508936,撞,foot
+καρπός,445,uni_token,masculine,accusative,plural,果,1.6075244528088408,果,"fruit, crop, harvest"
+καρπός,497,uni_token,masculine,accusative,singular,結,1.0395661904860578,結,"fruit, crop, harvest"
+πλήρωμα,539,uni_token,neuter,accusative,plural,籃,1.2051758429533763,籃,fullness
+γενεά,541,uni_token,feminine,accusative,plural,畏,1.1926111827632997,畏,generation
+γενεά,498,uni_token,feminine,accusative,singular,代,1.1847949831935425,代,generation
+γενεά,409,uni_token,feminine,nominative,singular,代,2.0950097906128406,代,generation
+δῶρον,580,uni_token,neuter,accusative,plural,獻,1.3752928486005358,獻,gift
+δῶρον,423,uni_token,neuter,accusative,singular,物,1.047471201226303,物,gift
+ἡγεμών,431,uni_token,masculine,accusative,plural,緣,1.0188010755671515,緣,"governor, ruler"
+ἡγεμών,255,uni_token,masculine,accusative,singular,怪,1.037196952398263,怪,"governor, ruler"
+ἀσπασμός,593,uni_token,masculine,accusative,plural,致,1.1953849219861985,致,greeting
+ἀσπασμός,432,uni_token,masculine,accusative,singular,跳,1.0187973712043472,跳,greeting
+ὁδηγός,246,uni_token,masculine,nominative,plural,窟,1.1682475101679055,窟,guide
+ὁδηγός,244,uni_token,masculine,nominative,singular,盲,1.0806174551558547,盲,guide
+θρίξ,282,uni_token,feminine,accusative,singular,毛,1.5209294503420738,毛,hair
+θρίξ,347,uni_token,feminine,nominative,plural,毛,1.3094466938647902,毛,hair
+θρίξ,481,uni_token,feminine,nominative,singular,毛,1.6100275206210288,毛,hair
+χείρ,584,uni_token,feminine,accusative,plural,手,4.252840176399337,手,hand
+χείρ,486,uni_token,feminine,accusative,singular,手,2.0876843745862943,手,hand
+κεφαλή,401,uni_token,feminine,accusative,plural,搖,1.0936036048651534,搖,head
+κεφαλή,471,uni_token,feminine,accusative,singular,頭,1.141927293458315,頭,head
+στάχυς,472,uni_token,masculine,accusative,plural,捋,1.0441014053159638,捋,head of grain
+καρδία,278,uni_token,feminine,accusative,plural,悖,1.18004614842802,悖,heart
+καρδία,558,uni_token,feminine,accusative,singular,心,1.7646201237021704,心,heart
+καρδία,455,uni_token,feminine,nominative,singular,心,1.5258525818443245,心,heart
+οὐρανός,249,uni_token,masculine,accusative,plural,鴿,1.1328170885795157,鴿,"heaven, sky"
+οὐρανός,535,uni_token,masculine,accusative,singular,天,2.6886214796447634,天,"heaven, sky"
+οὐρανός,620,uni_token,masculine,nominative,plural,鴿,1.1328170885795157,鴿,"heaven, sky"
+οὐρανός,461,uni_token,masculine,nominative,singular,天,2.357660484430022,天,"heaven, sky"
+ὥρα,565,uni_token,feminine,nominative,plural,鐘,1.23861954912697,鐘,hour
+ὥρα,269,uni_token,feminine,nominative,singular,時,2.312314794853232,時,hour
+οἰκία,415,uni_token,feminine,accusative,plural,演,1.068721744697975,演,house
+οἰκία,599,uni_token,feminine,accusative,singular,屋,3.852747301126372,屋,house
+οἶκος,554,uni_token,masculine,accusative,plural,業,1.0635699805369407,業,"house, home"
+οἶκος,265,uni_token,masculine,accusative,singular,屋,1.8480557526060823,屋,"house, home"
+κριτής,579,uni_token,masculine,nominative,plural,靠,1.1527090507738793,靠,judge
+κριτής,425,uni_token,masculine,nominative,singular,官,1.8163327653396848,官,judge
+κλείς,335,uni_token,feminine,accusative,plural,匙,1.1613026128296644,匙,key
+βασιλεύς,364,uni_token,masculine,accusative,plural,君,1.1928121001571712,君,king
+βασιλεύς,307,uni_token,masculine,accusative,singular,王,3.1040468002264787,王,king
+βασιλεία,329,uni_token,feminine,accusative,plural,魔,1.073155403507251,魔,kingdom
+βασιλεία,420,uni_token,feminine,accusative,singular,國,3.4073408754327947,國,kingdom
+κόπος,464,uni_token,masculine,accusative,plural,靚,1.2579302010275544,靚,"labour, work, trouble, difficulty"
+κόπος,339,uni_token,masculine,accusative,singular,纏,1.066248986440656,纏,"labour, work, trouble, difficulty"
+λύχνος,520,uni_token,masculine,nominative,plural,燈,1.0662969685843078,燈,lamp
+λύχνος,496,uni_token,masculine,nominative,singular,燈,2.173549625868894,燈,lamp
+κλῆρος,354,uni_token,masculine,accusative,plural,籤,1.1454587468979875,籤,"lots (casting of lots), inheritance"
+κλῆρος,241,uni_token,masculine,accusative,singular,籤,1.0938389104413042,籤,"lots (casting of lots), inheritance"
+ἄνθρωπος,524,uni_token,masculine,accusative,singular,浰,1.120402820435989,浰,man
+ἄνθρωπος,376,uni_token,masculine,nominative,plural,凱,1.3786836057554657,凱,man
+ἄνθρωπος,438,uni_token,masculine,nominative,singular,人,1.038419401163922,人,man
+ἀνήρ,511,uni_token,masculine,accusative,plural,同,1.0252623085441024,同,"man, husband"
+ἀνήρ,515,uni_token,masculine,accusative,singular,公,1.0982108509360171,公,"man, husband"
+ἀνήρ,407,uni_token,masculine,nominative,plural,千,1.2891455819090625,千,"man, husband"
+ἀνήρ,503,uni_token,masculine,nominative,singular,個,1.7771769659373755,個,"man, husband"
+μνᾶ,571,uni_token,feminine,accusative,plural,幣,1.2467817010820228,幣,mina (about 100 days' wages)
+μνᾶ,256,uni_token,feminine,accusative,singular,幣,1.0457671211733146,幣,mina (about 100 days' wages)
+πρωτοκαθεδρία,362,uni_token,feminine,accusative,plural,特,1.2929965575054307,特,"most important seat, seat of honour"
+μήτηρ,352,uni_token,feminine,accusative,plural,房,1.119317473844853,房,mother
+μήτηρ,550,uni_token,feminine,accusative,singular,爺,1.0094346517667403,爺,mother
+ὄρος,480,uni_token,neuter,accusative,plural,山,1.0915950186590069,山,mountain
+ὄρος,533,uni_token,neuter,accusative,singular,山,2.5887105170878426,山,mountain
+μύρον,340,uni_token,neuter,accusative,plural,油,1.025863042055679,油,myrrh
+μύρον,271,uni_token,neuter,accusative,singular,油,1.0710226583407474,油,myrrh
+ὄνομα,338,uni_token,neuter,accusative,plural,雷,1.2110977419693971,雷,name
+ὄνομα,279,uni_token,neuter,accusative,singular,名,2.5080257968830555,名,name
+ὄνομα,360,uni_token,neuter,nominative,plural,名,1.423491157379719,名,name
+ὄνομα,516,uni_token,neuter,nominative,singular,名,2.0166516192537682,名,name
+ἔθνος,494,uni_token,neuter,accusative,plural,萬,1.8978711076722172,萬,nation
+ἔθνος,456,uni_token,neuter,accusative,singular,族,1.1615277558657262,族,nation
+ἔθνος,574,uni_token,neuter,nominative,plural,全,1.075710839262452,全,nation
+ἔθνος,270,uni_token,neuter,nominative,singular,族,1.1580345639079306,族,nation
+νύξ,450,uni_token,feminine,accusative,plural,夜,2.2127195746493045,夜,night
+ὅρκος,308,uni_token,masculine,accusative,plural,誓,1.6655560607412023,誓,oath
+ὅρκος,532,uni_token,masculine,accusative,singular,潔,1.0206233028680634,潔,oath
+βοῦς,545,uni_token,masculine,accusative,singular,槽,1.0354255198080204,槽,ox
+παραβολή,528,uni_token,feminine,accusative,plural,喻,1.7186191063500074,喻,parable
+παραβολή,487,uni_token,feminine,accusative,singular,喻,1.4888511259760475,喻,parable
+μέρος,619,uni_token,neuter,accusative,plural,方,1.1089319331191936,方,part
+μέρος,299,uni_token,neuter,accusative,singular,半,1.569388647126038,半,part
+μαργαρίτης,489,uni_token,masculine,accusative,plural,珍,1.5636329774441842,珍,pearls
+μαργαρίτης,281,uni_token,masculine,accusative,singular,珍,1.2147444643551368,珍,pearls
+τόπος,543,uni_token,masculine,accusative,plural,荒,1.0913842186740943,荒,place
+τόπος,567,uni_token,masculine,accusative,singular,僻,1.1368553619044712,僻,place
+πρωτοκλισία,548,uni_token,feminine,accusative,plural,筵,1.0183914859181789,筵,place of honor
+πρωτοκλισία,280,uni_token,feminine,accusative,singular,筵,1.0190586241354644,筵,place of honor
+ὄφις,621,uni_token,masculine,accusative,plural,蛇,1.044111346118999,蛇,poison
+ὄφις,361,uni_token,masculine,accusative,singular,蛇,2.1641324079512323,蛇,poison
+σκεῦος,396,uni_token,neuter,accusative,plural,士,1.1454587468979875,士,"possession, object, thing, jar, vessel"
+σκεῦος,523,uni_token,neuter,accusative,singular,扛,1.245075795538108,扛,"possession, object, thing, jar, vessel"
+σκεῦος,386,uni_token,neuter,nominative,plural,項,1.0359233644235326,項,"possession, object, thing, jar, vessel"
+δύναμις,363,uni_token,feminine,accusative,plural,蹟,1.061442132081241,蹟,"power, ability, miracle"
+δύναμις,293,uni_token,feminine,accusative,singular,能,1.3717173160426164,能,"power, ability, miracle"
+δύναμις,332,uni_token,feminine,nominative,plural,蹟,1.0650371004632009,蹟,"power, ability, miracle"
+δύναμις,372,uni_token,feminine,nominative,singular,能,1.5180680877427526,能,"power, ability, miracle"
+ἱερεύς,262,uni_token,masculine,nominative,plural,矩,1.0938852307418805,矩,priest
+ἱερεύς,507,uni_token,masculine,nominative,singular,司,1.0270958132620882,司,priest
+φυλακή,525,uni_token,feminine,accusative,plural,牢,1.106290521332697,牢,prison
+φυλακή,268,uni_token,feminine,accusative,singular,監,1.5111774243463034,監,prison
+προφήτης,311,uni_token,masculine,accusative,plural,知,1.0092867291474037,知,prophet
+προφήτης,462,uni_token,masculine,accusative,singular,知,1.0103464591598534,知,prophet
+προφήτης,488,uni_token,masculine,nominative,plural,知,1.0092455176834425,知,prophet
+προφήτης,534,uni_token,masculine,nominative,singular,知,1.0088225369351662,知,prophet
+βαλλάντιον,261,uni_token,neuter,accusative,singular,袋,1.074750921236395,袋,purse
+ποταμός,428,uni_token,masculine,nominative,singular,沖,1.7779941169547862,沖,river
+λῃστής,288,uni_token,masculine,accusative,plural,盜,1.3094880776049618,盜,robber
+λῃστής,618,uni_token,masculine,accusative,singular,盜,1.2556964704694948,盜,robber
+λῃστής,595,uni_token,masculine,nominative,plural,盜,1.2556964704694948,盜,robber
+λῃστής,417,uni_token,masculine,nominative,singular,盜,1.3094880776049618,盜,robber
+ἄρχων,469,uni_token,masculine,accusative,plural,召,1.0476671263414474,召,ruler
+ἄρχων,350,uni_token,masculine,accusative,singular,量,1.0578407236691365,量,ruler
+ἄρχων,315,uni_token,masculine,nominative,plural,袖,1.1809586923617772,袖,ruler
+ἄρχων,589,uni_token,masculine,nominative,singular,治,1.1254291516275976,治,ruler
+ἀκοή,250,uni_token,feminine,accusative,plural,戰,1.161057708237635,戰,rumor
+ἀκοή,326,uni_token,feminine,accusative,singular,希,1.0569055259060989,希,rumor
+ἀκοή,422,uni_token,feminine,nominative,plural,襛,1.1613548718850133,襛,rumor
+ἀκοή,606,uni_token,feminine,nominative,singular,遍,1.3697999374787049,遍,rumor
+βιβλίον,304,uni_token,neuter,accusative,plural,容,1.0820281194484604,容,"scroll, book"
+βιβλίον,301,uni_token,neuter,accusative,singular,書,1.5345656604623217,書,"scroll, book"
+διάκονος,482,uni_token,masculine,nominative,plural,舀,1.3567890523434925,舀,"servant, minister, deacon"
+διάκονος,345,uni_token,masculine,nominative,singular,僕,2.3249828498979457,僕,"servant, minister, deacon"
+δοῦλος,474,uni_token,masculine,accusative,plural,僕,4.40462042824505,僕,"servant, slave"
+δοῦλος,272,uni_token,masculine,accusative,singular,僕,3.391229018096256,僕,"servant, slave"
+δοῦλος,359,uni_token,masculine,nominative,plural,僕,3.6594887676098007,僕,"servant, slave"
+δοῦλος,470,uni_token,masculine,nominative,singular,僕,2.297435496091341,僕,"servant, slave"
+πρόβατον,600,uni_token,neuter,accusative,plural,羊,5.3741483781516495,羊,sheep
+πρόβατον,403,uni_token,neuter,accusative,singular,羊,1.5690001883176137,羊,sheep
+ποιμήν,514,uni_token,masculine,nominative,plural,羊,1.014175640442596,羊,"shepherd, pastor"
+ποιμήν,559,uni_token,masculine,nominative,singular,牧,1.065841926593313,牧,"shepherd, pastor"
+σημεῖον,399,uni_token,neuter,accusative,plural,蹟,1.0792373326801026,蹟,sign
+σημεῖον,385,uni_token,neuter,accusative,singular,蹟,1.0756175939289059,蹟,sign
+σημεῖον,290,uni_token,neuter,nominative,plural,奇,1.1084760769807935,奇,sign
+σημεῖον,344,uni_token,neuter,nominative,singular,兆,1.0746545909479772,兆,sign
+δραχμή,568,uni_token,feminine,accusative,plural,拚,1.0439955835392232,拚,"silver coin, drachma"
+δραχμή,430,uni_token,feminine,accusative,singular,失,1.105899555099385,失,"silver coin, drachma"
+ἀργύριον,479,uni_token,neuter,accusative,plural,錢,1.7532443815491665,錢,"silver, money"
+ἀργύριον,609,uni_token,neuter,accusative,singular,錢,1.8802950736378343,錢,"silver, money"
+ἁμαρτία,555,uni_token,feminine,accusative,plural,罪,1.0185343871269668,罪,sin
+ἁμαρτία,484,uni_token,feminine,accusative,singular,罪,3.3907185697832016,罪,sin
+ἁμαρτία,563,uni_token,feminine,nominative,plural,赦,1.1480848187311945,赦,sin
+ἁμαρτία,560,uni_token,feminine,nominative,singular,罪,1.2958553064713476,罪,sin
+ἀδελφή,586,uni_token,feminine,accusative,plural,姊,1.1944801656853932,姊,sister
+ἀδελφή,392,uni_token,feminine,accusative,singular,妹,1.1464370574400395,妹,sister
+ἀδελφή,264,uni_token,feminine,nominative,plural,妹,1.1643471152819471,妹,sister
+ἀδελφή,585,uni_token,feminine,nominative,singular,妹,1.427295724433718,妹,sister
+ῥάπισμα,412,uni_token,neuter,accusative,plural,搧,1.1795892020848868,搧,"slap, strike, hit"
+ῥάπισμα,547,uni_token,neuter,accusative,singular,搧,1.2633235923608288,搧,"slap, strike, hit"
+πλοιάριον,500,uni_token,neuter,nominative,plural,哩,1.3303707768634656,哩,small boat
+πλοιάριον,398,uni_token,neuter,nominative,singular,船,1.103078547157144,船,small boat
+ὀψάριον,444,uni_token,neuter,accusative,plural,罅,1.0312612591107964,罅,small fish
+ὀψάριον,527,uni_token,neuter,accusative,singular,魚,1.092793651349974,魚,small fish
+υἱός,295,uni_token,masculine,accusative,plural,孻,1.2539490576148578,孻,son
+υἱός,384,uni_token,masculine,accusative,singular,孻,2.510283252106593,孻,son
+υἱός,387,uni_token,masculine,nominative,plural,子,1.4693240870587176,子,son
+υἱός,476,uni_token,masculine,nominative,singular,孻,1.6196612972214364,孻,son
+ψυχή,490,uni_token,feminine,accusative,plural,耐,1.0398847297338314,耐,"soul, life"
+ψυχή,557,uni_token,feminine,accusative,singular,命,1.6377383422282061,命,"soul, life"
+ἀστήρ,569,uni_token,masculine,nominative,plural,系,1.1133081710155124,系,star
+ἀστήρ,452,uni_token,masculine,nominative,singular,星,1.1029122929035189,星,star
+λίθος,573,uni_token,masculine,accusative,plural,㧹,1.1629087498994413,㧹,stone
+λίθος,283,uni_token,masculine,accusative,singular,石,1.6241763471728659,石,stone
+λίθος,397,uni_token,masculine,nominative,plural,石,1.798013352325905,石,stone
+λίθος,287,uni_token,masculine,nominative,singular,石,1.519954137937215,石,stone
+συναγωγή,512,uni_token,feminine,accusative,plural,堂,1.9246967184623691,堂,synagogue
+συναγωγή,611,uni_token,feminine,accusative,singular,堂,3.1144472165656167,堂,synagogue
+τράπεζα,458,uni_token,feminine,accusative,plural,換,1.025853463176907,換,table
+τράπεζα,400,uni_token,feminine,accusative,singular,本,1.0612294372372912,本,table
+τάλαντον,321,uni_token,neuter,accusative,plural,幣,1.2396848824472781,幣,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,493,uni_token,neuter,accusative,singular,錢,1.2046341299744192,錢,talent (weight and monetary unit: around 20 years' wages)
+φόρος,542,uni_token,masculine,accusative,plural,胞,1.2125176900525536,胞,tax
+φόρος,564,uni_token,masculine,accusative,singular,皇,1.063613523347947,皇,tax
+τελώνης,451,uni_token,masculine,nominative,plural,稅,2.2074731386690303,稅,tax collector
+τελώνης,323,uni_token,masculine,nominative,singular,稅,1.752684555064988,稅,tax collector
+γραμματεύς,616,uni_token,masculine,nominative,plural,師,1.281049742358608,師,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,477,uni_token,masculine,nominative,singular,師,1.4538659600929524,師,"teacher, expert in the law, scholar, scribe"
+καθηγητής,601,uni_token,masculine,nominative,plural,傅,1.3468388024277531,傅,"teacher, guide"
+καθηγητής,492,uni_token,masculine,nominative,singular,傅,1.3468388024277531,傅,"teacher, guide"
+κλέπτης,334,uni_token,masculine,nominative,plural,賊,1.467574616950471,賊,thief
+κλέπτης,491,uni_token,masculine,nominative,singular,賊,3.445116701111653,賊,thief
+διαλογισμός,570,uni_token,masculine,accusative,plural,瘸,1.1129261368862455,瘸,"thought, argument"
+διαλογισμός,406,uni_token,masculine,accusative,singular,塍,1.3052820776623657,塍,"thought, argument"
+διαλογισμός,377,uni_token,masculine,nominative,plural,念,1.3253989889052278,念,"thought, argument"
+διαλογισμός,562,uni_token,masculine,nominative,singular,互,1.593296626941198,互,"thought, argument"
+θρόνος,245,uni_token,masculine,accusative,plural,耀,1.0398110443909725,耀,throne
+θρόνος,504,uni_token,masculine,accusative,singular,至,1.027521502670679,至,throne
+χρόνος,538,uni_token,masculine,accusative,plural,租,1.0298272897547498,租,time
+καιρός,327,uni_token,masculine,nominative,plural,限,1.096185247111637,限,"time, right time"
+καιρός,402,uni_token,masculine,nominative,singular,機,1.220439887653656,機,"time, right time"
+τάφος,389,uni_token,masculine,accusative,plural,碑,1.3263593546298147,碑,"tomb, grave"
+τάφος,436,uni_token,masculine,accusative,singular,墳,1.0455831346669,墳,"tomb, grave"
+μνημεῖον,257,uni_token,neuter,accusative,plural,整,1.044086819743998,整,"tomb, grave"
+μνημεῖον,260,uni_token,neuter,accusative,singular,墓,1.2026135287004758,墓,"tomb, grave"
+μνημεῖον,330,uni_token,neuter,nominative,plural,墳,1.0531488543143606,墳,"tomb, grave"
+μνημεῖον,531,uni_token,neuter,nominative,singular,墳,1.0531488543143606,墳,"tomb, grave"
+ὀδούς,317,uni_token,masculine,accusative,plural,鉸,1.0960866985123228,鉸,tooth
+θησαυρός,355,uni_token,masculine,accusative,plural,寶,1.239865102037803,寶,treasure
+θησαυρός,485,uni_token,masculine,accusative,singular,積,1.1315896552924969,積,treasure
+δένδρον,343,uni_token,neuter,accusative,plural,樹,2.1042695294770284,樹,tree	
+δένδρον,328,uni_token,neuter,accusative,singular,樹,1.6525416444588763,樹,tree	
+λίτρα,517,uni_token,feminine,accusative,plural,沉,1.0960524252565438,沉,unit of measure around 300 grams
+κώμη,537,uni_token,feminine,accusative,plural,村,1.1550988092719008,村,village
+κώμη,303,uni_token,feminine,accusative,singular,村,1.1024948590884192,村,village
+παρθένος,553,uni_token,feminine,nominative,plural,妹,1.2658425958015525,妹,virgin
+παρθένος,467,uni_token,feminine,nominative,singular,童,1.161328723715616,童,virgin
+φωνή,468,uni_token,feminine,nominative,plural,勝,1.0962100302615791,勝,voice or sound
+φωνή,596,uni_token,feminine,nominative,singular,聲,1.7570971073891923,聲,voice or sound
+πόλεμος,529,uni_token,masculine,accusative,plural,戰,1.1607643992320178,戰,war
+πόλεμος,289,uni_token,masculine,accusative,singular,愐,1.1454587468979875,愐,war
+ὕδωρ,617,uni_token,neuter,accusative,plural,水,2.439673250365101,水,water
+ὕδωρ,349,uni_token,neuter,accusative,singular,水,5.084043180247861,水,water
+ὕδωρ,598,uni_token,neuter,nominative,plural,嫩,1.0962100302615791,嫩,water
+ὕδωρ,368,uni_token,neuter,nominative,singular,水,2.082458446444567,水,water
+ὑδρία,374,uni_token,feminine,accusative,singular,罐,1.3026577969539024,罐,water jar
+ὁδός,530,uni_token,feminine,accusative,plural,路,1.1680178240499537,路,way
+ὁδός,405,uni_token,feminine,accusative,singular,路,1.8542285489263872,路,way
+γάμος,424,uni_token,masculine,accusative,plural,筵,1.0096589880214537,筵,wedding
+γάμος,508,uni_token,masculine,accusative,singular,姻,1.1420636612145167,姻,wedding
+γυνή,441,uni_token,feminine,accusative,singular,𡜵,1.0173960436310845,𡜵,"wife, woman"
+γυνή,378,uni_token,feminine,nominative,plural,婦,1.9510082582266883,婦,"wife, woman"
+γυνή,383,uni_token,feminine,nominative,singular,婦,1.7038338281476362,婦,"wife, woman"
+ἄνεμος,251,uni_token,masculine,nominative,plural,風,1.1167156422881368,風,wind
+ἄνεμος,318,uni_token,masculine,nominative,singular,風,1.940154212926176,風,wind
+πνεῦμα,583,uni_token,neuter,accusative,plural,靈,1.083613818280632,靈,"wind, breath, spirit"
+πνεῦμα,429,uni_token,neuter,accusative,singular,靈,3.9963597766164236,靈,"wind, breath, spirit"
+πνεῦμα,254,uni_token,neuter,nominative,plural,靈,1.2087836784662946,靈,"wind, breath, spirit"
+πνεῦμα,267,uni_token,neuter,nominative,singular,靈,5.656264816577653,靈,"wind, breath, spirit"
+κοιλία,341,uni_token,feminine,nominative,plural,乳,1.1431498769785362,乳,"womb, stomach, source of feelings and emotions"
+κοιλία,552,uni_token,feminine,nominative,singular,乳,1.211362637961196,乳,"womb, stomach, source of feelings and emotions"
+ῥῆμα,449,uni_token,neuter,accusative,plural,話,2.625895765966705,話,word
+ῥῆμα,426,uni_token,neuter,accusative,singular,話,1.4516913690358164,話,word
+ῥῆμα,276,uni_token,neuter,nominative,plural,話,1.5804005524959894,話,word
+ῥῆμα,604,uni_token,neuter,nominative,singular,隱,1.049892566256268,隱,word
+λόγος,427,uni_token,masculine,accusative,plural,話,2.3836605700163807,話,word
+λόγος,418,uni_token,masculine,accusative,singular,道,1.4963866028968702,道,word
+λόγος,414,uni_token,masculine,nominative,plural,永,1.0939621637710075,永,word
+λόγος,572,uni_token,masculine,nominative,singular,話,1.1245627411525294,話,word
+ἔργον,292,uni_token,neuter,accusative,plural,事,1.106840898157061,事,work
+ἔργον,351,uni_token,neuter,accusative,singular,事,1.0560949478636021,事,work
+ἔργον,576,uni_token,neuter,nominative,plural,作,1.2043994083394642,作,work
+ἔργον,551,uni_token,neuter,nominative,singular,作,1.0762117942174696,作,work
+ἐργάτης,408,uni_token,masculine,nominative,plural,忒,1.1096458426374451,忒,worker
+ἐργάτης,478,uni_token,masculine,nominative,singular,供,1.3788691928555905,供,worker
+ἔτος,526,uni_token,neuter,accusative,plural,年,3.5568723131552917,年,year
+ἔτος,442,uni_token,neuter,accusative,singular,年,1.5271059784100165,年,year
+ζεῦγος,263,uni_token,neuter,accusative,plural,諒,1.2633066601546783,諒,"yoke, pair"
+ζεῦγος,518,uni_token,neuter,accusative,singular,鳩,1.4106695832241365,鳩,"yoke, pair"

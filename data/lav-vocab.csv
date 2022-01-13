@@ -1,0 +1,315 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1047_translation,version_1048_translation,version_1049_translation,version_1050_translation,english_translation
+θεός,304,unigram,masculine,accusative,plural,dieviem,1.097258004808277,,dieviem,,,God
+θεός,128,unigram,masculine,accusative,singular,Dievu,27.732207415093953,Dievu,Dievu,Dievu,,God
+θεός,28,unigram,masculine,nominative,plural,dievi,2.580826923133042,dievi,dievi,dievi,,God
+θεός,196,unigram,masculine,nominative,singular,Dievs,1051.6822002761999,Dievs,Dievs,Dievs,,God
+κύριος,306,unigram,masculine,nominative,plural,atraisīja,1.0970894485985805,,atraisīja,,,"Lord, lord, master"
+κύριος,129,unigram,masculine,nominative,singular,Kungs,1.3688838844289044,Kungs,Kungs,Kungs,,"Lord, lord, master"
+γραφή,124,unigram,feminine,accusative,plural,rakstus,33.75744154276383,rakstus,rakstus,rakstus,,Scripture
+γραφή,243,unigram,feminine,nominative,plural,raksti,9.995023377173354,raksti,raksti,raksti,,Scripture
+γραφή,300,unigram,feminine,nominative,singular,raksti,3.811281359580089,raksti,raksts,raksti,,Scripture
+ἄγγελος,94,unigram,masculine,accusative,plural,eņģeļus,11.189108690460587,eņģeļus,eņģeļus,eņģeļus,,angel
+ἄγγελος,82,unigram,masculine,accusative,singular,sūtu,1.2555318679506027,sūtu,eņģeli,sūtu,,angel
+ἄγγελος,45,unigram,masculine,nominative,plural,eņģeļi,157.190663026184,eņģeļi,eņģeļi,eņģeļi,,angel
+ἄγγελος,105,unigram,masculine,nominative,singular,eņģelis,28.112251692478683,eņģelis,eņģelis,eņģelis,,angel
+ἀπόστολος,42,unigram,masculine,nominative,plural,apustuļi,10.813968715736726,apustuļi,apustuļi,apustuļi,,apostle
+ἀπόστολος,5,unigram,masculine,nominative,singular,sūtnis,1.5404440611261827,sūtnis,kungu,sūtnis,,apostle
+ἐξουσία,67,unigram,feminine,accusative,plural,runāsiet,1.0962199599997684,,runāsiet,,,authority
+ἐξουσία,189,unigram,feminine,accusative,singular,varu,3.165046795131397,varu,varu,varu,,authority
+βρέφος,15,unigram,neuter,accusative,plural,aizskartu,1.106276804395426,,aizskartu,,,babies
+βρέφος,298,unigram,neuter,accusative,singular,,,gulošu,,silē,,babies
+ἀποθήκη,66,unigram,feminine,accusative,singular,kviešus,3.445838227683254,kviešus,kviešus,kviešus,,barn
+ἀρχή,70,unigram,feminine,accusative,plural,runāsiet,1.0961063339256685,,runāsiet,,,beginning
+ἀρχή,171,unigram,feminine,accusative,singular,,,atklādams,Visupirms,,,beginning
+βλασφημία,32,unigram,feminine,accusative,plural,zaimojumus,1.6717657352988946,zaimojumus,,zaimojumus,,blasphemy
+βλασφημία,92,unigram,feminine,accusative,singular,zaimojis,1.2013845589884997,zaimojis,zaimošanu,zaimojis,,blasphemy
+βλασφημία,194,unigram,feminine,nominative,plural,zaimi,3.9997960867405626,zaimi,zaimošanas,zaimi,,blasphemy
+βλασφημία,83,unigram,feminine,nominative,singular,zaimošana,1.999949021035427,,zaimošana,,,blasphemy
+πλοῖον,103,unigram,neuter,accusative,plural,laivas,24.758941117105184,laivas,laivas,laivas,,boat
+πλοῖον,286,unigram,neuter,accusative,singular,laivā,31.89773600594016,laivā,laivā,laivā,,boat
+πλοῖον,212,unigram,neuter,nominative,singular,laiva,9.32139797379373,laiva,laiva,laiva,,boat
+σῶμα,202,unigram,neuter,nominative,plural,miesas,2.3316820516962946,miesas,,miesas,,body
+σῶμα,57,unigram,neuter,nominative,singular,miesa,8.953535725733184,miesa,miesa,miesa,,body
+κλῆμα,53,unigram,neuter,nominative,plural,zari,1.2013523596909814,zari,,zari,,branch
+κλῆμα,142,unigram,neuter,nominative,singular,zars,1.090152930455124,zars,,zars,,branch
+ἄρτος,290,unigram,masculine,accusative,plural,maizes,32.77544917836542,maizes,maizes,maizes,,bread
+ἄρτος,314,unigram,masculine,accusative,singular,maizi,266.49667602424876,maizi,maizi,maizi,,bread
+ἄρτος,150,unigram,masculine,nominative,plural,maizes,7.013355098172449,maizes,maizes,maizes,,bread
+ἄρτος,37,unigram,masculine,nominative,singular,maize,8.370925919993406,maize,maize,maize,,bread
+ἀδελφός,276,unigram,masculine,accusative,plural,brāļus,38.24569807511491,brāļus,brāļus,brāļus,,brother
+ἀδελφός,117,unigram,masculine,accusative,singular,brāli,20.09600334009973,brāli,brāli,brāli,,brother
+ἀδελφός,108,unigram,masculine,nominative,plural,brāļi,7.7803895630910445,brāļi,brāļi,brāļi,,brother
+ἀδελφός,217,unigram,masculine,nominative,singular,brālis,57.10991744692112,brālis,brālis,brālis,,brother
+στῆθος,147,unigram,neuter,accusative,plural,krūtīm,2.074562636252634,krūtīm,krūtīm,krūtīm,,"chest, breast"
+στῆθος,260,unigram,neuter,accusative,singular,krūts,1.0985809522497467,krūts,krūtīm,krūts,,"chest, breast"
+ἀρχιερεύς,226,unigram,masculine,accusative,plural,augstajiem,1.2336336797540155,augstajiem,augstiem,augstajiem,,chief priest
+ἀρχιερεύς,58,unigram,masculine,accusative,singular,priestera,1.1597718446176835,priestera,priestera,priestera,,chief priest
+ἀρχιερεύς,116,unigram,masculine,nominative,plural,augstie,1.2571969824964966,priesteri,augstie,augstie,,chief priest
+ἀρχιερεύς,230,unigram,masculine,nominative,singular,augstais,1.0734161727303342,augstais,augstais,priesteris,,chief priest
+παῖς,221,unigram,masculine,accusative,plural,bērnus,1.5797592358802264,bērnus,apskaitās,bērnus,,child
+τέκνον,308,unigram,neuter,accusative,plural,bērnus,10.937441697201875,bērnus,bērnus,bērnus,,child
+τέκνον,168,unigram,neuter,accusative,singular,brālis,1.4815541554750196,brālis,brālis,brālis,,child
+τέκνον,16,unigram,neuter,nominative,plural,bērni,1.2021862461968478,bērni,bērni,bērni,,child
+τέκνον,182,unigram,neuter,nominative,singular,dēls,3.4611384751747627,dēls,dēls,piedoti.,,child
+παιδίον,14,unigram,neuter,accusative,plural,bērniņus,2.4831159776869365,bērniņus,bērniņus,bērniņus,,child
+παιδίον,89,unigram,neuter,accusative,singular,bērnu,11.022326479373161,bērnu,Bērnu,bērnu,,child
+παιδίον,162,unigram,neuter,nominative,plural,bērni,2.0221466552806207,bērni,bērni,bērni,,child
+παιδίον,39,unigram,neuter,nominative,singular,bērns,2.54239334770945,bērns,bērniņš,bērns,,child
+πόλις,172,unigram,feminine,accusative,plural,pilsētas,7.32410202634788,pilsētas,pilsētas,pilsētas,,city
+πόλις,62,unigram,feminine,accusative,singular,pilsētā,2.8904751693312662,pilsētā,pilsētā,pilsētā,,city
+πύλη,246,unigram,feminine,nominative,plural,uzvarēt,1.0960622061228922,,uzvarēt,,,city gate
+χιτών,112,unigram,masculine,accusative,plural,svārkus,6.742377833111206,svārkus,svārkus,svārkus,,"clothing, undergarments"
+χιτών,29,unigram,masculine,accusative,singular,svārkus,7.727357855899257,svārkus,svārkus,svārkus,,"clothing, undergarments"
+ἱμάτιον,126,unigram,neuter,accusative,plural,drēbes,52.91416953091792,drēbes,drēbes,drēbes,,coat
+ἱμάτιον,125,unigram,neuter,accusative,singular,,,apmetni,drēbes,mēteli,,coat
+ἐντολή,80,unigram,feminine,accusative,plural,baušļus,3.7025897584590735,baušļus,baušļus,,,commandment
+ἐντολή,78,unigram,feminine,accusative,singular,bausli,18.727905957262127,bausli,bausli,bausli,,commandment
+συνέδριον,295,unigram,neuter,accusative,plural,tiesās,2.3172716405988707,tiesās,tiesās,tiesās,,council
+συνέδριον,49,unigram,neuter,accusative,singular,augstās,1.5961578429004293,augstās,augstie,augstās,,council
+χώρα,265,unigram,feminine,accusative,singular,zemi,1.2596232152309674,zemi,zemi,zemi,,"country, countryside"
+ὄχλος,54,unigram,masculine,accusative,plural,ļaudis,5.100424355880148,ļaudis,ļaudis,ļaudis,,crowd
+ὄχλος,8,unigram,masculine,accusative,singular,ļaužu,2.982050523822113,ļaužu,ļaužu,ļaužu,,crowd
+ὄχλος,96,unigram,masculine,nominative,plural,ļaudis,16.203503507879713,ļaudis,ļaudis,ļaudis,,crowd
+ὄχλος,256,unigram,masculine,nominative,singular,ļaužu,1.1579799922568972,ļaužu,ļaudis,ļaužu,,crowd
+θυγάτηρ,110,unigram,feminine,nominative,plural,neraudāt,1.0961506491767987,,neraudāt,,,daughter
+θυγάτηρ,289,unigram,feminine,nominative,singular,meita,50.08600493593942,meita,meita,meita,,daughter
+ἡμέρα,73,unigram,feminine,accusative,plural,dienām,2.0593547896648765,dienām,dienām,dienām,,day
+ἡμέρα,84,unigram,feminine,accusative,singular,dienu,2.4129457429651735,dienu,dienu,dienu,,day
+ἡμέρα,2,unigram,feminine,nominative,plural,dienas,94.55814094303491,dienas,dienas,dienas,,day
+ἡμέρα,64,unigram,feminine,nominative,singular,diena,27.426826682747745,diena,diena,diena,,day
+δαιμόνιον,30,unigram,neuter,accusative,plural,garus,4.45464545652806,garus,velnus,garus,,demon
+δαιμόνιον,302,unigram,neuter,accusative,singular,gars,2.721997893812529,gars,velns,gars,,demon
+δαιμόνιον,183,unigram,neuter,nominative,plural,gari,1.3237620677260193,gari,velni,gari,,demon
+δαιμόνιον,161,unigram,neuter,nominative,singular,gars,3.085707815702993,gars,velns,gars,,demon
+δηνάριον,281,unigram,neuter,accusative,plural,,,denāriju,grašus,parādā,,denarius (about a day's wages)
+δηνάριον,152,unigram,neuter,accusative,singular,,,denāriju,grasi,,,denarius (about a day's wages)
+μαθητής,166,unigram,masculine,accusative,plural,mācekļiem,4.766468688305289,mācekļiem,mācekļiem,mācekļiem,,disciple
+μαθητής,309,unigram,masculine,accusative,singular,mīlēja,2.8099728398290154,mīlēja,mīlēja,mīlēja,,disciple
+μαθητής,250,unigram,masculine,nominative,plural,mācekļi,78.34358677730515,mācekļi,mācekļi,mācekļi,,disciple
+μαθητής,307,unigram,masculine,nominative,singular,māceklis,68.02172873386995,māceklis,māceklis,māceklis,,disciple
+νόσος,3,unigram,feminine,accusative,plural,sērgas,1.9999489569121105,,sērgas,,,disease
+νόσος,72,unigram,feminine,accusative,singular,sērgas,1.0901788973941546,sērgas,vājības,sērgas,,disease
+περιστερά,95,unigram,feminine,accusative,plural,baložu,4.334355965177686,baložu,baložu,baložu,,dove
+περιστερά,51,unigram,feminine,accusative,singular,balodi,1.7338648071068938,balodi,balodi,balodi,,dove
+οὖς,141,unigram,neuter,accusative,plural,ausis,3.008590576598526,ausis,ausis,ausis,,ear
+οὖς,255,unigram,neuter,accusative,singular,jumtiem,1.1593856117146222,,jumtiem,,,ear
+σεισμός,60,unigram,masculine,nominative,singular,liela,3.653138257219437,liela,liela,liela,,"earthquakes, storm"
+τέλος,247,unigram,neuter,accusative,singular,galam,1.6605263873436766,galam,galam,galam,,end
+αἰών,277,unigram,masculine,accusative,singular,mūžam,1.9704547935923225,nemūžam,mūžam,mūžam,,eternity
+ὀφθαλμός,22,unigram,masculine,accusative,plural,acis,124.3343040980036,acis,acis,acis,,eye
+ὀφθαλμός,9,unigram,masculine,accusative,singular,aci,1.4021876762260803,aci,aci,aci,,eye
+ὀφθαλμός,61,unigram,masculine,nominative,plural,acis,141.91096350235642,acis,acis,acis,,eye
+ὀφθαλμός,274,unigram,masculine,nominative,singular,acs,2.495076573819318,acs,acs,acs,,eye
+πρόσωπον,179,unigram,neuter,accusative,singular,vaigu,19.6191545017665,vaigu,vaigu,vaigu,,face
+λιμός,6,unigram,feminine,nominative,plural,bada,1.1226284695549662,bada,,bada,,famine
+γεωργός,231,unigram,masculine,nominative,plural,mantinieks,2.177182260345298,mantinieks,,mantinieks,,"farmer, tenant"
+γεωργός,47,unigram,masculine,nominative,singular,kopējs,1.201459869218647,kopējs,īstenais,kopējs,,"farmer, tenant"
+πατήρ,184,unigram,masculine,accusative,plural,tēviem,1.3533198512493805,tēviem,,tēviem,,father
+πατήρ,280,unigram,masculine,accusative,singular,tēvu,1.3223090449218036,tēvu,,tēvu,,father
+πατήρ,288,unigram,masculine,nominative,plural,tēvi,22.356904148862576,tēvi,tēvi,tēvi,,father
+πατήρ,173,unigram,masculine,nominative,singular,Tēvs,130.7445883501567,Tēvs,Tēvs,Tēvs,,father
+σύνδουλος,292,unigram,masculine,nominative,plural,biedri,1.090163309708789,biedri,,biedri,,"fellow-servant, colleague"
+ἀγρός,38,unigram,masculine,accusative,singular,tīrumu,15.595744792131772,tīrumu,tīrumu,tīrumu,,field
+δάκτυλος,165,unigram,masculine,accusative,singular,pirkstu,1.189482429373846,pirkstu,pirkstu,pirkstu,,finger
+ἰχθύς,144,unigram,masculine,accusative,plural,zivis,1.6890573657147943,zivis,zivis,maizes,,fish
+ἰχθύς,178,unigram,masculine,accusative,singular,zivi,4.343466640910469,zivi,zivi,zivi,,fish
+δίκτυον,104,unigram,neuter,accusative,plural,tīklus,7.314576254774254,tīklus,tīklus,tīklus,,fishing net
+δίκτυον,187,unigram,neuter,accusative,singular,tīklu,4.407890903631864,tīklu,tīklu,tīklu,,fishing net
+τροφή,224,unigram,feminine,accusative,plural,gājuši,1.2013738207999172,gājuši,,gājuši,,food
+πούς,218,unigram,masculine,accusative,plural,kājas,10.81828978302662,kājas,kājas,kājas,,foot
+καρπός,170,unigram,masculine,accusative,plural,augļus,41.71139016955123,augļus,augļus,augļus,,"fruit, crop, harvest"
+καρπός,215,unigram,masculine,accusative,singular,augļus,43.14923100097809,augļus,augļus,augļus,,"fruit, crop, harvest"
+πλήρωμα,245,unigram,neuter,accusative,plural,druskām,5.168607551088724,druskām,druskām,druskām,,fullness
+γενεά,216,unigram,feminine,accusative,singular,bērniem,1.645041591500794,bērniem,,bērniem,,generation
+γενεά,140,unigram,feminine,nominative,singular,cilts,15.854363519178172,cilts,cilts,cilts,,generation
+δῶρον,279,unigram,neuter,accusative,plural,savas,1.6448262370957305,,,savas,,gift
+δῶρον,153,unigram,neuter,accusative,singular,dāvanu,2.425797713941186,dāvanu,dāvanu,dāvanu,,gift
+ἡγεμών,160,unigram,masculine,accusative,plural,valdnieku,1.549936084261763,valdnieku,dēļ,valdnieku,,"governor, ruler"
+ἡγεμών,11,unigram,masculine,accusative,singular,,,pārvaldnieks,valdītājs,,,"governor, ruler"
+ἀσπασμός,291,unigram,masculine,accusative,plural,laukumos,3.18891374985972,laukumos,,laukumos,,greeting
+ὁδηγός,4,unigram,masculine,nominative,singular,rādītāji,1.2238086321988717,rādītāji,ceļa,rādītāji,,guide
+χείρ,283,unigram,feminine,accusative,plural,rokas,90.61498232096602,rokas,rokas,rokas,,hand
+χείρ,205,unigram,feminine,accusative,singular,roku,20.533165646895366,roku,roku,roku,,hand
+κεφαλή,134,unigram,feminine,accusative,plural,galvas,2.549794413486484,galvas,,galvas,,head
+κεφαλή,192,unigram,feminine,accusative,singular,galvu,40.85322345831264,galvu,galvu,galvu,,head
+στάχυς,193,unigram,masculine,accusative,plural,vārpas,1.1382247921208992,vārpas,vārpas,vārpas,,head of grain
+καρδία,33,unigram,feminine,accusative,plural,sirdis,7.311496741264541,sirdis,sirdis,sirdis,,heart
+καρδία,258,unigram,feminine,accusative,singular,sirdī,2.2876708084622113,sirdī,sirdī,sirds,,heart
+καρδία,180,unigram,feminine,nominative,singular,sirds,67.906276691675,sirds,sirds,sirds,,heart
+οὐρανός,242,unigram,masculine,accusative,singular,debesīm,20.395650458819542,debesīm,debesīm,debesīm,,"heaven, sky"
+οὐρανός,185,unigram,masculine,nominative,singular,debess,1.198044400915981,debess,debess,debess,,"heaven, sky"
+ὥρα,264,unigram,feminine,nominative,plural,nepiedauzās,1.2019280568590713,nepiedauzās,,nepiedauzās,,hour
+ὥρα,25,unigram,feminine,nominative,singular,stunda,51.793564991315264,stunda,stunda,stunda,,hour
+οἰκία,146,unigram,feminine,accusative,plural,namus,3.420347246196449,namus,namus,namus,,house
+οἰκία,296,unigram,feminine,accusative,singular,namā,30.815822892526572,namā,namā,namā,,house
+οἶκος,21,unigram,masculine,accusative,singular,namā,1.4521909186907787,mājās,namā,namā,,"house, home"
+κριτής,278,unigram,masculine,nominative,plural,tiesātāji,1.6414066989195153,tiesātāji,tiesātāji,tiesātāji,,judge
+κριτής,155,unigram,masculine,nominative,singular,soģis,2.063994901252228,,soģis,,,judge
+βασιλεύς,102,unigram,masculine,accusative,plural,,,ķēniņu,dēļ,,,king
+βασιλεύς,55,unigram,masculine,accusative,singular,ķēniņu,9.5238781769546,ķēniņu,ķēniņu,ķēniņu,,king
+βασιλεία,76,unigram,feminine,accusative,plural,valstis,2.0255142457267565,valstis,valstis,valstis,,kingdom
+βασιλεία,151,unigram,feminine,accusative,singular,valstību,1.4794136608806612,,valstību,valstību,,kingdom
+κόπος,188,unigram,masculine,accusative,plural,,,darbu,darījusi,manis,,"labour, work, trouble, difficulty"
+λύχνος,213,unigram,masculine,nominative,singular,gaiša,2.0436790637241615,gaiša,svece,gaiša,,lamp
+κλῆρος,1,unigram,masculine,accusative,singular,drēbes,1.0997616280483267,drēbes,kauliņus,drēbes,,"lots (casting of lots), inheritance"
+ἄνθρωπος,267,unigram,masculine,accusative,plural,cilvēkus,7.37528209640304,cilvēkus,cilvēkus,cilvēkus,,man
+ἄνθρωπος,233,unigram,masculine,accusative,singular,cilvēku,120.94678602104949,cilvēku,cilvēku,cilvēku,,man
+ἄνθρωπος,113,unigram,masculine,nominative,plural,cilvēki,12.716582205675715,cilvēki,cilvēki,cilvēki,,man
+ἄνθρωπος,164,unigram,masculine,nominative,singular,cilvēks,769.3834126029587,cilvēks,cilvēks,cilvēks,,man
+ἀνήρ,228,unigram,masculine,accusative,singular,vīru,1.245089517158124,vīru,vīru,vīra,,"man, husband"
+ἀνήρ,138,unigram,masculine,nominative,plural,vīri,3.2876499058068425,vīri,vīri,tūkstoši,,"man, husband"
+ἀνήρ,219,unigram,masculine,nominative,singular,vīrs,45.26612215594224,vīrs,vīrs,vīrs,,"man, husband"
+μνᾶ,270,unigram,feminine,accusative,plural,desmit,1.5753172479975772,minas,desmit,desmit,,mina (about 100 days' wages)
+μνᾶ,12,unigram,feminine,accusative,singular,podi,1.106276804395426,,podi,,,mina (about 100 days' wages)
+πρωτοκαθεδρία,100,unigram,feminine,accusative,plural,goda,1.7167504598577104,goda,,goda,,"most important seat, seat of honour"
+πρωτοκαθεδρία,35,unigram,feminine,accusative,singular,krēslos,1.0960622061228922,,krēslos,,,"most important seat, seat of honour"
+μήτηρ,251,unigram,feminine,accusative,singular,māti,3.953295846860226,māti,māti,māti,,mother
+ὄρος,201,unigram,neuter,accusative,plural,kalnos,1.0876729259408686,,kalnos,,,mountain
+ὄρος,240,unigram,neuter,accusative,singular,kalnu,1.621389455777474,,kalnu,kalnu,,mountain
+μύρον,85,unigram,neuter,accusative,plural,smaržīgas,1.2014275627384847,smaržīgas,smaržīgas,smaršīgas,,myrrh
+ὄνομα,34,unigram,neuter,accusative,singular,Vārda,1.5529546517055473,Vārda,Vārda,vārdu,,name
+ὄνομα,98,unigram,neuter,nominative,plural,vārdi,2.612213033517926,vārdi,vārdi,vārdi,,name
+ὄνομα,229,unigram,neuter,nominative,singular,vārds,2.593528463214122,Vārds,vārds,vārds,,name
+ἔθνος,211,unigram,neuter,accusative,plural,tautām,4.826765774468174,tautām,tautām,tautām,,nation
+ἔθνος,181,unigram,neuter,accusative,singular,tautu,4.666189566775358,tautu,tautu,tautu,,nation
+ἔθνος,273,unigram,neuter,nominative,plural,tautas,1.7804757737304544,tautas,pagāni,tautas,,nation
+ἔθνος,26,unigram,neuter,nominative,singular,tauta,1.531512941940625,tauta,tauta,tauta,,nation
+νύξ,175,unigram,feminine,accusative,plural,naktis,5.5608225373913385,naktis,naktis,naktis,,night
+ὅρκος,56,unigram,masculine,accusative,plural,zvēresta,1.3438919096068984,zvēresta,zvērēšanas,zvēresta,,oath
+βοῦς,143,unigram,masculine,accusative,plural,vēršus,1.40486260276284,,vēršus,,,ox
+παραβολή,236,unigram,feminine,accusative,plural,līdzības,29.995013028586776,līdzības,līdzības,līdzības,,parable
+παραβολή,206,unigram,feminine,accusative,singular,līdzību,49.695434574417526,līdzību,līdzību,līdzību,,parable
+μέρος,313,unigram,neuter,accusative,plural,robežās,6.3031506316269805,robežās,atkāpās,robežās,,part
+μέρος,48,unigram,neuter,accusative,singular,sadalīja,1.5336737714286284,sadalīja,,sadalīja,,part
+μαργαρίτης,208,unigram,masculine,accusative,plural,pērles,7.999389291096735,pērles,pērles,pērles,,pearls
+τόπος,266,unigram,masculine,accusative,singular,vietu,1.8830581774151227,vietu,vietu,vietu,,place
+πρωτοκλισία,249,unigram,feminine,accusative,plural,viesībās,1.2454248849201373,viesībās,sēdēt,viesībās,,place of honor
+ὄφις,99,unigram,masculine,accusative,singular,čūsku,4.342789846802858,čūsku,čūsku,čūsku,,poison
+σκεῦος,130,unigram,neuter,accusative,plural,stipro,1.6922500394862472,stipro,nesaista,stipro,,"possession, object, thing, jar, vessel"
+σκεῦος,232,unigram,neuter,accusative,singular,neļāva,1.0298075289248323,neļāva,,,,"possession, object, thing, jar, vessel"
+σκεῦος,122,unigram,neuter,nominative,plural,negriežas,1.2013630877021924,negriežas,rīki,negriežas,,"possession, object, thing, jar, vessel"
+δύναμις,101,unigram,feminine,accusative,plural,,,brīnumu,,brī-numu,,"power, ability, miracle"
+δύναμις,44,unigram,feminine,accusative,singular,spēku,12.317547777452786,spēku,spēku,spēku,,"power, ability, miracle"
+δύναμις,79,unigram,feminine,nominative,plural,brīnumi,1.562064892540884,brīnumi,brīnumi,tādi,,"power, ability, miracle"
+δύναμις,109,unigram,feminine,nominative,singular,spēks,25.853270463503833,spēks,spēks,spēks,,"power, ability, miracle"
+ἱερεύς,19,unigram,masculine,nominative,plural,nevainīgi,1.7077186993672413,nevainīgi,nevainīgi,nevainīgi,,priest
+ἱερεύς,222,unigram,masculine,nominative,singular,priesteris,3.506542602714379,priesteris,priesteris,priesteris,,priest
+φυλακή,24,unigram,feminine,accusative,singular,cietumā,24.39714734652486,cietumā,cietumā,cietumā,,prison
+προφήτης,59,unigram,masculine,accusative,plural,praviešus,42.87606170558999,praviešus,praviešus,praviešus,,prophet
+προφήτης,186,unigram,masculine,accusative,singular,pravieti,10.0634550711663,pravieti,pravieti,pravieti,,prophet
+προφήτης,207,unigram,masculine,nominative,plural,pravieši,44.92218222057709,pravieši,pravieši,pravieši,,prophet
+προφήτης,241,unigram,masculine,nominative,singular,pravietis,66.18780191078531,pravietis,pravietis,pravietis,,prophet
+βαλλάντιον,18,unigram,neuter,accusative,singular,,,,kulīti,somu,,purse
+ποταμός,118,unigram,masculine,nominative,plural,straumes,2.6618482987419356,straumes,straumes,,,river
+λῃστής,312,unigram,masculine,accusative,singular,zobeniem,1.2265602278458272,,zobeniem,,,robber
+λῃστής,293,unigram,masculine,nominative,plural,sisti,1.133717122304438,sisti,slepkavas,sisti,,robber
+λῃστής,148,unigram,masculine,nominative,singular,laupītājs,3.999795658923141,laupītājs,slepkava,laupītājs,,robber
+ἄρχων,190,unigram,masculine,accusative,plural,virsniekus,1.0961309302758326,,virsniekus,,,ruler
+ἄρχων,63,unigram,masculine,nominative,plural,virsnieki,7.741831462872588,virsnieki,virsnieki,virsnieki,,ruler
+ἄρχων,287,unigram,masculine,nominative,singular,valdnieks,1.9982238961856225,valdnieks,virsnieks,valdnieks,,ruler
+ἀκοή,74,unigram,feminine,accusative,singular,,,ceturtās,slavu,,,rumor
+ἀκοή,301,unigram,feminine,nominative,singular,izpaudās,1.1556041896226135,izpaudās,slava,izpaudās,,rumor
+βιβλίον,50,unigram,neuter,accusative,singular,grāmatu,2.431748661026741,grāmatu,grāmatu,grāmatu,,"scroll, book"
+διάκονος,88,unigram,masculine,nominative,singular,grib,2.7410904693025566,grib,grib,grib,,"servant, minister, deacon"
+δοῦλος,195,unigram,masculine,accusative,plural,kalpus,39.20240992958027,kalpus,kalpus,kalpus,,"servant, slave"
+δοῦλος,27,unigram,masculine,accusative,singular,kalpu,3.882007825439177,kalpu,kalpu,kalpu,,"servant, slave"
+δοῦλος,97,unigram,masculine,nominative,plural,kalpi,271.9713527979307,kalpi,kalpi,kalpi,,"servant, slave"
+δοῦλος,191,unigram,masculine,nominative,singular,kalps,32.12125964414221,kalps,kalps,kalps,,"servant, slave"
+πρόβατον,297,unigram,neuter,accusative,plural,avis,47.9069770521151,avis,avis,avis,,sheep
+ποιμήν,227,unigram,masculine,nominative,plural,gani,12.25960742910828,gani,gani,gani,,"shepherd, pastor"
+ποιμήν,259,unigram,masculine,nominative,singular,gans,5.459105905467294,gans,gans,gans,,"shepherd, pastor"
+σημεῖον,132,unigram,neuter,accusative,plural,zīmes,20.765821679560446,zīmes,zīmes,zīmes,,sign
+σημεῖον,121,unigram,neuter,accusative,singular,zīmi,23.40520580237888,zīmi,zīmi,zīmi,,sign
+σημεῖον,41,unigram,neuter,nominative,plural,zīmes,15.973400353525241,zīmes,zīmes,zīmes,,sign
+σημεῖον,87,unigram,neuter,nominative,singular,zīme,6.687014334999671,zīme,zīme,zīme,,sign
+δραχμή,159,unigram,feminine,accusative,singular,pazaudējusi,3.999796512865521,pazaudējusi,,pazaudējusi,,"silver coin, drachma"
+ἀργύριον,200,unigram,neuter,accusative,plural,gabalus,1.2667128106350574,gabalus,gabalus,sudraba,,"silver, money"
+ἀργύριον,303,unigram,neuter,accusative,singular,naudu,48.10797984804913,naudu,naudu,naudu,,"silver, money"
+ἁμαρτία,254,unigram,feminine,accusative,plural,grēkus,11.16072040895384,grēkus,grēkus,grēkus,,sin
+ἁμαρτία,203,unigram,feminine,accusative,singular,grēka,1.6321705242814404,grēka,grēka,grēka,,sin
+ἁμαρτία,262,unigram,feminine,nominative,plural,grēki,1.772821287677467,,,grēki,,sin
+ἀδελφή,285,unigram,feminine,accusative,plural,māsas,1.7395860683676858,māsas,māsas,māsas,,sister
+ἀδελφή,127,unigram,feminine,accusative,singular,māsu,7.999385954187482,māsu,māsu,māsu,,sister
+ἀδελφή,20,unigram,feminine,nominative,plural,māsas,46.705935327965456,māsas,māsas,māsas,,sister
+ἀδελφή,284,unigram,feminine,nominative,singular,māsa,36.81778623025713,māsa,māsa,māsa,,sister
+ῥάπισμα,248,unigram,neuter,accusative,singular,iesita,1.2013416367619456,iesita,atbildi,iesita,,"slap, strike, hit"
+ὀψάριον,169,unigram,neuter,accusative,plural,Šeit,1.2013523596909814,Šeit,Še,Šeit,,small fish
+ὀψάριον,235,unigram,neuter,accusative,singular,zivis,1.6895050736435988,zivis,maizi,zivis,,small fish
+υἱός,46,unigram,masculine,accusative,plural,Cebedeja,3.87972845632308,Cebedeja,Cebedeja,Cebedeja,,son
+υἱός,120,unigram,masculine,accusative,singular,Dēlu,2.5994409511375025,Dēlu,Dēlu,Dēlu,,son
+υἱός,123,unigram,masculine,nominative,plural,bērni,47.63516295165005,bērni,bērni,bērni,,son
+υἱός,197,unigram,masculine,nominative,singular,Dēls,3.585173594135761,Dēls,Dēls,Dēls,,son
+ψυχή,257,unigram,feminine,accusative,singular,dzīvību,21.704570045364918,dzīvību,dzīvību,dzīvību,,"soul, life"
+ἀστήρ,268,unigram,masculine,nominative,plural,zvaigznes,1.189449958564392,zvaigznes,zvaigznes,zvaigznes,,star
+ἀστήρ,177,unigram,masculine,nominative,singular,zvaigzne,1.0960622061228922,zvaigzne,,,,star
+λίθος,272,unigram,masculine,accusative,plural,akmeņus,4.312076604179193,akmeņus,akmeņus,akmeņus,,stone
+λίθος,36,unigram,masculine,accusative,singular,akmeni,16.109451984671587,akmeni,akmeni,akmeni,,stone
+λίθος,131,unigram,masculine,nominative,plural,akmeņi,9.83408864745004,akmeņi,akmeņi,akmeņi,,stone
+λίθος,40,unigram,masculine,nominative,singular,akmens,10.32904686131366,akmens,akmens,akmens,,stone
+συναγωγή,225,unigram,feminine,accusative,plural,sinagogās,8.87970886090622,sinagogās,sinagogās,sinagogās,,synagogue
+συναγωγή,305,unigram,feminine,accusative,singular,sinagogā,7.3341330780749265,sinagogā,sinagogā,sinagogā,,synagogue
+τράπεζα,133,unigram,feminine,accusative,singular,,,mijējiem,,iestādē,,table
+τάλαντον,68,unigram,neuter,accusative,plural,,,talentus,podus,talantus,,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,210,unigram,neuter,accusative,singular,,,talentu,podu,talantu,,talent (weight and monetary unit: around 20 years' wages)
+φόρος,263,unigram,masculine,accusative,singular,meslus,1.059531995066612,,meslus,,,tax
+τελώνης,176,unigram,masculine,nominative,plural,muitnieki,8.542774963962467,muitnieki,muitnieki,muitinieki,,tax collector
+τελώνης,71,unigram,masculine,nominative,singular,muitnieks,14.130208221731964,muitnieks,muitnieks,muitnieks,,tax collector
+γραμματεύς,310,unigram,masculine,nominative,plural,mācītāji,1.065929461566567,mācītāji,rakstu,mācītāji,,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,198,unigram,masculine,nominative,singular,mācītājs,1.159355029757573,mācītājs,mācītājs,,,"teacher, expert in the law, scholar, scribe"
+κλέπτης,81,unigram,masculine,nominative,plural,zagļi,2.3479891379700626,zagļi,zagļi,,,thief
+κλέπτης,209,unigram,masculine,nominative,singular,zaglis,12.801704868219264,zaglis,zaglis,zaglis,,thief
+διαλογισμός,269,unigram,masculine,accusative,plural,domas,5.908146092252943,domas,domas,domas,,"thought, argument"
+διαλογισμός,137,unigram,masculine,accusative,singular,,,domas,nostādīja,,,"thought, argument"
+διαλογισμός,114,unigram,masculine,nominative,plural,domas,3.970168857032574,domas,domas,domas,,"thought, argument"
+διαλογισμός,261,unigram,masculine,nominative,singular,,,,domas,kurš,,"thought, argument"
+θρόνος,220,unigram,masculine,accusative,singular,troni,1.5763776567444985,troni,krēslu,troni,,throne
+χρόνος,214,unigram,masculine,accusative,singular,brīdi,1.1756865524773388,brīdi,laiku,brīdi,,time
+καιρός,135,unigram,masculine,nominative,singular,laiks,46.83810655949967,laiks,laiks,laiks,,"time, right time"
+τάφος,163,unigram,masculine,accusative,singular,kapu,1.8386764377310643,kapu,kapu,kapu,,"tomb, grave"
+μνημεῖον,13,unigram,neuter,accusative,plural,pieminekļus,1.0903149444426181,pieminekļus,,pieminekļus,,"tomb, grave"
+μνημεῖον,17,unigram,neuter,accusative,singular,kapa,31.13805340219727,kapa,kapa,kapa,,"tomb, grave"
+μνημεῖον,77,unigram,neuter,nominative,plural,kapi,1.9999484165552333,,kapi,,,"tomb, grave"
+μνημεῖον,239,unigram,neuter,nominative,singular,kapa,1.463631428489384,kapa,kaps,kapa,,"tomb, grave"
+ὀδούς,69,unigram,masculine,accusative,singular,zobu,2.1534143775919947,zobu,zobu,zobu,,tooth
+θησαυρός,93,unigram,masculine,accusative,plural,mantas,1.6513130781804746,mantas,,mantas,,treasure
+θησαυρός,204,unigram,masculine,accusative,singular,nabagiem,1.969789115237739,nabagiem,nabagiem,nabagiem,,treasure
+δένδρον,86,unigram,neuter,accusative,plural,kokus,1.9999488926359328,,kokus,,,tree	
+δένδρον,75,unigram,neuter,accusative,singular,koku,4.8725565048806105,koku,koku,koku,,tree	
+κώμη,244,unigram,feminine,accusative,plural,miestos,2.175331638374972,miestos,,miestos,,village
+κώμη,52,unigram,feminine,accusative,singular,ciemā,2.615365264514638,ciemā,,ciemā,,village
+παρθένος,253,unigram,feminine,nominative,plural,jaunavas,3.9997962573930907,jaunavas,jumpravas,jaunavas,,virgin
+φωνή,294,unigram,feminine,nominative,singular,balss,31.252910498637497,balss,balss,balss,,voice or sound
+πόλεμος,237,unigram,masculine,accusative,plural,gals,1.3763624119695181,gals,,,,war
+ὕδωρ,311,unigram,neuter,accusative,plural,virsu,1.2648213043337573,virsu,virsu,ūdens,,water
+ὕδωρ,90,unigram,neuter,accusative,singular,ūdeni,68.2183389301344,ūdeni,ūdeni,ūdeni,,water
+ὕδωρ,107,unigram,neuter,nominative,singular,ūdens,18.57832321899654,ūdens,ūdens,ūdens,,water
+ὑδρία,111,unigram,feminine,accusative,singular,trauku,1.5347949027203343,trauku,trauku,ūdenstrauku,,water jar
+ὁδός,238,unigram,feminine,accusative,plural,lielceļiem,1.4662772923326746,lielceļiem,,lielceļiem,,way
+ὁδός,136,unigram,feminine,accusative,singular,ceļu,5.52766271242126,ceļu,ceļu,ceļu,,way
+γάμος,154,unigram,masculine,accusative,plural,kāzās,29.797881391033105,kāzās,kāzās,kāzās,,wedding
+γάμος,223,unigram,masculine,accusative,singular,kāzām,1.0961063339256685,,kāzām,,,wedding
+γυνή,106,unigram,feminine,accusative,plural,,,cietsirdības,sievām,,,"wife, woman"
+γυνή,167,unigram,feminine,accusative,singular,sievu,8.465210354313983,sievu,sievu,sievu,,"wife, woman"
+γυνή,115,unigram,feminine,nominative,plural,sievas,6.410888824943808,sievas,sievas,sievas,,"wife, woman"
+γυνή,119,unigram,feminine,nominative,singular,sieva,101.99834309616374,sieva,sieva,sieva,,"wife, woman"
+ἄνεμος,7,unigram,masculine,nominative,plural,vēji,3.8310902097962183,vēji,vēji,vēji,,wind
+ἄνεμος,65,unigram,masculine,nominative,singular,vējš,12.863306804559521,vējš,vējš,vējš,,wind
+πνεῦμα,282,unigram,neuter,accusative,plural,garus,1.8660822257465715,garus,garus,garus,,"wind, breath, spirit"
+πνεῦμα,158,unigram,neuter,accusative,singular,Garu,9.857369791305628,Garu,Garu,Garu,,"wind, breath, spirit"
+πνεῦμα,10,unigram,neuter,nominative,plural,gari,2.526712875795375,gari,gari,gari,,"wind, breath, spirit"
+πνεῦμα,23,unigram,neuter,nominative,singular,Gars,1.807080437131771,Gars,Gars,Gars,,"wind, breath, spirit"
+ῥῆμα,174,unigram,neuter,accusative,plural,vārdus,39.15904019823291,vārdus,vārdus,vārdus,,word
+ῥῆμα,156,unigram,neuter,accusative,singular,vārdu,2.632829518541818,vārdu,vārdu,vārdu,,word
+ῥῆμα,31,unigram,neuter,nominative,plural,vārdi,15.254256540491467,vārdi,vārdi,vārdi,,word
+ῥῆμα,299,unigram,neuter,nominative,singular,vārds,5.108413736175329,vārds,vārds,vārds,,word
+λόγος,157,unigram,masculine,accusative,plural,vārdus,2.320749648991945,vārdus,vārdus,vārdus,,word
+λόγος,149,unigram,masculine,accusative,singular,vārdu,4.307825149670653,vārdu,vārdu,vārdu,,word
+λόγος,145,unigram,masculine,nominative,plural,vārdi,1.3188106556197403,vārdi,vārdi,vārdi,,word
+λόγος,271,unigram,masculine,nominative,singular,vārdi,8.017713473565733,vārdi,vārds,vārdi,,word
+ἔργον,43,unigram,neuter,accusative,plural,darbus,78.92812885084062,darbus,darbus,darbus,,work
+ἔργον,91,unigram,neuter,accusative,singular,darbu,41.3124626547734,darbu,darbu,darbu,,work
+ἔργον,275,unigram,neuter,nominative,plural,darbi,22.108545084068624,darbi,darbi,darbi,,work
+ἔργον,252,unigram,neuter,nominative,singular,darbs,1.3173076505130248,darbs,darbs,darbs,,work
+ἐργάτης,139,unigram,masculine,nominative,plural,Pļaujamā,1.2454884616809658,Pļaujamā,maz,Pļaujamā,,worker
+ἐργάτης,199,unigram,masculine,nominative,singular,strādniekam,1.7202271437543546,,strādniekam,,,worker
+ἔτος,234,unigram,neuter,accusative,plural,gadus,70.70871326564858,gadus,gadus,gadus,,year

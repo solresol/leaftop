@@ -1,0 +1,367 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_693_translation,version_694_translation,version_695_translation,version_696_translation,version_697_translation,version_698_translation,version_699_translation,version_700_translation,version_701_translation,version_702_translation,english_translation
+θεός,355,unigram,masculine,accusative,plural,diathan,1.2039751291158407,diathan,diathan,,,,,,,,,God
+θεός,144,unigram,masculine,accusative,singular,Dhia,1.8062404877760574,Dhia,Dhia,Dia,,,,,,,Dhia,God
+θεός,225,unigram,masculine,nominative,singular,Dia,1156.0119711265247,Dia,Dia,Dia,,,,,,,Dia,God
+κύριος,357,unigram,masculine,nominative,plural,t‑searraich,1.0970894485985805,,,t‑searraich,,,,,,,,"Lord, lord, master"
+κύριος,145,unigram,masculine,nominative,singular,Tighearna,72.6818381784065,Tighearna,Tighearna,Tighearna,,,,,,,Tighearna,"Lord, lord, master"
+γραφή,139,unigram,feminine,accusative,plural,sgriobtairean,11.916491374825972,sgriobtairean,sgriobtairean,Sgriobtaran,,,,,,,sgriobturan,Scripture
+γραφή,56,unigram,feminine,accusative,singular,sgriobtar,3.9997947117184753,sgriobtar,sgriobtar,Sgriobtar,,,,,,,sgriobtur,Scripture
+γραφή,285,unigram,feminine,nominative,plural,sgriobtairean,1.4762223097402098,sgriobtairean,sgriobtairean,coileanadh,,,,,,,sgriobturan,Scripture
+γραφή,350,unigram,feminine,nominative,singular,sgriobtar,25.763497238482206,sgriobtar,sgriobtar,Sgriobtar,,,,,,,sgriobtur,Scripture
+ἄγγελος,108,unigram,masculine,accusative,plural,aingil,2.2115440828212747,aingil,aingil,h‑ainglean,,,,,,,,angel
+ἄγγελος,52,unigram,masculine,nominative,plural,h‑aingil,1.9684567385658094,h‑aingil,h‑aingil,h‑ainglean,,,,,,,h-ainglean,angel
+ἄγγελος,118,unigram,masculine,nominative,singular,aingeal,1.6003680052651108,aingeal,aingeal,aingeal,,,,,,,aingeal,angel
+ἀπόστολος,49,unigram,masculine,nominative,plural,h‑Abstoil,3.1056911323899135,h‑Abstoil,h‑Abstoil,h‑abstoil,,,,,,,h-ostail,apostle
+ἀπόστολος,5,unigram,masculine,nominative,singular,teachdaire,2.0087358461890474,teachdaire,teachdaire,teachdaire,,,,,,,t-ostal,apostle
+ἐξουσία,78,unigram,feminine,accusative,plural,fhreagras,1.1690903246673063,fhreagras,fhreagras,,,,,,,,,authority
+ἐξουσία,214,unigram,feminine,accusative,singular,cumhachd,6.61782697018178,cumhachd,cumhachd,ùghdarras,,,,,,,cumhachd,authority
+βρέφος,16,unigram,neuter,accusative,plural,,,,,naoidheanan,,,,,,,bheantuinn,babies
+βρέφος,348,unigram,neuter,accusative,singular,laighe,2.3286615738193843,laighe,laighe,laighe,,,,,,,prasaich,babies
+ἀποθήκη,292,unigram,feminine,accusative,plural,saibhlean,7.221436319766724,saibhlean,saibhlean,saibhlean,,,,,,,mua,barn
+ἀποθήκη,77,unigram,feminine,accusative,singular,,,,,chruithneachd,,,,,,,shabhal,barn
+φραγμός,251,unigram,masculine,accusative,plural,callaidean,1.096057314542422,,,,,,,,,,callaidean,"barrier, wall"
+ἀρχή,80,unigram,feminine,accusative,plural,fhreagras,1.1688526686306953,fhreagras,fhreagras,,,,,,,,,beginning
+ἀρχή,196,unigram,feminine,accusative,singular,thùs,1.2238654476742756,thùs,thùs,Càna,,,,,,,Toiseach,beginning
+ζώνη,240,unigram,feminine,accusative,singular,fhionnadh,1.2013309189107515,fhionnadh,fhionnadh,dh'fhionnadh,,,,,,,chalg,belt
+βλασφημία,34,unigram,feminine,accusative,plural,toibheim,1.1687911118267487,toibheim,toibheim,toibheumach,,,,,,,blais-bheum,blasphemy
+βλασφημία,105,unigram,feminine,accusative,singular,thoibheum,1.34872488402202,thoibheum,thoibheum,shrac,,,,,,,,blasphemy
+βλασφημία,223,unigram,feminine,nominative,plural,toibheum,3.0483587000890826,toibheum,toibheum,,,,,,,,,blasphemy
+βλασφημία,93,unigram,feminine,nominative,singular,toibheum,3.0483587000890826,toibheum,toibheum,,,,,,,,blaisbheum,blasphemy
+πλοῖον,116,unigram,neuter,accusative,plural,luing,1.8314597959297703,luing,luing,eathar,,,,,,,shaghach,boat
+πλοῖον,333,unigram,neuter,accusative,singular,luing,15.579743169758013,luing,luing,eathar,,,,,,,bhàta,boat
+πλοῖον,258,unigram,neuter,nominative,plural,longan,1.201741803934157,longan,longan,eathraichean,,,,,,,,boat
+πλοῖον,242,unigram,neuter,nominative,singular,long,3.4353223335026777,long,long,t‑eathar,,,,,,,,boat
+σῶμα,67,unigram,neuter,nominative,singular,chorp,7.926932360376983,chorp,chorp,chorp,,,,,,,cholunn,body
+κλῆμα,63,unigram,neuter,nominative,plural,,,eugmhais-sa,eugmhais‐sa,,,,,,,,,branch
+κλῆμα,161,unigram,neuter,nominative,singular,fan,1.5728456338931138,fan,fan,ghèig,,,,,,,,branch
+ἄρτος,337,unigram,masculine,accusative,plural,buileannan,1.2509903233118298,buileannan,buileannan,lofaichean,,,,,,,builionnan,bread
+ἄρτος,366,unigram,masculine,accusative,singular,aran,76.04827628210619,aran,aran,aran,,,,,,,aran,bread
+ἄρτος,170,unigram,masculine,nominative,plural,aran,2.894843937940779,aran,aran,aran,,,,,,,aran,bread
+ἄρτος,42,unigram,masculine,nominative,singular,t‑aran,1.0872832872151648,t‑aran,t‑aran,,,,,,,,nuas,bread
+ἀδελφός,324,unigram,masculine,accusative,plural,bhràithrean,3.5219232559715596,bhràithrean,bhràithrean,bhràithrean,,,,,,,bhraithrean,brother
+ἀδελφός,130,unigram,masculine,accusative,singular,bhràthair,8.554761257901033,bhràthair,bhràthair,bhràthair,,,,,,,bhrathair,brother
+ἀδελφός,121,unigram,masculine,nominative,plural,bhràithrean,11.534764230408914,bhràithrean,bhràithrean,bhràithrean,,,,,,,bhraithrean,brother
+ἀδελφός,249,unigram,masculine,nominative,singular,bhràthair,10.662159483220936,bhràthair,bhràthair,bhràthair,,,,,,,bhrathair,brother
+στῆθος,167,unigram,neuter,accusative,plural,t‑seallaidh,1.2013523596909814,t‑seallaidh,t‑seallaidh,,,,,,,,t-seallaidh,"chest, breast"
+στῆθος,308,unigram,neuter,accusative,singular,uchd,3.7443367847986053,uchd,uchd,sìneadh,,,,,,,ʼuchd,"chest, breast"
+ἀρχιερεύς,264,unigram,masculine,accusative,plural,,,h‑àrd-shagartan,h‑àrd‐shagartan,h‑àrd‑shagartan,,,,,,,ard-shagart,chief priest
+ἀρχιερεύς,68,unigram,masculine,accusative,singular,,,t‑àrd-shagart,t‑àrd‐shagart,t‑àrd‑shagart,,,,,,,t-ard-shagart,chief priest
+ἀρχιερεύς,129,unigram,masculine,nominative,plural,,,h‑àrd-shagartan,h‑àrd‐shagartan,h‑àrd‑shagartan,,,,,,,h-ard-shagairt,chief priest
+ἀρχιερεύς,269,unigram,masculine,nominative,singular,,,t‑àrd-shagart,t‑àrd‐shagart,t‑àrd‑shagart,,,,,,,t-ard-shagart,chief priest
+παῖς,254,unigram,masculine,accusative,plural,ʼsa,1.0231973156079937,,,,,,,,,,ʼsa,child
+παῖς,54,unigram,masculine,accusative,singular,reub,1.1313982503928164,reub,reub,chrath,,,,,,,riab,child
+τέκνον,359,unigram,neuter,accusative,plural,,,clann,clann,chlann,,,,,,,chlann,child
+τέκνον,193,unigram,neuter,accusative,singular,bràthair,2.235981965299118,bràthair,bràthair,bràthair,,,,,,,brathair,child
+τέκνον,17,unigram,neuter,nominative,plural,chlann,3.8355069848722736,chlann,chlann,pàrantan,,,,,,,parantan,child
+τέκνον,206,unigram,neuter,nominative,singular,mhic,31.840841996833838,mhic,mhic,mhic,,,,,,,mhic,child
+παιδίον,15,unigram,neuter,accusative,plural,leanaban,1.9208181429315778,leanaban,leanaban,leithidean,,,,,,,bhig,child
+παιδίον,100,unigram,neuter,accusative,singular,leanabh,20.20768939434113,leanabh,leanabh,leanabh,,,,,,,leanabh,child
+παιδίον,186,unigram,neuter,nominative,plural,chlann,2.278815352229078,chlann,chlann,leanabanan,,,,,,,chlann,child
+παιδίον,44,unigram,neuter,nominative,singular,leanabh,11.322374262625937,leanabh,leanabh,leanabh,,,,,,,leanabh,child
+πόλις,197,unigram,feminine,accusative,plural,,,bhailtean,bhailtean,bailtean,,,,,,,bailtean,city
+πόλις,72,unigram,feminine,accusative,singular,bhaile,1.4791734381974062,bhaile,bhaile,baile,,,,,,,bhaile,city
+πύλη,222,unigram,feminine,nominative,singular,,,treòrachadh,treòrachadh,geata,,,,,,,geata,city gate
+χιτών,125,unigram,masculine,accusative,plural,chòta,2.532819977717685,chòta,chòta,lèine‑fhada,,,,,,,chota,"clothing, undergarments"
+χιτών,31,unigram,masculine,accusative,singular,chòta,4.07900400388333,chòta,chòta,lèine‑fhada,,,,,,,chleoc,"clothing, undergarments"
+ἱμάτιον,142,unigram,neuter,accusative,plural,fallaingean,1.671052209855729,fallaingean,fallaingean,aodaich,,,,,,,aodach,coat
+ἱμάτιον,141,unigram,neuter,accusative,singular,fhallaing,6.785903514565357,fhallaing,fhallaing,aodaich,,,,,,,chota,coat
+ἐντολή,90,unigram,feminine,accusative,plural,h‑àitheantan,2.818484047194252,h‑àitheantan,h‑àitheantan,h‑àitheantan,,,,,,,faintean,commandment
+ἐντολή,88,unigram,feminine,accusative,singular,àithne,79.86318082414444,àithne,àithne,àithne,,,,,,,fainte,commandment
+συνέδριον,342,unigram,neuter,accusative,plural,chomhairlean,3.9122076375604995,chomhairlean,chomhairlean,chomhairlean,,,,,,,chomhairlean,council
+συνέδριον,58,unigram,neuter,accusative,singular,comhairle,1.093642236019067,comhairle,comhairle,chruinnich,,,,,,,thionail,council
+χώρα,85,unigram,feminine,accusative,plural,seallaibh,1.3489278702860206,seallaibh,seallaibh,foghar,,,,,,,,"country, countryside"
+χώρα,313,unigram,feminine,accusative,singular,dhùthaich,1.0875483216680049,dhùthaich,dhùthaich,dùthaich,,,,,,,duthaich,"country, countryside"
+ὄχλος,64,unigram,masculine,accusative,plural,sluagh,11.931144488751421,sluagh,sluagh,sluagh,,,,,,,sluagh,crowd
+ὄχλος,9,unigram,masculine,accusative,singular,sluagh,2.2989927783021336,sluagh,sluagh,sluagh,,,,,,,t-sluaigh,crowd
+ὄχλος,110,unigram,masculine,nominative,plural,sluagh,175.07253178390351,sluagh,sluagh,sluagh,,,,,,,sluagh,crowd
+ὄχλος,303,unigram,masculine,nominative,singular,sluagh,154.9943460809787,sluagh,sluagh,sluagh,,,,,,,sluagh,crowd
+θυγάτηρ,336,unigram,feminine,nominative,singular,nighean,381.6109989496405,nighean,nighean,nighean,,,,,,,nighean,daughter
+ἡμέρα,83,unigram,feminine,accusative,plural,,,làithean,làithean,latha,,,,,,,latha,day
+ἡμέρα,94,unigram,feminine,accusative,singular,,,là,là,latha,,,,,,,latha,day
+ἡμέρα,2,unigram,feminine,nominative,plural,làithean,173.93764127679856,làithean,làithean,làithean,,,,,,,laithean,day
+ἡμέρα,74,unigram,feminine,nominative,singular,,,là,là,latha,,,,,,,latha,day
+ὀφειλέτης,132,unigram,masculine,nominative,singular,tàlann,1.1687399523295585,tàlann,tàlann,,,,,,,,talann,debtor
+δαιμόνιον,32,unigram,neuter,accusative,plural,dheamhan,2.5714790363713274,dheamhan,dheamhan,dheamhan,,,,,,,dheomhan,demon
+δαιμόνιον,353,unigram,neuter,accusative,singular,deamhan,189.4325865337727,deamhan,deamhan,deamhan,,,,,,,deomhan,demon
+δαιμόνιον,208,unigram,neuter,nominative,plural,deamhain,15.646079130573378,deamhain,deamhain,deamhain,,,,,,,deomhain,demon
+δαιμόνιον,184,unigram,neuter,nominative,singular,deamhan,9.7929732269472,deamhan,deamhan,deamhan,,,,,,,deomhan,demon
+δηνάριον,329,unigram,neuter,accusative,plural,pèighinn,1.4335490869768448,pèighinn,pèighinn,denarius,,,,,,,peighinn,denarius (about a day's wages)
+δηνάριον,172,unigram,neuter,accusative,singular,pèighinn,6.7423245519575365,pèighinn,pèighinn,bonn,,,,,,,sgilinn,denarius (about a day's wages)
+μαθητής,190,unigram,masculine,accusative,plural,dheisciobail,58.00253055939534,dheisciobail,dheisciobail,dheisciobail,,,,,,,dheisciopuil,disciple
+μαθητής,360,unigram,masculine,accusative,singular,deisciobal,1.8695629824161295,deisciobal,deisciobal,deisciobal,,,,,,,deisciopul,disciple
+μαθητής,296,unigram,masculine,nominative,plural,dheisciobail,6.476859699756675,dheisciobail,dheisciobail,dheisciobail,,,,,,,dheisciopuil,disciple
+μαθητής,358,unigram,masculine,nominative,singular,deisciobal,16.37016888119247,deisciobal,deisciobal,deisciobal,,,,,,,deisciopul,disciple
+νόσος,3,unigram,feminine,accusative,plural,tinneasan,1.9999489569121105,,,tinneasan,,,,,,,,disease
+νόσος,82,unigram,feminine,accusative,singular,eucail,2.6619236092367835,eucail,eucail,bochdainn,,,,,,,easlaint,disease
+περιστερά,109,unigram,feminine,accusative,plural,chalaman,1.26009100859534,chalaman,chalaman,reic,,,,,,,luchd-reic,dove
+περιστερά,60,unigram,feminine,accusative,singular,chalaman,2.485950615426139,chalaman,chalaman,chalman,,,,,,,chalaman,dove
+οὖς,160,unigram,neuter,accusative,plural,cluasan,4.455228341703513,cluasan,cluasan,cluasan,,,,,,,cluasan,ear
+οὖς,302,unigram,neuter,accusative,singular,chluais,1.5515592065099266,chluais,chluais,chluais,,,,,,,chluais,ear
+σεισμός,215,unigram,masculine,nominative,plural,,,crithean-talmhainn,crithean‐talmhainn,crithean‑talmhainn,,,,,,,crithean-talmhuinn,"earthquakes, storm"
+σεισμός,70,unigram,masculine,nominative,singular,mhòr,2.1621244066551317,mhòr,mhòr,mhòr,,,,,,,mhor,"earthquakes, storm"
+τέλος,35,unigram,neuter,accusative,plural,choigrich,1.1455438158397078,,,,,,,,,,choigrich,end
+τέλος,293,unigram,neuter,accusative,singular,,,,,crìche,,,,,,,sabhailte,end
+αἰών,255,unigram,masculine,accusative,plural,bràth,1.0902886478027773,bràth,bràth,riaghlaidh,,,,,,,crioch,eternity
+αἰών,325,unigram,masculine,accusative,singular,bràth,3.0727257839054203,bràth,bràth,bràth,,,,,,,bràth,eternity
+ὀφθαλμός,24,unigram,masculine,accusative,plural,shùilean,2.7841080999861285,shùilean,shùilean,shùilean,,,,,,,shuilean,eye
+ὀφθαλμός,71,unigram,masculine,nominative,plural,sùilean,41.27646510885497,sùilean,sùilean,sùilean,,,,,,,suilean,eye
+ὀφθαλμός,322,unigram,masculine,nominative,singular,shùil,8.350984991439732,shùil,shùil,shùil,,,,,,,shuil,eye
+πρόσωπον,131,unigram,neuter,accusative,plural,aghaidh,1.1567256470675482,aghaidh,aghaidh,aghaidhean,,,,,,,duaichnichidh,face
+πρόσωπον,203,unigram,neuter,accusative,singular,aghaidh,2.2945116418475022,aghaidh,aghaidh,aghaidh,,,,,,,eisimeil,face
+λιμός,102,unigram,feminine,nominative,singular,gort,1.5763401816878182,gort,gort,,,,,,,,,famine
+λιμός,146,unigram,masculine,nominative,singular,gorta,1.3167922019170277,gorta,gorta,gorta,,,,,,,,famine
+γεωργός,271,unigram,masculine,nominative,plural,tuath,3.843298536954008,tuath,tuath,tuathanaich,,,,,,,tuath,"farmer, tenant"
+γεωργός,55,unigram,masculine,nominative,singular,treabhaiche,1.201459869218647,treabhaiche,treabhaiche,,,,,,,,tuathanach,"farmer, tenant"
+πατήρ,209,unigram,masculine,accusative,plural,n‑athraichean,1.4848449403195092,n‑athraichean,n‑athraichean,n‑athraichean,,,,,,,,father
+πατήρ,328,unigram,masculine,accusative,singular,athair,2.5862289243426266,athair,athair,athair,,,,,,,Athair,father
+πατήρ,335,unigram,masculine,nominative,plural,n‑athraichean,5.625396146853201,n‑athraichean,n‑athraichean,n‑athraichean,,,,,,,n-aithrichean,father
+πατήρ,198,unigram,masculine,nominative,singular,Athair,1.5074889570760712,Athair,Athair,t‑Athair,,,,,,,t-Athair,father
+σύνδουλος,96,unigram,masculine,accusative,singular,cho-sheirbhiseach,1.3486844045269415,cho-sheirbhiseach,cho‐sheirbhiseach,cho‑sheirbheiseach,,,,,,,cho-sheirbhiseach,"fellow-servant, colleague"
+σύνδουλος,339,unigram,masculine,nominative,plural,cho-sheirbhisich,1.2013630877021924,cho-sheirbhisich,cho‐sheirbhisich,cho‑sheirbheisich,,,,,,,cho-sheirbhisich,"fellow-servant, colleague"
+σύνδουλος,122,unigram,masculine,nominative,singular,cho-sheirbhiseach,1.2013630877021924,cho-sheirbhiseach,cho‐sheirbhiseach,cho‑sheirbheiseach,,,,,,,cho-sheirbhiseach,"fellow-servant, colleague"
+ἀγρός,352,unigram,masculine,accusative,plural,peathraichean,1.6012240817659453,peathraichean,peathraichean,achaidhean,,,,,,,peathraichean,field
+ἀγρός,43,unigram,masculine,accusative,singular,,,fearann,fearann,achadh,,,,,,,achadh,field
+δάκτυλος,247,unigram,masculine,accusative,plural,mheoir,1.0960768946513286,,,,,,,,,,mheoir,finger
+δάκτυλος,189,unigram,masculine,accusative,singular,mheur,1.3915070751628584,mheur,mheur,chorrag,,,,,,,mhiar,finger
+ἰχθύς,164,unigram,masculine,accusative,plural,iasg,3.990211142669126,iasg,iasg,iasg,,,,,,,iasg,fish
+ἰχθύς,202,unigram,masculine,accusative,singular,iasg,3.146983478214207,iasg,iasg,iasg,,,,,,,nathair,fish
+δίκτυον,117,unigram,neuter,accusative,plural,lìon,1.1604759886916884,lìon,lìon,lìn,,,,,,,lion,fishing net
+δίκτυον,212,unigram,neuter,accusative,singular,èisg,1.4526639122198606,èisg,èisg,dh'èisg,,,,,,,dhʼiasg,fishing net
+δίκτυον,185,unigram,neuter,nominative,plural,chuairtich,1.0960965115985384,,,,,,,,,,chuairtich,fishing net
+δίκτυον,259,unigram,neuter,nominative,singular,mhòra,1.1226693996360995,mhòra,mhòra,,,,,,,,sthrac,fishing net
+τροφή,261,unigram,feminine,accusative,plural,cheannach,1.6413728476737688,cheannach,cheannach,cheannach,,,,,,,bìdh,food
+τροφή,347,unigram,feminine,accusative,singular,glic,1.1677780288409092,glic,glic,bìdh,,,,,,,theaghlaich,food
+πούς,250,unigram,masculine,accusative,plural,chasan,17.484813675260764,chasan,chasan,chasan,,,,,,,chasan,foot
+καρπός,195,unigram,masculine,accusative,plural,,,,,toradh,,,,,,,mheas,"fruit, crop, harvest"
+καρπός,245,unigram,masculine,accusative,singular,toradh,24.79796323765678,toradh,toradh,toradh,,,,,,,toradh,"fruit, crop, harvest"
+πλήρωμα,288,unigram,neuter,accusative,plural,bhiadh,1.773042405111754,bhiadh,bhiadh,chriomagan,,,,,,,thog,fullness
+πλήρωμα,346,unigram,neuter,accusative,singular,,,,,tuthag,,,,,,,dhʼaodach,fullness
+γενεά,289,unigram,feminine,accusative,plural,,,thròcair-san,thròcair‐san,,,,,,,,throcair,generation
+γενεά,246,unigram,feminine,accusative,singular,ginealach,6.617280238765478,ginealach,ginealach,,,,,,,,ginealach,generation
+γενεά,159,unigram,feminine,nominative,singular,ginealach,6.94856544425625,ginealach,ginealach,ginealach,,,,,,,ginealach,generation
+δῶρον,327,unigram,neuter,accusative,plural,tìodhlacan,2.851762490487025,tìodhlacan,tìodhlacan,tiodhlacan,,,,,,,,gift
+δῶρον,174,unigram,neuter,accusative,singular,h‑altarach,1.1417167026693715,h‑altarach,h‑altarach,thiodhlac,,,,,,,altair,gift
+ἡγεμών,182,unigram,masculine,accusative,plural,rìghrean,1.6125453555357805,rìghrean,rìghrean,rìghrean,,,,,,,righrean,"governor, ruler"
+ἡγεμών,12,unigram,masculine,accusative,singular,t‑uachdaran,1.671948219188826,t‑uachdaran,t‑uachdaran,chor,,,,,,,,"governor, ruler"
+ἀσπασμός,338,unigram,masculine,accusative,plural,margaidhean,1.1965088582963914,margaidhean,margaidhean,fàilte,,,,,,,mhargadh,greeting
+ἀσπασμός,183,unigram,masculine,accusative,singular,naoidhean,1.0960768946513286,,,naoidhean,,,,,,,,greeting
+ὁδηγός,4,unigram,masculine,nominative,singular,luchd‑treòrachaidh,1.1062588450262767,,,luchd‑treòrachaidh,,,,,,,,guide
+θρίξ,101,unigram,feminine,nominative,plural,cinn,1.2463096049286688,cinn,cinn,cinn,,,,,,,,hair
+χείρ,331,unigram,feminine,accusative,plural,làmhan,138.6470128309324,làmhan,làmhan,làmhan,,,,,,,lamhan,hand
+χείρ,233,unigram,feminine,accusative,singular,làmh,30.7391216857228,làmh,làmh,làmh,,,,,,,lamh,hand
+κεφαλή,152,unigram,feminine,accusative,plural,,,crathadh,crathadh,cinn,,,,,,,cinn,head
+κεφαλή,219,unigram,feminine,accusative,singular,cheann,19.143340195603926,cheann,cheann,cheann,,,,,,,cheann,head
+στάχυς,220,unigram,masculine,accusative,plural,dhias,1.5323061560754436,,,,,,,,,,dhias,head of grain
+καρδία,36,unigram,feminine,accusative,plural,cridheachan,3.6146131512805706,,,cridheachan,,,,,,,cridheachan,heart
+καρδία,305,unigram,feminine,accusative,singular,cridhe,107.44689186633555,cridhe,cridhe,cridhe,,,,,,,cridhe,heart
+καρδία,204,unigram,feminine,nominative,singular,cridhe,130.29643608085524,cridhe,cridhe,cridhe,,,,,,,cridhe,heart
+οὐρανός,6,unigram,masculine,accusative,plural,nèamhan,1.5814943356601205,nèamhan,nèamhan,,,,,,,,,"heaven, sky"
+οὐρανός,284,unigram,masculine,accusative,singular,nèamh,21.811808402083944,nèamh,nèamh,nèamh,,,,,,,neamh,"heaven, sky"
+οὐρανός,365,unigram,masculine,nominative,plural,tùirling,1.4743129285398442,tùirling,tùirling,nèamhan,,,,,,,,"heaven, sky"
+οὐρανός,210,unigram,masculine,nominative,singular,nèamh,3.0631414523331446,nèamh,nèamh,nèamh,,,,,,,neamh,"heaven, sky"
+ὥρα,312,unigram,feminine,nominative,plural,choisicheas,1.0963247953316897,,,choisicheas,,,,,,,,hour
+ὥρα,27,unigram,feminine,nominative,singular,uair,48.95842440953531,uair,uair,uair,,,,,,,uair,hour
+οἰκία,166,unigram,feminine,accusative,plural,taighean,3.615912287017429,taighean,taighean,taighean,,,,,,,tighean,house
+οἰκία,343,unigram,feminine,accusative,singular,taigh,2.2364894843284593,taigh,taigh,taigh,,,,,,,tigh,house
+οἶκος,300,unigram,masculine,accusative,plural,stiùbhardachd,1.1692677280380566,stiùbhardachd,stiùbhardachd,chuirear,,,,,,,stiubhartachd,"house, home"
+οἶκος,23,unigram,masculine,accusative,singular,thaigh,11.893819609725327,thaigh,thaigh,thaigh,,,,,,,thigh,"house, home"
+κριτής,326,unigram,masculine,nominative,plural,Beelsebub,1.1315437072578778,,,,,,,,,,Beelsebub,judge
+κριτής,176,unigram,masculine,nominative,singular,britheamh,18.14823860002492,britheamh,britheamh,britheamh,,,,,,,britheamh,judge
+κλείς,92,unigram,feminine,accusative,plural,iuchraichean,1.2013309189107515,iuchraichean,iuchraichean,,,,,,,,,key
+κλείς,169,unigram,feminine,accusative,singular,iuchair,1.1613026128296644,,,,,,,,,,iuchair,key
+βασιλεύς,115,unigram,masculine,accusative,plural,rìghrean,2.2288919405276997,rìghrean,rìghrean,rìghrean,,,,,,,righrean,king
+βασιλεύς,65,unigram,masculine,accusative,singular,rìgh,18.2686854920816,rìgh,rìgh,rìgh,,,,,,,righ,king
+βασιλεία,86,unigram,feminine,accusative,plural,rìoghachdan,1.8027801790759737,rìoghachdan,rìoghachdan,rìoghachdan,,,,,,,rioghachdan,kingdom
+βασιλεία,171,unigram,feminine,accusative,singular,rìoghachd,33.609663563390185,rìoghachd,rìoghachd,rìoghachd,,,,,,,rioghachd,kingdom
+κόπος,213,unigram,masculine,accusative,plural,dragh,13.390864857818116,dragh,dragh,dragh,,,,,,,dragh,"labour, work, trouble, difficulty"
+λύχνος,270,unigram,masculine,nominative,plural,crioslaichte,1.2013845589884997,crioslaichte,crioslaichte,,,,,,,,,lamp
+λύχνος,243,unigram,masculine,nominative,singular,chorp,1.4961448474862622,chorp,chorp,lampa,,,,,,,soilleir,lamp
+κλῆρος,106,unigram,masculine,accusative,plural,croinn,1.6716291126142686,croinn,croinn,,,,,,,,,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,thrusgan,2.1538017829366156,thrusgan,thrusgan,eatarra,,,,,,,aodach,"lots (casting of lots), inheritance"
+ἄνθρωπος,315,unigram,masculine,accusative,plural,daoine,41.10733961684844,daoine,daoine,dhaoine,,,,,,,daoine,man
+ἄνθρωπος,273,unigram,masculine,accusative,singular,duine,835.1163893844518,duine,duine,duine,,,,,,,duine,man
+ἄνθρωπος,126,unigram,masculine,nominative,plural,daoine,255.73244346741728,daoine,daoine,daoine,,,,,,,daoine,man
+ἄνθρωπος,188,unigram,masculine,nominative,singular,duine,14182.2977971077,duine,duine,duine,,,,,,,duine,man
+ἀνήρ,262,unigram,masculine,accusative,plural,fhear,2.221139703931732,fhear,fhear,,,,,,,,,"man, husband"
+ἀνήρ,266,unigram,masculine,accusative,singular,,,fear,fear,Moire,,,,,,,Moire,"man, husband"
+ἀνήρ,157,unigram,masculine,nominative,plural,mìle,4.000133043858602,mìle,mìle,mìle,,,,,,,mile,"man, husband"
+ἀνήρ,252,unigram,masculine,nominative,singular,duine,4.265676541257099,duine,duine,duine,,,,,,,seall,"man, husband"
+μνᾶ,318,unigram,feminine,accusative,plural,puinnd,3.9491138936287253,puinnd,puinnd,minathan,,,,,,,puinnd,mina (about 100 days' wages)
+μνᾶ,13,unigram,feminine,accusative,singular,puinnd,1.161328723715616,,,,,,,,,,puinnd,mina (about 100 days' wages)
+πρωτοκαθεδρία,113,unigram,feminine,accusative,plural,fèillean,1.669989132497031,fèillean,fèillean,,,,,,,,chathraichean,"most important seat, seat of honour"
+πρωτοκαθεδρία,38,unigram,feminine,accusative,singular,,,àitheachan-suidhe,àiteachan‐suidhe,shuidheachain,,,,,,,,"most important seat, seat of honour"
+μήτηρ,297,unigram,feminine,accusative,singular,mhàthair,2.4698334839988707,mhàthair,mhàthair,mhàthair,,,,,,,mhathair,mother
+ὄρος,230,unigram,neuter,accusative,plural,beann,1.1554964311448617,beann,beann,beanntan,,,,,,,beann,mountain
+ὄρος,282,unigram,neuter,accusative,singular,beinn,1.1879494102399875,beinn,beinn,,,,,,,,sliabh,mountain
+μύρον,95,unigram,neuter,accusative,plural,h‑àithne,1.2014275627384847,h‑àithne,h‑àithne,,,,,,,,,myrrh
+μύρον,29,unigram,neuter,accusative,singular,h‑ola,1.2014275627384847,h‑ola,h‑ola,acfhainn,,,,,,,dhortadh,myrrh
+ὄνομα,37,unigram,neuter,accusative,singular,ainm,77.88198167164657,ainm,ainm,ainm,,,,,,,ainm,name
+ὄνομα,267,unigram,neuter,nominative,singular,ainm,17.63993802719645,ainm,ainm,t‑ainm,,,,,,,ainm,name
+ἔθνος,241,unigram,neuter,accusative,plural,chinneach,1.1419538252494414,chinneach,chinneach,nàisean,,,,,,,h-uile,nation
+ἔθνος,205,unigram,neuter,accusative,singular,cinneach,1.990751839342692,cinneach,cinneach,nàisean,,,,,,,cinneadh,nation
+ἔθνος,321,unigram,neuter,nominative,plural,Cinnich,3.0904100460473085,Cinnich,Cinnich,Cinnich,,,,,,,cinnich,nation
+ἔθνος,28,unigram,neuter,nominative,singular,cinneach,2.01062381357497,cinneach,cinneach,nàisean,,,,,,,cinneadh,nation
+νύξ,200,unigram,feminine,accusative,plural,oidhche,7.252739456535744,oidhche,oidhche,oidhche,,,,,,,oidhche,night
+νύξ,260,unigram,feminine,accusative,singular,oidhche,3.56264577402936,oidhche,oidhche,dh'oidhche,,,,,,,,night
+ὅρκος,66,unigram,masculine,accusative,plural,mhionnan,8.107452319739883,mhionnan,mhionnan,mionnan,,,,,,,mhionnan,oath
+ὅρκος,281,unigram,masculine,accusative,singular,mhionnaich,1.2013630877021924,mhionnaich,mhionnaich,,,,,,,,,oath
+βοῦς,162,unigram,masculine,accusative,plural,,,luchd-malairt,luchd‐malairt,airgid,,,,,,,teampull,ox
+παραβολή,277,unigram,feminine,accusative,plural,cosamhlachd,2.969923700889938,cosamhlachd,cosamhlachd,,,,,,,,dubhfhacal,parable
+παραβολή,234,unigram,feminine,accusative,singular,cosamhlachd,28.997391553254843,cosamhlachd,cosamhlachd,cosamhlachd,,,,,,,dubhfhacal,parable
+μέρος,364,unigram,neuter,accusative,plural,crìochan,6.258845962690013,crìochan,crìochan,ceàrnaidh,,,,,,,criochan,part
+μέρος,57,unigram,neuter,accusative,singular,,,,,pàirt,,,,,,,tearbaidh,part
+μαργαρίτης,236,unigram,masculine,accusative,plural,neamhnaidean,7.999389291096735,neamhnaidean,neamhnaidean,neamhnaidean,,,,,,,priseil,pearls
+μαργαρίτης,40,unigram,masculine,accusative,singular,neamhnaid,1.316739288237296,neamhnaid,neamhnaid,neamhnaid,,,,,,,,pearls
+τόπος,291,unigram,masculine,accusative,plural,,,crithean-talmhainn,crithean‐talmhainn,crithean‑talmhainn,,,,,,,crithean-talmhuinn,place
+τόπος,314,unigram,masculine,accusative,singular,àite,5.024011238830205,àite,àite,àite,,,,,,,aite,place
+πρωτοκλισία,295,unigram,feminine,accusative,plural,,,àiteachan-suidhe,àiteachan‐suidhe,h‑àiteachan,,,,,,,ciad,place of honor
+πρωτοκλισία,39,unigram,feminine,accusative,singular,urramach,1.887566349315513,,,urramach,,,,,,,,place of honor
+ὄφις,112,unigram,masculine,accusative,singular,nathair,19.51372211522081,nathair,nathair,nathair,,,,,,,nathair,poison
+σκεῦος,147,unigram,neuter,accusative,plural,ceangail,1.1062708150644622,,,ceangail,,,,,,,,"possession, object, thing, jar, vessel"
+σκεῦος,272,unigram,neuter,accusative,singular,leigeadh,1.0354255198080204,,,leigeadh,,,,,,,,"possession, object, thing, jar, vessel"
+σκεῦος,137,unigram,neuter,nominative,plural,àirneis,1.6716746306703953,àirneis,àirneis,mullach,,,,,,,ʼtoirt,"possession, object, thing, jar, vessel"
+δύναμις,114,unigram,feminine,accusative,plural,mì‑chreidimh,1.0258700787676753,mì‑chreidimh,mì‑chreidimh,cumhachdach,,,,,,,mhiarailtean,"power, ability, miracle"
+δύναμις,51,unigram,feminine,accusative,singular,cumhachd,54.954047322409664,cumhachd,cumhachd,cumhachd,,,,,,,cumhachd,"power, ability, miracle"
+δύναμις,89,unigram,feminine,nominative,plural,cumhachdach,1.3396318734395778,cumhachdach,cumhachdach,cumhachdach,,,,,,,feartan,"power, ability, miracle"
+δύναμις,123,unigram,feminine,nominative,singular,cumhachd,6.156673291299998,cumhachd,cumhachd,cumhachd,,,,,,,feartan,"power, ability, miracle"
+ἱερεύς,20,unigram,masculine,nominative,plural,sagartan,1.161372324758298,,,sagartan,,,,,,,,priest
+ἱερεύς,256,unigram,masculine,nominative,singular,sagart,5.901126349133626,sagart,sagart,sagart,,,,,,,,priest
+φυλακή,274,unigram,feminine,accusative,plural,prìosain,1.106290521332697,,,prìosain,,,,,,,,prison
+φυλακή,26,unigram,feminine,accusative,singular,prìosan,6.242214239785725,prìosan,prìosan,phrìosan,,,,,,,priosan,prison
+προφήτης,69,unigram,masculine,accusative,plural,fàidhean,55.91743641415458,fàidhean,fàidhean,fàidhean,,,,,,,faidhean,prophet
+προφήτης,211,unigram,masculine,accusative,singular,fàidh,22.307654861227313,fàidh,fàidh,fàidh,,,,,,,faidh,prophet
+προφήτης,235,unigram,masculine,nominative,plural,fàidhean,4.095328276862359,fàidhean,fàidhean,Lagh,,,,,,,faidhean,prophet
+προφήτης,283,unigram,masculine,nominative,singular,fàidh,42.42897552020935,fàidh,fàidh,fàidh,,,,,,,faidh,prophet
+βαλλάντιον,19,unigram,neuter,accusative,singular,sporan,6.1691199749365975,sporan,sporan,sporan,,,,,,,,purse
+ποταμός,133,unigram,masculine,nominative,plural,tuiltean,1.064742544130528,,,tuiltean,,,,,,,,river
+ποταμός,179,unigram,masculine,nominative,singular,bhunait,1.1226352830673925,bhunait,bhunait,dian,,,,,,,steidh,river
+λῃστής,46,unigram,masculine,accusative,plural,,,,,mhèirleach,,,,,,,robairean,robber
+λῃστής,363,unigram,masculine,accusative,singular,claidheamhan,1.1160845725146267,claidheamhan,claidheamhan,gadaiche,,,,,,,,robber
+λῃστής,340,unigram,masculine,nominative,plural,gadaichean,1.8697220733887359,gadaichean,gadaichean,mèirlich,,,,,,,meirlich,robber
+ἄρχων,217,unigram,masculine,accusative,plural,h‑uachdarain,2.540000064472716,h‑uachdarain,h‑uachdarain,,,,,,,,,ruler
+ἄρχων,73,unigram,masculine,nominative,plural,h‑uachdarain,3.27373119122093,h‑uachdarain,h‑uachdarain,riaghladairean,,,,,,,Criosta,ruler
+ἄρχων,334,unigram,masculine,nominative,singular,uachdaran,11.359513157246695,uachdaran,uachdaran,riaghladair,,,,,,,prionns,ruler
+ἀκοή,7,unigram,feminine,accusative,plural,,,,,fathannan,,,,,,,chrioch,rumor
+ἀκοή,84,unigram,feminine,accusative,singular,tretrarch,1.2013953022722905,tretrarch,tretrarch,chliù,,,,,,,,rumor
+ἀκοή,173,unigram,feminine,nominative,plural,ceangal,1.3168275199353623,ceangal,ceangal,ceangal,,,,,,,theangaidh,rumor
+ἀκοή,351,unigram,feminine,nominative,singular,chliù,3.5367176447599427,chliù,chliù,chliù,,,,,,,sgaoil,rumor
+βιβλίον,62,unigram,neuter,accusative,plural,leabhraichean,1.096071996175396,,,leabhraichean,,,,,,,,"scroll, book"
+βιβλίον,59,unigram,neuter,accusative,singular,leabhair,1.141698588758533,leabhair,leabhair,rolla,,,,,,,litir-dhealachaidh,"scroll, book"
+διάκονος,99,unigram,masculine,nominative,singular,bidh,1.0817360863378611,bidh,bidh,sheirbheiseach,,,,,,,,"servant, minister, deacon"
+δοῦλος,224,unigram,masculine,accusative,plural,sheirbhisich,3.492280460633989,sheirbhisich,sheirbhisich,sheirbheisich,,,,,,,sheirbhisich,"servant, slave"
+δοῦλος,30,unigram,masculine,accusative,singular,seirbhiseach,12.566214316012992,seirbhiseach,seirbhiseach,seirbheiseach,,,,,,,seirbhiseach,"servant, slave"
+δοῦλος,111,unigram,masculine,nominative,plural,seirbhisich,30.895493115523504,seirbhisich,seirbhisich,seirbheisich,,,,,,,seirbhisich,"servant, slave"
+δοῦλος,218,unigram,masculine,nominative,singular,seirbhiseach,3.4649086240387628,seirbhiseach,seirbhiseach,seirbheiseach,,,,,,,seirbhiseach,"servant, slave"
+πρόβατον,344,unigram,neuter,accusative,plural,caoraich,19.995078543728308,caoraich,caoraich,caoraich,,,,,,,caoraich,sheep
+πρόβατον,154,unigram,neuter,accusative,singular,chaora,7.999382843190261,chaora,chaora,,,,,,,,chaora,sheep
+ποιμήν,265,unigram,masculine,nominative,plural,buachaillean,68.7098449716614,buachaillean,buachaillean,buachaillean,,,,,,,buachaillean,"shepherd, pastor"
+ποιμήν,306,unigram,masculine,nominative,singular,buachaille,7.800087545407844,buachaille,buachaille,buachaille,,,,,,,buachaill,"shepherd, pastor"
+σημεῖον,150,unigram,neuter,accusative,plural,,,,,mìorbhaileach,,,,,,,miarailtean,sign
+σημεῖον,136,unigram,neuter,accusative,singular,comharradh,3.4700018887439597,comharradh,comharradh,comharra,,,,,,,comharradh,sign
+σημεῖον,48,unigram,neuter,nominative,plural,comharraidhean,26.9955636215936,comharraidhean,comharraidhean,comharraidhean,,,,,,,comharran,sign
+σημεῖον,98,unigram,neuter,nominative,singular,comharradh,8.797809497646114,comharradh,comharradh,comharra,,,,,,,comharradh,sign
+ἀργύριον,229,unigram,neuter,accusative,plural,airgid,12.41793881561422,airgid,airgid,airgid,,,,,,,airgid,"silver, money"
+ἀργύριον,354,unigram,neuter,accusative,singular,airgead,71.49583906426682,airgead,airgead,airgead,,,,,,,airgiod,"silver, money"
+ἁμαρτία,301,unigram,feminine,accusative,plural,peacaidhean,5.861481906009442,peacaidhean,peacaidhean,peacaidhean,,,,,,,peacannan,sin
+ἁμαρτία,231,unigram,feminine,accusative,singular,peacadh,10.52619878287923,peacadh,peacadh,peacadh,,,,,,,peacadh,sin
+ἁμαρτία,310,unigram,feminine,nominative,plural,maitheadh,1.4502189520037796,maitheadh,maitheadh,mathadh,,,,,,,pheacannan,sin
+ἁμαρτία,307,unigram,feminine,nominative,singular,peacadh,16.704213050248004,peacadh,peacadh,peacadh,,,,,,,peacadh,sin
+ἀδελφή,332,unigram,feminine,accusative,plural,peathraichean,1.5903363252862552,peathraichean,peathraichean,peathraichean,,,,,,,,sister
+ἀδελφή,143,unigram,feminine,accusative,singular,piuthar,9.947343015616912,piuthar,piuthar,,,,,,,,piuthar,sister
+ἀδελφή,22,unigram,feminine,nominative,plural,pheathraichean,31.734225341955902,pheathraichean,pheathraichean,pheathraichean,,,,,,,pheathraichean,sister
+ῥάπισμα,163,unigram,neuter,accusative,plural,basan,1.189449958564392,basan,basan,Fàilte,,,,,,,basan,"slap, strike, hit"
+ῥάπισμα,294,unigram,neuter,accusative,singular,bhas,1.348643964126147,bhas,bhas,fhreagras,,,,,,,bhois,"slap, strike, hit"
+πλοιάριον,248,unigram,neuter,nominative,plural,Thiberias,1.5292081140583405,Thiberias,Thiberias,Thiberias,,,,,,,Thiberias,small boat
+πλοιάριον,149,unigram,neuter,nominative,singular,long,2.6952193012527825,long,long,eathar,,,,,,,saghach,small boat
+ὀψάριον,194,unigram,neuter,accusative,plural,h‑uiread,1.2013523596909814,h‑uiread,h‑uiread,,,,,,,,giullan,small fish
+ὀψάριον,276,unigram,neuter,accusative,singular,iasg,1.9372333038553224,iasg,iasg,t‑iasg,,,,,,,iasg,small fish
+υἱός,53,unigram,masculine,accusative,plural,mhac,1.165076076482734,mhac,mhac,mhac,,,,,,,,son
+υἱός,135,unigram,masculine,accusative,singular,Mac,2.5286307068530145,Mac,Mac,Duine,,,,,,,Mac,son
+υἱός,138,unigram,masculine,nominative,plural,clann,32.909488523637144,clann,clann,clann,,,,,,,clann,son
+υἱός,226,unigram,masculine,nominative,singular,Mac,19.347145057626328,Mac,Mac,Mac,,,,,,,Mac,son
+ψυχή,304,unigram,feminine,accusative,singular,,,anam,anam,bheatha,,,,,,,bheatha,"soul, life"
+ἀστήρ,316,unigram,masculine,nominative,plural,,,,,rionnagan,,,,,,,reultan,star
+λίθος,320,unigram,masculine,accusative,plural,clachan,8.360739517860823,clachan,clachan,clachan,,,,,,,clachan,stone
+λίθος,41,unigram,masculine,accusative,singular,chlach,6.555001459384574,chlach,chlach,chlach,,,,,,,chlach,stone
+λίθος,148,unigram,masculine,nominative,plural,clachan,34.48790626919061,clachan,clachan,clachan,,,,,,,clachan,stone
+λίθος,45,unigram,masculine,nominative,singular,clach,2.145800741505082,clach,clach,,,,,,,,clach,stone
+συναγωγή,263,unigram,feminine,accusative,plural,sionagogan,6.187163284371015,sionagogan,sionagogan,sionagogan,,,,,,,sinagogan,synagogue
+συναγωγή,356,unigram,feminine,accusative,singular,t‑sionagog,6.87705101407437,t‑sionagog,t‑sionagog,t‑sionagog,,,,,,,t-sinagog,synagogue
+τράπεζα,207,unigram,feminine,accusative,plural,bùird,1.1687706330257883,bùird,bùird,airgid,,,,,,,buird,table
+τράπεζα,151,unigram,feminine,accusative,singular,thogainn,1.2013845589884997,thogainn,thogainn,,,,,,,,,table
+τάλαντον,79,unigram,neuter,accusative,plural,tàlannan,2.8501486411685693,tàlannan,tàlannan,tàlannan,,,,,,,talannan,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,239,unigram,neuter,accusative,singular,tàlann,3.832661906103723,tàlann,tàlann,thàlann,,,,,,,talann,talent (weight and monetary unit: around 20 years' wages)
+φόρος,290,unigram,masculine,accusative,plural,,,,,chìs,,,,,,,bacail,tax
+φόρος,311,unigram,masculine,accusative,singular,cìs,1.3538491239895112,cìs,cìs,cìs,,,,,,,cis,tax
+τελώνης,201,unigram,masculine,nominative,plural,,,cìs-mhaoir,cìs‐mhaoir,cìs‑mhaoir,,,,,,,cismhaoir,tax collector
+τελώνης,81,unigram,masculine,nominative,singular,,,chìs-mhaor,chìs‐mhaor,chìs‑mhaor,,,,,,,cismhaor,tax collector
+γραμματεύς,361,unigram,masculine,nominative,plural,sgrìobhaichean,175.41441904031282,sgrìobhaichean,sgrìobhaichean,sgrìobhaichean,,,,,,,Sgriobhaich,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,227,unigram,masculine,nominative,singular,sgrìobhaiche,20.017025890987313,sgrìobhaiche,sgrìobhaiche,sgrìobhaiche,,,,,,,sgriobhach,"teacher, expert in the law, scholar, scribe"
+καθηγητής,345,unigram,masculine,nominative,plural,,,,,tidsear,,,,,,,maighistirean,"teacher, guide"
+καθηγητής,238,unigram,masculine,nominative,singular,,,,,tidsear,,,,,,,maighistirean,"teacher, guide"
+κλέπτης,91,unigram,masculine,nominative,plural,,,,,mèirlich,,,,,,,meirlich,thief
+κλέπτης,237,unigram,masculine,nominative,singular,gadaiche,6.031160353241375,gadaiche,gadaiche,mèirleach,,,,,,,meirleach,thief
+διαλογισμός,317,unigram,masculine,accusative,plural,smuaintean,5.908146092252943,smuaintean,smuaintean,smuaintean,,,,,,,smaointean,"thought, argument"
+διαλογισμός,156,unigram,masculine,accusative,singular,smuaintean,1.8418395678047808,smuaintean,smuaintean,,,,,,,,smaointean,"thought, argument"
+διαλογισμός,127,unigram,masculine,nominative,plural,smuaintean,5.411325436237645,smuaintean,smuaintean,smuaintean,,,,,,,smaointean,"thought, argument"
+διαλογισμός,309,unigram,masculine,nominative,singular,deasbaireachd,1.714596495484013,deasbaireachd,deasbaireachd,bhitheadh,,,,,,,smaointe,"thought, argument"
+θρόνος,253,unigram,masculine,accusative,singular,,,rìgh-chathair,rìgh‐chathair,rìgh‑chathair,,,,,,,righichidh,throne
+χρόνος,287,unigram,masculine,accusative,plural,,,,,mhòir,,,,,,,fionlios,time
+χρόνος,244,unigram,masculine,accusative,singular,fhada,1.1635364323217792,fhada,fhada,ùine,,,,,,,uine,time
+καιρός,153,unigram,masculine,nominative,singular,àm,2.2802291325361224,àm,àm,t‑àm,,,,,,,t-àm,"time, right time"
+τάφος,140,unigram,masculine,accusative,plural,,,leacan-laighe,leacan‐laighe,carraighean‑cuimhne,,,,,,,cruislean,"tomb, grave"
+τάφος,187,unigram,masculine,accusative,singular,cinnteach,2.0089651538862774,cinnteach,cinnteach,tèarainte,,,,,,,uaigh,"tomb, grave"
+μνημεῖον,14,unigram,neuter,accusative,plural,,,àitean-adhlaic,àitean‐adhlaic,thuaman,,,,,,,uaighean,"tomb, grave"
+μνημεῖον,18,unigram,neuter,accusative,singular,h‑uaighe,7.792615956990974,h‑uaighe,h‑uaighe,tuaim,,,,,,,uaigh,"tomb, grave"
+μνημεῖον,87,unigram,neuter,nominative,plural,h‑uaighean,1.2241588860348265,h‑uaighean,h‑uaighean,,,,,,,,,"tomb, grave"
+μνημεῖον,280,unigram,neuter,nominative,singular,uaigh,5.884983536577042,uaigh,uaigh,tuam,,,,,,,uaigh,"tomb, grave"
+ὀδούς,75,unigram,masculine,accusative,plural,ana-creidich,1.0960866985123228,,,,,,,,,,ana-creidich,tooth
+θησαυρός,107,unigram,masculine,accusative,plural,ionmhasan,1.5323220189567672,,,ionmhasan,,,,,,,,treasure
+θησαυρός,232,unigram,masculine,accusative,singular,ionmhas,2.7739290923917905,ionmhas,ionmhas,ionmhas,,,,,,,iuntas,treasure
+δένδρον,97,unigram,neuter,accusative,plural,chraobhan,1.2238654476742756,chraobhan,chraobhan,craobhan,,,,,,,,tree	
+κώμη,286,unigram,feminine,accusative,plural,bailtean,107.5947311001016,bailtean,bailtean,bailtean,,,,,,,bailtean,village
+κώμη,61,unigram,feminine,accusative,singular,bhaile,16.43345156104523,bhaile,bhaile,bhaile,,,,,,,bhaile,village
+παρθένος,299,unigram,feminine,nominative,plural,h‑òighean,7.99938877996266,h‑òighean,h‑òighean,h‑òighean,,,,,,,h-oighean,virgin
+παρθένος,216,unigram,feminine,nominative,singular,Emanuel,1.0960670999999007,,,Emanuel,,,,,,,,virgin
+φωνή,341,unigram,feminine,nominative,singular,guth,40.755341315967684,guth,guth,guth,,,,,,,guth,voice or sound
+πόλεμος,278,unigram,masculine,accusative,plural,chogaidhean,1.2941009789151592,chogaidhean,chogaidhean,chogaidhean,,,,,,,chrioch,war
+πόλεμος,47,unigram,masculine,accusative,singular,chogadh,1.212541630128925,,,,,,,,,,chogadh,war
+ὕδωρ,362,unigram,neuter,accusative,plural,h‑uisgeachan,5.310261149302826,h‑uisgeachan,h‑uisgeachan,h‑uisgeachan,,,,,,,,water
+ὕδωρ,103,unigram,neuter,accusative,singular,uisge,43.24246863114915,uisge,uisge,uisge,,,,,,,uisge,water
+ὕδωρ,120,unigram,neuter,nominative,singular,t‑uisge,1.3436937763552461,t‑uisge,t‑uisge,t‑uisge,,,,,,,t-uisge,water
+ὑδρία,221,unigram,feminine,accusative,plural,poitean,1.0960524252565438,,,,,,,,,,poitean,water jar
+ὑδρία,124,unigram,feminine,accusative,singular,,,soitheach-uisge,soitheach‐uisge,soitheach‑uisge,,,,,,,saghach,water jar
+ὁδός,279,unigram,feminine,accusative,plural,lìonadh,1.4613145568948793,lìonadh,lìonadh,lìonadh,,,,,,,rathaidean,way
+ὁδός,155,unigram,feminine,accusative,singular,slighe,8.481299094362226,slighe,slighe,slighe,,,,,,,rathaid,way
+γάμος,175,unigram,masculine,accusative,plural,bainnse,7.434732483678129,bainnse,bainnse,bainnse,,,,,,,bainnse,wedding
+γάμος,257,unigram,masculine,accusative,singular,,,phòsaidh,phòsaidh,bainnse,,,,,,,bainnse,wedding
+γυνή,119,unigram,feminine,accusative,plural,cruas,1.0906790784854303,cruas,cruas,mnathan,,,,,,,,"wife, woman"
+γυνή,191,unigram,feminine,accusative,singular,,,bean,bean,bhean,,,,,,,bhean,"wife, woman"
+γυνή,128,unigram,feminine,nominative,plural,mnathan,5.755753912283669,mnathan,mnathan,boireannaich,,,,,,,boirionnaich,"wife, woman"
+γυνή,134,unigram,feminine,nominative,singular,bhean,2.907590936721116,bhean,bhean,boireannach,,,,,,,boirionnach,"wife, woman"
+ἄνεμος,8,unigram,masculine,nominative,plural,gaothan,3.5979833617669765,gaothan,gaothan,gaothan,,,,,,,gaoithean,wind
+ἄνεμος,76,unigram,masculine,nominative,singular,ghaoth,23.91475841107558,ghaoth,ghaoth,ghaoth,,,,,,,ghaoth,wind
+πνεῦμα,330,unigram,neuter,accusative,plural,spioradan,5.1684200652074965,spioradan,spioradan,spioradan,,,,,,,spioraid,"wind, breath, spirit"
+πνεῦμα,180,unigram,neuter,accusative,singular,Spiorad,1.6732398966996012,Spiorad,Spiorad,Spiorad,,,,,,,spiorad,"wind, breath, spirit"
+πνεῦμα,11,unigram,neuter,nominative,plural,spioradan,4.842563636325912,spioradan,spioradan,spioradan,,,,,,,spioraid,"wind, breath, spirit"
+πνεῦμα,25,unigram,neuter,nominative,singular,Spiorad,1.1026949238572787,Spiorad,Spiorad,,,,,,,,spiorad,"wind, breath, spirit"
+λύκος,10,unigram,masculine,nominative,plural,madaidhean‑allaidh,1.096057314542422,,,madaidhean‑allaidh,,,,,,,,wolf
+ῥῆμα,199,unigram,neuter,accusative,plural,briathran,20.012074284270078,briathran,briathran,briathran,,,,,,,briathran,word
+ῥῆμα,177,unigram,neuter,accusative,singular,thuig,2.5642859430466456,thuig,thuig,thuig,,,,,,,fhacal,word
+ῥῆμα,33,unigram,neuter,nominative,plural,briathran,4.6059565568084775,briathran,briathran,faclan,,,,,,,briathran,word
+ῥῆμα,349,unigram,neuter,nominative,singular,facal,4.415923546743239,,,facal,,,,,,,facal,word
+λόγος,178,unigram,masculine,accusative,plural,briathran,38.187582181565084,briathran,briathran,briathran,,,,,,,briathran,word
+λόγος,168,unigram,masculine,accusative,singular,facal,5.672766065654941,facal,facal,facal,,,,,,,facal,word
+λόγος,165,unigram,masculine,nominative,plural,Thèid,1.194599783618428,Thèid,Thèid,bhriathran‑sa,,,,,,,Theid,word
+λόγος,319,unigram,masculine,nominative,singular,facal,75.24728111170586,facal,facal,facal,,,,,,,facal,word
+ἔργον,50,unigram,neuter,accusative,plural,obraichean,49.8758057858835,obraichean,obraichean,obraichean,,,,,,,oibrichean,work
+ἔργον,104,unigram,neuter,accusative,singular,obair,41.25866350779221,obair,obair,obair,,,,,,,obair,work
+ἔργον,323,unigram,neuter,nominative,plural,obraichean,3.0238284742327246,obraichean,obraichean,h‑obraichean,,,,,,,,work
+ἔργον,298,unigram,neuter,nominative,singular,obair,1.2448015371899466,obair,obair,obair,,,,,,,,work
+ἐργάτης,158,unigram,masculine,nominative,plural,,,luchd-obrach,luchd‐obrach,luchd‑obrach,,,,,,,luchd-oibre,worker
+ἐργάτης,228,unigram,masculine,nominative,singular,,,fear-obrach,fear‐obrach,airidh,,,,,,,fhiach,worker
+μέριμνα,181,unigram,feminine,nominative,plural,tachdadh,1.2013416367619456,tachdadh,tachdadh,,,,,,,,,"worry, concern, desire"
+ἔτος,275,unigram,neuter,accusative,plural,,,rè,rè,bliadhna,,,,,,,bliadhna,year
+ἔτος,192,unigram,neuter,accusative,singular,aolach,1.2239451641353871,aolach,aolach,bliadhna,,,,,,,,year
+ζεῦγος,21,unigram,neuter,accusative,plural,cuing,1.2013309189107515,,,cuing,,,,,,,cuing,"yoke, pair"
+ζεῦγος,268,unigram,neuter,accusative,singular,thurtar,1.0960524252565438,,,thurtar,,,,,,,,"yoke, pair"

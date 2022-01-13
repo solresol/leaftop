@@ -1,0 +1,367 @@
+lemma,extract_reference_id,tokenisation_method_id,gender,noun_case,noun_number,most_common_translation,cumulative_confidence,version_1599_translation,version_1600_translation,version_1601_translation,version_1602_translation,version_1603_translation,version_1604_translation,version_1605_translation,version_1606_translation,version_1607_translation,version_1608_translation,english_translation
+θεός,142,unigram,masculine,accusative,singular,Dumnezeu,180938.12619104606,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Думнезеу,God
+θεός,30,unigram,masculine,nominative,plural,dumnezei,2.370041526511616,,,,,,,dumnezei,,dumnezei,,God
+θεός,224,unigram,masculine,nominative,singular,Dumnezeu,536122.6912925977,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Dumnezeu,Думнезеу,God
+κύριος,143,unigram,masculine,nominative,singular,Domnul,51.68235434133443,Domnul,Domnul,Stăpânul,Stăpânul,Domnul,Domnul,Domnul,Domnul,Domnul,Домнул,"Lord, lord, master"
+γραφή,137,unigram,feminine,accusative,plural,Scripturile,464.2370746568475,scripturile,Scripturile,Scripturile,Scripturile,Scripturile,Scripturile,Scripturile,scripturile,Scripturile,Скриптуриле,Scripture
+γραφή,55,unigram,feminine,accusative,singular,,,,Scriptură,,,,,Scriptura,scriptura,,Скриптурэ,Scripture
+γραφή,285,unigram,feminine,nominative,plural,Scripturile,20.486510335513938,scripturile,Scripturile,Scripturile,întâmplat,Scripturile,împlinească,Scripturile,scripturile,Scripturile,Скриптуриле,Scripture
+γραφή,352,unigram,feminine,nominative,singular,Scriptura,433.8074656744554,scriptura,Scriptura,Scriptura,Scripturile,Scriptura,Scriptura,Scriptura,scriptura,Scriptura,Скриптура,Scripture
+ἄγγελος,103,unigram,masculine,accusative,plural,îngerii,71.76601876551067,îngerii,îngerii,îngerii,îngerii,îngerii,îngerii,îngerii,îngerii,îngerii,ынӂерий,angel
+ἄγγελος,90,unigram,masculine,accusative,singular,solul,1.1027062121901932,,solul,pregăti,naintea,,,,solul,,солул,angel
+ἄγγελος,51,unigram,masculine,nominative,plural,îngerii,258190.4836499169,îngerii,îngerii,îngerii,îngerii,îngerii,îngerii,îngerii,îngerii,îngerii,ынӂерий,angel
+ἄγγελος,114,unigram,masculine,nominative,singular,îngerul,9.568019610586964,îngerul,înger,înger,îngerul,înger,înger,îngerul,îngerul,îngerul,ынӂер,angel
+ἀπόστολος,48,unigram,masculine,nominative,plural,Apostolii,3.9190766112227275,apostolii,Apostolii,Apostolii,Apostolii,Apostolii,,apostolii,apostolii,,Апостолий,apostle
+ἀπόστολος,6,unigram,masculine,nominative,singular,apostolul,4.899628906341887,Robul,apostolul,apostolul,,apostolul,apostolul,solul,apostol,trimisul,апостолул,apostle
+ἐξουσία,75,unigram,feminine,accusative,plural,autorităților,1.0962199599997684,,,,,,autorităților,,,,,authority
+ἐξουσία,213,unigram,feminine,accusative,singular,,,autoritate,putere,autoritate,putere,autoritate,autoritate,putere,putere,puterea,путере,authority
+βρέφος,16,unigram,neuter,accusative,plural,certau,1.2847510293247297,prunci,aduceau,aduși,,certau,copilași,,certau,,адучяу,babies
+βρέφος,350,unigram,neuter,accusative,singular,culcat,2.057745780536125,,iesle,culcat,iesle,iesle,culcat,culcat,,culcat,есле,babies
+ἀποθήκη,291,unigram,feminine,accusative,plural,totuși,1.3229695338723544,,,totuși,,,,,,,,barn
+ἀποθήκη,74,unigram,feminine,accusative,singular,grâul,12.397511395153156,grâul,grâul,grânar,grânar,grâul,grâul,grâul,grâul,grânarul,грыул,barn
+ἀρχή,77,unigram,feminine,accusative,plural,autorităților,1.0961063339256685,,,,,,autorităților,,,,,beginning
+ἀρχή,194,unigram,feminine,accusative,singular,început,1.5442495365822833,început,început,Cana,,început,început,început,început,început,ынчепут,beginning
+ζώνη,185,unigram,feminine,accusative,plural,brâiele,1.3167216672078015,brâiele,brâiele,aur,,,brâiele,argint,,,брыйеле,belt
+ζώνη,242,unigram,feminine,accusative,singular,,,,,hrănea,,mijlocului,,,,,,belt
+βλασφημία,34,unigram,feminine,accusative,plural,rostește,1.34872488402202,cugete,,,,rostește,,,,rostește,,blasphemy
+βλασφημία,100,unigram,feminine,accusative,singular,,,blasfemiat,,auzit-o,,,,,,,,blasphemy
+βλασφημία,222,unigram,feminine,nominative,plural,blasfemiile,7.999388268018119,,hulele,,,blasfemiile,blasfemiile,,,blasfemiile,хулеле,blasphemy
+βλασφημία,91,unigram,feminine,nominative,singular,blasfemia,7.549834525390898,blasfemie,hula,,,blasfemia,blasfemia,,hulă,blasfemia,хула,blasphemy
+πλοῖον,112,unigram,neuter,accusative,plural,,,corăbiile,corăbiile,bărci,,bărcile,bărcile,bărci,corăbiile,bărcile,корэбииле,boat
+πλοῖον,334,unigram,neuter,accusative,singular,corabie,134.62190020452255,corabie,corabie,barcă,corabie,barcă,barcă,corabie,corabie,barcă,корабие,boat
+πλοῖον,259,unigram,neuter,nominative,plural,,,,corăbii,,,Lăsând,,,,părăsind,корэбий,boat
+πλοῖον,244,unigram,neuter,nominative,singular,corabia,6.818348402518741,corabia,corabia,mării,,barca,barca,corabia,corabia,barca,корабия,boat
+σῶμα,231,unigram,neuter,nominative,plural,corpurile,1.887456721027004,,,corpurile,,,,,,,,body
+σῶμα,65,unigram,neuter,nominative,singular,trupul,23336.306709728025,trupul,trupul,corpul,trupul,trupul,trupul,trupul,trupul,trupul,трупул,body
+κλῆμα,61,unigram,neuter,nominative,plural,,,,,,,,,mlădiţele,,mlădițele,,branch
+κλῆμα,158,unigram,neuter,nominative,singular,rămâne,4.54577500863312,rămâne,mlădiţa,tânără,mlădiță,rămâne,rămâne,rămâne,,mlădița,млэдица,branch
+ἄρτος,339,unigram,masculine,accusative,plural,pâini,7191.467912556895,pâini,pâini,pâini,pâini,pâini,pâini,pâini,pâini,pâini,пынь,bread
+ἄρτος,366,unigram,masculine,accusative,singular,pâine,228.6734670081079,pâine,pâine,pâine,pâine,pâine,pâine,pâine,pâine,pâinea,пыне,bread
+ἄρτος,167,unigram,masculine,nominative,plural,pâini,2912.806971030517,pâini,pâini,pâini,pâini,pâini,pâini,pâini,pâini,pâini,пынь,bread
+ἄρτος,41,unigram,masculine,nominative,singular,pâinea,99.35124917093333,pâinea,Pâinea,pâinea,pâinea,Pâinea,Pâinea,pâinea,pâinea,pâinea,Пыня,bread
+ἀδελφός,324,unigram,masculine,accusative,plural,frați,24.909794471613772,frați,fraţii,frați,frați,frați,frații,fraţi,frați,frați,фраций,brother
+ἀδελφός,128,unigram,masculine,accusative,singular,fratele,612.7274136167423,fratele,fratele,frați,Iacov,fratele,fratele,fratele,fratele,fratele,фрателе,brother
+ἀδελφός,118,unigram,masculine,nominative,plural,frații,98.74350701658818,frații,fraţii,frații,frații,frații,frații,fraţii,frații,frații,фраций,brother
+ἀδελφός,251,unigram,masculine,nominative,singular,fratele,8728.868913489563,fratele,fratele,fratele,frate,fratele,fratele,fratele,fratele,fratele,фрателе,brother
+στῆθος,164,unigram,neuter,accusative,plural,Întreg,1.0960622061228922,,,,Întreg,,,,,,,"chest, breast"
+στῆθος,308,unigram,neuter,accusative,singular,pieptul,160.65309061730238,pieptul,pieptul,pieptul,Capul,pieptul,pieptul,pieptul,pieptul,pieptul,пептул,"chest, breast"
+ἀρχιερεύς,265,unigram,masculine,accusative,plural,,,seamă,seamă,preoților,preoți,seamă,preoților,preoţi,preoților,arhierei,сямэ,chief priest
+ἀρχιερεύς,66,unigram,masculine,accusative,singular,marele,1.433283647754831,marele,marele,marele,,marele‑preot,marele,marele,preot,preot,мареле,chief priest
+ἀρχιερεύς,127,unigram,masculine,nominative,plural,,,seamă,seamă,preoților,preoții,seamă,preoților,preoţi,preoților,arhiereii,сямэ,chief priest
+ἀρχιερεύς,269,unigram,masculine,nominative,singular,preot,271.87731081006086,preot,preot,preot,preot,marele‑preot,preot,preot,preot,preot,преот,chief priest
+παῖς,255,unigram,masculine,accusative,plural,copiii,1.4212418510637812,foarte,,,pruncii,,,,copiii,copiii,,child
+παῖς,53,unigram,masculine,accusative,singular,zguduit,1.417423516775597,trântit,băiat,redat,,,,zguduit,zguduit,amenințat,бэят,child
+τέκνον,359,unigram,neuter,accusative,plural,copii,3.5224976995280817,copii,copiii,copii,copii,copii,copiii,copiii,copii,copiii,копиий,child
+τέκνον,191,unigram,neuter,accusative,singular,frate,1.4951312287537877,uciși,și-i,condamna,omorî,și‑i,copil,frate,frate,frate,ши-й,child
+τέκνον,17,unigram,neuter,nominative,plural,frate,1.1222263605799017,uciși,frate-său,condamna,omorî,,,frate,frate,Copiii,фрате-сэу,child
+τέκνον,205,unigram,neuter,nominative,singular,Fiule,390.9180582711545,Fiule,Fiule,Fiule,fiule,Fiule,Copile,Fiule,Copile,Fiule,Фиуле,child
+παιδίον,15,unigram,neuter,accusative,plural,,,,,aparține,copilași,Lăsați,,Lăsaţi,,,,child
+παιδίον,97,unigram,neuter,accusative,singular,copilaș,3.39397578081735,copilul,Pruncul,Copilul,copilaș,copilaș,copilaș,pruncul,copilaș,copilul,Прункул,child
+παιδίον,183,unigram,neuter,nominative,plural,,,,copilași,,,niște,,copilaşi,,,копилашь,child
+παιδίον,43,unigram,neuter,nominative,singular,copilaș,3.343790471568944,copilaș,copilaș,Copilul,copil,întărea,copilaș,copilul,copilaș,copil,копилаш,child
+πόλις,195,unigram,feminine,accusative,plural,cetățile,5.092704396788637,,cetăţile,orașele,sate,cetățile,cetățile,cetăţile,cetățile,cetățile,четэциле,city
+πόλις,70,unigram,feminine,accusative,singular,cetate,67589.0013441684,cetate,cetate,oraș,cetate,cetate,cetate,cetate,cetate,cetate,четате,city
+πύλη,221,unigram,feminine,nominative,singular,poarta,1.189449958564392,,poarta,conduc,calea,poarta,poarta,strâmtă,,strâmtă,поарта,city gate
+χιτών,123,unigram,masculine,accusative,plural,haine,2.6751325803881874,haine,haine,două,haine,haine,cămăși,haine,haine,două,хайне,"clothing, undergarments"
+χιτών,31,unigram,masculine,accusative,singular,cămașa,26.682024496077073,cămașa,cămașa,cămașa,întorci,cămașa,cămașa,cămaşa,,tunica,кэмаша,"clothing, undergarments"
+ἱμάτιον,140,unigram,neuter,accusative,plural,hainele,14613.90582887153,hainele,hainele,hainele,hainele,hainele,hainele,hainele,hainele,hainele,хайнеле,coat
+ἱμάτιον,139,unigram,neuter,accusative,singular,haina,421.12409431499424,haina,haina,haina,haina,haina,haina,haina,veșmântul,haina,хайна,coat
+ἐντολή,87,unigram,feminine,accusative,plural,poruncile,5046.022661161648,poruncile,poruncile,poruncile,Poruncile,poruncile,poruncile,poruncile,poruncile,poruncile,порунчиле,commandment
+ἐντολή,85,unigram,feminine,accusative,singular,porunca,57.41461524558843,porunca,porunca,porunca,poruncă,porunca,porunca,porunca,poruncă,porunca,порунка,commandment
+συνέδριον,344,unigram,neuter,accusative,plural,sinedriilor,9.940765901994569,consiliilor,soboarelor,,judecată,sinedriilor,sinedriilor,sinedriilor,sinedrii,sinedriilor,собоарелор,council
+συνέδριον,57,unigram,neuter,accusative,singular,adunat,1.9199315308798666,consiliul,adunat,convocat,preoții,Sinedriul,adunat,adunat,sinedriul,Sinedriul,адунат,council
+χώρα,313,unigram,feminine,accusative,singular,ținutul,6.1615113844071825,ținutul,ţinutul,țară,,ținutul,ținutul,ţinutul,ținutul,ținutul,цинутул,"country, countryside"
+ὄχλος,62,unigram,masculine,accusative,plural,mulțimilor,1.5927059529459862,mulțimilor,noroadelor,ocazia,Noroadelor,mulțimilor,mulțimile,mulţimilor,gloatele,,нороаделор,crowd
+ὄχλος,10,unigram,masculine,accusative,singular,mulțimea,1.3013206006347007,mulțimea,norodul,oameni,gloatele,mulțimea,mulțime,mulţimea,,mulțimea,нородул,crowd
+ὄχλος,105,unigram,masculine,nominative,plural,mulțimile,5.122822806692014,mulțimi,noroadele,oameni,noroade,,mulțimile,mulţimile,gloatele,mulțimile,нороаделе,crowd
+ὄχλος,303,unigram,masculine,nominative,singular,,,mulțimea,norodul,oameni,gloată,mulțime,mulțime,mulţimea,gloata,mulțimea,нородул,crowd
+θυγάτηρ,121,unigram,feminine,nominative,plural,,,,,Locuitoare,,,,Fiice,,,,daughter
+θυγάτηρ,338,unigram,feminine,nominative,singular,fiica,4.4667021631829265,Fiica,,,fiica,fiica,,fiica,fiica,,,daughter
+ἡμέρα,80,unigram,feminine,accusative,plural,zile,267791.8759061665,zile,zile,zile,zile,zile,zile,zile,zile,zile,зиле,day
+ἡμέρα,92,unigram,feminine,accusative,singular,zi,17.945337582999482,zi,zilele,zi,zilele,zi,zi,zi,zi,zi,зилеле,day
+ἡμέρα,2,unigram,feminine,nominative,plural,zile,523.640112884508,zilele,zile,zile,zile,zile,zile,zile,zile,zile,зиле,day
+ἡμέρα,72,unigram,feminine,nominative,singular,ziua,10.684658418635772,ziua,ziua,ziuă,ziuă,ziua,ziua,ziua,ziua,ziua,зиуа,day
+ὀφειλέτης,271,unigram,masculine,nominative,plural,turnul,1.2013309189107515,,,,,,,turnul,turnul,,,debtor
+ὀφειλέτης,130,unigram,masculine,nominative,singular,galbeni,1.2013309189107515,datora,,,galbeni,socotelile,,galbeni,,conturile,,debtor
+δαιμόνιον,32,unigram,neuter,accusative,plural,draci,10.121904058275387,draci,dracii,exorcizări,draci,demoni,,demonii,draci,diavoli,драчий,demon
+δαιμόνιον,355,unigram,neuter,accusative,singular,drac,50.02012065701415,drac,drac,demon,drac,demon,demon,posedat,drac,diavol,драк,demon
+δαιμόνιον,207,unigram,neuter,nominative,plural,,,dracii,draci,ieșiseră,draci,,,demonii,dracii,diavolii,драчь,demon
+δαιμόνιον,181,unigram,neuter,nominative,singular,demonul,5.9590975633915315,dracul,dracul,demonul,certat,demonul,demonul,demonul,dracul,diavolul,дракул,demon
+δηνάριον,329,unigram,neuter,accusative,plural,dinari,72.6107651199788,dinari,lei,dinari,lei,dinari,denari,dinari,dinari,dinari,лей,denarius (about a day's wages)
+δηνάριον,169,unigram,neuter,accusative,singular,dinar,251.9147090189524,dinar,ban,dinar,Dați-Mi,dinar,denar,dinar,dinar,dinar,бан,denarius (about a day's wages)
+μαθητής,188,unigram,masculine,accusative,plural,Săi,1.8064609173816544,săi,Săi,discipolii,ucenici,Săi,ucenici,Săi,ucenicii,discipolii,Сэй,disciple
+μαθητής,360,unigram,masculine,accusative,singular,iubea,11.075585982628702,iubea,iubea,iubea,ucenicul,iubea,iubea,iubea,iubea,iubea,юбя,disciple
+μαθητής,295,unigram,masculine,nominative,plural,ucenicii,363.0055859631488,discipolii,ucenicii,discipolii,ucenicii,ucenicii,ucenicii,ucenicii,ucenicii,discipolii,ученичий,disciple
+μαθητής,358,unigram,masculine,nominative,singular,ucenic,2.749551471485384,discipolul,,discipol,ucenic,ucenicul,ucenic,ucenicul,ucenic,discipolul,,disciple
+νόσος,3,unigram,feminine,accusative,plural,bolile,4.434531305306912,boli,bolile,bolile,,,,bolile,,asupra,болиле,disease
+νόσος,79,unigram,feminine,accusative,singular,boală,4.930460115567805,,boală,boală,,boală,boală,boală,boală,boală,боалэ,disease
+περιστερά,104,unigram,feminine,accusative,plural,porumbei,1.9883883472374426,porumbei,vindeau,porumbei,negoț,vindeau,vindeau,porumbei,porumbei,porumbei,виндяу,dove
+περιστερά,58,unigram,feminine,accusative,singular,porumbel,20.7068468176882,porumbel,porumbel,porumbel,porumbel,porumbel,porumbel,porumbel,porumbel,porumbel,порумбел,dove
+οὖς,157,unigram,neuter,accusative,plural,urechi,14.92565689095577,urechi,urechi,rețină,urechi,urechi,urechi,urechi,urechi,urechi,урекь,ear
+οὖς,302,unigram,neuter,accusative,singular,ureche,1.8178401757921048,ureche,,,la-nălțimea,,,ureche,ureche,,,ear
+σεισμός,214,unigram,masculine,nominative,plural,cutremure,1.414389342573076,cutremure,cutremure,cutremure,bântui,,,cutremure,,cutremure,,"earthquakes, storm"
+σεισμός,68,unigram,masculine,nominative,singular,iată,1.25485004694458,iată,,,,iată,iată,,iată,iată,,"earthquakes, storm"
+τέλος,292,unigram,neuter,accusative,singular,sfârșit,6.117785206533672,sfârșit,răbda,sfârșit,mântuit,răbda,sfârșit,sfârşit,sfârșit,sfârșit,рэбда,end
+αἰών,256,unigram,masculine,accusative,plural,,,domni,,dăinui,,,,,,,,eternity
+αἰών,325,unigram,masculine,accusative,singular,veci,80.39764398844463,niciodată,veac,niciodată,veci,veac,veci,veci,veac,veci,вяк,eternity
+ὀφθαλμός,23,unigram,masculine,accusative,plural,ochii,46912.758068540265,ochii,ochii,ochii,ochii,ochii,ochii,ochii,ochii,ochii,окий,eye
+ὀφθαλμός,69,unigram,masculine,nominative,plural,ochii,31975.243000202412,ochii,ochii,învinsese,ochii,ochii,ochii,ochii,ochii,ochii,окий,eye
+ὀφθαλμός,322,unigram,masculine,nominative,singular,ochiul,82.53967940372988,ochiul,ochiul,ochiul,ochi,ochiul,ochiul,ochiul,ochiul,ochiul,окюл,eye
+πρόσωπον,129,unigram,neuter,accusative,plural,fețele,12.001321216095066,fețele,feţele,fețele,,,fețele,şi-au,fețele,și-au,фецеле,face
+πρόσωπον,202,unigram,neuter,accusative,singular,fața,959.3685157566753,fața,faţa,fața,fața,fața,fața,faţa,fața,fața,фаца,face
+λιμός,7,unigram,feminine,nominative,plural,foamete,1.0595416318177244,,,foamete,,,,,,,,famine
+γεωργός,270,unigram,masculine,nominative,plural,viticultorii,2.5251880797013335,viticultorii,moștenitorul,viticultorii,îl,lucrătorii,,moştenirea,vierii,viticultorii,моштениторул,"farmer, tenant"
+γεωργός,54,unigram,masculine,nominative,singular,viticultorul,1.3169336773433742,viticultorul,,,,,viticultorul,viţa,vierul,viticultorul,,"farmer, tenant"
+πατήρ,208,unigram,masculine,accusative,plural,seminței,1.2969692018889372,,,,,,,,seminței,,,father
+πατήρ,328,unigram,masculine,accusative,singular,Tatăl,90.1406538612141,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Татэл,father
+πατήρ,337,unigram,masculine,nominative,plural,părinții,2.64982777736137,părinții,părinţii,voștri,Părinții,părinții,voștri,părinţii,părinții,părinții,пэринций,father
+πατήρ,196,unigram,masculine,nominative,singular,Tatăl,15151037.223015124,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Tatăl,Татэл,father
+σύνδουλος,151,unigram,masculine,accusative,plural,bețivii,1.6202596605582793,,beţivii,,,bețivii,bețivii,beţivii,bețivii,bețivii,бецивий,"fellow-servant, colleague"
+σύνδουλος,93,unigram,masculine,accusative,singular,tovarășul,1.4580586073036694,,tovarășul,colegul,,tovarășul,confratele,tovarăşul,avut,înduri,товарэшул,"fellow-servant, colleague"
+σύνδουλος,341,unigram,masculine,nominative,plural,petrecute,1.668621763433243,,petrecute,prietenii,,tovarășii,,petrecute,petrecute,,петрекуте,"fellow-servant, colleague"
+σύνδουλος,119,unigram,masculine,nominative,singular,,,,Tovarășul,,,,,Tovarăşul,Îngăduește‐mă,Căzând,Товарэшул,"fellow-servant, colleague"
+ἀγρός,354,unigram,masculine,accusative,plural,surori,1.2434426132882073,pământuri,,surori,satele,,,surori,țarini,,,field
+ἀγρός,42,unigram,masculine,accusative,singular,,,câmpul,olarului,câmp,cumpărat,,,,țarina,ogorul,оларулуй,field
+δάκτυλος,249,unigram,masculine,accusative,plural,degetele,1.3168098566981707,degetele,,,,,,,degetele,degetele,,finger
+δάκτυλος,187,unigram,masculine,accusative,singular,degetul,2.124608191442192,degetul,degetul,,degetul,degetul,degetul,coasta,degetul,degetul,деӂетул,finger
+ἰχθύς,161,unigram,masculine,accusative,plural,pâini,1.1944441413628157,pești,pâini,pâini,cinci,pești,pâini,pâini,pești,pâini,пынь,fish
+ἰχθύς,201,unigram,masculine,accusative,singular,pește,3.939795212979326,șarpe,șarpe,pește,voitUn,pește,pește,şarpe,șarpe,pește,шарпе,fish
+δίκτυον,113,unigram,neuter,accusative,plural,mrejele,108.7753291590309,plasele,mrejele,plasele,mrejele,mrejele,năvoadele,mrejele,mrejile,năvoadele,мрежеле,fishing net
+δίκτυον,211,unigram,neuter,accusative,singular,,,plasa,mreaja,plasa,pești,mreaja,năvodul,năvodul,mreaja,năvodul,мряжа,fishing net
+δίκτυον,182,unigram,neuter,nominative,plural,,,,,,,,,rupeau,,năvoadele,,fishing net
+δίκτυον,260,unigram,neuter,nominative,singular,,,,mreaja,,,,,năvodul,,rupt,мряжа,fishing net
+τροφή,262,unigram,feminine,accusative,plural,duseseră,2.558920010999892,duseseră,,duseseră,erauPlecați,duseseră,duseseră,plecaseră,plecaseră,plecaseră,,food
+τροφή,349,unigram,feminine,accusative,singular,,,,,,,,,,hotărâtă,hrană,,food
+πούς,252,unigram,masculine,accusative,plural,picioarele,4600436.266914331,picioarele,picioarele,picioarele,picioare,picioarele,picioarele,picioarele,picioarele,picioarele,пичоареле,foot
+πούς,117,unigram,masculine,accusative,singular,vreo,1.1958661172811496,,,vreo,,,,,,,,foot
+καρπός,193,unigram,masculine,accusative,plural,roadele,4.822758771278388,roadele,,,,roade,roadele,roade,roadele,roadele,,"fruit, crop, harvest"
+καρπός,247,unigram,masculine,accusative,singular,rod,5344.936098917073,rod,rod,fructe,Grăuntele,rod,rod,rod,rod,rod,род,"fruit, crop, harvest"
+πλήρωμα,288,unigram,neuter,accusative,plural,,,frânturi,firimituri,coșuri,coșuri,,firimituri,fărâmituri,umplute,bucăți,фиримитурь,fullness
+πλήρωμα,348,unigram,neuter,accusative,singular,,,,postav,ruptură,,,,veche,,,постав,fullness
+γενεά,289,unigram,feminine,accusative,plural,,,generație,,,,,,aratăcelor,,,,generation
+γενεά,248,unigram,feminine,accusative,singular,generație,6.28647374025165,acestei,neamul,generație,,generația,generație,luminii,neamul,generație,нямул,generation
+γενεά,335,unigram,feminine,nominative,plural,generațiile,7.999383623732979,generațiile,,,neamuri,,generațiile,,neamurile,generațiile,,generation
+γενεά,156,unigram,feminine,nominative,singular,generație,58.10137695599842,generație,neam,generație,neam,generație,generație,semn,neam,generație,ням,generation
+δῶρον,327,unigram,neuter,accusative,plural,daruri,4.033345576355883,vistierie,daruri,,visterie,daruri,,,daruri,oferit,дарурь,gift
+δῶρον,171,unigram,neuter,accusative,singular,darul,4630.598723059479,darul,darul,darul,darul,darul,darul,darul,darul,darul,дарул,gift
+ἡγεμών,179,unigram,masculine,accusative,plural,guvernatorilor,3.077526238698214,,dregătorilor,guvernatorilor,sinagogi,dregătorilor,guvernatorilor,guvernatorilor,împăraților,,дрегэторилор,"governor, ruler"
+ἡγεμών,13,unigram,masculine,accusative,singular,guvernatorul,1.7077653770719858,guvernatorul,dregătorul,pronunțat,,dregătorul,guvernatorul,,,guvernatorul,дрегэторул,"governor, ruler"
+ἀσπασμός,340,unigram,masculine,accusative,plural,,,saluturile,plecăciuni,locuri,,piețe,saluturile,,îmbrățișările,piețe,плекэчунь,greeting
+ἀσπασμός,180,unigram,masculine,accusative,singular,salutul,1.3168098566981707,salutul,urarea,,,salutul,,,,salutul,ураря,greeting
+ὁδηγός,4,unigram,masculine,nominative,singular,,,oarbe,orbi,orbi,orbi,oarbe,oarbe,,orbi,oarbe,орбь,guide
+θρίξ,230,unigram,feminine,nominative,singular,păr,2.1494672713940375,păr,păr,păr,,păr,,,păr,,пэр,hair
+χείρ,331,unigram,feminine,accusative,plural,mâinile,889107.2522494094,mâinile,mâinile,mâinile,mâinile,mâinile,mâinile,mâinile,mâinile,mâinile,мыниле,hand
+χείρ,234,unigram,feminine,accusative,singular,mâna,30841.64635848421,mâna,mâna,mâna,mâna,mâna,mâna,mâna,mâna,mâna,мына,hand
+κεφαλή,149,unigram,feminine,accusative,plural,,,,Trecătorii,cap,trecătorii,,,capetele,,,Трекэторий,head
+κεφαλή,218,unigram,feminine,accusative,singular,capul,15085.888197278124,capul,capul,capul,capul,capul,capul,capul,capul,capul,капул,head
+στάχυς,219,unigram,masculine,accusative,plural,,,sabat,,,,,,spice,,,,head of grain
+καρδία,35,unigram,feminine,accusative,plural,inimile,20.81875257982354,inimile,inimile,corecți,fața,inimile,inimile,inimile,inimile,inimile,инимиле,heart
+καρδία,305,unigram,feminine,accusative,singular,inima,129683.06680804098,inima,inima,inima,inima,inima,inima,inima,inima,inima,инима,heart
+καρδία,203,unigram,feminine,nominative,singular,inima,272462.5153188007,inima,inima,inima,inima,inima,inima,inima,inima,inima,инима,heart
+οὐρανός,284,unigram,masculine,accusative,singular,cer,3312.753290647544,cer,cer,cer,cer,cer,cer,cer,cer,cer,чер,"heaven, sky"
+οὐρανός,365,unigram,masculine,nominative,plural,cerurile,1.3192174193575739,cerurile,porumbel,,,,,,cerurile,cerurile,порумбел,"heaven, sky"
+οὐρανός,209,unigram,masculine,nominative,singular,cerul,2.2442437113473255,cerul,cerul,pământul,cuvântulCare,cerul,cerul,cerul,cerul,pământul,черул,"heaven, sky"
+ὥρα,312,unigram,feminine,nominative,plural,ceasuri,1.2019280568590713,,,,,ceasuri,,,ceasuri,,,hour
+ὥρα,26,unigram,feminine,nominative,singular,ceasul,150185.2213289167,timpul,ceasul,timpul,ceasul,ceasul,ceasul,ceasul,ceasul,ceasul,часул,hour
+οἰκία,163,unigram,feminine,accusative,plural,primi,1.9075166922976536,primi,,primi,surori,primi,mult,primi,lua,primi,,house
+οἰκία,345,unigram,feminine,accusative,singular,casa,4.040386109740583,casă,casa,casa,casă,casă,casa,casa,casă,casa,каса,house
+οἶκος,300,unigram,masculine,accusative,plural,,,administrație,isprăvnicie,casele,,,,,economie,,испрэвничие,"house, home"
+οἶκος,22,unigram,masculine,accusative,singular,acasă,52.514352966437684,acasă,acasă,acasă,acasă,acasă,acasă,casa,casa,casa,акасэ,"house, home"
+κριτής,326,unigram,masculine,nominative,plural,judecătorii,2.8974613809348533,judecătorii,judecătorii,Beelzebul,,judecătorii,judecătorii,judecătorii,,judecătorii,жудекэторий,judge
+κριτής,173,unigram,masculine,nominative,singular,judecătorul,19.21074329053389,judecătorul,judecătorul,judecătorul,,judecătorul,judecătorul,judecătorul,judecătorul,judecătorul,жудекэторул,judge
+κλείς,89,unigram,feminine,accusative,plural,cheile,2.0134153134601482,cheile,cheile,cheile,,cheile,cheile,cheile,cheile,,кеиле,key
+βασιλεύς,111,unigram,masculine,accusative,plural,guvernatorilor,2.8816033356702713,,,guvernatorilor,sinagogi,,,guvernatorilor,împăraților,regilor,,king
+βασιλεύς,63,unigram,masculine,accusative,singular,regele,2.3888082755911824,,Împăratul,Regele,Împărat,regele,Împăratul,regele,împărat,regele,Ымпэратул,king
+βασιλεία,83,unigram,feminine,accusative,plural,împărățiile,3.4911601436203616,împărățiile,împărăţiile,înalt,L-a,împărățiile,regatele,împărăţiile,împărățiile,împărățiile,ымпэрэцииле,kingdom
+βασιλεία,168,unigram,feminine,accusative,singular,Împărăția,30.82944697162738,împărăția,Împărăţia,Regatul,,Împărăția,Împărăția,Împărăţia,Împărăția,împărăția,Ымпэрэция,kingdom
+κόπος,212,unigram,masculine,accusative,plural,supărare,2.566484342500762,,supărare,frumos,supărare,frumos,necăjiți,necăjiţi,supărare,,супэраре,"labour, work, trouble, difficulty"
+λύχνος,245,unigram,masculine,nominative,singular,lumina,3.1226792841384525,lumină,lumina,lumina,lumina,luminat,candela,făclia,candela,luminos,лумина,lamp
+κλῆρος,101,unigram,masculine,accusative,plural,iartă-i,1.3167569176938394,,iartă-i,iartă-i,,,,,,iartă-i,яртэ-й,"lots (casting of lots), inheritance"
+κλῆρος,1,unigram,masculine,accusative,singular,,,sorți,sorţi,,împărțit,sorți,sorții,împărţit,hainele,hainele,сорць,"lots (casting of lots), inheritance"
+ἄνθρωπος,315,unigram,masculine,accusative,plural,oameni,137.12962314749706,oameni,oameni,bărbați,oameni,oameni,oameni,oameni,oameni,oameni,оамень,man
+ἄνθρωπος,273,unigram,masculine,accusative,singular,om,7804.927619459566,om,om,om,om,om,om,om,om,om,ом,man
+ἄνθρωπος,124,unigram,masculine,nominative,plural,oamenii,28215.995278908147,oamenii,oamenii,oamenii,,oamenii,oamenii,oamenii,oamenii,oamenii,оамений,man
+ἄνθρωπος,186,unigram,masculine,nominative,singular,om,12102.185298687487,om,om,om,om,om,om,om,om,om,ом,man
+ἀνήρ,263,unigram,masculine,accusative,plural,bărbați,15.997841503444526,,bărbaţi,apreciez,,bărbați,bărbați,bărbaţi,bărbați,bărbați,бэрбаць,"man, husband"
+ἀνήρ,267,unigram,masculine,accusative,singular,,,soțul,,soțul,,bărbatul,bărbat,bărbat,bărbatul,,,"man, husband"
+ἀνήρ,154,unigram,masculine,nominative,plural,bărbați,29.45625209728249,bărbați,bărbaţi,bărbați,mii,bărbați,bărbați,bărbaţi,bărbați,bărbați,бэрбаць,"man, husband"
+ἀνήρ,253,unigram,masculine,nominative,singular,om,3.107647846129245,bărbat,om,un,om,om,un,om,bărbat,bărbat,ом,"man, husband"
+μνᾶ,318,unigram,feminine,accusative,plural,zece,3.3401024972900775,zece,poli,mine,poli,mine,zece,mine,zece,zece,поль,mina (about 100 days' wages)
+πρωτοκαθεδρία,109,unigram,feminine,accusative,plural,ospețe,1.220283026676204,ospețe,scaunele,ocupe,puși,ospețe,mese,ospeţe,ospețe,,скаунеле,"most important seat, seat of honour"
+πρωτοκαθεδρία,37,unigram,feminine,accusative,singular,,,,umblaţi,,,,saluturile,,scaun,,умблаць,"most important seat, seat of honour"
+μήτηρ,296,unigram,feminine,accusative,singular,mama,711.8111841842622,mama,mama,mama,mama,mama,mama,mama,mama,mama,мама,mother
+ὄρος,229,unigram,neuter,accusative,plural,munți,4.918132260019572,,munţi,munți,munți,munți,munți,munţi,munți,munți,мунць,mountain
+ὄρος,282,unigram,neuter,accusative,singular,munte,11.692323437582553,munte,munte,munte,munte,munte,munte,munte,munte,munte,мунте,mountain
+μύρον,28,unigram,neuter,accusative,singular,parfum,1.0960965115985384,,,,,,parfum,,,,,myrrh
+ὄνομα,36,unigram,neuter,accusative,singular,numele,132.18728977025074,numele,Numele,numele,Numele,Numele,numele,Numele,numele,numele,Нумеле,name
+ὄνομα,107,unigram,neuter,nominative,plural,numele,53.76004850755295,numele,numele,Numele,,numele,numele,numele,numele,,нумеле,name
+ὄνομα,268,unigram,neuter,nominative,singular,,,numele,Numele,numea,era,Numele,Numele,,numele,numele,Нумеле,name
+ἔθνος,243,unigram,neuter,accusative,plural,neamurile,3.6170176099858193,națiunile,neamurilor,națiunilor,neamurile,neamurile,neamurile,neamurilor,toate,popoarele,нямурилор,nation
+ἔθνος,204,unigram,neuter,accusative,singular,,,,,regat,,,,,împărăție,imperiu,,nation
+ἔθνος,321,unigram,neuter,nominative,plural,neamurile,24.050457378691707,,neamurile,,neamuri,neamurile,neamurile,neamurile,Neamurile,păgânii,нямуриле,nation
+ἔθνος,27,unigram,neuter,nominative,singular,,,contra,,regat,,popor,neam,,împărăție,imperiu,,nation
+νύξ,198,unigram,feminine,accusative,plural,nopți,94.97842296792285,nopți,nopţi,nopți,nopți,nopți,nopți,nopţi,nopți,nopți,нопць,night
+νύξ,261,unigram,feminine,accusative,singular,noapte,5.151172257586055,noapte,,,,noapte,noapte,zi,noaptea,,,night
+ὅρκος,64,unigram,masculine,accusative,plural,,,jurământului,jurămintelor,jurământului,jurat,jurămintelor,jurămintelor,celor,jurăminte,jurământului,журэминтелор,oath
+ὅρκος,281,unigram,masculine,accusative,singular,jurământul,1.9933390497014016,,,jurase,jurat,,jurământul,jurământul,jurământul,jurământul,,oath
+βοῦς,159,unigram,masculine,accusative,plural,,,templu,Templu,mesele,boi,jos,mesele,bani,Templu,bani,Темплу,ox
+παραβολή,277,unigram,feminine,accusative,plural,,,parabolele,pildele,parabole,,pildele,pilde,parabolele,pildele,parabolele,пилделе,parable
+παραβολή,235,unigram,feminine,accusative,singular,parabolă,104.27205044718264,parabolă,pilda,parabolă,pildă,pilda,pildă,parabolă,pildă,parabolă,пилда,parable
+μέρος,364,unigram,neuter,accusative,plural,părțile,281.24503652878747,părțile,părţile,zona,fost-a,părțile,părțile,părţile,părțile,părțile,пэрциле,part
+μέρος,56,unigram,neuter,accusative,singular,partea,1.6460198798094758,partea,soarta,avea,dăruit,soarta,partea,parte,partea,parte,соарта,part
+μαργαρίτης,237,unigram,masculine,accusative,plural,mărgăritare,1.999949106296321,,,,mărgăritare,,,,,,,pearls
+μαργαρίτης,39,unigram,masculine,accusative,singular,mărgăritar,1.316739288237296,,mărgăritar,perlă,dobândească,mărgăritar,,mărgăritar,,,мэргэритар,pearls
+τόπος,290,unigram,masculine,accusative,plural,cutremure,1.3670646400336384,cutremure,cutremure,cutremure,bântui,,,cutremure,,cutremure,,place
+τόπος,314,unigram,masculine,accusative,singular,locul,2.317945220938809,locul,locul,loc,loc,locul,locul,loc,loc,locul,локул,place
+πρωτοκλισία,294,unigram,feminine,accusative,plural,locurile,3.1008574335976675,locurile,locurile,festive,puși,cinste,scaunele,locurile,dintâi,locurile,локуриле,place of honor
+πρωτοκλισία,38,unigram,feminine,accusative,singular,,,,dintâi,față,locul,cinste,onoare,,dintâi,onoare,динтый,place of honor
+ὄφις,108,unigram,masculine,accusative,singular,șarpe,2.99830434270366,șarpe,șarpe,șarpe,voitUn,șarpe,șarpe,şarpe,șarpe,șarpe,шарпе,poison
+σκεῦος,144,unigram,neuter,accusative,plural,jefui,1.3872996516474227,,,imobilizat,legat,,jefui,jefui,,unui,,"possession, object, thing, jar, vessel"
+σκεῦος,272,unigram,neuter,accusative,singular,poarte,1.3876625609031794,poarte,poarte,poarte,vase-n,îngăduia,vas,vas,îngăduia,permitea,поарте,"possession, object, thing, jar, vessel"
+σκεῦος,135,unigram,neuter,nominative,plural,vasele,1.341419931491285,bunurile,vasele,vasele,,acea,lăsate,acoperiş,,acoperiș,васеле,"possession, object, thing, jar, vessel"
+δύναμις,110,unigram,feminine,accusative,plural,minuni,17.819223617152787,multe,minuni,multe,minuni,minuni,minuni,minuni,puteri,minuni,минунь,"power, ability, miracle"
+δύναμις,50,unigram,feminine,accusative,singular,putere,3.579934570342963,putere,putere,rătăciți,putere,putere,putere,puterea,putere,puterea,путере,"power, ability, miracle"
+δύναμις,86,unigram,feminine,nominative,plural,minunile,2.0516776925263915,puternice,,minunile,fi,,minunile,,puterile,,,"power, ability, miracle"
+δύναμις,120,unigram,feminine,nominative,singular,puterea,10.45152317524748,puterea,puterea,,,puterea,,puterea,puterea,puterea,путеря,"power, ability, miracle"
+ἱερεύς,20,unigram,masculine,nominative,plural,,,,nevinovaţi,,,încalcă,,,,,невиноваць,priest
+ἱερεύς,257,unigram,masculine,nominative,singular,preot,9.979688186713325,anumit,preot,preot,preot,preot,preot,preot,oarecare,preot,преот,priest
+φυλακή,274,unigram,feminine,accusative,plural,închisorilor,1.106290521332697,,,,,,închisorilor,,,,,prison
+φυλακή,25,unigram,feminine,accusative,singular,închisoare,34.507081625271354,închisoare,temniţă,închisoare,,temniță,închisoare,temniţă,temniță,închisoare,темницэ,prison
+προφήτης,67,unigram,masculine,accusative,plural,profeții,7.328927018449577,profeții,proroci,profeți,,profeți,profeții,profeţii,proroci,profeții,пророчь,prophet
+προφήτης,210,unigram,masculine,accusative,singular,profet,4549.340810235944,profet,proroc,profet,proroc,profet,profet,profet,proroc,profet,пророк,prophet
+προφήτης,236,unigram,masculine,nominative,plural,profeții,5.273161830563512,profeții,prorocii,profeții,Lege,Profeții,profeții,Profeţii,prorocii,profeții,пророчий,prophet
+προφήτης,283,unigram,masculine,nominative,singular,profet,2551.11516282484,profet,proroc,profet,proroc,profet,profet,profet,proroc,profet,пророк,prophet
+βαλλάντιον,19,unigram,neuter,accusative,singular,pungă,22.240452651872644,pungă,pungă,pungă,traistă,pungă,săculeț,pungă,pungă,pungă,пунгэ,purse
+ποταμός,131,unigram,masculine,nominative,plural,șuvoaiele,1.1336766852815494,șuvoaiele,,,,,,,,șuvoaiele,,river
+ποταμός,176,unigram,masculine,nominative,singular,,,,,construit,omul,,,,,năpustit,,river
+λῃστής,45,unigram,masculine,accusative,plural,tâlhari,39.604365735560826,tâlhari,tâlhari,tâlhari,,tâlhari,,,tâlhari,,тылхарь,robber
+λῃστής,363,unigram,masculine,accusative,singular,tâlhar,1.7263114415378784,tâlhar,tâlhar,tâlhar,Armați,tâlhar,răsculat,tâlhar,tâlhar,tâlhar,тылхар,robber
+λῃστής,342,unigram,masculine,nominative,plural,tâlhari,3.7388529833766273,,tâlhari,,tâlhari,tâlhari,răstigniți,,,tâlhari,тылхарь,robber
+λῃστής,165,unigram,masculine,nominative,singular,tâlhar,115.67896091978325,tâlhar,tâlhar,,tâlhar,tâlhar,,tâlhar,tâlhar,tâlhar,тылхар,robber
+ἄρχων,216,unigram,masculine,accusative,plural,conducătorii,1.4993058751336592,conducătorii,fruntași,conducătorii,,conducători,laolaltă,comandanţi,mari,comandanți,фрунташь,ruler
+ἄρχων,71,unigram,masculine,nominative,plural,conducătorii,6.868443896016642,conducătorii,mai-marii,noștri,răstignit,mai‑marii,Cristosul,Hristosul,marii,conducătorii,май-марий,ruler
+ἄρχων,336,unigram,masculine,nominative,singular,,,conducător,,stăpânitorul,fruntaș,conducător,conducătorul,acesteia,lumii,conducătorul,,ruler
+ἀκοή,8,unigram,feminine,accusative,plural,zvonuri,1.207086702029465,zvonuri,vești,sfârșitul,,zvonuri,neliniștiți,războaie,zvonuri,,вешть,rumor
+ἀκοή,81,unigram,feminine,accusative,singular,faima,1.2013953022722905,,cârmuitorul,guvernatorul,Cârmuitor,faima,faima,vorbindu-se,tetrarhul,,кырмуиторул,rumor
+ἀκοή,170,unigram,feminine,nominative,plural,funcționat,1.0960817954296525,,,funcționat,,,,,,,,rumor
+ἀκοή,353,unigram,feminine,nominative,singular,vestea,1.5476306413580145,faima,vestea,,,vestea,,,știrea,toată,вестя,rumor
+βιβλίον,60,unigram,neuter,accusative,plural,cărțile,1.3290591902416915,,,cărți,,,cărțile,,cărțile,,,"scroll, book"
+διάκονος,96,unigram,masculine,nominative,singular,slujitorul,53.70358573836011,servitorul,slujitorul,între,tuturor,slujitorul,slujitorul,slujitorul,slujitorul,slujitorul,служиторул,"servant, minister, deacon"
+δοῦλος,223,unigram,masculine,accusative,plural,robii,4.570144604097673,,robii,sclavi,robi,robii,sclavii,slujitorii,robii,servitorii,робий,"servant, slave"
+δοῦλος,29,unigram,masculine,accusative,singular,,,,robul,sclavul,rob,rob,,slujitorul,robul,,робул,"servant, slave"
+δοῦλος,106,unigram,masculine,nominative,plural,robii,6.446381981611124,robii,,Sclavii,Robi-au,robii,Sclavii,Slujitorii,robii,servitorii,,"servant, slave"
+δοῦλος,217,unigram,masculine,nominative,singular,robul,16.4624638158103,robul,robul,sclavul,robul,robul,sclavul,stăpânul,robul,servitorul,робул,"servant, slave"
+πρόβατον,346,unigram,neuter,accusative,plural,oile,185.7814531508699,oile,oile,oile,oi,oile,oile,oile,oile,oile,оиле,sheep
+ποιμήν,266,unigram,masculine,nominative,plural,păstorii,28.83227159283612,păstorii,păstorii,,,,păstorii,,păstorii,păstorii,пэсторий,"shepherd, pastor"
+ποιμήν,306,unigram,masculine,nominative,singular,,,păstorul,oi,Păstor,păstor,oi,,oile,,păstorul,ой,"shepherd, pastor"
+σημεῖον,147,unigram,neuter,accusative,plural,semne,574.4499337299,,semne,minuni,semne,semne,semne,semne,semne,semne,семне,sign
+σημεῖον,134,unigram,neuter,accusative,singular,semn,51803.29091369298,semn,semn,minune,semn,semn,semn,semn,semn,semn,семн,sign
+σημεῖον,47,unigram,neuter,nominative,plural,semne,27.13974218371529,semne,semne,vor,semne-n,semne,semne,semne,semne,semne,семне,sign
+σημεῖον,95,unigram,neuter,nominative,singular,semnul,21.515422528964795,semn,semnul,generație,semn,semnul,semnul,semnul,semnul,semnul,семнул,sign
+δραχμή,178,unigram,feminine,accusative,singular,găsește,6.543202618994574,găsește,,,banul,găsește,găsește,,,găsește,,"silver coin, drachma"
+ἀργύριον,228,unigram,neuter,accusative,plural,arginți,2.0710314674242776,arginți,arginţi,argint,de-arginți,arginți,,arginţi,arginți,banii,арӂинць,"silver, money"
+ἀργύριον,356,unigram,neuter,accusative,singular,banii,3.2092533667034466,banii,banii,banii,bani,banii,argintul,banii,argintul,banii,баний,"silver, money"
+ἁμαρτία,301,unigram,feminine,accusative,plural,păcatele,2145.986466464873,păcatele,păcatele,păcatele,ierte,păcatele,păcatele,păcatele,păcatele,păcatele,пэкателе,sin
+ἁμαρτία,232,unigram,feminine,accusative,singular,păcat,6.0975551988808405,păcat,păcat,păcatul,păcat,păcat,păcatul,păcat,păcatul,păcatul,пэкат,sin
+ἁμαρτία,310,unigram,feminine,nominative,plural,iertate,14.07556931975284,iertate,îţi,iertate,iertate,iertate,iertate,iertate,păcatele,iertate,ыць,sin
+ἁμαρτία,307,unigram,feminine,nominative,singular,păcat,25.086918728526836,păcat,păcat,păcat,,,păcat,păcat,păcat,,пэкат,sin
+ἀδελφή,333,unigram,feminine,accusative,plural,surori,2.3499606939501736,surori,,surori,,,,surori,surori,,,sister
+ἀδελφή,141,unigram,feminine,accusative,singular,sora,184.76952731550318,sora,,sora,,sora,sora,sora,sora,sora,,sister
+ἀδελφή,21,unigram,feminine,nominative,plural,surorile,613.2869350443016,surorile,surorile,surorile,Surorile-I,surorile,surorile,surorile,surorile,surorile,сурориле,sister
+ἀδελφή,332,unigram,feminine,nominative,singular,,,sora,soră,soră,Marta,,,sora,,,сорэ,sister
+ῥάπισμα,160,unigram,neuter,accusative,plural,pălmuiau,1.096057314542422,,,pălmuiau,,,,,,,,"slap, strike, hit"
+ῥάπισμα,293,unigram,neuter,accusative,singular,palmă,1.428935760068175,palma,palmă,,,,,,palmă,palmă,палмэ,"slap, strike, hit"
+πλοιάριον,250,unigram,neuter,nominative,plural,Tiberiada,1.0960670999999007,,,,,,,Tiberiada,,,,small boat
+πλοιάριον,146,unigram,neuter,nominative,singular,barcă,2.182324398653232,corabie,,barcă,,barcă,barcă,,,barcă,,small boat
+ὀψάριον,192,unigram,neuter,accusative,plural,băiețel,1.3167569176938394,băiețel,băieţel,,,băiețel,băiețel,băieţel,,băiat,бэецел,small fish
+ὀψάριον,276,unigram,neuter,accusative,singular,,,,jăratic,pâine,,peștele,peștele,,jăratic,,жэратик,small fish
+υἱός,52,unigram,masculine,accusative,plural,fiii,7.5590583721643405,fiii,fiii,fiii,fiii,fiii,fiii,fiii,fiii,fiii,фиий,son
+υἱός,133,unigram,masculine,accusative,singular,Fiul,155.79448317069972,Fiul,Fiul,Fiul,Fiul,Fiul,Fiul,Fiul,Fiul,Fiul,Фиул,son
+υἱός,136,unigram,masculine,nominative,plural,fiii,2555.9886338907822,copiii,fiii,fiii,fii,fiii,fiii,fiii,fiii,fiii,фиий,son
+υἱός,225,unigram,masculine,nominative,singular,Fiul,1123.5492490519719,Fiul,Fiul,Fiul,Fiul,Fiul,Fiul,Fiul,Fiul,Fiul,Фиул,son
+ψυχή,238,unigram,feminine,accusative,plural,Răbdând,1.212915667570814,,,Răbdând,,,,,,,,"soul, life"
+ψυχή,304,unigram,feminine,accusative,singular,viața,60.23431813965838,viața,viaţa,viața,viața,viața,viața,viaţa,sufletul,viața,вяца,"soul, life"
+ἀστήρ,316,unigram,masculine,nominative,plural,stelele,1.4435698519571691,stelele,stelele,destabilizate,,stelele,,stelele,stelele,,стелеле,star
+ἀστήρ,200,unigram,masculine,nominative,singular,steaua,1.2013523596909814,,steaua,,,steaua,,,,,стяуа,star
+λίθος,320,unigram,masculine,accusative,plural,pietre,24.200389406835587,pietre,pietre,pietre,,pietre,pietre,arunce,pietre,arunce,петре,stone
+λίθος,40,unigram,masculine,accusative,singular,piatra,4.184022107897383,piatră,piatra,piatra,piatră,piatra,piatra,piatra,piatra,piatră,пятра,stone
+λίθος,145,unigram,masculine,nominative,plural,pietrele,28.752756622611177,pietre,pietrele,pietre,,pietrele,pietrele,pietre,pietrele,pietrele,петреле,stone
+λίθος,44,unigram,masculine,nominative,singular,piatră,72.37122365755752,piatră,piatră,piatră,piatră,piatră,piatră,piatră,piatră,piatră,пятрэ,stone
+συναγωγή,264,unigram,feminine,accusative,plural,,,sinagogi,dregătorilor,guvernatorilor,sinagogi,dregătorilor,sinagogilor,sinagogile,,guvernanților,дрегэторилор,synagogue
+συναγωγή,357,unigram,feminine,accusative,singular,sinagogă,414.85069152908255,sinagogă,sinagogă,sinagogă,sinagogă,sinagogă,sinagogă,sinagogă,sinagogă,sinagogă,синагогэ,synagogue
+τράπεζα,206,unigram,feminine,accusative,plural,mesele,1.4051396168604158,,,mesele,mesele,,,,,,,table
+τράπεζα,148,unigram,feminine,accusative,singular,bancă,1.2013845589884997,bancă,,dobândă,,,bancă,,,,,table
+τάλαντον,76,unigram,neuter,accusative,plural,talanți,30.7868435661295,talanți,talanţi,primise,talanți,talanți,talanți,talanţi,talanți,talanți,таланць,talent (weight and monetary unit: around 20 years' wages)
+τάλαντον,241,unigram,neuter,accusative,singular,talantul,110.21781205008062,talantul,talantul,mina,,talantul,talantul,talantul,talantul,talantul,талантул,talent (weight and monetary unit: around 20 years' wages)
+φόρος,311,unigram,masculine,accusative,singular,,,dăm,cuvine,impozit,,bir,plătim,tribut,,Ne,кувине,tax
+τελώνης,199,unigram,masculine,nominative,plural,vameșii,18.723214583683887,vameșii,vameșii,impozite,vameșii,vameșii,vameșii,vameşii,vameșii,vameșii,вамеший,tax collector
+τελώνης,78,unigram,masculine,nominative,singular,,,vameș,,colector,vameș,vameșul,,vameşul,vameșul,,,tax collector
+γραμματεύς,361,unigram,masculine,nominative,plural,cărturarii,1431.7097702005096,scribii,cărturarii,mozaice,cărturari,cărturarii,cărturarii,cărturarii,cărturarii,cărturarii,кэртурарий,"teacher, expert in the law, scholar, scribe"
+γραμματεύς,226,unigram,masculine,nominative,singular,cărturar,14.54967482171178,scrib,cărturar,,,cărturar,cărturar,cărturar,cărturar,învățătorule,кэртурар,"teacher, expert in the law, scholar, scribe"
+καθηγητής,347,unigram,masculine,nominative,plural,învățători,1.3262789401468373,Stăpânul,,,,,învățători,Învăţători,învățători,,,"teacher, guide"
+καθηγητής,240,unigram,masculine,nominative,singular,învățători,1.3262789401468373,Stăpânul,,,,,învățători,Învăţători,învățători,,,"teacher, guide"
+κλέπτης,88,unigram,masculine,nominative,plural,hoți,1.1160145436691074,,,hoți,,,,,,,,thief
+κλέπτης,239,unigram,masculine,nominative,singular,hoțul,7.274336390404696,hoțul,hoţul,,vieHoțul,hoțul,hoțul,hoţul,hoțul,hoțul,хоцул,thief
+διαλογισμός,317,unigram,masculine,accusative,plural,gândurile,39.99542408832847,gândurile,gândurile,cunoștea,,gândurile,gândurile,gândurile,cugetările,gândurile,гындуриле,"thought, argument"
+διαλογισμός,153,unigram,masculine,accusative,singular,gândul,1.8612195114255787,gândul,gândul,gândeau,,gândul,gândul,gândul,gândirea,,гындул,"thought, argument"
+διαλογισμός,125,unigram,masculine,nominative,plural,gândurile,3.4723200961776284,gânduri,gândurile,crimele,inimă,gândurile,gândurile,uciderile,gânduri,gândurile,гындуриле,"thought, argument"
+διαλογισμός,309,unigram,masculine,nominative,singular,,,discuție,gând,discute,Dintre,gândul,dispută,ceartă,gândire,întrebarea,гынд,"thought, argument"
+θρόνος,254,unigram,masculine,accusative,singular,tronul,2.5057058589978816,tronul,domnie,guverneze,domnieAl,tronul,tronul,tronul,domnie,tronul,домние,throne
+χρόνος,287,unigram,masculine,accusative,plural,îndelungat,1.8823064523337325,îndelungat,îndelungată,îndelungat,,îndelungat,îndelungat,,,îndelungat,ынделунгатэ,time
+χρόνος,246,unigram,masculine,accusative,singular,,,timp,vreme,timp,Puțină,vreme,vreme,timp,vreme,timp,време,time
+καιρός,150,unigram,masculine,nominative,singular,vremea,20.18526803781681,timpul,vremea,Timpul,Timpu-i,vremea,vremea,vremea,vremea,timpul,время,"time, right time"
+τάφος,138,unigram,masculine,accusative,plural,,,înfrumusețați,,,,,împodobiți,,,,,"tomb, grave"
+τάφος,184,unigram,masculine,accusative,singular,mormântul,97.62317539684109,mormântul,mormântul,mormântul,Mormântul,mormântul,întărit,mormântul,mormântul,mormântul,мормынтул,"tomb, grave"
+μνημεῖον,14,unigram,neuter,accusative,plural,zidiți,1.0903149444426181,,zidiţi,renovați,morminte,,zidiți,profeţilor,zidiți,profeților,зидиць,"tomb, grave"
+μνημεῖον,18,unigram,neuter,accusative,singular,mormânt,517465.65838992194,mormânt,mormânt,mormânt,mormânt,mormânt,mormânt,mormânt,mormânt,mormânt,мормынт,"tomb, grave"
+μνημεῖον,84,unigram,neuter,nominative,plural,mormintele,129.72343484836043,mormintele,mormintele,mormintele,,mormintele,mormintele,mormintele,mormintele,mormintele,морминтеле,"tomb, grave"
+μνημεῖον,280,unigram,neuter,nominative,singular,pus,7.033893163892036,pus,pus,pus,mormânt,pus,pus,pus,pus,pus,пус,"tomb, grave"
+θησαυρός,102,unigram,masculine,accusative,plural,comori,2.8730669930881763,,,comori,,,,,,,,treasure
+θησαυρός,233,unigram,masculine,accusative,singular,comoară,10.675453937181691,tezaur,comoară,comoară,,comoară,comoară,comoară,comoară,comoară,комоарэ,treasure
+δένδρον,94,unigram,neuter,accusative,plural,copaci,1.9999488926359328,,,copaci,,,,,,,,tree	
+δένδρον,82,unigram,neuter,accusative,singular,crescut,1.8077509609142608,,,crescut,,,,,,,,tree	
+κώμη,286,unigram,feminine,accusative,plural,satele,12.791000748377789,sate,satele,satele,sate,satele,satele,satele,satele,satele,сателе,village
+κώμη,59,unigram,feminine,accusative,singular,sat,383.5226132539513,sat,sat,sat,sat,sat,sat,sat,sat,sat,сат,village
+παρθένος,299,unigram,feminine,nominative,plural,fecioare,7.99938877996266,fecioare,,,Fecioarele,,,,fecioare,fecioare,,virgin
+φωνή,215,unigram,feminine,nominative,plural,crucificării,1.1615830654957209,,,crucificării,,,,,,,,voice or sound
+φωνή,343,unigram,feminine,nominative,singular,glas,22.81242461454261,voce,glas,voce,,glas,glas,glas,glas,glas,глас,voice or sound
+πόλεμος,278,unigram,masculine,accusative,plural,războaie,1.6611482046025778,războaie,,sfârșitul,războaie,,războaie,războaie,,războaie,,war
+πόλεμος,46,unigram,masculine,accusative,singular,,,,sfătuiască,,,,,,,,сфэтуяскэ,war
+ὕδωρ,362,unigram,neuter,accusative,plural,apă,29.10561248706382,apă,ape,apă,apă,apă,ape,ape,ape,apă,апе,water
+ὕδωρ,98,unigram,neuter,accusative,singular,apă,5705.225541183394,apă,apă,apă,apă,apă,apă,apă,apă,apă,апэ,water
+ὕδωρ,116,unigram,neuter,nominative,singular,apa,5.110149035390472,apa,apa,apa,,apa,apa,apa,apa,apa,апа,water
+ὑδρία,220,unigram,feminine,accusative,plural,vasele,1.3167216672078015,vasele,,,,vasele,vasele,,,,,water jar
+ὑδρία,122,unigram,feminine,accusative,singular,urciorul,3.3102982233103244,vasul,găleata,găleata,,urciorul,urciorul,,vasul,urciorul,гэлята,water jar
+ὁδός,279,unigram,feminine,accusative,plural,drumuri,5.656829751207428,umplută,căile,aceia,,drumuri,,căile,drumuri,drumuri,кэиле,way
+ὁδός,152,unigram,feminine,accusative,singular,drum,1.6254057209816994,calea,drum,drumul,drum,drum,drum,calea,cale,calea,друм,way
+γάμος,172,unigram,masculine,accusative,plural,nuntă,26834.68198554587,nuntă,nuntă,nuntă,nuntă,nuntă,nuntă,nuntă,nuntă,nuntă,нунтэ,wedding
+γάμος,258,unigram,masculine,accusative,singular,nuntă,22.07617873303164,nuntă,nuntă,nuntă,invitat,nuntă,nuntă,nuntă,nuntă,nuntă,нунтэ,wedding
+γυνή,115,unigram,feminine,accusative,plural,soțiile,1.2744069456534626,,,,,soțiile,,soţiile,,soțiile,,"wife, woman"
+γυνή,189,unigram,feminine,accusative,singular,soția,19.579157254630637,soția,nevasta,soția,–Va,soția,soția,soţia,nevasta,soția,неваста,"wife, woman"
+γυνή,126,unigram,feminine,nominative,plural,femei,26.184070358055965,femei,femei,femei,femei,femei,femei,femei,femei,femei,фемей,"wife, woman"
+γυνή,132,unigram,feminine,nominative,singular,femeie,141.39886185072345,femeie,femeie,femeie,femeia,femeie,femeie,femeie,femeie,femeie,фемее,"wife, woman"
+ἄνεμος,9,unigram,masculine,nominative,plural,vânturile,30.396557541868585,vânturile,vânturile,vânturile,,vânturile,vânturile,vânturile,vânturile,vânturile,вынтуриле,wind
+ἄνεμος,73,unigram,masculine,nominative,singular,vântul,13716.077214051349,vântul,vântul,vântul,mării,vântul,vântul,vântul,vântul,vântul,вынтул,wind
+πνεῦμα,330,unigram,neuter,accusative,plural,duhuri,2.016895880195556,,duhuri,rea,,duhuri,duhuri,,duhuri,,духурь,"wind, breath, spirit"
+πνεῦμα,177,unigram,neuter,accusative,singular,Duhul,28.379478435108773,Duhul,Duhul,Spiritul,Duhul,Duhul,Duhul,Duhul,Duhul,Duhul,Духул,"wind, breath, spirit"
+πνεῦμα,12,unigram,neuter,nominative,plural,duhurile,9.13250787473513,duhurile,duhurile,spiritele,,duhurile,,duhurile,duhurile,duhurile,духуриле,"wind, breath, spirit"
+πνεῦμα,24,unigram,neuter,nominative,singular,Duhul,109.68237072401165,Duhul,Duhul,Spiritul,Duhul,Duhul,Duhul,Duhul,Duhul,Duhul,Духул,"wind, breath, spirit"
+λύκος,11,unigram,masculine,nominative,plural,lupi,1.096057314542422,,,,,,,,lupi,,,wolf
+λύκος,5,unigram,masculine,nominative,singular,lupul,1.096057314542422,,,,,lupul,,,,,,wolf
+κοιλία,298,unigram,feminine,nominative,singular,,,,,alăptat,,,,,,supt,,"womb, stomach, source of feelings and emotions"
+ῥῆμα,197,unigram,neuter,accusative,plural,cuvintele,232.19334758460954,cuvintele,cuvintele,cuvintele,Cuvintele,cuvintele,cuvintele,cuvintele,vorbele,cuvintele,кувинтеле,word
+ῥῆμα,174,unigram,neuter,accusative,singular,cuvântul,2.1307037342054724,întrebe,înţelegeau,pronunțat,cuvânt,cuvântul,cuvântul,înţelegeau,vorba,cuvântul,ынцелеӂяу,word
+ῥῆμα,33,unigram,neuter,nominative,plural,cuvintele,6.797358053710562,cuvintele,Cuvintele,cuvintele,tot,cuvintele,Cuvintele,cuvintele,acestea,vi,Кувинтеле,word
+ῥῆμα,351,unigram,neuter,nominative,singular,nimic,1.2684104421535394,cuvânt,,nimic,,întărească,,nimic,vorbă,nimic,,word
+λόγος,175,unigram,masculine,accusative,plural,cuvintele,8.840131895199809,cuvinte,Mele,cuvântări,stâncă,cuvintele,cuvinte,cuvintele,cuvintele,cuvintele,Меле,word
+λόγος,166,unigram,masculine,accusative,singular,Cuvântul,129.9341274714363,cuvântul,Cuvântul,Cuvântul,Cuvântul,Cuvântul,Cuvântul,cuvântul,cuvântul,cuvântul,Кувынтул,word
+λόγος,162,unigram,masculine,nominative,plural,,,cuvintele,Cerul,Cerul,cuvântulCare,Cerul,Cerul,cuvintele,cuvintele,cuvintele,Черул,word
+λόγος,319,unigram,masculine,nominative,singular,,,cuvântul,Cuvântul,Cuvântul,Cuvânt,Cuvântul,Cuvântul,cuvântul,cuvântul,cuvântul,Кувынтул,word
+ἔργον,49,unigram,neuter,accusative,plural,lucrările,6.162136375908005,faptele,lucrările,,Tatăl,lucrările,lucrările,lucrările,lucrările,lucrările,лукрэриле,work
+ἔργον,99,unigram,neuter,accusative,singular,,,,,frumos,supărare,lucrarea,,lucru,lucrul,,,work
+ἔργον,323,unigram,neuter,nominative,plural,faptele,13.195633857743537,faptele,lucrările,faptele,răul,faptele,,faptele,lucrările,faptele,лукрэриле,work
+ἔργον,297,unigram,neuter,nominative,singular,lucrarea,4.253639859345393,lucrarea,Lucrarea,Lucrarea,,lucrarea,Lucrarea,lucrarea,lucrarea,lucrarea,Лукраря,work
+ἐργάτης,155,unigram,masculine,nominative,plural,lucrătorii,4.0788668847122995,lucrătorii,lucrătorii,Secerișul,iarPuțini,secerat,lucrătorii,puţini,,lucrătorii,лукрэторий,worker
+ἐργάτης,227,unigram,masculine,nominative,singular,lucrătorul,5.316491705763223,lucrătorul,lucrătorul,merită,E,lucrătorul,lucrătorul,lucrătorul,lucrătorul,,лукрэторул,worker
+ἔτος,275,unigram,neuter,accusative,plural,ani,1599445.4714485134,ani,ani,ani,ani,ani,ani,ani,ani,ani,ань,year
+ἔτος,190,unigram,neuter,accusative,singular,an,5.956652671626035,an,,an,an,,,lasă-l,,lasă-l,,year
