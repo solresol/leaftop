@@ -3,7 +3,8 @@ LEAFTOP
 
 *Language Extracted Automatically from Thousands of Passages*
 
-A dataset prepared by Gregory Baker (gregory.baker2@hdr.mq.edu.au)
+A dataset prepared by [redacted for anonymity --- just search on 
+arxiv for the LREC2022 paper that talks about this data set.]
 
 This is an automatically-generated dataset, derived from translations
 of the four gospels of the New Testament. The software used for this
